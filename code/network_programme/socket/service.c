@@ -7,7 +7,6 @@
 #include<arpa/inet.h>
 #include<sys/socket.h>	
 
-
 void sys_err(const char *str)
 {
     perror(str);
@@ -26,9 +25,11 @@ int main(int argc,char* argv[])
     char alpht[BUFSIZ] = {0};
     
     addr.sin_family = AF_INET;
-    addr.sin_port = htons(8000);
+    addr.sin_port = htons(9527);
     addr.sin_addr.s_addr=htonl(INADDR_ANY);
-    
+
+
+   // printf("INADDR_ANY = %d \n",INADDR_ANY);
     lfd = socket(AF_INET,SOCK_STREAM,0);
     if(lfd < 0)
     {
@@ -36,7 +37,7 @@ int main(int argc,char* argv[])
         return lfd;
     }
     
-    ret = bind(lfd,(struct sockaddr *)&addr,sizeof(&addr));
+    ret = bind(lfd,(struct sockaddr *)&addr,sizeof(addr));
     if(ret < 0)
     {
         sys_err("bind error");
@@ -64,7 +65,7 @@ int main(int argc,char* argv[])
     while(1)
     {
         ret = read(accept_fd,(void *)alpht,sizeof(alpht));
-        write(STDOUT_FILENO,alpht,ret);
+        
         for(int i=0;i<ret;i++)
         {
           alpht[i] = toupper(alpht[i]);
