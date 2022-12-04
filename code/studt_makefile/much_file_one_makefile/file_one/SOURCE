@@ -1,3 +1,4 @@
-FILE_ONE = file_one.c
+FILE_ONE = file_one/file_one.c
+ #$(wildcard *.c)
 
 SOURCE += $(FILE_ONE)
