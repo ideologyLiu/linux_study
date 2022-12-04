@@ -1,0 +1,3 @@
+FILE_ONE = file_one.c
+
+SOURCE += $(FILE_ONE)
