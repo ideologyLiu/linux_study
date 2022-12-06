@@ -7,7 +7,7 @@ include ./file_two/SOURCE
 
 BIN_DIR = BIN
 INC_DIR = -I ./file_one/ -I ./file_two/
-SOURCE += main.c
+SOURCE += $(wildcard *.c *.cpp)
 
 OBJS=$(patsubst %.c, %.o, $(SOURCE))
 
@@ -16,8 +16,8 @@ OBJS=$(patsubst %.c, %.o, $(SOURCE))
 
 printf.out:bin $(OBJS)
 	gcc $(OBJS) -o $(BIN_DIR)/$@
+
 bin:
-	@echo $(SOURCE)
 	mkdir $(BIN_DIR)
 	
 	
