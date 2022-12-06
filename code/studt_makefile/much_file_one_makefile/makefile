@@ -1,3 +1,6 @@
+FILE_ONE = file_one
+FIlE_TWO = file_two
+
 include ./file_one/SOURCE
 include ./file_two/SOURCE
 
@@ -14,6 +17,7 @@ OBJS=$(patsubst %.c, %.o, $(SOURCE))
 printf.out:bin $(OBJS)
 	gcc $(OBJS) -o $(BIN_DIR)/$@
 bin:
+	@echo $(SOURCE)
 	mkdir $(BIN_DIR)
 	
 	
