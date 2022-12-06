@@ -6,17 +6,28 @@ include ./file_two/SOURCE
 
 
 BIN_DIR = BIN
-INC_DIR = -I ./file_one/ -I ./file_two/
+OBJ_DIR = OBJ
 SOURCE += $(wildcard *.c *.cpp)
 
-printf.out:bin 
-	gcc $(INC_DIR) $(SOURCE) -o $(BIN_DIR)/$@
+OBJS=$(patsubst %.c, %.o, $(SOURCE))
 
-bin:
+%.o:%.c
+	gcc -c -o $@  $^
+
+printf.out:dir $(OBJS) mv
+	gcc $(wildcard $(OBJ_DIR)/*.o) -o $(BIN_DIR)/$@
+
+dir:
 	mkdir $(BIN_DIR)
-		
+	mkdir $(OBJ_DIR)
+	
+mv:
+	mv $(OBJS) $(OBJ_DIR)
+	
 clean:
+	rm -rf $(OBJ_DIR)
 	rm -rf $(BIN_DIR)
+	
 	
 	
 	
