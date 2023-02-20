@@ -51,7 +51,7 @@ int main(int argc,char *argv[])
         if(ret == -1)
         {
            sys_err("munmap erro ");
-        }
+        } 3
     }
     else
     {
