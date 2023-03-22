@@ -3,64 +3,65 @@
 #include <unistd.h>
 #include <semaphore.h>
 
-#define BUFFER_SIZE 10
+pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
+pthread_cond_t cond = PTHREAD_COND_INITIALIZER;
+int g_share[10] =  {0};   // 共享资源
+int head = 0;           // 队列头
+int tail = 0;           // 队列尾
 
-int buffer[BUFFER_SIZE];
-int count = 0;
-
-sem_t mutex;
-sem_t empty;
-sem_t full;
-
-void *producer(void *arg)
+void* producer(void* arg)
 {
-    int i;
-    for (i = 0; i < 20; i++)
+    int i = 0;
+    while(1)
     {
-        sem_wait(&empty);
-        sem_wait(&mutex);
-        buffer[count++] = i;
-        printf("Produced %d\n", i);
-        sem_post(&mutex);
-        sem_post(&full);
-        usleep(100000);
+        pthread_mutex_lock(&mutex);
+        g_share[head]= 1;
+        printf("producer head = %d\n",head);
+        head = (head + 1) % 10;
+ 
+        pthread_mutex_unlock(&mutex);
+        pthread_cond_broadcast(&cond);
+        sleep(rand()%3);
     }
-    pthread_exit(NULL);
 }
 
-void *consumer(void *arg)
+void *consumer(void* arg)
 {
-    int i;
-    for (i = 0; i < 20; i++)
+    while(1)
     {
-        sem_wait(&full);
-        sem_wait(&mutex);
-        int val = buffer[--count];
-        printf("Consumed %d\n", val);
-        sem_post(&mutex);
-        sem_post(&empty);
-        usleep(200000);
+        pthread_mutex_lock(&mutex);
+        pthread_cond_wait(&cond,&mutex);
+        printf("consumer g_share[%d] = %d\n",tail,g_share[tail]);
+        g_share[tail] = 0;
+        tail = (tail+1) % 10;
+        pthread_mutex_unlock(&mutex);
+
+        sleep(1);
     }
-    pthread_exit(NULL);
 }
 
 int main()
 {
-    pthread_t prod_thread, cons_thread;
+    pthread_t producer_t,consumer_t;
+    int ret = 0;
+    int i = 0;
 
-    sem_init(&mutex, 0, 1);
-    sem_init(&empty, 0, BUFFER_SIZE);
-    sem_init(&full, 0, 0);
+    ret = pthread_create(&producer_t,NULL,producer,NULL);
+    if(ret != 0)
+    {
+        printf("create producer thread failed");
+    }
 
-    pthread_create(&prod_thread, NULL, producer, NULL);
-    pthread_create(&cons_thread, NULL, consumer, NULL);
+    for(i=0;i++;i<3)  //创建三个消费者线程
+    {
+        ret = pthread_create(&consumer_t,NULL,consumer,NULL);
+        if(ret != 0)
+        {
+            printf("create consumer thread failed");
+        }
+    }
 
-    pthread_join(prod_thread, NULL);
-    pthread_join(cons_thread, NULL);
-
-    sem_destroy(&mutex);
-    sem_destroy(&empty);
-    sem_destroy(&full);
-
+    pthread_join(producer_t,NULL);
+    pthread_join(consumer_t,NULL);
     return 0;
 }
