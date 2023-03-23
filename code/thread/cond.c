@@ -52,7 +52,7 @@ int main()
         printf("create producer thread failed");
     }
 
-    for(i=0;i++;i<3)  //创建三个消费者线程
+    for(i=0;i<3;i++)  //创建三个消费者线程
     {
         ret = pthread_create(&consumer_t,NULL,consumer,NULL);
         if(ret != 0)
