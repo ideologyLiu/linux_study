@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Leaves">
+    <Elem NameU="Leaf 1" Name="Feuille 1" PromptU="Leaf 1" Prompt="Feuille 1"/>
+    <Elem NameU="Leaf 2" Name="Feuille 2" PromptU="Leaf 2" Prompt="Feuille 2"/>
+    <Elem NameU="Leaf 3" Name="Feuille 3" PromptU="Leaf 3" Prompt="Feuille 3"/>
+    <Elem NameU="Leaf 4" Name="Feuille 4" PromptU="Leaf 4" Prompt="Feuille 4"/>
+    <Elem NameU="Leaf 5" Name="Feuille 5" PromptU="Leaf 5" Prompt="Feuille 5"/>
+    <Elem NameU="Leaf 6" Name="Feuille 6" PromptU="Leaf 6" Prompt="Feuille 6"/>
+    <Elem NameU="Leaf 7" Name="Feuille 7" PromptU="Leaf 7" Prompt="Feuille 7"/>
+    <Elem NameU="Leaf 8" Name="Feuille 8" PromptU="Leaf 8" Prompt="Feuille 8"/>
+    <Elem NameU="Leaf 9" Name="Feuille 9" PromptU="Leaf 9" Prompt="Feuille 9"/>
+    <Elem NameU="Leaf 10" Name="Feuille 10" PromptU="Leaf 10" Prompt="Feuille 10"/>
+    <Elem NameU="Leaf 11" Name="Feuille 11" PromptU="Leaf 11" Prompt="Feuille 11"/>
+    <Elem NameU="Leaf 12" Name="Feuille 12" PromptU="Leaf 12" Prompt="Feuille 12"/>
+    <Elem NameU="Leaf 13" Name="Feuille 13" PromptU="Leaf 13" Prompt="Feuille 13"/>
+    <Elem NameU="Leaf 14" Name="Feuille 14" PromptU="Leaf 14" Prompt="Feuille 14"/>
+    <Elem NameU="Leaf 15" Name="Feuille 15" PromptU="Leaf 15" Prompt="Feuille 15"/>
+    <Elem NameU="Leaf 16" Name="Feuille 16" PromptU="Leaf 16" Prompt="Feuille 16"/>
+    <Elem NameU="Leaf 17" Name="Feuille 17" PromptU="Leaf 17" Prompt="Feuille 17"/>
+    <Elem NameU="Leaf 18" Name="Feuille 18" PromptU="Leaf 18" Prompt="Feuille 18"/>
+    <Elem NameU="Leaf 19" Name="Feuille 19" PromptU="Leaf 19" Prompt="Feuille 19"/>
+    <Elem NameU="Leaf 20" Name="Feuille 20" PromptU="Leaf 20" Prompt="Feuille 20"/>
+    <Elem NameU="Leaf 21" Name="Feuille 21" PromptU="Leaf 21" Prompt="Feuille 21"/>
+    <Elem NameU="Leaf 22" Name="Feuille 22" PromptU="Leaf 22" Prompt="Feuille 22"/>
+    <Elem NameU="Leaf 23" Name="Feuille 23" PromptU="Leaf 23" Prompt="Feuille 23"/>
+    <Elem NameU="Leaf 24" Name="Feuille 24" PromptU="Leaf 24" Prompt="Feuille 24"/>
+    <Elem NameU="Leaf 25" Name="Feuille 25" PromptU="Leaf 25" Prompt="Feuille 25"/>
+</Lib>

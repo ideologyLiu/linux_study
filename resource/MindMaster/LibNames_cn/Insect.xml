@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Insect">
+    <Elem NameU="Beetles 1" Name="甲虫1" PromptU="Beetles 1" Prompt="甲虫1"/>
+    <Elem NameU="Beetles 2" Name="甲虫2" PromptU="Beetles 2" Prompt="甲虫2"/>
+    <Elem NameU="Beetles 3" Name="甲虫3" PromptU="Beetles 3" Prompt="甲虫3"/>
+    <Elem NameU="Mantis" Name="螳螂" PromptU="Mantis" Prompt="螳螂3"/>
+    <Elem NameU="Fly" Name="苍蝇" PromptU="Fly" Prompt="苍蝇"/>
+    <Elem NameU="Bees 1" Name="蜜蜂1" PromptU="Bees 1" Prompt="蜜蜂1"/>
+    <Elem NameU="Bees 2" Name="蜜蜂2" PromptU="Bees 2" Prompt="蜜蜂2"/>
+    <Elem NameU="Caterpillar" Name="毛毛虫" PromptU="Caterpillar" Prompt="毛毛虫"/>
+    <Elem NameU="Butterfly 1" Name="蝴蝶1" PromptU="Butterfly 1" Prompt="蝴蝶1"/>
+    <Elem NameU="Butterfly 2" Name="蝴蝶2" PromptU="Butterfly 2" Prompt="蝴蝶2"/>
+    <Elem NameU="Butterfly3" Name="蝴蝶3" PromptU="Butterfly3" Prompt="蝴蝶3"/>
+    <Elem NameU="Dragonfly" Name="蜻蜓" PromptU="Dragonfly" Prompt="蜻蜓"/>
+    <Elem NameU="Glowworm" Name="萤火虫" PromptU="Glowworm" Prompt="萤火虫"/>
+    <Elem NameU="Snail" Name="蜗牛" PromptU="Snail" Prompt="蜗牛"/>
+    <Elem NameU="Scorpion" Name="蝎子" PromptU="Scorpion" Prompt="蝎子"/>
+    <Elem NameU="Grasshopper" Name="蚂蚱" PromptU="Grasshopper" Prompt="蚂蚱"/>
+    <Elem NameU="Cicada" Name="蝉" PromptU="Cicada" Prompt="蝉"/>
+    <Elem NameU="Earthworm 1" Name="蚯蚓1" PromptU="Earthworm 1" Prompt="蚯蚓1"/>
+    <Elem NameU="Earthworm 2" Name="蚯蚓2" PromptU="Earthworm 2" Prompt="蚯蚓2"/>
+    <Elem NameU="Spider" Name="蜘蛛" PromptU="Spider" Prompt="蜘蛛"/>
+    <Elem NameU="Ant 2" Name="蚂蚁2" PromptU="Ant 2" Prompt="蚂蚁2"/>
+    <Elem NameU="Ant 1" Name="蚂蚁1" PromptU="Ant 1" Prompt="蚂蚁1"/>
+    <Elem NameU="Mosquito" Name="蚊子" PromptU="Mosquito" Prompt="蚊子"/>
+    <Elem NameU="Moth" Name="飞蛾" PromptU="Moth" Prompt="飞蛾"/>
+    <Elem NameU="Cockroach" Name="蟑螂" PromptU="Cockroach" Prompt="蟑螂"/>
+    <Elem NameU="Lucanidae" Name="锹型虫" PromptU="Lucanidae" Prompt="锹型虫"/>
+    <Elem NameU="Dicelosternus Corallinus" Name="红艳天牛" PromptU="Dicelosternus Corallinus" Prompt="红艳天牛"/>
+</Lib>

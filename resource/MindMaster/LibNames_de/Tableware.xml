@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Tableware">
+    <Elem NameU="Wine Bottle 2"	Name= "Weinflasche 2"	PromptU="Wine Bottle 2"	Prompt= "Weinflasche 2"/>
+    <Elem NameU="Wine Bottle 3"	Name= "Weinflasche 3"	PromptU="Wine Bottle 3"	Prompt= "Weinflasche 3"/>
+    <Elem NameU="Wine Bottle 4"	Name= "Weinflasche 4"	PromptU="Wine Bottle 4"	Prompt= "Weinflasche 4"/>
+    <Elem NameU="Wine Bottle 5"	Name= "Weinflasche 5"	PromptU="Wine Bottle 5"	Prompt= "Weinflasche 5"/>
+    <Elem NameU="Wine Bottle 6"	Name= "Weinflasche 6"	PromptU="Wine Bottle 6"	Prompt= "Weinflasche 6"/>
+    <Elem NameU="Wine Bottle 7"	Name= "Weinflasche 7"	PromptU="Wine Bottle 7"	Prompt= "Weinflasche 7"/>
+    <Elem NameU="Wine Bottle 8"	Name= "Weinflasche 8"	PromptU="Wine Bottle 8"	Prompt= "Weinflasche 8"/>
+    <Elem NameU="Wine Bottle"	Name= "Weinflasche"	PromptU="Wine Bottle"	Prompt= "Weinflasche"/>
+    <Elem NameU="Wine Bottle 9"	Name= "Weinflasche 9"	PromptU="Wine Bottle 9"	Prompt= "Weinflasche 9"/>
+    <Elem NameU="Wine Glass 1"	Name= "Weinglas 1"	PromptU="Wine Glass 1"	Prompt= "Weinglas 1"/>
+    <Elem NameU="Wine Glass 2"	Name= "Weinglas 2"	PromptU="Wine Glass 2"	Prompt= "Weinglas 2"/>
+    <Elem NameU="Wine Glass 3"	Name= "Weinglas 3"	PromptU="Wine Glass 3"	Prompt= "Weinglas 3"/>
+    <Elem NameU="Wine Glass 4"	Name= "Weinglas 4"	PromptU="Wine Glass 4"	Prompt= "Weinglas 4"/>
+    <Elem NameU="Wine Glass 5"	Name= "Weinglas 5"	PromptU="Wine Glass 5"	Prompt= "Weinglas 5"/>
+    <Elem NameU="Wine Glass 6"	Name= "Weinglas 6"	PromptU="Wine Glass 6"	Prompt= "Weinglas 6"/>
+    <Elem NameU="Wine Glass 7"	Name= "Weinglas 7"	PromptU="Wine Glass 7"	Prompt= "Weinglas 7"/>
+    <Elem NameU="Wooden spoon"	Name= "Holzlöffel"	PromptU="Wooden spoon"	Prompt= "Holzlöffel"/>
+    <Elem NameU="Wooden spoon"	Name= "Holzlöffel"	PromptU="Wooden spoon"	Prompt= "Holzlöffel"/>
+    <Elem NameU="Large wooden spoon"	Name= "Großer Holzlöffel"	PromptU="Large wooden spoon"	Prompt= "Großer Holzlöffel"/>
+    <Elem NameU="Long wooden spoon"	Name= "Langer Holzlöffel"	PromptU="Long wooden spoon"	Prompt= "Langer Holzlöffel"/>
+    <Elem NameU="Spoon"	Name= "Löffel"	PromptU="Spoon"	Prompt= "Löffel"/>
+    <Elem NameU="Fork"	Name= "Gabel"	PromptU="Fork"	Prompt= "Gabel"/>
+    <Elem NameU="Circular plate"	Name= "Kreisplatte"	PromptU="Circular plate"	Prompt= "Kreisplatte"/>
+    <Elem NameU="Oval plate"	Name= "Ovale Platte"	PromptU="Oval plate"	Prompt= "Ovale Platte"/>
+    <Elem NameU="Bowl"	Name= "Schüssel"	PromptU="Bowl"	Prompt= "Schüssel"/>
+    <Elem NameU="Fruit Knife"	Name= "Fruchtmesser"	PromptU="Fruit Knife"	Prompt= "Fruchtmesser"/>
+    <Elem NameU="Kitchen Knife"	Name= "Küchenmesser"	PromptU="Kitchen Knife"	Prompt= "Küchenmesser"/>
+    <Elem NameU="Chopping board"	Name= "Schneidebrett"	PromptU="Chopping board"	Prompt= "Schneidebrett"/>
+    <Elem NameU="Teapot"	Name= "Teekanne"	PromptU="Teapot"	Prompt= "Teekanne"/>
+    <Elem NameU="Bread maker"	Name= "Brotbackmaschine"	PromptU="Bread maker"	Prompt= "Brotbackmaschine"/>
+    <Elem NameU="Induction cooker"	Name= "Induktionskocher"	PromptU="Induction cooker"	Prompt= "Induktionskocher"/>
+    <Elem NameU="Microwave oven"	Name= "Mikrowellenofen"	PromptU="Microwave oven"	Prompt= "Mikrowellenofen"/>
+    <Elem NameU="Pan"	Name= "Pan"	PromptU="Pan"	Prompt= "Pan"/>
+    <Elem NameU="Chef"	Name= "Chef"	PromptU="Chef"	Prompt= "Chef"/>
+    <Elem NameU="Canteen"	Name= "Kantine"	PromptU="Canteen"	Prompt= "Kantine"/>
+</Lib>

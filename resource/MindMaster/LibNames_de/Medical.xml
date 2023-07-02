@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Medizinisch">
+     <Elem PromptU="Woman"	Prompt= "Frau" 	NameU="Woman"	Name= "Frau"/>
+     <Elem PromptU="Man"	Prompt= "Man" 	NameU="Man"	Name= "Man"/>
+     <Elem PromptU="Molecular Structure"	Prompt= "Molekulare Struktur" 	NameU="Molecular Structure"	Name= "Molekulare Struktur"/>
+     <Elem PromptU="Cerebrum"	Prompt= "Cerebrum" 	NameU="Cerebrum"	Name= "Cerebrum"/>
+     <Elem PromptU="Heart"	Prompt= "Herz" 	NameU="Heart"	Name= "Herz"/>
+     <Elem PromptU="DNA"	Prompt= "DNA" 	NameU="DNA"	Name= "DNA"/>
+     <Elem PromptU="Electrocardiogram"	Prompt= "Elektrokardiogramm" 	NameU="Electrocardiogram"	Name= "Elektrokardiogramm"/>
+     <Elem PromptU="Baby"	Prompt= "Baby" 	NameU="Baby"	Name= "Baby"/>
+     <Elem PromptU="Family"	Prompt= "Familie" 	NameU="Family"	Name= "Familie"/>
+     <Elem PromptU="Analysis"	Prompt= "Analyse" 	NameU="Analysis"	Name= "Analyse"/>
+     <Elem PromptU="Report"	Prompt= "Bericht" 	NameU="Report"	Name= "Bericht"/>
+     <Elem PromptU="Ambulance"	Prompt= "Ambulanz" 	NameU="Ambulance"	Name= "Ambulanz"/>
+     <Elem PromptU="Medical box"	Prompt= "Medizinische Kiste" 	NameU="Medical box"	Name= "Medizinische Kiste"/>
+     <Elem PromptU="Respirator"	Prompt= "Atemschutz" 	NameU="Respirator"	Name= "Atemschutz"/>
+     <Elem PromptU="Stethoscope"	Prompt= "Stethoskop" 	NameU="Stethoscope"	Name= "Stethoskop"/>
+     <Elem PromptU="Heart with Cross"	Prompt= "Herz mit Kreuz" 	NameU="Heart with Cross"	Name= "Herz mit Kreuz"/>
+     <Elem PromptU="Pill"	Prompt= "Pille" 	NameU="Pill"	Name= "Pille"/>
+     <Elem PromptU="Capsule"	Prompt= "Kapsel" 	NameU="Capsule"	Name= "Kapsel"/>
+     <Elem PromptU="Hospital"	Prompt= "Krankenhaus" 	NameU="Hospital"	Name= "Krankenhaus"/>
+     <Elem PromptU="Microscope"	Prompt= "Mikroskop" 	NameU="Microscope"	Name= "Mikroskop"/>
+     <Elem PromptU="Thermometer"	Prompt= "Thermometer" 	NameU="Thermometer"	Name= "Thermometer"/>
+     <Elem PromptU="Test"	Prompt= "Test" 	NameU="Test"	Name= "Test"/>
+     <Elem PromptU="Test 2"	Prompt= "Test 2" 	NameU="Test 2"	Name= "Test 2"/>
+     <Elem PromptU="Rehabilitation Equipment"	Prompt= "Rehabilitationsausrüstung" 	NameU="Rehabilitation Equipment"	Name= "Rehabilitationsausrüstung"/>
+     <Elem PromptU="Walking Stick"	Prompt= "Gehstock" 	NameU="Walking Stick"	Name= "Gehstock"/>
+     <Elem PromptU="Walking Stick 2"	Prompt= "Walking Stick 2" 	NameU="Walking Stick 2"	Name= "Walking Stick 2"/>
+     <Elem PromptU="Wheelchair"	Prompt= "Rollstuhl" 	NameU="Wheelchair"	Name= "Rollstuhl"/>
+     <Elem PromptU="Rehab Equipment"	Prompt= "Rehab Ausrüstung" 	NameU="Rehab Equipment"	Name= "Rehab Ausrüstung"/>
+     <Elem PromptU="Rehab Equipment 1"	Prompt= "Rehab Ausrüstung 1" 	NameU="Rehab Equipment 1"	Name= "Rehab Ausrüstung 1"/>
+     <Elem PromptU="Rehab Equipment 2"	Prompt= "Rehab Ausrüstung 2" 	NameU="Rehab Equipment 2"	Name= "Rehab Ausrüstung 2"/>
+     <Elem PromptU="Rehab Equipment 3"	Prompt= "Rehab Ausrüstung 3" 	NameU="Rehab Equipment 3"	Name= "Rehab Ausrüstung 3"/>
+     <Elem PromptU="Rehab Equipment 4"	Prompt= "Rehab Ausrüstung 4" 	NameU="Rehab Equipment 4"	Name= "Rehab Ausrüstung 4"/>
+     <Elem PromptU="Hospital Bed 1"	Prompt= "Krankenhausbett 1" 	NameU="Hospital Bed 1"	Name= "Krankenhausbett 1"/>
+     <Elem PromptU="Hospital Bed 2"	Prompt= "Krankenhausbett 2" 	NameU="Hospital Bed 2"	Name= "Krankenhausbett 2"/>
+     <Elem PromptU="Hospital Bed 3"	Prompt= "Krankenhausbett 3" 	NameU="Hospital Bed 3"	Name= "Krankenhausbett 3"/>
+     <Elem PromptU="Operating table"	Prompt= "Operationstabelle" 	NameU="Operating table"	Name= "Operationstabelle"/>
+     <Elem PromptU="Scale"	Prompt= "Skala" 	NameU="Scale"	Name= "Skala"/>
+     <Elem PromptU="Hazard Warning Sign"	Prompt= "Warnzeichen" 	NameU="Hazard Warning Sign"	Name= "Warnzeichen"/>
+     <Elem PromptU="Handicap Sign"	Prompt= "Handicap Sign" 	NameU="Handicap Sign"	Name= "Handicap Sign"/>
+     <Elem PromptU="Plastic Infusion Bag"	Prompt= "Plastik Infusionstasche" 	NameU="Plastic Infusion Bag"	Name= "Plastik Infusionstasche"/>
+     <Elem PromptU="Nurse Cap"	Prompt= "Krankenschwester Cap" 	NameU="Nurse Cap"	Name= "Krankenschwester Cap"/>
+     <Elem PromptU="Injector"	Prompt= "Injektor" 	NameU="Injector"	Name= "Injektor"/>
+     <Elem PromptU="Tooth"	Prompt= "Zahn" 	NameU="Tooth"	Name= "Zahn"/>
+     <Elem PromptU="Liver"	Prompt= "Leber" 	NameU="Liver"	Name= "Leber"/>
+     <Elem PromptU="Lung"	Prompt= "Lunge" 	NameU="Lung"	Name= "Lunge"/>
+     <Elem PromptU="Stomach"	Prompt= "Magen" 	NameU="Stomach"	Name= "Magen"/>
+     <Elem PromptU="Spleen"	Prompt= "Milz" 	NameU="Spleen"	Name= "Milz"/>
+     <Elem PromptU="Ear"	Prompt= "Ohr" 	NameU="Ear"	Name= "Ohr"/>
+     <Elem PromptU="Intestines"	Prompt= "Därme" 	NameU="Intestines"	Name= "Därme"/>
+     <Elem PromptU="X-ray Film"	Prompt= "Röntgenfilm" 	NameU="X-ray Film"	Name= "Röntgenfilm"/>
+     <Elem PromptU="X-ray Film (Broken Bone)"	Prompt= "Röntgenfilm (gebrochener Knochen)" 	NameU="X-ray Film (Broken Bone)"	Name= "Röntgenfilm (gebrochener Knochen)"/>
+     <Elem PromptU="Doctor"	Prompt= "Doktor" 	NameU="Doctor"	Name= "Doktor"/>
+     <Elem PromptU="Nurse"	Prompt= "Krankenschwester" 	NameU="Nurse"	Name= "Krankenschwester"/>
+     <Elem PromptU="Pills"	Prompt= "Pillen" 	NameU="Pills"	Name= "Pillen"/>
+     <Elem PromptU="Medicine Bottle"	Prompt= "Medizinische Flasche" 	NameU="Medicine Bottle"	Name= "Medizinische Flasche"/>
+     <Elem PromptU="Virus 1"	Prompt= "Virus 1" 	NameU="Virus 1"	Name= "Virus 1"/>
+     <Elem PromptU="Virus 2"	Prompt= "Virus 2" 	NameU="Virus 2"	Name= "Virus 2"/>
+     <Elem PromptU="Heart-shaped electrocardiogram (ecg)"	Prompt= "Herzförmiges Elektrokardiogramm (ECG)" 	NameU="Heart-shaped electrocardiogram (ecg)"	Name= "Herzförmiges Elektrokardiogramm (ECG)"/>
+     <Elem PromptU="Drinking"	Prompt= "Trinken" 	NameU="Drinking"	Name= "Trinken"/>
+</Lib>

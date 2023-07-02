@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LibNames Version="8.7">
+    <Library NameU="Aerospace Technology" Name="Luft- und Raumfahrt Technologie"/>
+    <Library NameU="Architecture" Name="Architektur"/>
+	<Library NameU="Artificial Intelligence" Name="Künstliche Intelligenz"/>
+	<Library NameU="Biotechnology" Name="Biotechnologie"/>
+    <Library NameU="Birthday" Name="Geburtstag"/>
+	<Library NameU="Bread" Name="Brot"/>
+    <Library NameU="Business Scene" Name="Geschäftsszene"/>
+	<Library NameU="Business People" Name="Geschäftsleute"/>
+	<Library NameU="Business" Name="Geschäft"/>
+	<Library NameU="Business Flat" Name="Geschäft Gegenstände"/>	
+    <Library NameU="Carnival" Name="Karneval"/>
+    <Library NameU="Children's Day" Name="Kinderfest"/>
+    <Library NameU="Christmas" Name="Weihnachten"/>
+	<Library NameU="Discount Labels" Name="Rabattetiketten"/>
+	<Library NameU="Drinks" Name="Trinken"/>
+    <Library NameU="Easter" Name="Ostern"/>
+	<Library NameU="Electronics" Name="Elektronik"/>
+	<Library NameU="Environment" Name="Umwelt"/>
+	<Library NameU="Fashion Models" Name="Mode-Modelle"/>
+	<Library NameU="Fashion Items" Name="Modeartikel"/>
+	<Library NameU="Fitness" Name="Fitness"/>
+	<Library NameU="Flowers" Name="Blumen"/>
+	<Library NameU="Folders" Name="Ordner"/>
+	<Library NameU="Food" Name="Essen"/>
+    <Library NameU="Fruit" Name="Obst"/>
+    <Library NameU="Guestures" Name="Gesten"/>
+    <Library NameU="Halloween" Name="Halloween"/>
+	<Library NameU="Icons" Name="Ikons"/>
+	<Library NameU="Insect" Name="Insekt"/>
+	<Library NameU="Landscape" Name="Landschaft"/>
+	<Library NameU="Leaves" Name="Blätter"/>
+	<Library NameU="Marketing" Name="Marketing"/>
+    <Library NameU="Medical" Name="Medizinisch"/>
+    <Library NameU="Music" Name="Musik"/>
+    <Library NameU="News Media" Name="Nachrichten Medien"/> 
+    <Library NameU="Office" Name="Büro"/>
+	<Library NameU="Office Flat" Name="Büro Gegenstände"/>
+	<Library NameU="Profession Half-length" Name="Berufe Brustbild"/>
+	<Library NameU="People Activity Pictogram" Name="Menschen Tätigkeit Piktogramm"/>
+    <Library NameU="Religion" Name="Religion"/>
+    <Library NameU="Road Signs" Name="Verkehrsschilder"/>
+    <Library NameU="School" Name="Schule"/>
+	<Library NameU="Sea Life" Name="Tiere im Meer"/>
+	<Library NameU="Silhouette" Name="Leute skizzieren"/>  
+	<Library NameU="Sport Silhouette" Name="Sport Silhouette"/>
+	<Library NameU="Sport Elements" Name="Sport Elemente"/>
+	<Library NameU="Tableware" Name="Geschirr"/>	
+	<Library NameU="Terricole" Name="Terrestrische Biologie"/>
+	<Library NameU="Tourism" Name="Tourismus"/>
+	<Library NameU="Transportation" Name="Transport"/>
+	<Library NameU="Trees" Name="Bäume"/>
+	<Library NameU="Valentine's Day" Name="Valentinstag"/>
+    <Library NameU="Weather" Name="Wetter"/>
+    <Library NameU="Files" Name="Dateien"/>
+    <Library NameU="Folders" Name="Ordner"/>
+    <Library NameU="General" Name="Allgemein"/>
+    <Library NameU="People" Name="Personen"/>
+    <Library NameU="Social Life" Name="Sozial Leben"/>
+    <Library NameU="Nature" Name="Natur"/>
+    <Library NameU="Sports" Name="Sport"/>
+    <Library NameU="Education" Name="Bildung"/>
+	<Library NameU="Education Flat" Name="Bildung Gegenstände"/>
+    <Library NameU="Fashion" Name="Mode"/>
+    <Library NameU="Festival" Name="Feste"/>
+    <Library NameU="Social Media Icons" Name="Sozial Medien"/>
+    <Library NameU="Technology" Name="Technologie"/>
+	<Library NameU="Gestures" Name="Gesten"/>	
+</LibNames>

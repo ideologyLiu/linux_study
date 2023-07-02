@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="News Media">
+     <Elem PromptU="Clapboard"	Prompt= "Schindel"	NameU="Clapboard"	Name= "Schindel"/>
+     <Elem PromptU="TV"	Prompt= "TV"	NameU="TV"	Name= "TV"/>
+     <Elem PromptU="Radio"	Prompt= "Radio"	NameU="Radio"	Name= "Radio"/>
+     <Elem PromptU="Film"	Prompt= "Film"	NameU="Film"	Name= "Film"/>
+     <Elem PromptU="Monitoring"	Prompt= "Überwachung"	NameU="Monitoring"	Name= "Überwachung"/>
+     <Elem PromptU="Microphone"	Prompt= "Mikrofon"	NameU="Microphone"	Name= "Mikrofon"/>
+     <Elem PromptU="Receiver"	Prompt= "Empfänger"	NameU="Receiver"	Name= "Empfänger"/>
+     <Elem PromptU="Satellite"	Prompt= "Satellit"	NameU="Satellite"	Name= "Satellit"/>
+     <Elem PromptU="Video player"	Prompt= "Video-Spieler"	NameU="Video player"	Name= "Video-Spieler"/>
+     <Elem PromptU="Broadcast"	Prompt= "Broadcast"	NameU="Broadcast"	Name= "Broadcast"/>
+     <Elem PromptU="Microphone 1"	Prompt= "Mikrofon 1"	NameU="Microphone 1"	Name= "Mikrofon 1"/>
+     <Elem PromptU="Microphone 2"	Prompt= "Mikrofon 2"	NameU="Microphone 2"	Name= "Mikrofon 2"/>
+     <Elem PromptU="Earphone"	Prompt= "Kopfhörer"	NameU="Earphone"	Name= "Kopfhörer"/>
+     <Elem PromptU="Hot News"	Prompt= "Hot News"	NameU="Hot News"	Name= "Hot News"/>
+     <Elem PromptU="Press Card"	Prompt= "Karte drücken"	NameU="Press Card"	Name= "Karte drücken"/>
+     <Elem PromptU="Video Camera"	Prompt= "Videokamera"	NameU="Video Camera"	Name= "Videokamera"/>
+     <Elem PromptU="News Truck"	Prompt= "News Truck"	NameU="News Truck"	Name= "News Truck"/>
+     <Elem PromptU="News Van"	Prompt= "News Van"	NameU="News Van"	Name= "News Van"/>
+     <Elem PromptU="Interview"	Prompt= "Interview"	NameU="Interview"	Name= "Interview"/>
+     <Elem PromptU="Video Shooting"	Prompt= "Videoaufnahme"	NameU="Video Shooting"	Name= "Videoaufnahme"/>
+     <Elem PromptU="Taking Photos 1"	Prompt= "Fotos aufnehmen"	NameU="Taking Photos 1"	Name= "Fotos aufnehmen"/>
+     <Elem PromptU="Taking Photo 2"	Prompt= "Foto 2 aufnehmen"	NameU="Taking Photo 2"	Name= "Foto 2 aufnehmen"/>
+     <Elem PromptU="Global"	Prompt= "Globale"	NameU="Global"	Name= "Globale"/>
+     <Elem PromptU="Press Conference"	Prompt= "Pressekonferenz"	NameU="Press Conference"	Name= "Pressekonferenz"/>
+     <Elem PromptU="Focus"	Prompt= "Fokus"	NameU="Focus"	Name= "Fokus"/>
+     <Elem PromptU="Discover"	Prompt= "Entdecken"	NameU="Discover"	Name= "Entdecken"/>
+     <Elem PromptU="World Map"	Prompt= "Weltkarte"	NameU="World Map"	Name= "Weltkarte"/>
+     <Elem PromptU="Clock"	Prompt= "Uhr"	NameU="Clock"	Name= "Uhr"/>
+     <Elem PromptU="Notepad"	Prompt= "Notizblock"	NameU="Notepad"	Name= "Notizblock"/>
+     <Elem PromptU="Data Analysis"	Prompt= "Datenanalyse"	NameU="Data Analysis"	Name= "Datenanalyse"/>
+     <Elem PromptU="People"	Prompt= "Menschen"	NameU="People"	Name= "Menschen"/>
+     <Elem PromptU="Newspaper"	Prompt= "Zeitung"	NameU="Newspaper"	Name= "Zeitung"/>
+     <Elem PromptU="Projection screen"	Prompt= "Projektionsschirm"	NameU="Projection screen"	Name= "Projektionsschirm"/>
+     <Elem PromptU="Computer"	Prompt= "Computer"	NameU="Computer"	Name= "Computer"/>
+     <Elem PromptU="LCD TV"	Prompt= "LCD TV"	NameU="LCD TV"	Name= "LCD TV"/>
+     <Elem PromptU="Mobile"	Prompt= "Mobile"	NameU="Mobile"	Name= "Mobile"/>
+</Lib>

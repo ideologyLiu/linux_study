@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Road Signs">
+    <Elem NameU="Roundabout" Name="Carrefour à giration" PromptU="Roundabout" Prompt="Carrefour à giration"/>
+    <Elem NameU="Road narrows on both sides ahead" Name="Chaussée rétrécie" PromptU="Road narrows on both sides ahead" Prompt="Chaussée rétrécie"/>
+    <Elem NameU="Hump Back Bridge" Name="Bosse arrière pont" PromptU="Hump Back Bridge" Prompt="Bosse arrière pont"/>
+    <Elem NameU="Horse Riders" Name="Passage de cavaliers" PromptU="Horse Riders" Prompt="Passage de cavaliers"/>
+    <Elem NameU="Height restriction warning" Name="Limitation de l'hauteur" PromptU="Height restriction warning" Prompt="Limitation de l'hauteur"/>
+    <Elem NameU="Falling Rocks" Name="Chutes de pierres" PromptU="Falling Rocks" Prompt="Chutes de pierres"/>
+    <Elem NameU="Slippery Road" Name="Chaussée glissante" PromptU="Slippery Road" Prompt="Chaussée glissante"/>
+    <Elem NameU="Children Crossing" Name="Endroit fréquenté par les enfants" PromptU="Children Crossing" Prompt="Endroit fréquenté par les enfants"/>
+    <Elem NameU="Sheep" Name="Passage d'animaux domestiques" PromptU="Sheep" Prompt="Passage d'animaux domestiques"/>
+    <Elem NameU="Cattle" Name="Passage d'animaux domestiques" PromptU="Cattle" Prompt="Passage d'animaux domestiques"/>
+    <Elem NameU="Cattle Grid" Name="Grille contre les animaux domestiques" PromptU="Cattle Grid" Prompt="Grille contre les animaux domestiques"/>
+    <Elem NameU="Steep hill downwards" Name="Descente dangereuse" PromptU="Steep hill downwards" Prompt="Descente dangereuse"/>
+    <Elem NameU="Steep hill upwards" Name="Escarpement" PromptU="Steep hill upwards" Prompt="Escarpement"/>
+    <Elem NameU="Danger place" Name="Danger lieu" PromptU="Danger place" Prompt="Danger lieu"/>
+    <Elem NameU="Intersection 1" Name="Intersection 1" PromptU="Intersection 1" Prompt="Intersection 1"/>
+    <Elem NameU="Intersection 2" Name="Intersection 2" PromptU="Intersection 2" Prompt="Intersection 2"/>
+    <Elem NameU="Bend" Name="Virage" PromptU="Bend" Prompt="Virage"/>
+    <Elem NameU="Double bend" Name="Succection de virage" PromptU="Double bend" Prompt="Succection de virage"/>
+    <Elem NameU="Two ways traffic" Name="Circulation dans les deux sens" PromptU="Two ways traffic" Prompt="Circulation dans les deux sens"/>
+    <Elem NameU="Mobile bridge" Name="Pont mobile" PromptU="Mobile bridge" Prompt="Pont mobile"/>
+    <Elem NameU="Traffic Lights" Name="Annonce de feux tricolores" PromptU="Traffic Lights" Prompt="Annonce de feux tricolores"/>
+    <Elem NameU="Pedestrian crossing" Name="Passage pour piéton" PromptU="Pedestrian crossing" Prompt="Passage pour piéton"/>
+    <Elem NameU="Road work" Name="Travaux" PromptU="Road work" Prompt="Travaux"/>
+    <Elem NameU="Back up" Name="Sauvegarder" PromptU="Back up" Prompt="Sauvegarder"/>
+    <Elem NameU="Give way" Name="Cédez le passage à l'intersection" PromptU="Give way" Prompt="Cédez le passage à l'intersection"/>
+    <Elem NameU="Crossing" Name="Croix" PromptU="Crossing" Prompt="Croix"/>
+    <Elem NameU="Stop" Name="Arrêt à l'intersection" PromptU="Stop" Prompt="Arrêt à l'intersection"/>
+    <Elem NameU="Roundable" Name="Carrefour à sens giratoire" PromptU="Roundable" Prompt="Carrefour à sens giratoire"/>
+    <Elem NameU="Cycle track" Name="Piste pour les cycles" PromptU="Cycle track" Prompt="Piste pour les cycles"/>
+    <Elem NameU="Pass this side" Name="Contournement obligatoire par la droite" PromptU="Pass this side" Prompt="Contournement obligatoire par la droite"/>
+    <Elem NameU="Direction to be followed" Name="Direction obligatoire" PromptU="Direction to be followed" Prompt="Direction obligatoire"/>
+    <Elem NameU="One way street" Name="Voie à sens unique" PromptU="One way street" Prompt="Voie à sens unique"/>
+    <Elem NameU="No entry" Name="Sens interdit à toute véhicule" PromptU="No entry" Prompt="Sens interdit à toute véhicule"/>
+    <Elem NameU="No entry both directions" Name="Circulation interdite à toute véhicule" PromptU="No entry both directions" Prompt="Circulation interdite à toute véhicule"/>
+    <Elem NameU="No pedestrians" Name="Accès interdit aux piétons" PromptU="No pedestrians" Prompt="Accès interdit aux piétons"/>
+    <Elem NameU="No vehicles designed to carry more than 8 passengers (excluding driver) or local buses" Name="Accès interdit aux vehicules de transport en commun de 8 personnes(chauffeur inclus)" PromptU="No vehicles designed to carry more than 8 passengers (excluding driver) or local buses" Prompt="Accès interdit aux vehicules de transport en commun de 8 personnes(chauffeur inclus)"/>
+    <Elem NameU="No towed caravans" Name="Accès interdit aux véhicules tractant une caravane/une remorque" PromptU="No towed caravans" Prompt="Accès interdit aux véhicules tractant une caravane/une remorque"/>
+    <Elem NameU="No goods vehicles exceeding maximum gross weight shown (in tonnes)" Name="Interdire la circulation des camions poids de charge sur l'icône (Mt)" PromptU="No goods vehicles exceeding maximum gross weight shown (in tonnes)" Prompt="Interdire la circulation des camions poids de charge sur l'icône (Mt)"/>
+    <Elem NameU="Maximum length (imperial only)" Name="Accès interdit aux véhicules, véhicules articulés" PromptU="Maximum length (imperial only)" Prompt="Restreindre longueur de voiture (pieds)"/>
+    <Elem NameU="No cycling" Name="Accès interdit aux cycles" PromptU="No cycling" Prompt="Accès interdit aux cycles"/>
+    <Elem NameU="No motorcycles" Name="Accès interdit aux motocyclettes" PromptU="No motorcycles" Prompt="Accès interdit aux motocyclettes"/>
+    <Elem NameU="No horse-drawn vehicles" Name="Accès interdit aux véhicules à traction animale" PromptU="No horse-drawn vehicles" Prompt="Accès interdit aux véhicules à traction animale"/>
+    <Elem NameU="No motor vehicles except solo motorcycles" Name="Accès interdit aux véhicules à moteurs à l'exception de cyclomoteurs" PromptU="No motor vehicles except solo motorcycles" Prompt="Accès interdit aux véhicules à moteurs à l'exception de cyclomoteurs"/>
+    <Elem NameU="No motor vehicles" Name="Accès interdit à tous les véhicules à moteurs" PromptU="No motor vehicles" Prompt="Accès interdit à tous les véhicules à moteurs"/>
+    <Elem NameU="No Overtaking" Name="Interdiction de dépasser" PromptU="No Overtaking" Prompt="Interdiction de dépasser"/>
+    <Elem NameU="No vehicles carrying explosives" Name="Interdiction des marchandises explosives" PromptU="No vehicles carrying explosives" Prompt="Interdiction des marchandises explosives"/>
+    <Elem NameU="No U-turns" Name="Interdiction de faire demi-tour" PromptU="No U-turns" Prompt="Interdiction de faire demi-tour"/>
+    <Elem NameU="No articulated vehicles" Name="Interdiction aux véhicules articulés" PromptU="No articulated vehicles" Prompt="Interdiction aux véhicules articulés"/>
+    <Elem NameU="No Stopping" Name="Arrêt et stationnement interdits" PromptU="No Stopping" Prompt="Arrêt et stationnement interdits"/>
+    <Elem NameU="No left turn" Name="Interdiction de tourner à gauche" PromptU="No left turn" Prompt="Interdiction de tourner à gauche"/>
+    <Elem NameU="No right turn" Name="Interdiction de tourner à droite" PromptU="No right turn" Prompt="Interdiction de tourner à droite"/>
+    <Elem NameU="Maximum height (imperial only)" Name="Hauteur maximum (impériale)" PromptU="Maximum height (imperial only)" Prompt="Hauteur maximum (impériale)"/>
+    <Elem NameU="Maximum height (metric and imperial)" Name="Hauteur maximum(métrique et impérial)" PromptU="Maximum height (metric and imperial)" Prompt="Hauteur maximum(métrique et impérial)"/>
+    <Elem NameU="Maximum width (imperial only)" Name="Largeur maximum(impériale)" PromptU="Maximum width (imperial only)" Prompt="Largeur maximum(impériale)"/>
+    <Elem NameU="Maximum width (metric and imperial)" Name="Largeur maximum(métrique et impérial)" PromptU="Maximum width (metric and imperial)" Prompt="Largeur maximum(métrique et impérial)"/>
+    <Elem NameU="Minimum speed" Name="Vitesse minimum obligatoire" PromptU="Minimum speed" Prompt="Vitesse minimum obligatoire"/>
+    <Elem NameU="Maximum speed" Name="Limitation de vitesse" PromptU="Maximum speed" Prompt="Limitation de vitesse"/>
+    <Elem NameU="National speed limit" Name="Limitation de vitesse nationale" PromptU="National speed limit" Prompt="Limitation de vitesse nationale"/>
+    <Elem NameU="Shared cycle" Name="Chaussée commune" PromptU="Shared cycle" Prompt="Chaussée commune"/>
+    <Elem NameU="Segregated cycle 1" Name="Segregated cycle 1" PromptU="Segregated cycle 1" Prompt="Segregated cycle 1"/>
+    <Elem NameU="Segregated cycle 2" Name="Segregated cycle 2" PromptU="Segregated cycle 2" Prompt="Segregated cycle 2"/>
+    <Elem NameU="Entering 20mph zone" Name="Entrée d'une zone à vitesse limitée à 20" PromptU="Entering 20mph zone" Prompt="Entrée d'une zone à vitesse limitée à 20"/>
+    <Elem NameU="Maximum weight" Name="Poids maximum" PromptU="Maximum weight" Prompt="Poids maximum"/>
+    <Elem NameU="Speed Camera in Operation" Name="Webcam en fonctionnement" PromptU="Speed Camera in Operation" Prompt="Webcam en fonctionnement"/>
+    <Elem NameU="Unsuitable for motor vehicles warning" Name="Ne convient pas aux véhicules à moteur d'avertissement" PromptU="Unsuitable for motor vehicles warning" Prompt="Ne convient pas aux véhicules à moteur d'avertissement"/>
+    <Elem NameU="Escape lane 1" Name="Escape lane 1" PromptU="Escape lane 1" Prompt="Escape lane 1"/>
+    <Elem NameU="Escape lane 2" Name="Escape lane 2" PromptU="Escape lane 2" Prompt="Escape lane 2"/>
+    <Elem NameU="SOS Point" Name="Poste d'appel d'urgence" PromptU="SOS Point" Prompt="Poste d'appel d'urgence"/>
+    <Elem NameU="No through road" Name="Impasse" PromptU="No through road" Prompt="Impasse"/>
+    <Elem NameU="Parking" Name="Lieu aménagé pour le stationnement" PromptU="Parking" Prompt="Lieu aménagé pour le stationnement"/>
+    <Elem NameU="No passing without stopping" Name="Arrêt au poste de douane" PromptU="No passing without stopping" Prompt="Arrêt au poste de douane"/>
+    <Elem NameU="No parking" Name="Stationnement interdit" PromptU="No parking" Prompt="Stationnement interdit"/>
+    <Elem NameU="Speed limit" Name="Limitation de vitesse" PromptU="Speed limit" Prompt="Limitation de vitesse"/>
+    <Elem NameU="Heigh limit" Name="Limitation de hauteur" PromptU="Heigh limit" Prompt="Limitation de hauteur"/>
+    <Elem NameU="Width limit" Name="Limitation de largeur" PromptU="Width limit" Prompt="Limitation de largeur"/>
+    <Elem NameU="Weight limit" Name="Limitation de poids" PromptU="Weight limit" Prompt="Limitation de poids"/>
+    <Elem NameU="Priority over oncoming traffic" Name="Indication du caractère prioritaire" PromptU="Priority over oncoming traffic" Prompt="Indication du caractère prioritaire"/>
+    <Elem NameU="Streetcar or regular buses" Name="Tramway ou bus réguliers" PromptU="Streetcar or regular buses" Prompt="Tramway ou bus réguliers"/>
+    <Elem NameU="Taxi status" Name="Interdiction de taxi" PromptU="Taxi status" Prompt="Interdiction de taxi"/>
+    <Elem NameU="Speed 30-zone" Name="Entrée d'une zone à vitesse limitée à 30" PromptU="Speed 30-zone" Prompt="Entrée d'une zone à vitesse limitée à 30"/>
+    <Elem NameU="End speed 30-zone" Name="Sortie d'une zone à vitesse limitée à 30" PromptU="End speed 30-zone" Prompt="Sortie d'une zone à vitesse limitée à 30"/>
+    <Elem NameU="Pedestrian crossing 2" Name="Passage pour piétons 2" PromptU="Pedestrian crossing 2" Prompt="Passage pour piétons 2"/>
+    <Elem NameU="Police" Name="Station de police" PromptU="Police" Prompt="Station de police"/>
+    <Elem NameU="Hotel" Name="Hôtel ouvert 7 jours sur 7" PromptU="Hotel" Prompt="Hôtel ouvert 7 jours sur 7"/>
+    <Elem NameU="Restaurant" Name="Restaurant ouvert 7 jours sur 7" PromptU="Restaurant" Prompt="Restaurant ouvert 7 jours sur 7"/>
+    <Elem NameU="Break down service" Name="Poste de dépannage" PromptU="Break down service" Prompt="Poste de dépannage"/>
+    <Elem NameU="P+R" Name="P+R" PromptU="P+R" Prompt="P+R"/>
+    <Elem NameU="Restroom" Name="Toilettes ouvertes au public" PromptU="Restroom" Prompt="Toilettes ouvertes au public"/>
+    <Elem NameU="Fuel" Name="Poste de distribution de carburant" PromptU="Fuel" Prompt="Poste de distribution de carburant"/>
+    <Elem NameU="Telephone" Name="Cabine téléphonique publique" PromptU="Telephone" Prompt="Cabine téléphonique publique"/>
+    <Elem NameU="Recommended speed" Name="Vitesse recommandée" PromptU="Recommended speed" Prompt="Vitesse recommandée"/>
+    <Elem NameU="Nodal point of motorway" Name="Nœud de l'autoroute" PromptU="Nodal point of motorway" Prompt="Nœud de l'autoroute"/>
+    <Elem NameU="Motorway" Name="Début d’une section d’autoroute" PromptU="Motorway" Prompt="Début d’une section d’autoroute"/>
+    <Elem NameU="End motorway" Name="Sortie d’une section d'autoroute" PromptU="End motorway" Prompt="Sortie d’une section d'autoroute"/>
+    <Elem NameU="Populated zone" Name="Début de zone peuplée" PromptU="Populated zone" Prompt="Début de zone peuplée"/>
+    <Elem NameU="End populated zone" Name="Fin de zone peuplée" PromptU="End populated zone" Prompt="Fin de zone peuplée"/>
+    <Elem NameU="Parking with clock" Name="Parking timings" PromptU="Parking with clock" Prompt="Parking timings"/>
+    <Elem NameU="Number sign" Name="Panneau avec numéro" PromptU="Number sign" Prompt="Panneau avec numéro"/>
+    <Elem NameU="Number sign (federal highway)" Name="Panneau avec numéro(autoroute)" PromptU="Number sign (federal highway)" Prompt="Panneau avec numéro(autoroute)"/>
+    <Elem NameU="Exit" Name="Sortie" PromptU="Exit" Prompt="Sortie"/>
+    <Elem NameU="Direction to place" Name="Panneau indiquant l'endroit" PromptU="Direction to place" Prompt="Panneau indiquant l'endroit"/>
+    <Elem NameU="Board of announcement of exit" Name="Annonce de sortie" PromptU="Board of announcement of exit" Prompt="Annonce de sortie"/>
+</Lib>

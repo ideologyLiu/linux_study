@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fashion Items">
+     <Elem NameU="Women Bag 1"	Name= "Frauen Tasche 1"	PromptU="Women Bag 1"	Prompt= "Frauen Tasche 1"/>
+     <Elem NameU="Women Bag 2"	Name= "Frauen Tasche 2"	PromptU="Women Bag 2"	Prompt= "Frauen Tasche 2"/>
+     <Elem NameU="Women Bag 3"	Name= "Frauen Tasche 3"	PromptU="Women Bag 3"	Prompt= "Frauen Tasche 3"/>
+     <Elem NameU="Women Bag 4"	Name= "Frauen Tasche 4"	PromptU="Women Bag 4"	Prompt= "Frauen Tasche 4"/>
+     <Elem NameU="Women Bag 5"	Name= "Frauen Tasche 5"	PromptU="Women Bag 5"	Prompt= "Frauen Tasche 5"/>
+     <Elem NameU="Women Bag 6"	Name= "Frauen Tasche 6"	PromptU="Women Bag 6"	Prompt= "Frauen Tasche 6"/>
+     <Elem NameU="Women Bag 8"	Name= "Frauen Tasche 8"	PromptU="Women Bag 8"	Prompt= "Frauen Tasche 8"/>
+     <Elem NameU="Women Bag 7"	Name= "Frauen Tasche 7"	PromptU="Women Bag 7"	Prompt= "Frauen Tasche 7"/>
+     <Elem NameU="Backpack"	Name= "Rucksack"	PromptU="Backpack"	Prompt= "Rucksack"/>
+     <Elem NameU="Purse 1"	Name= "Geldbörse 1"	PromptU="Purse 1"	Prompt= "Geldbörse 1"/>
+     <Elem NameU="Purse 2"	Name= "Geldbörse 2"	PromptU="Purse 2"	Prompt= "Geldbörse 2"/>
+     <Elem NameU="Men Purse"	Name= "Männer Geldbörse"	PromptU="Men Purse"	Prompt= "Männer Geldbörse"/>
+     <Elem NameU="Men Bag 1"	Name= "Männer Tasche 1"	PromptU="Men Bag 1"	Prompt= "Männer Tasche 1"/>
+     <Elem NameU="Men Bag 2"	Name= "Männer Tasche 2"	PromptU="Men Bag 2"	Prompt= "Männer Tasche 2"/>
+     <Elem NameU="Travelling Bag 1"	Name= "Reisetasche 1"	PromptU="Travelling Bag 1"	Prompt= "Reisetasche 1"/>
+     <Elem NameU="Travelling Bag 2"	Name= "Reisetasche 2"	PromptU="Travelling Bag 2"	Prompt= "Reisetasche 2"/>
+     <Elem NameU="Cap 1"	Name= "Hut 1"	PromptU="Cap 1"	Prompt= "Hut 1"/>
+     <Elem NameU="Cap 2"	Name= "Hut 2"	PromptU="Cap 2"	Prompt= "Hut 2"/>
+     <Elem NameU="Cap 3"	Name= "Hut 3"	PromptU="Cap 3"	Prompt= "Hut 3"/>
+     <Elem NameU="Cap 4"	Name= "Hut 4"	PromptU="Cap 4"	Prompt= "Hut 4"/>
+     <Elem NameU="Cap 5"	Name= "Hut 5"	PromptU="Cap 5"	Prompt= "Hut 5"/>
+     <Elem NameU="Cap 6"	Name= "Hut 6"	PromptU="Cap 6"	Prompt= "Hut 6"/>
+     <Elem NameU="Cap 7"	Name= "Hut 7"	PromptU="Cap 7"	Prompt= "Hut 7"/>
+     <Elem NameU="Cap 8"	Name= "Hut 8"	PromptU="Cap 8"	Prompt= "Hut 8"/>
+     <Elem NameU="Cap 9"	Name= "Hut 9"	PromptU="Cap 9"	Prompt= "Hut 9"/>
+     <Elem NameU="Cap 10"	Name= "Hut 10"	PromptU="Cap 10"	Prompt= "Hut 10"/>
+     <Elem NameU="Cap 11"	Name= "Hut 11"	PromptU="Cap 11"	Prompt= "Hut 11"/>
+     <Elem NameU="glasses 1"	Name= "Gläser 1"	PromptU="glasses 1"	Prompt= "Gläser 1"/>
+     <Elem NameU="glasses 2"	Name= "Gläser 2"	PromptU="glasses 2"	Prompt= "Gläser 2"/>
+     <Elem NameU="glasses 3"	Name= "Gläser 3"	PromptU="glasses 3"	Prompt= "Gläser 3"/>
+     <Elem NameU="glasses 4"	Name= "Gläser 4"	PromptU="glasses 4"	Prompt= "Gläser 4"/>
+     <Elem NameU="Ring 1"	Name= "Ring 1"	PromptU="Ring 1"	Prompt= "Ring 1"/>
+     <Elem NameU="Ring 2"	Name= "Ring 2"	PromptU="Ring 2"	Prompt= "Ring 2"/>
+     <Elem NameU="Ring 3"	Name= "Ring 3"	PromptU="Ring 3"	Prompt= "Ring 3"/>
+     <Elem NameU="Earrings 1"	Name= "Ohrringe 1"	PromptU="Earrings 1"	Prompt= "Ohrringe 1"/>
+     <Elem NameU="Earrings 2"	Name= "Ohrringe 2"	PromptU="Earrings 2"	Prompt= "Ohrringe 2"/>
+     <Elem NameU="Earrings 3"	Name= "Ohrringe 3"	PromptU="Earrings 3"	Prompt= "Ohrringe 3"/>
+     <Elem NameU="Earrings 4"	Name= "Ohrringe 4"	PromptU="Earrings 4"	Prompt= "Ohrringe 4"/>
+     <Elem NameU="Earrings 5"	Name= "Ohrringe 5"	PromptU="Earrings 5"	Prompt= "Ohrringe 5"/>
+     <Elem NameU="Earrings 6"	Name= "Ohrringe 6"	PromptU="Earrings 6"	Prompt= "Ohrringe 6"/>
+     <Elem NameU="Earrings 7"	Name= "Ohrringe 7"	PromptU="Earrings 7"	Prompt= "Ohrringe 7"/>
+     <Elem NameU="Earrings 8"	Name= "Ohrringe 8"	PromptU="Earrings 8"	Prompt= "Ohrringe 8"/>
+     <Elem NameU="Earrings 9"	Name= "Ohrringe 9"	PromptU="Earrings 9"	Prompt= "Ohrringe 9"/>
+     <Elem NameU="Earrings 10"	Name= "Ohrringe 10"	PromptU="Earrings 10"	Prompt= "Ohrringe 10"/>
+     <Elem NameU="Earrings 11"	Name= "Ohrringe 11"	PromptU="Earrings 11"	Prompt= "Ohrringe 11"/>
+     <Elem NameU="Earrings 12"	Name= "Ohrringe 12"	PromptU="Earrings 12"	Prompt= "Ohrringe 12"/>
+     <Elem NameU="Earrings 13"	Name= "Ohrringe 13"	PromptU="Earrings 13"	Prompt= "Ohrringe 13"/>
+     <Elem NameU="Earrings 14"	Name= "Ohrringe 14"	PromptU="Earrings 14"	Prompt= "Ohrringe 14"/>
+     <Elem NameU="Earrings 15"	Name= "Ohrringe 15"	PromptU="Earrings 15"	Prompt= "Ohrringe 15"/>
+     <Elem NameU="Earrings 16"	Name= "Ohrringe 16"	PromptU="Earrings 16"	Prompt= "Ohrringe 16"/>
+     <Elem NameU="Earrings 17"	Name= "Ohrringe 17"	PromptU="Earrings 17"	Prompt= "Ohrringe 17"/>
+     <Elem NameU="Necklace 1"	Name= "Halskette 1"	PromptU="Necklace 1"	Prompt= "Halskette 1"/>
+     <Elem NameU="Necklace 2"	Name= "Halskette 2"	PromptU="Necklace 2"	Prompt= "Halskette 2"/>
+     <Elem NameU="Necklace 3"	Name= "Halskette 3"	PromptU="Necklace 3"	Prompt= "Halskette 3"/>
+     <Elem NameU="Bracelet 1"	Name= "Armband 1"	PromptU="Bracelet 1"	Prompt= "Armband 1"/>
+     <Elem NameU="Bracelet 2"	Name= "Armband 2"	PromptU="Bracelet 2"	Prompt= "Armband 2"/>
+     <Elem NameU="Brooch 1"	Name= "Brosche 1"	PromptU="Brooch 1"	Prompt= "Brosche 1"/>
+     <Elem NameU="Brooch 2"	Name= "Brosche 2"	PromptU="Brooch 2"	Prompt= "Brosche 2"/>
+     <Elem NameU="Brooch 3"	Name= "Brosche 3"	PromptU="Brooch 3"	Prompt= "Brosche 3"/>
+     <Elem NameU="Accessories 1"	Name= "Zubehör 1"	PromptU="Accessories 1"	Prompt= "Zubehör 1"/>
+     <Elem NameU="Accessories 2"	Name= "Zubehör 2"	PromptU="Accessories 2"	Prompt= "Zubehör 2"/>
+     <Elem NameU="Scarves"	Name= "Schals"	PromptU="Scarves"	Prompt= "Schals"/>
+     <Elem NameU="Sneaker 3"	Name= "Sneaker 3"	PromptU="Sneaker 3"	Prompt= "Sneaker 3"/>
+     <Elem NameU="Sneaker 1"	Name= "Sneaker 1"	PromptU="Sneaker 1"	Prompt= "Sneaker 1"/>
+     <Elem NameU="Sneaker 3"	Name= "Sneaker 3"	PromptU="Sneaker 3"	Prompt= "Sneaker 3"/>
+     <Elem NameU="Sneaker 2"	Name= "Sneaker 2"	PromptU="Sneaker 2"	Prompt= "Sneaker 2"/>
+     <Elem NameU="Sneaker 3"	Name= "Sneaker 3"	PromptU="Sneaker 3"	Prompt= "Sneaker 3"/>
+     <Elem NameU="Scarf"	Name= "Schal"	PromptU="Scarf"	Prompt= "Schal"/>
+     <Elem NameU="Tie 1"	Name= "Tie 1"	PromptU="Tie 1"	Prompt= "Tie 1"/>
+     <Elem NameU="Tie 2"	Name= "Tie 2"	PromptU="Tie 2"	Prompt= "Tie 2"/>
+     <Elem NameU="Tie 3"	Name= "Bindung 3"	PromptU="Tie 3"	Prompt= "Bindung 3"/>
+     <Elem NameU="Lipstick"	Name= "Lippenstift"	PromptU="Lipstick"	Prompt= "Lippenstift"/>
+     <Elem NameU="Eyebrow pencil"	Name= "Augenbrauenstift"	PromptU="Eyebrow pencil"	Prompt= "Augenbrauenstift"/>
+     <Elem NameU="Liquid eyeliner"	Name= "Liquid Eyeliner"	PromptU="Liquid eyeliner"	Prompt= "Liquid Eyeliner"/>
+     <Elem NameU="Cosmetic Brush 1"	Name= "Kosmetikpinsel 1"	PromptU="Cosmetic Brush 1"	Prompt= "Kosmetikpinsel 1"/>
+     <Elem NameU="Cosmetic Brush 2"	Name= "Kosmetikpinsel 2"	PromptU="Cosmetic Brush 2"	Prompt= "Kosmetikpinsel 2"/>
+     <Elem NameU="Eyeliner"	Name= "Eyeliner"	PromptU="Eyeliner"	Prompt= "Eyeliner"/>
+     <Elem NameU="Perfume 1"	Name= "Parfüm 1"	PromptU="Perfume 1"	Prompt= "Parfüm 1"/>
+     <Elem NameU="Perfume 2"	Name= "Parfüm 2"	PromptU="Perfume 2"	Prompt= "Parfüm 2"/>
+     <Elem NameU="Perfume 3"	Name= "Parfüm 3"	PromptU="Perfume 3"	Prompt= "Parfüm 3"/>
+     <Elem NameU="Facial Cleanser"	Name= "Gesichtsreiniger"	PromptU="Facial Cleanser"	Prompt= "Gesichtsreiniger"/>
+     <Elem NameU="Skin Care"	Name= "Hautpflege"	PromptU="Skin Care"	Prompt= "Hautpflege"/>
+     <Elem NameU="Body Wash"	Name= "Körperwäsche"	PromptU="Body Wash"	Prompt= "Körperwäsche"/>
+     <Elem NameU="Shampoo 1"	Name= "Shampoo 1"	PromptU="Shampoo 1"	Prompt= "Shampoo 1"/>
+     <Elem NameU="Shampoo 2"	Name= "Shampoo 2"	PromptU="Shampoo 2"	Prompt= "Shampoo 2"/>
+     <Elem NameU="Leather belt"	Name= "Ledergürtel"	PromptU="Leather belt"	Prompt= "Ledergürtel"/>
+     <Elem NameU="wig 1"	Name= "Perücke 1"	PromptU="wig 1"	Prompt= "Perücke 1"/>
+     <Elem NameU="wig 2"	Name= "Perücke 2"	PromptU="wig 2"	Prompt= "Perücke 2"/>
+     <Elem NameU="wig 3"	Name= "Perücke 3"	PromptU="wig 3"	Prompt= "Perücke 3"/>
+     <Elem NameU="Blower"	Name= "Gebläse"	PromptU="Blower"	Prompt= "Gebläse"/>
+     <Elem NameU="Comb 2"	Name= "Comb 2"	PromptU="Comb 2"	Prompt= "Comb 2"/>
+     <Elem NameU="Blower 1"	Name= "Blower 1"	PromptU="Blower 1"	Prompt= "Blower 1"/>
+     <Elem NameU="Blower 2"	Name= "Blower 2"	PromptU="Blower 2"	Prompt= "Blower 2"/>
+     <Elem NameU="Manicure 1"	Name= "Maniküre 1"	PromptU="Manicure 1"	Prompt= "Maniküre 1"/>
+     <Elem NameU="Manicure 2"	Name= "Maniküre 2"	PromptU="Manicure 2"	Prompt= "Maniküre 2"/>
+     <Elem NameU="Manicure 3"	Name= "Maniküre 3"	PromptU="Manicure 3"	Prompt= "Maniküre 3"/>
+</Lib>

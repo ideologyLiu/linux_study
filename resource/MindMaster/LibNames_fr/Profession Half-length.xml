@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Profession Half-length">
+    <Elem NameU="CEO" Name="PDG" PromptU="CEO" Prompt="PDG"/>
+    <Elem NameU="Customer Service" Name="Service Clients" PromptU="Customer Service" Prompt="Service Clients"/>
+    <Elem NameU="Programmer" Name="Programmeur" PromptU="Programmer" Prompt="Programmeur"/>
+    <Elem NameU="Male  Employee" Name="Employé" PromptU="Male  Employee" Prompt="Employé"/>
+    <Elem NameU="Female  Employee" Name="Employé" PromptU="Female  Employee" Prompt="Employé"/>
+    <Elem NameU="Boy Student" Name="Étudiant" PromptU="Boy Student" Prompt="Étudiant"/>
+    <Elem NameU="Girl Student" Name="Étudiant" PromptU="Girl Student" Prompt="Étudiant"/>
+    <Elem NameU="Male Teacher" Name="Professeur" PromptU="Male Teacher" Prompt="Professeur"/>
+    <Elem NameU="Female Teacher" Name="Professeur" PromptU="Female Teacher" Prompt="Professeur"/>
+    <Elem NameU="Policeman" Name="Policier" PromptU="Policeman" Prompt="Policier"/>
+    <Elem NameU="Policewoman" Name="Policière" PromptU="Policewoman" Prompt="Policière"/>
+    <Elem NameU="Air Hostess" Name="Hôtesse de l'air" PromptU="Air Hostess" Prompt="Hôtesse de l'air"/>
+    <Elem NameU="Detective" Name="Détective" PromptU="Detective" Prompt="Détective"/>
+    <Elem NameU="Architect" Name="Architecte" PromptU="Architect" Prompt="Architecte"/>
+    <Elem NameU="Chef" Name="Chef" PromptU="Chef" Prompt="Chef"/>
+    <Elem NameU="Salesperson" Name="Vendeur" PromptU="Salesperson" Prompt="Vendeur"/>
+    <Elem NameU="Female Doctor" Name="Docteur" PromptU="Female Doctor" Prompt="Docteur"/>
+    <Elem NameU="Male Doctor" Name="Docteur" PromptU="Male Doctor" Prompt="Docteur"/>
+    <Elem NameU="Nurse 1" Name="Infirmière 1" PromptU="Nurse 1" Prompt="Infirmière 1"/>
+    <Elem NameU="Nurse 2" Name="Infirmière 2" PromptU="Nurse 2" Prompt="Infirmière 2"/>
+    <Elem NameU="Nurse 3" Name="Infirmière 3" PromptU="Nurse 3" Prompt="Infirmière 3"/>
+    <Elem NameU="Kindergarten Teacher" Name="Enseignante de maternelle" PromptU="Kindergarten Teacher" Prompt="Enseignante de maternelle"/>
+    <Elem NameU="Hair-style Designer" Name="Concepteur de style cheveux" PromptU="Hair-style Designer" Prompt="Concepteur de style cheveux"/>
+    <Elem NameU="Pilot" Name="Pilote" PromptU="Pilot" Prompt="Pilote"/>
+    <Elem NameU="Hip Hopper" Name="Hip Hopper" PromptU="Hip Hopper" Prompt="Hip Hopper"/>
+    <Elem NameU="Referee" Name="Arbitre" PromptU="Referee" Prompt="Arbitre"/>
+    <Elem NameU="Painter" Name="Peintre" PromptU="Painter" Prompt="Peintre"/>
+    <Elem NameU="Professor" Name="Professeur" PromptU="Professor" Prompt="Professeur"/>
+    <Elem NameU="Santa Claus" Name="Père Noël" PromptU="Santa Claus" Prompt="Père Noël"/>
+    <Elem NameU="Mother" Name="Mère" PromptU="Mother" Prompt="Mère"/>
+    <Elem NameU="Blind Person" Name="Personne aveugle" PromptU="Blind Person" Prompt="Personne aveugle"/>
+    <Elem NameU="Female Graduate" Name="Diplômée" PromptU="Female Graduate" Prompt="Diplômée"/>
+    <Elem NameU="Priest" Name="Prêtre" PromptU="Priest" Prompt="Prêtre"/>
+    <Elem NameU="Lawyer" Name="Avocat" PromptU="Lawyer" Prompt="Avocat"/>
+    <Elem NameU="Male Graduate" Name="Diplômé" PromptU="Male Graduate" Prompt="Diplômé"/>
+    <Elem NameU="Businessman 1" Name="Homme d'affaire 1" PromptU="Businessman 1" Prompt="Homme d'affaire 1"/>
+    <Elem NameU="Businessman 2" Name="Homme d'affaire 2" PromptU="Businessman 2" Prompt="Homme d'affaire 2"/>
+    <Elem NameU="Manager" Name="Directeur" PromptU="Manager" Prompt="Directeur"/>
+    <Elem NameU="Office woman" Name="Femme au bureau" PromptU="Office woman" Prompt="Femme au bureau"/>
+    <Elem NameU="Assistant" Name="Assistant" PromptU="Assistant" Prompt="Assistant"/>
+    <Elem NameU="Secretary" Name="Secrétaire" PromptU="Secretary" Prompt="Secrétaire"/>
+    <Elem NameU="Salesman" Name="Vendeur" PromptU="Salesman" Prompt="Vendeur"/>
+    <Elem NameU="Support" Name="Support" PromptU="Support" Prompt="Support"/>
+    <Elem NameU="Pupil 1" Name="Élève 1" PromptU="Pupil 1" Prompt="Élève 1"/>
+    <Elem NameU="Pupil 2" Name="Élève 2" PromptU="Pupil 2" Prompt="Élève 2"/>
+    <Elem NameU="Teacher" Name="Enseignant" PromptU="Teacher" Prompt="Enseignant"/>
+    <Elem NameU="Dentist" Name="Dentiste" PromptU="Dentist" Prompt="Dentiste"/>
+    <Elem NameU="Hairstylist" Name="Coiffeur" PromptU="Hairstylist" Prompt="Coiffeur"/>
+    <Elem NameU="Engineer" Name="Ingénieur" PromptU="Engineer" Prompt="Ingénieur"/>
+    <Elem NameU="Worker" Name="Ouvrier" PromptU="Worker" Prompt="Ouvrier"/>
+    <Elem NameU="Builder" Name="Constructeur" PromptU="Builder" Prompt="Constructeur"/>
+    <Elem NameU="Fireman" Name="Pompier" PromptU="Fireman" Prompt="Pompier"/>
+    <Elem NameU="Electric welding" Name="Soudage électrique" PromptU="Electric welding" Prompt="Soudage électrique"/>
+    <Elem NameU="Express" Name="Coursier" PromptU="Express" Prompt="Coursier"/>
+    <Elem NameU="Postman" Name="Facteur" PromptU="Postman" Prompt="Facteur"/>
+    <Elem NameU="Typist" Name="Dactylographe" PromptU="Typist" Prompt="Dactylographe"/>
+    <Elem NameU="Cashier" Name="Caissière" PromptU="Cashier" Prompt="Caissière"/>
+    <Elem NameU="Policewoman 2" Name="Femme policier 2" PromptU="Policewoman 2" Prompt="Femme policier 2"/>
+    <Elem NameU="Air Hostess 2" Name="Hôtesse de l'air 2" PromptU="Air Hostess 2" Prompt="Hôtesse de l'air 2"/>
+    <Elem NameU="Air Hostess 3" Name="Hôtesse de l'air 3" PromptU="Air Hostess 3" Prompt="Hôtesse de l'air 3"/>
+    <Elem NameU="Sommelier" Name="Sommelier" PromptU="Sommelier" Prompt="Sommelier"/>
+    <Elem NameU="Female Staff/User" Name="Personnel/utilisateur féminin" PromptU="Female Staff/User" Prompt="Personnel/utilisateur féminin"/>
+    <Elem NameU="Security personnel" Name="Personnel de sécurité" PromptU="Security personnel" Prompt="Personnel de sécurité"/>
+    <Elem NameU="Travelers" Name="Voyageurs" PromptU="Travelers" Prompt="Voyageurs"/>
+    <Elem NameU="Terrorist" Name="Terroriste" PromptU="Terrorist" Prompt="Terroriste"/>
+    <Elem NameU="Coach" Name="Entraîneur" PromptU="Coach" Prompt="Entraîneur"/>
+    <Elem NameU="Basketball player" Name="Joueur de basketball" PromptU="Basketball player" Prompt="Joueur de basketball"/>
+    <Elem NameU="Footballer" Name="Footballeur" PromptU="Footballer" Prompt="Footballeur"/>
+    <Elem NameU="Booter" Name="Joueur de rugby" PromptU="Booter" Prompt="Joueur de rugby"/>
+    <Elem NameU="Girl 1" Name="Fille 1" PromptU="Girl 1" Prompt="Fille 1"/>
+    <Elem NameU="Boy 1" Name="Garçon 1" PromptU="Boy 1" Prompt="Garçon 1"/>
+    <Elem NameU="Girl 2" Name="Fille 2" PromptU="Girl 2" Prompt="Fille 2"/>
+    <Elem NameU="Boy 2" Name="Garçon 2" PromptU="Boy 2" Prompt="Garçon 2"/>
+</Lib>

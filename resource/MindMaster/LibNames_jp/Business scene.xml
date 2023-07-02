@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business Scene">
+    <Elem NameU="White Collar" Name="ホワイトカラー" PromptU="White Collar" Prompt="ホワイトカラー"/>
+    <Elem NameU="Sign the contact" Name="契約の締結" PromptU="Sign the contact" Prompt="契約の締結"/>
+    <Elem NameU="Conference" Name="会議" PromptU="Conference" Prompt="会議"/>
+    <Elem NameU="Sorting files" Name="ファイルの並べ替え" PromptU="Sorting files" Prompt="ファイルの並べ替え"/>
+    <Elem NameU="Meeting 1" Name="打ち合わせ 1" PromptU="Meeting 1" Prompt="打ち合わせ 1"/>
+    <Elem NameU="Talking" Name="商談" PromptU="Talking" Prompt="商談"/>
+    <Elem NameU="Meeting 2" Name="打ち合わせ 2" PromptU="Meeting 2" Prompt="打ち合わせ 2"/>
+    <Elem NameU="Working" Name="働く" PromptU="Working" Prompt="働く"/>
+    <Elem NameU="Employee" Name="従業員" PromptU="Employee" Prompt="従業員"/>
+    <Elem NameU="Speech" Name="スピーチ" PromptU="Speech" Prompt="スピーチ"/>
+    <Elem NameU="Manager sign files" Name="マネージャがサインしている" PromptU="Manager sign files" Prompt="マネージャがサインしている"/>
+    <Elem NameU="Discuss" Name="討論" PromptU="Discuss" Prompt="討論"/>
+    <Elem NameU="Negotiation" Name="ネゴシエーション" PromptU="Negotiation" Prompt="ネゴシエーション"/>
+    <Elem NameU="Awards ceremony" Name="授賞式" PromptU="Awards ceremony" Prompt="授賞式"/>
+    <Elem NameU="Globalization" Name="グローバリゼーション" PromptU="Globalization" Prompt="グローバリゼーション"/>
+    <Elem NameU="Reception" Name="交際" PromptU="Reception" Prompt="交際"/>
+    <Elem NameU="Video conference" Name="ビデオ会議" PromptU="Video conference" Prompt="ビデオ会議"/>
+    <Elem NameU="Three people meeting" Name="３人の会議" PromptU="Three people meeting" Prompt="３人の会議"/>
+    <Elem NameU="Two people discuss" Name="２人の討論" PromptU="Two people discuss" Prompt="２人の討論"/>
+    <Elem NameU="Training" Name="トレーニング" PromptU="Training" Prompt="トレーニング"/>
+    <Elem NameU="Report work" Name="仕事報告" PromptU="Report work" Prompt="仕事報告"/>
+    <Elem NameU="Sign contract" Name="契約を結ぶ" PromptU="Sign contract" Prompt="契約を結ぶ"/>
+    <Elem NameU="Group meeting" Name="グループ会議" PromptU="Group meeting" Prompt="グループ会議"/>
+    <Elem NameU="Payment" Name="支払い" PromptU="Payment" Prompt="支払い"/>
+    <Elem NameU="Secretary" Name="秘書" PromptU="Secretary" Prompt="秘書"/>
+    <Elem NameU="Timing" Name="タイミング" PromptU="Timing" Prompt="タイミング"/>
+    <Elem NameU="New idea 1" Name="新たなアイデア 1" PromptU="New idea 1" Prompt="新たなアイデア 1"/>
+    <Elem NameU="The horn propaganda" Name="ラッパ宣伝" PromptU="The horn propaganda" Prompt="ラッパ宣伝"/>
+    <Elem NameU="New idea 2" Name="新たなアイデア 2" PromptU="New idea 2" Prompt="新たなアイデア 2"/>
+    <Elem NameU="Reporting" Name="レポートする" PromptU="Reporting" Prompt="レポートする"/>
+    <Elem NameU="New idea 3" Name="新たなアイデア 3" PromptU="New idea 3" Prompt="新たなアイデア 3"/>
+    <Elem NameU="Presentation" Name="プレゼンテーション" PromptU="Presentation" Prompt="プレゼンテーション"/>
+    <Elem NameU="New idea 4" Name="新たなアイデア 4" PromptU="New idea 4" Prompt="新たなアイデア 4"/>
+    <Elem NameU="Goal Setting" Name="目標設定" PromptU="Goal Setting" Prompt="目標設定"/>
+    <Elem NameU="Checking" Name="チェック" PromptU="Checking" Prompt="チェック"/>
+    <Elem NameU="Shopping" Name="買い物" PromptU="Shopping" Prompt="買い物"/>
+    <Elem NameU="Deadline" Name="デッドライン" PromptU="Deadline" Prompt="デッドライン"/>
+    <Elem NameU="Purchase" Name="買い物" PromptU="Purchase" Prompt="買い物"/>
+    <Elem NameU="Make Profit" Name="利益" PromptU="Make Profit" Prompt="利益"/>
+    <Elem NameU="Pathway" Name="パスウェイ" PromptU="Pathway" Prompt="パスウェイ"/>
+    <Elem NameU="Unemployment" Name="失業" PromptU="Unemployment" Prompt="失業"/>
+    <Elem NameU="Ride a bike" Name="自転車に乗る" PromptU="Ride a bike" Prompt="自転車に乗る"/>
+    <Elem NameU="Business Trip" Name="ビジネス旅行" PromptU="Business Trip" Prompt="ビジネス旅行"/>
+    <Elem NameU="Coffee time" Name="コーヒータイム" PromptU="Coffee time" Prompt="コーヒータイム"/>
+    <Elem NameU="By train" Name="電車" PromptU="By train" Prompt="電車"/>
+    <Elem NameU="By Bus" Name="バス" PromptU="By Bus" Prompt="バス"/>
+    <Elem NameU="By airplane" Name="飛行機" PromptU="By airplane" Prompt="飛行機"/>
+    <Elem NameU="Firm Framework 1" Name="企業フレームワーク 1" PromptU="Firm Framework 1" Prompt="企業フレームワーク 1"/>
+    <Elem NameU="Firm Framework 2" Name="企業フレームワーク 2" PromptU="Firm Framework 2" Prompt="企業フレームワーク 2"/>
+    <Elem NameU="Firm Framework 3" Name="企業フレームワーク 3" PromptU="Firm Framework 3" Prompt="企業フレームワーク 3"/>
+    <Elem NameU="Firm Framework 4" Name="企業フレームワーク 4" PromptU="Firm Framework 4" Prompt="企業フレームワーク 4"/>
+    <Elem NameU="Firm Framework 5" Name="企業フレームワーク 5" PromptU="Firm Framework 5" Prompt="企業フレームワーク 5"/>
+    <Elem NameU="Firm Framework 6" Name="企業フレームワーク 6" PromptU="Firm Framework 6" Prompt="企業フレームワーク 6"/>
+    <Elem NameU="Firm Framework 7" Name="企業フレームワーク 7" PromptU="Firm Framework 7" Prompt="企業フレームワーク 7"/>
+    <Elem NameU="Firm Framework 8" Name="企業フレームワーク 8" PromptU="Firm Framework 8" Prompt="企業フレームワーク 8"/>
+</Lib>

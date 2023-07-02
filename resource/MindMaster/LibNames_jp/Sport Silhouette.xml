@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Sport Silhouette">
+    <Elem NameU="Dribbling" Name="ドリブル" PromptU="Dribbling" Prompt="ドリブル"/>
+    <Elem NameU="Layup" Name="レイアップシュート" PromptU="Layup" Prompt="レイアッシュート"/>
+    <Elem NameU="Shooting BasketBall" Name="シュート" PromptU="Shooting BasketBall" Prompt="シュート"/>
+    <Elem NameU="Shooting Football" Name="サッカーシュート" PromptU="Shooting Football" Prompt="サッカーシュート"/>
+    <Elem NameU="Tackling" Name="パス" PromptU="Tackling" Prompt="パス"/>
+    <Elem NameU="Playing Football 3" Name="サッカーをする 3" PromptU="Playing Football 3" Prompt="サッカーをする 3"/>
+    <Elem NameU="Table Tennis 1" Name="卓球 1" PromptU="Table Tennis 1" Prompt="卓球 1"/>
+    <Elem NameU="Table Tennis 2" Name="卓球 2" PromptU="Table Tennis 2" Prompt="卓球 2"/>
+    <Elem NameU="Table Tennis 3" Name="卓球 3" PromptU="Table Tennis 3" Prompt="卓球 3"/>
+    <Elem NameU="Badminton 1" Name="バドミントン 1" PromptU="Badminton 1" Prompt="バドミントン 1"/>
+    <Elem NameU="Badminton 2" Name="バドミントン 2" PromptU="Badminton 2" Prompt="バドミントン 2"/>
+    <Elem NameU="Volleyball 1" Name="バレーボール 1" PromptU="Volleyball 1" Prompt="バレーボール 1"/>
+    <Elem NameU="Volleyball 2" Name="バレーボール 2" PromptU="Volleyball 2" Prompt="バレーボール 2"/>
+    <Elem NameU="Volleyball 3" Name="バレーボール 3" PromptU="Volleyball 3" Prompt="バレーボール 3"/>
+    <Elem NameU="Volleyball 4" Name="バレーボール 4" PromptU="Volleyball 4" Prompt="バレーボール 4"/>
+    <Elem NameU="Volleyball 5" Name="バレーボール 5" PromptU="Volleyball 5" Prompt="バレーボール 5"/>
+    <Elem NameU="Rugby 1" Name="ラグビー 1" PromptU="Rugby 1" Prompt="ラグビー 1"/>
+    <Elem NameU="Rugby 2" Name="ラグビー 2" PromptU="Rugby 2" Prompt="ラグビー 2"/>
+    <Elem NameU="Rugby 3" Name="ラグビー 3" PromptU="Rugby 3" Prompt="ラグビー 3"/>
+    <Elem NameU="Baseball 1" Name="野球 1" PromptU="Baseball 1" Prompt="野球 1"/>
+    <Elem NameU="Baseball 2" Name="野球 2" PromptU="Baseball 2" Prompt="野球 2"/>
+    <Elem NameU="Baseball 3" Name="野球 3" PromptU="Baseball 3" Prompt="野球 3"/>
+    <Elem NameU="Hockey 1" Name="ホッケー 1" PromptU="Hockey 1" Prompt="ホッケー 1"/>
+    <Elem NameU="Hockey 2" Name="ホッケー 2" PromptU="Hockey 2" Prompt="ホッケー 2"/>
+    <Elem NameU="Hockey 3" Name="ホッケー 3" PromptU="Hockey 3" Prompt="ホッケー 3"/>
+    <Elem NameU="Bowling 1" Name="ボーリング 1" PromptU="Bowling 1" Prompt="ボーリング 1"/>
+    <Elem NameU="Bowling 2" Name="ボーリング 2" PromptU="Bowling 2" Prompt="ボーリング 2"/>
+    <Elem NameU="Skating 1" Name="スケート 1" PromptU="Skating 1" Prompt="スケート 1"/>
+    <Elem NameU="Skating 2" Name="スケート 2" PromptU="Skating 2" Prompt="スケート 2"/>
+    <Elem NameU="Skating 3" Name="スケート 3" PromptU="Skating 3" Prompt="スケート 3"/>
+    <Elem NameU="Skiing 1" Name="スキー 1" PromptU="Skiing 1" Prompt="スキー 1"/>
+    <Elem NameU="Skiing 2" Name="スキー 2" PromptU="Skiing 2" Prompt="スキー 2"/>
+    <Elem NameU="Skiing 3" Name="スキー 3" PromptU="Skiing 3" Prompt="スキー 3"/>
+    <Elem NameU="Jogging 1" Name="ジョギング 1" PromptU="Jogging 1" Prompt="ジョギング 1"/>
+    <Elem NameU="Jogging 2" Name="ジョギング 2" PromptU="Jogging 2" Prompt="ジョギング 2"/>
+    <Elem NameU="Running on Treadmill 1" Name="トレッドミルでランニング 1" PromptU="Running on Treadmill 1" Prompt="トレッドミルでランニング 1"/>
+    <Elem NameU="Swimming" Name="水泳" PromptU="Swimming" Prompt="水泳"/>
+    <Elem NameU="Running on Treadmill 2" Name="トレッドミルでランニング 2" PromptU="Running on Treadmill 2" Prompt="トレッドミルでランニング 2"/>
+    <Elem NameU="Climbing" Name="フリークライミング" PromptU="Climbing" Prompt="フリークライミング"/>
+    <Elem NameU="Yoga 1" Name="ヨガ 1" PromptU="Yoga 1" Prompt="ヨガ 1"/>
+    <Elem NameU="Cycling" Name="サイクリング" PromptU="Cycling" Prompt="サイクリング"/>
+    <Elem NameU="Yoga 2" Name="ヨガ 2" PromptU="Yoga 2" Prompt="ヨガ 2"/>
+    <Elem NameU="Yoga 3" Name="ヨガ 3" PromptU="Yoga 3" Prompt="ヨガ 3"/>
+    <Elem NameU="Yoga 4" Name="ヨガ 4" PromptU="Yoga 4" Prompt="ヨガ 4"/>
+    <Elem NameU="Pole Vaulting" Name="棒高跳" PromptU="Pole Vaulting" Prompt="棒高跳"/>
+    <Elem NameU="High Jump" Name="走高跳" PromptU="High Jump" Prompt="走高跳"/>
+    <Elem NameU="Long Jump 1" Name="走幅跳 1" PromptU="Long Jump 1" Prompt="走幅跳 1"/>
+    <Elem NameU="Long Jump 2" Name="走幅跳 2" PromptU="Long Jump 2" Prompt="走幅跳 2"/>
+    <Elem NameU="Taekwondo 1" Name="テコンドー 1" PromptU="Taekwondo 1" Prompt="テコンドー 1"/>
+    <Elem NameU="Taekwondo 2" Name="テコンドー 2" PromptU="Taekwondo 2" Prompt="テコンドー 2"/>
+    <Elem NameU="Fencing" Name="フェンシング" PromptU="Fencing" Prompt="フェンシング"/>
+    <Elem NameU="Pommel Horse 2" Name="ポンメル馬 1" PromptU="Pommel Horse 2" Prompt="ポンメル馬 1"/>
+    <Elem NameU="Pommel Horse 1" Name="ポンメル馬 2" PromptU="Pommel Horse 1" Prompt="ポンメル馬 2"/>
+    <Elem NameU="Hurdling" Name="ハードル" PromptU="Hurdling" Prompt="ハードル"/>
+    <Elem NameU="Drinking Water" Name="水を飲む" PromptU="Drinking Water" Prompt="水を飲む"/>
+</Lib>

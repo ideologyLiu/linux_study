@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="People Activity Pictogram">
+    <Elem NameU="Cross the Road" Name="道を横切る" PromptU="Cross the Road" Prompt="道を横切る"/>
+    <Elem NameU="Mom &amp; Son" Name="母と子" PromptU="Mom &amp; Son" Prompt="母と子"/>
+    <Elem NameU="Ride Horse" Name="乗馬" PromptU="Ride Horse" Prompt="乗馬"/>
+    <Elem NameU="Father &amp; Kid" Name="父と子" PromptU="Father &amp; Kid" Prompt="父と子"/>
+    <Elem NameU="Mom &amp; Daughter" Name="母と娘" PromptU="Mom &amp; Daughter" Prompt="母と娘"/>
+    <Elem NameU="Walking" Name="ウォーキング" PromptU="Walking" Prompt="ウォーキング"/>
+    <Elem NameU="Carriage" Name="送料" PromptU="Carriage" Prompt="送料"/>
+    <Elem NameU="Woman" Name="女性" PromptU="Woman" Prompt="女性"/>
+    <Elem NameU="Man" Name="男性" PromptU="Man" Prompt="男性"/>
+    <Elem NameU="Child" Name="子供" PromptU="Child" Prompt="子供"/>
+    <Elem NameU="Couple" Name="夫婦" PromptU="Couple" Prompt="夫婦"/>
+    <Elem NameU="Family" Name="家族" PromptU="Family" Prompt="家族"/>
+    <Elem NameU="Worker Digging Sand" Name="労働者が砂を掘る" PromptU="Worker Digging Sand" Prompt="労働者が砂を掘る"/>
+    <Elem NameU="Shopping" Name="買い物" PromptU="Shopping" Prompt="買い物"/>
+    <Elem NameU="Old Man" Name="お年寄り" PromptU="Old Man" Prompt="お年寄り"/>
+    <Elem NameU="Go up Stairs" Name="階段を上る" PromptU="Go up Stairs" Prompt="階段を上る"/>
+    <Elem NameU="Throwing Rubbish" Name="ゴミを捨てる" PromptU="Throwing Rubbish" Prompt="ゴミを捨てる"/>
+    <Elem NameU="Riding Bicycle" Name="自転車に乗る" PromptU="Riding Bicycle" Prompt="自転車に乗る"/>
+    <Elem NameU="Running" Name="ランニング" PromptU="Running" Prompt="ランニング"/>
+    <Elem NameU="Champion" Name="優勝者" PromptU="Champion" Prompt="優勝者"/>
+    <Elem NameU="Photographer" Name="写真家" PromptU="Photographer" Prompt="写真家"/>
+    <Elem NameU="Mail Man" Name="郵便配達員" PromptU="Mail Man" Prompt="郵便配達員"/>
+    <Elem NameU="Man with Umbrella" Name="傘を持つ男" PromptU="Man with Umbrella" Prompt="傘を持つ男"/>
+    <Elem NameU="Making a Phone Call" Name="電話をかける" PromptU="Making a Phone Call" Prompt="電話をかける"/>
+    <Elem NameU="Answering Phone" Name="電話に応答する" PromptU="Answering Phone" Prompt="電話に応答する"/>
+    <Elem NameU="Listening Music" Name="音楽を聴く" PromptU="Listening Music" Prompt="音楽を聴く"/>
+    <Elem NameU="Watering Flowers" Name="水遣り" PromptU="Watering Flowers" Prompt="水遣り"/>
+    <Elem NameU="Reading" Name="読書" PromptU="Reading" Prompt="読書"/>
+    <Elem NameU="Teaching" Name="授業する" PromptU="Teaching" Prompt="授業する"/>
+    <Elem NameU="Playing Basketball" Name="バスケットボールをする" PromptU="Playing Basketball" Prompt="バスケットボールをする"/>
+    <Elem NameU="People with a Loudspeaker" Name="スピーカーを持つ人" PromptU="People with a Loudspeaker" Prompt="スピーカーを持つ人"/>
+    <Elem NameU="Woman with a Hat" Name="帽子をかぶっている女性" PromptU="Woman with a Hat" Prompt="帽子をかぶっている女性"/>
+    <Elem NameU="Walking the Dog" Name="犬を連れて散歩をしている" PromptU="Walking the Dog" Prompt="犬を連れて散歩をしている"/>
+    <Elem NameU="Having a Date" Name="デートする" PromptU="Having a Date" Prompt="デートする"/>
+    <Elem NameU="Making a Proposal" Name="プロポーズする" PromptU="Making a Proposal" Prompt="プロポーズする"/>
+    <Elem NameU="Thinking" Name="考える" PromptU="Thinking" Prompt="考える"/>
+    <Elem NameU="Working" Name="働く" PromptU="Working" Prompt="働く"/>
+    <Elem NameU="Writing" Name="書く" PromptU="Writing" Prompt="書く"/>
+    <Elem NameU="Wheelchair" Name="車椅子" PromptU="Wheelchair" Prompt="車椅子"/>
+    <Elem NameU="Illness" Name="病気" PromptU="Illness" Prompt="病気"/>
+</Lib>

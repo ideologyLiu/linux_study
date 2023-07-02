@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Food">
+    <Elem NameU="Hamburger" Name="汉堡包" PromptU="Hamburger" Prompt="汉堡包"/>
+    <Elem NameU="Hot Dog" Name="热狗" PromptU="Hot Dog" Prompt="热狗"/>
+    <Elem NameU="Pizza" Name="披萨" PromptU="Pizza" Prompt="披萨"/>
+    <Elem NameU="Pizza piece" Name="披萨片" PromptU="Pizza piece" Prompt="披萨片"/>
+    <Elem NameU="Pizza dinner" Name="披萨大餐" PromptU="Pizza dinner" Prompt="披萨大餐"/>
+    <Elem NameU="Spaghetti" Name="意大利面条" PromptU="Spaghetti" Prompt="意大利面条"/>
+    <Elem NameU="Sushi 1" Name="寿司 1" PromptU="Sushi 1" Prompt="寿司 1"/>
+    <Elem NameU="Sushi 2" Name="寿司 2" PromptU="Sushi 2" Prompt="寿司 2"/>
+    <Elem NameU="Sushi 3" Name="寿司 3" PromptU="Sushi 3" Prompt="寿司 3"/>
+    <Elem NameU="Sausage" Name="香肠" PromptU="Sausage" Prompt="香肠"/>
+    <Elem NameU="Chicken" Name="鸡肉" PromptU="Chicken" Prompt="鸡肉"/>
+    <Elem NameU="Drumstick" Name="鸡腿" PromptU="Drumstick" Prompt="鸡腿"/>
+    <Elem NameU="Chicken Drumstick" Name="鸡腿" PromptU="Chicken Drumstick" Prompt="鸡腿"/>
+    <Elem NameU="Meat" Name="肉" PromptU="Meat" Prompt="肉"/>
+    <Elem NameU="Egg" Name="蛋" PromptU="Egg" Prompt="蛋"/>
+    <Elem NameU="Crab" Name="螃蟹" PromptU="Crab" Prompt="螃蟹"/>
+    <Elem NameU="Fish" Name="鱼" PromptU="Fish" Prompt="鱼"/>
+    <Elem NameU="Escargots" Name="田螺" PromptU="Escargots" Prompt="田螺"/>
+    <Elem NameU="Lobster" Name="龙虾" PromptU="Lobster" Prompt="龙虾"/>
+    <Elem NameU="Octopus" Name="章鱼" PromptU="Octopus" Prompt="章鱼"/>
+    <Elem NameU="Tomato 1" Name="西红柿" PromptU="Tomato 1" Prompt="西红柿"/>
+    <Elem NameU="Tomato 2" Name="西红柿" PromptU="Tomato 2" Prompt="西红柿"/>
+    <Elem NameU="Tomato 3" Name="西红柿" PromptU="Tomato 3" Prompt="西红柿"/>
+    <Elem NameU="Carrot" Name="胡萝卜" PromptU="Carrot" Prompt="胡萝卜"/>
+    <Elem NameU="Chinese Cabbage" Name="大白菜" PromptU="Chinese Cabbage" Prompt="大白菜"/>
+    <Elem NameU="Cauliflower" Name="花椰菜" PromptU="Cauliflower" Prompt="花椰菜"/>
+    <Elem NameU="Radish" Name="萝卜" PromptU="Radish" Prompt="萝卜"/>
+    <Elem NameU="Red Radish" Name="红心萝卜" PromptU="Red Radish" Prompt="红心萝卜"/>
+    <Elem NameU="Kidney beans" Name="云豆" PromptU="Kidney beans" Prompt="云豆"/>
+    <Elem NameU="Onion" Name="洋葱" PromptU="Onion" Prompt="洋葱"/>
+    <Elem NameU="Luffa" Name="丝瓜" PromptU="Luffa" Prompt="丝瓜"/>
+    <Elem NameU="Pumpkin" Name="南瓜" PromptU="Pumpkin" Prompt="南瓜"/>
+    <Elem NameU="Eggplant" Name="茄子" PromptU="Eggplant" Prompt="茄子"/>
+    <Elem NameU="Bell Pepper" Name="灯笼椒" PromptU="Bell Pepper" Prompt="灯笼椒"/>
+    <Elem NameU="Mushrooms 1" Name="蘑菇" PromptU="Mushrooms 1" Prompt="蘑菇"/>
+    <Elem NameU="Mushrooms 2" Name="蘑菇" PromptU="Mushrooms 2" Prompt="蘑菇"/>
+    <Elem NameU="Myrcia" Name="香叶" PromptU="Myrcia" Prompt="香叶"/>
+    <Elem NameU="Peanut" Name="花生" PromptU="Peanut" Prompt="花生"/>
+    <Elem NameU="Corn" Name="玉米" PromptU="Corn" Prompt="玉米"/>
+    <Elem NameU="Green Onion" Name="葱" PromptU="Green Onion" Prompt="葱"/>
+    <Elem NameU="Garlic" Name="大蒜" PromptU="Garlic" Prompt="大蒜"/>
+    <Elem NameU="A Clove of Garlic" Name="一瓣蒜" PromptU="A Clove of Garlic" Prompt="一瓣蒜"/>
+    <Elem NameU="Ginger" Name="姜" PromptU="Ginger" Prompt="姜"/>
+    <Elem NameU="Orange" Name="橙子" PromptU="Orange" Prompt="橙子"/>
+    <Elem NameU="Strawberry" Name="草莓" PromptU="Strawberry" Prompt="草莓"/>
+    <Elem NameU="Banana" Name="香蕉" PromptU="Banana" Prompt="香蕉"/>
+    <Elem NameU="Peeled Banana" Name="去皮香蕉" PromptU="Peeled Banana" Prompt="去皮香蕉"/>
+    <Elem NameU="Cherry" Name="樱桃" PromptU="Cherry" Prompt="樱桃"/>
+    <Elem NameU="Grape" Name="葡萄" PromptU="Grape" Prompt="葡萄"/>
+    <Elem NameU="Lemon" Name="柠檬" PromptU="Lemon" Prompt="柠檬"/>
+    <Elem NameU="Peach" Name="桃子" PromptU="Peach" Prompt="桃子"/>
+    <Elem NameU="Apple" Name="苹果" PromptU="Apple" Prompt="苹果"/>
+    <Elem NameU="Star Fruit" Name="杨桃" PromptU="Star Fruit" Prompt="杨桃"/>
+    <Elem NameU="Watermelon" Name="西瓜" PromptU="Watermelon" Prompt="西瓜"/>
+    <Elem NameU="Watermelon Slice" Name="西瓜" PromptU="Watermelon Slice" Prompt="西瓜"/>
+    <Elem NameU="Pear" Name="梨" PromptU="Pear" Prompt="梨"/>
+    <Elem NameU="Lychee" Name="荔枝" PromptU="Lychee" Prompt="荔枝"/>
+    <Elem NameU="Papaya" Name="木瓜" PromptU="Papaya" Prompt="木瓜"/>
+    <Elem NameU="Pineapple" Name="菠萝" PromptU="Pineapple" Prompt="菠萝"/>
+    <Elem NameU="Ice-cream cone" Name="甜筒" PromptU="Ice-cream cone" Prompt="甜筒"/>
+    <Elem NameU="Lollipop" Name="棒棒糖" PromptU="Lollipop" Prompt="棒棒糖"/>
+    <Elem NameU="Macaron" Name="马卡龙" PromptU="Macaron" Prompt="马卡龙"/>
+    <Elem NameU="Doughnut" Name="甜甜圈" PromptU="Doughnut" Prompt="甜甜圈"/>
+    <Elem NameU="Oreo" Name="奥利奥饼干" PromptU="Oreo" Prompt="奥利奥饼干"/>
+    <Elem NameU="Chocolate" Name="巧克力" PromptU="Chocolate" Prompt="巧克力"/>
+    <Elem NameU="Milk" Name="牛奶" PromptU="Milk" Prompt="牛奶"/>
+    <Elem NameU="A Bow of Rice" Name="一碗米饭" PromptU="A Bow of Rice" Prompt="一碗米饭"/>
+    <Elem NameU="A Glass of Beer 1" Name="一杯啤酒" PromptU="A Glass of Beer 1" Prompt="一杯啤酒"/>
+    <Elem NameU="A Glass of Beer 2" Name="一杯啤酒" PromptU="A Glass of Beer 2" Prompt="一杯啤酒"/>
+</Lib>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="School">
+    <Elem NameU="Book" Name="本" PromptU="Book" Prompt="本"/>
+    <Elem NameU="Books 1" Name="本 1" PromptU="Books 1" Prompt="本 1"/>
+    <Elem NameU="Books 2" Name="本 3" PromptU="Books" Prompt="本　2"/>
+    <Elem NameU="Bookrest" Name="書見台" PromptU="Bookrest" Prompt="書見台"/>
+    <Elem NameU="Knowledge" Name="知識" PromptU="Knowledge" Prompt="知識"/>
+    <Elem NameU="Opened Book" Name="開いた本" PromptU="Opened Book" Prompt="開いた本"/>
+    <Elem NameU="Reading" Name="読書" PromptU="Reading" Prompt="読書"/>
+    <Elem NameU="Notepad" Name="ノート" PromptU="Notepad" Prompt="ノート"/>
+    <Elem NameU="Graduation" Name="卒業" PromptU="You can change its color." Prompt="色を変更することができます"/>
+    <Elem NameU="Hat" Name="帽子" PromptU="You can change its color." Prompt="色を変更することができます"/>
+    <Elem NameU="Blackboard" Name="黒板" PromptU="Blackboard" Prompt="黒板"/>
+    <Elem NameU="Palette" Name="パレット" PromptU="Palette" Prompt="パレット"/>
+    <Elem NameU="Lamp" Name="ランプ" PromptU="Lamp" Prompt="ランプ"/>
+    <Elem NameU="Magnifier" Name="拡大鏡" PromptU="Magnifier" Prompt="拡大鏡"/>
+    <Elem NameU="Calculator" Name="電卓" PromptU="Calculator" Prompt="電卓"/>
+    <Elem NameU="Clock" Name="時計" PromptU="Clock" Prompt="時計"/>
+    <Elem NameU="Alarm Clock" Name="目覚まし時計" PromptU="Alarm Clock" Prompt="目覚まし時計"/>
+    <Elem NameU="Stopwatch" Name="ストップウォッチ" PromptU="Stopwatch" Prompt="ストップウォッチ"/>
+    <Elem NameU="Basketball" Name="バスケットボール" PromptU="Basketball" Prompt="バスケットボール"/>
+    <Elem NameU="Football" Name="フットボール" PromptU="Football" Prompt="フットボール"/>
+    <Elem NameU="Rugby" Name="ラグビー" PromptU="Rugby" Prompt="ラグビー"/>
+    <Elem NameU="Speaker" Name="スピーカー" PromptU="Speaker" Prompt="スピーカー"/>
+    <Elem NameU="Achievement" Name="成績" PromptU="Achievement" Prompt="成績"/>
+    <Elem NameU="Bag" Name="かばん" PromptU="Bag" Prompt="かばん"/>
+    <Elem NameU="Award" Name="賞" PromptU="Award" Prompt="賞"/>
+    <Elem NameU="School" Name="学校" PromptU="School" Prompt="学校"/>
+    <Elem NameU="Campus" Name="キャンパス" PromptU="Campus" Prompt="キャンパス"/>
+</Lib>

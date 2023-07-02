@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Medical">
+    <Elem Prompt="Femme" Name="Femme" PromptU="Woman" NameU="Woman"/>
+    <Elem Prompt="Homme" Name="Homme" PromptU="Man" NameU="Man"/>
+    <Elem Prompt="Structure moléculaire" Name="Structure moléculaire" PromptU="Molecular Structure" NameU="Molecular Structure"/>
+    <Elem Prompt="Cerveau" Name="Cerveau" PromptU="Cerebrum" NameU="Cerebrum"/>
+    <Elem Prompt="Coeur" Name="Coeur" PromptU="Heart" NameU="Heart"/>
+    <Elem Prompt="DNA" Name="DNA" PromptU="DNA" NameU="DNA"/>
+    <Elem Prompt="Électrocardiogramme" Name="Électrocardiogramme" PromptU="Electrocardiogram" NameU="Electrocardiogram"/>
+    <Elem Prompt="Bébé" Name="Bébé" PromptU="Baby" NameU="Baby"/>
+    <Elem Prompt="Famille" Name="Famille" PromptU="Family" NameU="Family"/>
+    <Elem Prompt="Analyse" Name="Analyse" PromptU="Analysis" NameU="Analysis"/>
+    <Elem Prompt="Report" Name="Report" PromptU="Report" NameU="Report"/>
+    <Elem Prompt="Ambulance" Name="Ambulance" PromptU="Ambulance" NameU="Ambulance"/>
+    <Elem Prompt="Boîte médicale" Name="Boîte médicale" PromptU="Medical box" NameU="Medical box"/>
+    <Elem Prompt="Respirateur" Name="Respirateur" PromptU="Respirator" NameU="Respirator"/>
+    <Elem Prompt="Stéthoscope" Name="Stéthoscope" PromptU="Stethoscope" NameU="Stethoscope"/>
+    <Elem Prompt="Coeur, croix" Name="Coeur, croix" PromptU="Heart with Cross" NameU="Heart with Cross"/>
+    <Elem Prompt="Pilule" Name="Pilule" PromptU="Pill" NameU="Pill"/>
+    <Elem Prompt="Capsule" Name="Capsule" PromptU="Capsule" NameU="Capsule"/>
+    <Elem Prompt="Hôpital" Name="Hôpital" PromptU="Hospital" NameU="Hospital"/>
+    <Elem Prompt="Microscope" Name="Microscope" PromptU="Microscope" NameU="Microscope"/>
+    <Elem Prompt="Thermomètre" Name="Thermomètre" PromptU="Thermometer" NameU="Thermometer"/>
+    <Elem Prompt="Teste" Name="Teste" PromptU="Test" NameU="Test"/>
+    <Elem Prompt="Teste 2" Name="Teste 2" PromptU="Test 2" NameU="Test 2"/>
+    <Elem Prompt="Équipement de réhabilitation" Name="Équipement de réhabilitation" PromptU="Rehabilitation Equipment" NameU="Rehabilitation Equipment"/>
+    <Elem Prompt="Bâton de marche" Name="Bâton de marche" PromptU="Walking Stick" NameU="Walking Stick"/>
+    <Elem Prompt="Bâton de marche 2" Name="Bâton de marche 2" PromptU="Walking Stick 2" NameU="Walking Stick 2"/>
+    <Elem Prompt="Fauteuil roulant" Name="Fauteuil roulant" PromptU="Wheelchair" NameU="Wheelchair"/>
+    <Elem Prompt="Équipement de réhabilitation" Name="Équipement de réhabilitation" PromptU="Rehab Equipment" NameU="Rehab Equipment"/>
+    <Elem Prompt="Équipement de réhabilitation 1" Name="Équipement de réhabilitation 1" PromptU="Rehab Equipment 1" NameU="Rehab Equipment 1"/>
+    <Elem Prompt="Équipement de réhabilitation 2" Name="Équipement de réhabilitation 2" PromptU="Rehab Equipment 2" NameU="Rehab Equipment 2"/>
+    <Elem Prompt="Équipement de réhabilitation 3" Name="Équipement de réhabilitation 3" PromptU="Rehab Equipment 3" NameU="Rehab Equipment 3"/>
+    <Elem Prompt="Équipement de réhabilitation 4" Name="Équipement de réhabilitation 4" PromptU="Rehab Equipment 4" NameU="Rehab Equipment 4"/>
+    <Elem Prompt="Lit d'hôpital 1" Name="Lit d'hôpital 1" PromptU="Hospital Bed 1" NameU="Hospital Bed 1"/>
+    <Elem Prompt="Lit d'hôpital 2" Name="Lit d'hôpital 2" PromptU="Hospital Bed 2" NameU="Hospital Bed 2"/>
+    <Elem Prompt="Lit d'hôpital 3" Name="Lit d'hôpital 3" PromptU="Hospital Bed 3" NameU="Hospital Bed 3"/>
+    <Elem Prompt="Table d'opération" Name="Table d'opération" PromptU="Operating table" NameU="Operating table"/>
+    <Elem Prompt="Échelle" Name="Échelle" PromptU="Scale" NameU="Scale"/>
+    <Elem Prompt="Panneau d'avertissement" Name="Panneau d'avertissement" PromptU="Hazard Warning Sign" NameU="Hazard Warning Sign"/>
+    <Elem Prompt="Panneau de handicap" Name="Panneau de handicap" PromptU="Handicap Sign" NameU="Handicap Sign"/>
+    <Elem Prompt="Poche de perfusion en plastique" Name="Poche de perfusion en plastique" PromptU="Plastic Infusion Bag" NameU="Plastic Infusion Bag"/>
+    <Elem Prompt="Capuchon d'infirmière" Name="Capuchon d'infirmière" PromptU="Nurse Cap" NameU="Nurse Cap"/>
+    <Elem Prompt="Injecteur" Name="Injecteur" PromptU="Injector" NameU="Injector"/>
+    <Elem Prompt="Dent" Name="Dent" PromptU="Tooth" NameU="Tooth"/>
+    <Elem Prompt="Foie" Name="Foie" PromptU="Liver" NameU="Liver"/>
+    <Elem Prompt="Poumon" Name="Poumon" PromptU="Lung" NameU="Lung"/>
+    <Elem Prompt="Estomac" Name="Estomac" PromptU="Stomach" NameU="Stomach"/>
+    <Elem Prompt="Rate" Name="Rate" PromptU="Spleen" NameU="Spleen"/>
+    <Elem Prompt="Oreille" Name="Oreille" PromptU="Ear" NameU="Ear"/>
+    <Elem Prompt="Intestins" Name="Intestins" PromptU="Intestines" NameU="Intestines"/>
+    <Elem Prompt="Film de Rayon X 1" Name="Film de Rayon X 　1" PromptU="X-ray Film" NameU="X-ray Film"/>
+    <Elem Prompt="Film de Rayon X (OS cassé) 2" Name="Film de Rayon X (OS cassé) 2" PromptU="X-ray Film (Broken Bone)" NameU="X-ray Film (Broken Bone)"/>
+    <Elem Prompt="Docteur" Name="Docteur" PromptU="Doctor" NameU="Doctor"/>
+    <Elem Prompt="Infirmière" Name="Infirmière" PromptU="Nurse" NameU="Nurse"/>
+    <Elem Prompt="Pilules" Name="Pilules" PromptU="Pills" NameU="Pills"/>
+    <Elem Prompt="Medicine Bottle" Name="Medicine Bottle" PromptU="Medicine Bottle" NameU="Medicine Bottle"/>
+    <Elem Prompt="Virus 1" Name="Virus 1" PromptU="Virus 1" NameU="Virus 1"/>
+    <Elem Prompt="Virus 2" Name="Virus 2" PromptU="Virus 2" NameU="Virus 2"/>
+    <Elem Prompt="Électrocardiogramme en forme de coeur (ecg)" Name="Électrocardiogramme en forme de coeur(ecg)" PromptU="Heart-shaped electrocardiogram (ecg)" NameU="Heart-shaped electrocardiogram (ecg)"/>
+    <Elem Prompt="Boire" Name="Boire" PromptU="Drinking" NameU="Drinking"/>
+</Lib>

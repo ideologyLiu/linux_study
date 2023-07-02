@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Tourism">
+    <Elem Prompt="Le Grand Palais" Name="Le Grand Palais" PromptU="The Grand Palace" NameU="The Grand Palace"/>
+    <Elem Prompt="London Eye" Name="London Eye" PromptU="London Eye" NameU="London Eye"/>
+    <Elem Prompt="Statue de la Liberté" Name="Statue de la Liberté" PromptU="Statue of Liberty" NameU="Statue of Liberty"/>
+    <Elem Prompt="Rome Colisée" Name="Rome Colisée" PromptU="Rome Colosseum" NameU="Rome Colosseum"/>
+    <Elem Prompt="Grande muraille" Name="Grande muraille" PromptU="Great Wall" NameU="Great Wall"/>
+    <Elem Prompt="Opéra de Sydney" Name="Opéra de Sydney" PromptU="Sydney Opera House" NameU="Sydney Opera House"/>
+    <Elem Prompt="Les pyramides" Name="Les pyramides" PromptU="The Pyramids" NameU="The Pyramids"/>
+    <Elem Prompt="Église" Name="Église" PromptU="Church" NameU="Church"/>
+    <Elem Prompt="La tour penchée de Pise" Name="La tour penchée de Pise" PromptU="Leaning Tower of Pisa" NameU="Leaning Tower of Pisa"/>
+    <Elem Prompt="Tour Eiffel" Name="Tour Eiffel" PromptU="Eiffel Tower" NameU="Eiffel Tower"/>
+    <Elem Prompt="Le Louvre" Name="Le Louvre" PromptU="The Louvre" NameU="The Louvre"/>
+    <Elem Prompt="Merlion" Name="Merlion" PromptU="Merloin" NameU="Merloin"/>
+    <Elem Prompt="Big Ben" Name="Big Ben" PromptU="Big Ben" NameU="Big Ben"/>
+    <Elem Prompt="Arc de Triomphe" Name="Arc de Triomphe" PromptU="Triumphal Arch" NameU="Triumphal Arch"/>
+    <Elem Prompt="Hôtel Burj Al Arab" Name="Hôtel Burj Al Arab" PromptU="Burj Al Arab Hotel" NameU="Burj Al Arab Hotel"/>
+    <Elem Prompt="Dutch Windmill" Name="Dutch Windmill" PromptU="Dutch Windmill" NameU="Dutch Windmill"/>
+    <Elem Prompt="Taj Mahal" Name="Taj Mahal" PromptU="Taj Mahal" NameU="Taj Mahal"/>
+    <Elem Prompt="Musée anglais" Name="Musée anglais" PromptU="British Museum" NameU="British Museum"/>
+    <Elem Prompt="Chichen Itza" Name="Chichen Itza" PromptU="Chichen Itza" NameU="Chichen Itza"/>
+    <Elem Prompt="Maison du Parlement" Name="Maison du Parlement" PromptU="Parliament House" NameU="Parliament House"/>
+    <Elem Prompt="La maison Blanche" Name="La maison Blanche" PromptU="The White House" NameU="The White House"/>
+    <Elem Prompt="Pavillon" Name="Pavillon" PromptU="Pavilion" NameU="Pavilion"/>
+    <Elem Prompt="Villa de l'eau" Name="Villa de l'eau" PromptU="Water Villa" NameU="Water Villa"/>
+    <Elem Prompt="Cascade 1" Name="Cascade 1" PromptU="Waterfall 1" NameU="Waterfall 1"/>
+    <Elem Prompt="Cascade 2" Name="Cascade 2" PromptU="Waterfall 2" NameU="Waterfall 2"/>
+    <Elem Prompt="Fontaine" Name="Fontaine" PromptU="Fountain" NameU="Fountain"/>
+    <Elem Prompt="Cabine téléphonique" Name="Cabine téléphonique" PromptU="Telephone Booth" NameU="Telephone Booth"/>
+    <Elem Prompt="Boîte aux lettres" Name="Boîte aux lettres" PromptU="Pillar box" NameU="Pillar box"/>
+    <Elem Prompt="Panneau de direction" Name="Panneau de direction" PromptU="Direction Board" NameU="Direction Board"/>
+    <Elem Prompt="Valise de voyage" Name="Valise de voyage" PromptU="Travel Suitcase" NameU="Travel Suitcase"/>
+    <Elem Prompt="Bagage" Name="Bagage" PromptU="Luggage" NameU="Luggage"/>
+    <Elem Prompt="Personne, valise" Name="Personne, valise" PromptU="Person with Suitcase" NameU="Person with Suitcase"/>
+    <Elem Prompt="Frère et soeur" Name="Frère et soeur" PromptU="Brother and Sister" NameU="Brother and Sister"/>
+    <Elem Prompt="Couple, marche" Name="Couple, marche" PromptU="Couple Walking" NameU="Couple Walking"/>
+    <Elem Prompt="Personnes avec appareil photo" Name="Personnes avec appareil photo" PromptU="People with Camera" NameU="People with Camera"/>
+    <Elem Prompt="Famille" Name="Famille" PromptU="Family" NameU="Family"/>
+    <Elem Prompt="Planche de surf" Name="Planche de surf" PromptU="Surfboard" NameU="Surfboard"/>
+    <Elem Prompt="Parasol" Name="Parasol" PromptU="Beach Umbrella" NameU="Beach Umbrella"/>
+    <Elem Prompt="Liqueur" Name="Liqueur" PromptU="Liqueur" NameU="Liqueur"/>
+    <Elem Prompt="Cocotier" Name="Cocotier" PromptU="Coconut Palm" NameU="Coconut Palm"/>
+    <Elem Prompt="Dauphin" Name="Dauphin" PromptU="Dolphin" NameU="Dolphin"/>
+    <Elem Prompt="Étoile de mer" Name="Étoile de mer" PromptU="Starfish" NameU="Starfish"/>
+    <Elem Prompt="Coquillage" Name="Coquillage" PromptU="Seashell" NameU="Seashell"/>
+    <Elem Prompt="Coquille en spirale 1" Name="Coquille en spirale 1" PromptU="Spiral Shell 1" NameU="Spiral Shell 1"/>
+    <Elem Prompt="Coquille en spirale 2" Name="Coquille en spirale 2" PromptU="Spiral Shell 2" NameU="Spiral Shell 2"/>
+    <Elem Prompt="Coquille en spirale 3" Name="Coquille en spirale 3" PromptU="Spiral Shell 3" NameU="Spiral Shell 3"/>
+    <Elem Prompt="Requin" Name="Requin" PromptU="Shark" NameU="Shark"/>
+    <Elem Prompt="Poisson" Name="Poisson" PromptU="Fish" NameU="Fish"/>
+    <Elem Prompt="Girafe" Name="Girafe" PromptU="Giraffe" NameU="Giraffe"/>
+    <Elem Prompt="Lunettes de natation" Name="Lunettes de natation" PromptU="Swim goggles" NameU="Swim goggles"/>
+    <Elem Prompt="Des lunettes de soleil 1" Name="Des lunettes de soleil 1" PromptU="Sunglasses 1" NameU="Sunglasses 1"/>
+    <Elem Prompt="Des lunettes de soleil 2" Name="Des lunettes de soleil 2" PromptU="Sunglasses 2" NameU="Sunglasses 2"/>
+    <Elem Prompt="Casquette 1" Name="Casquette 1" PromptU="Cap 1" NameU="Cap 1"/>
+    <Elem Prompt="Casquette 2" Name="Casquette 2" PromptU="Cap 2" NameU="Cap 2"/>
+    <Elem Prompt="Bikini" Name="Bikini" PromptU="Bikini" NameU="Bikini"/>
+    <Elem Prompt="Paquet" Name="Paquet" PromptU="Packet" NameU="Packet"/>
+    <Elem Prompt="Chaussures de plage" Name="Chaussures de plage" PromptU="Beach shoes" NameU="Beach shoes"/>
+    <Elem Prompt="Chaise de plage 1" Name="Chaise de plage 1" PromptU="Beach chair 1" NameU="Beach chair 1"/>
+    <Elem Prompt="Chaise de plage 2" Name="Chaise de plage 2" PromptU="Beach chair 2" NameU="Beach chair 2"/>
+    <Elem Prompt="La plage" Name="La plage" PromptU="The beach area" NameU="The beach area"/>
+    <Elem Prompt="Carte bancaire" Name="Carte bancaire" PromptU="Bank Card" NameU="Bank Card"/>
+    <Elem Prompt="Nuage" Name="Nuage" PromptU="Cloud" NameU="Cloud"/>
+    <Elem Prompt="Avion 1" Name="Avion 1" PromptU="Aircraft 1" NameU="Aircraft 1"/>
+    <Elem Prompt="Avion 2" Name="Avion 2" PromptU="Aircraft 2" NameU="Aircraft 2"/>
+    <Elem Prompt="Avion 3" Name="Avion 3" PromptU="Aircraft 3" NameU="Aircraft 3"/>
+    <Elem Prompt="Voiture" Name="Voiture" PromptU="Car" NameU="Car"/>
+    <Elem Prompt="Autobus" Name="Autobus" PromptU="Bus" NameU="Bus"/>
+    <Elem Prompt="Autobus à impériale" Name="Autobus à impériale" PromptU="Double Decker Bus" NameU="Double Decker Bus"/>
+    <Elem Prompt="Voiture familiale" Name="Voiture familiale" PromptU="Family Car" NameU="Family Car"/>
+    <Elem Prompt="Bateau de croisière" Name="Bateau de croisière" PromptU="Cruise Ship" NameU="Cruise Ship"/>
+    <Elem Prompt="Voile" Name="Voile" PromptU="Sailing" NameU="Sailing"/>
+    <Elem Prompt="Ensoleillé" Name="Ensoleillé" PromptU="Sunny" NameU="Sunny"/>
+    <Elem Prompt="Nuageux" Name="Nuageux" PromptU="Cloudy" NameU="Cloudy"/>
+    <Elem Prompt="Couvert" Name="Couvert" PromptU="Overcast" NameU="Overcast"/>
+    <Elem Prompt="Pluvieux" Name="Pluvieux" PromptU="Rainy" NameU="Rainy"/>
+    <Elem Prompt="Orage" Name="Orage" PromptU="Thunderstorm" NameU="Thunderstorm"/>
+    <Elem Prompt="Tonnerre" Name="Tonnerre" PromptU="Thunder" NameU="Thunder"/>
+    <Elem Prompt="Beaucoup de neige" Name="Beaucoup de neige" PromptU="Heavy Snow" NameU="Heavy Snow"/>
+    <Elem Prompt="La pluie et la neige" Name="La pluie et la neige" PromptU="Rain and Snow" NameU="Rain and Snow"/>
+    <Elem Prompt="Parapluie" Name="Parapluie" PromptU="Umbrella" NameU="Umbrella"/>
+    <Elem Prompt="Marquage du lieu" Name="Marquage du lieu" PromptU="Location Mark" NameU="Location Mark"/>
+    <Elem Prompt="Boussole" Name="Boussole" PromptU="Compass" NameU="Compass"/>
+    <Elem Prompt="Les gens" Name="Les gens" PromptU="People" NameU="People"/>
+</Lib>

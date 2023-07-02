@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Folders">
+    <Elem NameU="Bell" Name="警告" PromptU="Bell" Prompt="警告"/>
+	<Elem NameU="Dialog Box" Name="提示" PromptU="Dialog Box" Prompt="提示"/>
+	<Elem NameU="Heart" Name="ハート" PromptU="Heart" Prompt="ハート"/>
+	<Elem NameU="Location" Name="位置" PromptU="Location" Prompt="位置"/>
+	<Elem NameU="Key" Name="キー" PromptU="Key" Prompt="キー"/>
+	<Elem NameU="Clock" Name="クロック" PromptU="Clock" Prompt="クロック"/>
+	<Elem NameU="Film" Name="映画" PromptU="Film" Prompt="映画"/>
+	<Elem NameU="Phone" Name="電話" PromptU="Phone" Prompt="電話"/>
+	<Elem NameU="Home" Name="ホームページ" PromptU="Home" Prompt="ホームページ"/>
+	<Elem NameU="Sun" Name="晴れ" PromptU="Sun" Prompt="晴れ"/>
+	<Elem NameU="Mail" Name="メール" PromptU="Mail" Prompt="メール"/>
+	<Elem NameU="Tag" Name="タグ" PromptU="Tag" Prompt="タグ"/>
+	<Elem NameU="Signal" Name="信号" PromptU="Signal" Prompt="信号"/>
+	<Elem NameU="Computer" Name="コンピューター" PromptU="Computer" Prompt="コンピューター"/>
+	<Elem NameU="Prohibition" Name="禁止" PromptU="Prohibition" Prompt="禁止"/>
+	<Elem NameU="Cloud" Name="クラウド" PromptU="Cloud" Prompt="クラウド"/>
+	<Elem NameU="Export" Name="エクスポート" PromptU="Export" Prompt="エクスポート"/>
+	<Elem NameU="Import" Name="インポート" PromptU="Import" Prompt="インポート"/>
+	<Elem NameU="Music" Name="音楽" PromptU="Music" Prompt="音楽"/>
+	<Elem NameU="Triangle" Name="三角形" PromptU="Triangle" Prompt="三角形"/>
+	<Elem NameU="Picture" Name="画像" PromptU="Picture" Prompt="画像"/>
+	<Elem NameU="Set" Name="設定" PromptU="Set" Prompt="設定"/>
+	<Elem NameU="Recycle Bin" Name="ゴミ箱" PromptU="Recycle Bin" Prompt="ゴミ箱"/>
+	<Elem NameU="Magnifying Glass" Name="虫眼鏡" PromptU="Magnifying Glass" Prompt="虫眼鏡"/>
+	<Elem NameU="Star" Name="スター" PromptU="Star" Prompt="スター"/>
+	<Elem NameU="Deblocking" Name="アンロック" PromptU="Deblocking" Prompt="アンロック"/>
+	<Elem NameU="Lock" Name="ロック" PromptU="Lock" Prompt="ロック"/>
+	<Elem NameU="Refresh" Name="再読み込み" PromptU="Refresh" Prompt="再読み込み"/>
+	<Elem NameU="Plus Sign" Name="追加" PromptU="Plus Sign" Prompt="追加"/>
+	<Elem NameU="Minus" Name="削除" PromptU="Minus" Prompt="削除"/>	
+	<Elem NameU="Mistake" Name="間違い" PromptU="Mistake" Prompt="間違い"/>
+	<Elem NameU="Right" Name="正確" PromptU="Right" Prompt="正確"/>
+	<Elem NameU="Exclamation Point" Name="感嘆符" PromptU="Exclamation Point" Prompt="感嘆符"/>
+	<Elem NameU="Microphone" Name="マイクロフォン" PromptU="Microphone" Prompt="マイクロフォン"/>
+	<Elem NameU="Flag" Name="フラッグ" PromptU="Flag" Prompt="フラッグ"/>
+	<Elem NameU="Calendar" Name="カレンダー" PromptU="Calendar" Prompt="カレンダー"/>
+	<Elem NameU="Switch" Name="電源" PromptU="Switch" Prompt="電源"/>
+	<Elem NameU="Camera" Name="カメラ" PromptU="Camera" Prompt="カメラ"/>
+	<Elem NameU="Bracket" Name="括弧" PromptU="Bracket" Prompt="括弧"/>
+	
+</Lib>

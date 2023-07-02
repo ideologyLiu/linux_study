@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business">
+    <Elem NameU="Direction Board 1" PromptU="Direction Board 1" Name="Tableau de direction" Prompt="Tableau de direction"/>
+    <Elem NameU="Direction Board 2" PromptU="Direction Board 2" Name="Tableau de direction" Prompt="Tableau de direction"/>
+    <Elem NameU="U.S. Dollar" PromptU="U.S. Dollar" Name="Dollar américain" Prompt="Dollar américain"/>
+    <Elem NameU="Euro" PromptU="Euro" Name="Euro" Prompt="Euro"/>
+    <Elem NameU="RMB" PromptU="RMB" Name="RMB" Prompt="RMB"/>
+    <Elem NameU="VISA" PromptU="VISA" Name="VISA" Prompt="VISA"/>
+    <Elem NameU="Handshake" PromptU="Handshake" Name="Serrer la main" Prompt="Serrer la main"/>
+    <Elem NameU="Cheers" PromptU="Cheers" Name="À votre santé" Prompt="À votre santé"/>
+    <Elem NameU="Competition" PromptU="Competition" Name="Compétition" Prompt="Compétition"/>
+    <Elem NameU="Teamwork" PromptU="Teamwork" Name="Travail en équipe" Prompt="Travail en équipe"/>
+    <Elem NameU="Unity" PromptU="Unity" Name="Unité" Prompt="Unité"/>
+    <Elem NameU="Goal" PromptU="Goal" Name="Objectif" Prompt="Objectif"/>
+	 <Elem NameU="Global" PromptU="Global" Name="Global" Prompt="Global"/>
+	<Elem NameU="Research" PromptU="Research" Name="Recherche" Prompt="Recherche"/>
+	<Elem NameU="International 1" PromptU="International 1" Name="International" Prompt="International"/>
+	<Elem NameU="International 2" PromptU="International 2" Name="International" Prompt="International"/>
+    <Elem NameU="City" PromptU="City" Name="Ville" Prompt="Ville"/>
+	<Elem NameU="Skyscraper" PromptU="Skyscraper" Name="Gratte-ciel" Prompt="Gratte-ciel"/>
+	<Elem NameU="Business Office" PromptU="Business Office" Name="Bureau d'affaires" Prompt="Bureau d'affaires"/>
+	<Elem NameU="Branch" PromptU="Branch" Name="Branche" Prompt="Branche"/>
+	<Elem NameU="Invoice" PromptU="Invoice" Name="Facture" Prompt="Facture"/>
+	<Elem NameU="Communication" PromptU="Communication" Name="Communication" Prompt="Communication"/>
+	<Elem NameU="Cash Register" PromptU="Cash Register" Name="Caisse enregistreuse" Prompt="Caisse enregistreuse"/>
+    <Elem NameU="Portfolio" PromptU="Portfolio" Name="Portefeuille" Prompt="Portefeuille"/>
+    <Elem NameU="Portfolio 1" PromptU="Portfolio 1" Name="Portefeuille" Prompt="Portefeuille"/>
+	<Elem NameU="Portfolio 2" PromptU="Portfolio 2" Name="Portefeuille" Prompt="Portefeuille"/>
+    <Elem NameU="Loudspeaker" PromptU="Loudspeaker" Name="Haut-parleur" Prompt="Haut-parleur"/>
+    <Elem NameU="Clock" PromptU="Clock" Name="Horloge" Prompt="Horloge"/>
+    <Elem NameU="E-mail" PromptU="E-mail" Name="E-mail" Prompt="E-mail"/>
+   <Elem NameU="Innovation" Name="Innovation" PromptU="Innovation" Prompt="Innovation"/>
+    <Elem NameU="Idea" PromptU="Idea" Name="Idée" Prompt="Idée"/>
+    <Elem NameU="Folder" PromptU="Folder" Name="Dossier" Prompt="Dossier"/>
+    <Elem NameU="Check" PromptU="Check" Name="Vérifier" Prompt="Vérifier"/>
+    <Elem NameU="Social Network" Name="Réseau social" PromptU="Social Network" Prompt="Réseau social"/>
+    <Elem NameU="Luggage" PromptU="Luggage" Name="Bagages" Prompt="Bagages"/>
+    <Elem NameU="Medal" PromptU="Medal" Name="Médaille" Prompt="Médaille"/>
+    <Elem NameU="Gold Medal" PromptU="Gold Medal" Name="Médaille d'or" Prompt="Médaille d'or"/>
+    <Elem NameU="Trophy" PromptU="Trophy" Name="Trophée" Prompt="Trophée"/>
+    <Elem NameU="Ranking" PromptU="Ranking" Name="Classement" Prompt="Classement"/>
+    <Elem NameU="Procedure" PromptU="Procedure" Name="Procédure" Prompt="Procédure"/>
+	<Elem NameU="Increase 1" PromptU="Increase 1" Name="Augmenter" Prompt="Augmenter"/>
+	<Elem NameU="Increase 2" PromptU="Increase 2" Name="Augmenter" Prompt="Augmenter"/>
+	<Elem NameU="Ranking Arrows" PromptU="Ranking Arrows" Name="Rangement" Prompt="Rangement"/>
+	<Elem NameU="Mobile App" PromptU="Mobile App" Name="Application mobile" Prompt="Application mobile"/>
+    <Elem NameU="Shopping Cart" PromptU="Shopping Cart" Name="Panier" Prompt="Panier"/>
+    <Elem NameU="Mobile Shopping" PromptU="Mobile Shopping" Name="Achats mobiles" Prompt="Achats mobiles"/>
+    <Elem NameU="iPad Shopping" PromptU="iPad Shopping" Name="iPad Shopping" Prompt="iPad Shopping"/>
+    <Elem NameU="Shopping on Laptop" PromptU="Shopping on Laptop" Name="Shopping sur ordinateur portable" Prompt="Shopping sur ordinateur portable"/>
+	<Elem NameU="Purchase" PromptU="Purchase" Name="Acheter" Prompt="Acheter"/>
+    <Elem NameU="Intersection" PromptU="Intersection" Name="Intersection" Prompt="Intersection"/>
+    <Elem NameU="Balance" PromptU="Balance" Name="Équilibre" Prompt="Équilibre"/>
+	<Elem NameU="Award" PromptU="Award" Name="Prix" Prompt="Prix"/>
+	<Elem NameU="Award 2" PromptU="Award 2" Name="Prix" Prompt="Prix"/>
+    <Elem NameU="Charge" PromptU="Charge" Name="Charge" Prompt="Charge"/>
+    <Elem NameU="File and Pencil" PromptU="File and Pencil" Name="Fichier et crayon" Prompt="Fichier et crayon"/>
+    <Elem NameU="Cloud Storage" PromptU="Cloud Storage" Name="Stockage en ligne" Prompt="Stockage en ligne"/>
+    <Elem NameU="Newspaper 1" PromptU="Newspaper 1" Name="Journal" Prompt="Journal"/>
+    <Elem NameU="Newspaper 2" PromptU="Newspaper 2" Name="Journal" Prompt="Journal"/>
+    <Elem NameU="Exclamation Mark" PromptU="Exclamation Mark" Name="Point d'exclamation" Prompt="Point d'exclamation"/>
+    <Elem NameU="Question Mark" PromptU="Question Mark" Name="Point d'interrogation" Prompt="Point d'interrogation"/>
+    <Elem NameU="Commodity" PromptU="Commodity" Name="Marchandise" Prompt="Marchandise"/>
+    <Elem NameU="Cargo Boxes 1" PromptU="Cargo Boxes 1" Name="Boîtes à marchandises" Prompt="Boîtes à marchandises"/>
+    <Elem NameU="Cargo Boxes 2" PromptU="Cargo Boxes 2" Name="Boîtes à marchandises" Prompt="Boîtes à marchandises"/>
+	<Elem NameU="Labor" PromptU="Labor" Name="Main d'oeuvre" Prompt="Main d'oeuvre"/>
+	<Elem NameU="Goods 1" PromptU="Goods 1" Name="Des biens" Prompt="Des biens"/>
+	<Elem NameU="Goods 2" PromptU="Goods 2" Name="Des biens" Prompt="Des biens"/>
+	<Elem NameU="Warehouse" PromptU="Warehouse" Name="Entrepôt" Prompt="Entrepôt"/>
+    <Elem NameU="Magnifying Glass" PromptU="Magnifying Glass" Name="Loupe" Prompt="Loupe"/>
+    <Elem NameU="Quality Inspection" PromptU="Quality Inspection" Name="Contrôle de la qualité" Prompt="Contrôle de la qualité"/>
+    <Elem NameU="Truck 1" PromptU="Truck 1" Name="Camion" Prompt="Camion"/>
+    <Elem NameU="Truck 2" PromptU="Truck 2" Name="Camion" Prompt="Camion"/>
+    <Elem NameU="Airplane" PromptU="Airplane" Name="Avion" Prompt="Avion"/>
+    <Elem NameU="Gear 1" PromptU="Gear 1" Name="Engrenage 1" Prompt="Engrenage 1"/>
+    <Elem NameU="Gear 2" PromptU="Gear 2" Name="Engrenage 2" Prompt="Engrenage 2"/>
+    <Elem NameU="Gear 3" PromptU="Gear 3" Name="Engrenage 3" Prompt="Engrenage 3"/>
+    <Elem NameU="Gear 4" PromptU="Gear 4" Name="Engrenage 4" Prompt="Engrenage 4"/>
+    <Elem NameU="Dialog 1" PromptU="Dialog 1" Name="Dialogue" Prompt="Dialogue"/>
+    <Elem NameU="Dialog 2" PromptU="Dialog 2" Name="Dialogue" Prompt="Dialogue"/>
+    <Elem NameU="Dialog 3" PromptU="Dialog 3" Name="Dialogue" Prompt="Dialogue"/>
+    <Elem NameU="Financial Management" PromptU="Financial Management" Name="Gestion financière" Prompt="Gestion financière"/>
+	<Elem NameU="Customer Service" PromptU="Customer Service" Name="Service Clients" Prompt="Service Clients"/>
+	<Elem NameU="Hot Air Balloon" PromptU="Hot Air Balloon" Name="Montgolfière" Prompt="Montgolfière"/>
+    <Elem NameU="Family" PromptU="Family" Name="Famille" Prompt="Famille"/>
+    <Elem NameU="Woman 1" PromptU="Woman 1" Name="Femme" Prompt="Femme"/>
+	<Elem NameU="Woman 2" PromptU="Woman 2" Name="Femme" Prompt="Femme"/>
+	<Elem NameU="Woman 3" PromptU="Woman 3" Name="Femme" Prompt="Femme"/>
+	<Elem NameU="Woman 4" PromptU="Woman 4" Name="Femme" Prompt="Femme"/>
+    <Elem NameU="Man 1" PromptU="Man 1" Name="Homme" Prompt="Homme"/>
+    <Elem NameU="Cooperation" PromptU="Cooperation" Name="Coopération" Prompt="Coopération"/>
+	<Elem NameU="Man 2" PromptU="Man 2" Name="Homme" Prompt="Homme"/>
+	<Elem NameU="Man 3" PromptU="Man 3" Name="Homme" Prompt="Homme"/>
+	<Elem NameU="Man 4" PromptU="Man 4" Name="Homme" Prompt="Homme"/>
+	<Elem NameU="Man 5" PromptU="Man 5" Name="Homme" Prompt="Homme"/>
+	<Elem NameU="Working" PromptU="Working" Name="Travail" Prompt="Travail"/>
+	<Elem NameU="Go to Work 1" PromptU="Go to Work 1" Name="Aller au travail" Prompt="Aller au travail"/>
+	<Elem NameU="Go to Work 2" PromptU="Go to Work 2" Name="Aller au travail" Prompt="Aller au travail"/>
+	<Elem NameU="Go to Work 3" PromptU="Go to Work 3" Name="Aller au travail" Prompt="Aller au travail"/>
+	<Elem NameU="Talking" PromptU="Talking" Name="Parler" Prompt="Parler"/>
+	<Elem NameU="Drinking Coffee" PromptU="Drinking Coffee" Name="Buvant du café" Prompt="Buvant du café"/>
+	<Elem NameU="Relaxing" PromptU="Relaxing" Name="Rester" Prompt="Rester"/>
+	<Elem NameU="Business Travel" PromptU="Business Travel" Name="Voyage d'affaires" Prompt="Voyage d'affaires"/>
+	<Elem NameU="Talking on the Phone 1" PromptU="Talking on the Phone 1" Name="Parler au téléphone" Prompt="Parler au téléphone"/>
+	<Elem NameU="Talking on the Phone 2" PromptU="Talking on the Phone 2" Name="Parler au téléphone" Prompt="Parler au téléphone"/>
+	<Elem NameU="Talking on the Phone 3" PromptU="Talking on the Phone 3" Name="Parler au téléphone" Prompt="Parler au téléphone"/>
+	<Elem NameU="Talking on the Phone 4" PromptU="Talking on the Phone 4" Name="Parler au téléphone" Prompt="Parler au téléphone"/>
+	<Elem NameU="Business Man with Loudspeaker" PromptU="Business Man with Loudspeaker" Name="Homme d'affaires avec haut-parleur" Prompt="Homme d'affaires avec haut-parleur"/>
+	<Elem NameU="Businessman with Trophy 1" PromptU="Businessman with Trophy 1" Name="Homme d'affaires avec trophée" Prompt="Homme d'affaires avec trophée"/>
+	<Elem NameU="Businessman with Trophy 2" PromptU="Businessman with Trophy 2" Name="Homme d'affaires avec trophée" Prompt="Homme d'affaires avec trophée"/>
+	<Elem NameU="Thinking 2" PromptU="Thinking 2" Name="Penser" Prompt="Penser"/>
+	<Elem NameU="Thinking 1" PromptU="Thinking 1" Name="Penser" Prompt="Penser"/>
+	<Elem NameU="Cheers" PromptU="Cheers" Name="À votre santé" Prompt="À votre santé"/>
+	<Elem NameU="Man Celebrating" PromptU="Man Celebrating" Name="Homme célébrant" Prompt="Homme célébrant"/>
+	<Elem NameU="Discussing" PromptU="Discussing" Name="Discuter" Prompt="Discuter"/>
+	<Elem NameU="Meeting" PromptU="Meeting" Name="Réunion" Prompt="Réunion"/>
+	<Elem NameU="Busy Working" PromptU="Busy Working" Name="Occupé par le travail" Prompt="Occupé par le travail"/>
+	<Elem NameU="People Celebrating 1" PromptU="People Celebrating 1" Name="Personnes célébrant" Prompt="Personnes célébrant"/>
+	<Elem NameU="People Celebrating 2" PromptU="People Celebrating 2" Name="Personnes célébrant" Prompt="Personnes célébrant"/>
+    <Elem NameU="Progress Bar" PromptU="Progress Bar" Name="Barre de progression" Prompt="Barre de progression"/>
+</Lib>

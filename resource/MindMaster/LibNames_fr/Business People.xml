@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business People">
+    <Elem NameU="Man 1" Name="Homme 1" PromptU="Man 1" Prompt="Homme 1"/>
+    <Elem NameU="Man 2" Name="Homme 2" PromptU="Man" Prompt="Homme"/>
+    <Elem NameU="Man 3" Name="Homme 3" PromptU="Man" Prompt="Homme"/>
+    <Elem NameU="Man 4" Name="Homme 4" PromptU="Man" Prompt="Homme"/>
+    <Elem NameU="Man 5" Name="Homme 5" PromptU="Man" Prompt="Homme"/>
+    <Elem NameU="Man 6" Name="Homme 6" PromptU="Man" Prompt="Homme"/>
+    <Elem NameU="Woman 1" Name="Femme 1" PromptU="Woman 1" Prompt="Femme 1"/>
+    <Elem NameU="Woman 2" Name="Femme 2" PromptU="Woman" Prompt="Femme"/>
+    <Elem NameU="Woman 3" Name="Femme 3" PromptU="Woman" Prompt="Femme"/>
+    <Elem NameU="Woman 4" Name="Femme 4" PromptU="Woman" Prompt="Femme"/>
+    <Elem NameU="Woman 5" Name="Femme 5" PromptU="Woman" Prompt="Femme"/>
+    <Elem NameU="Woman 6" Name="Femme 6" PromptU="Woman" Prompt="Femme"/>
+    <Elem NameU="Woman 7" Name="Femme 7" PromptU="Woman" Prompt="Femme"/>
+    <Elem NameU="Running man" Name="Coureur" PromptU="Running man" Prompt="Coureur"/>
+    <Elem NameU="Rest" Name="Reposer" PromptU="Rest man" Prompt="L'homme qui repose"/>
+    <Elem NameU="Working" Name="Travailler" PromptU="Working man" Prompt="L'homme qui travaille"/>
+    <Elem NameU="Meeting" Name="Réunion" PromptU="Meeting" Prompt="Réunion"/>
+</Lib>
+

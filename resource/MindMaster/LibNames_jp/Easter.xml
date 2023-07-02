@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Easter">
+    <Elem NameU="Easter egg 1" Name="イースターエッグ 1" PromptU="Easter egg 1" Prompt="イースターエッグ 1"/>
+    <Elem NameU="Easter egg 2" Name="イースターエッグ 2" PromptU="Easter egg 2" Prompt="イースターエッグ 2"/>
+    <Elem NameU="Easter egg 3" Name="イースターエッグ 3" PromptU="Easter egg 3" Prompt="イースターエッグ 3"/>
+    <Elem NameU="Easter egg 4" Name="イースターエッグ 4" PromptU="Easter egg 4" Prompt="イースターエッグ 4"/>
+    <Elem NameU="Easter egg 5" Name="イースターエッグ 5" PromptU="Easter egg 5" Prompt="イースターエッグ 5"/>
+    <Elem NameU="Easter egg 6" Name="イースターエッグ 6" PromptU="Easter egg 6" Prompt="イースターエッグ 6"/>
+    <Elem NameU="Easter egg 6" Name="イースターエッグ 6" PromptU="Easter egg 6" Prompt="イースターエッグ 6"/>
+    <Elem NameU="Easter egg 8" Name="イースターエッグ 8" PromptU="Easter egg 8" Prompt="イースターエッグ 8"/>
+    <Elem NameU="Easter egg 9" Name="イースターエッグ 9" PromptU="Easter egg 9" Prompt="イースターエッグ 9"/>
+    <Elem NameU="Easter egg 10" Name="イースターエッグ 10" PromptU="Easter egg 10" Prompt="イースターエッグ 10"/>
+    <Elem NameU="Easter egg 11" Name="イースターエッグ 11" PromptU="Easter egg 11" Prompt="イースターエッグ 11"/>
+    <Elem NameU="Easter egg 12" Name="イースターエッグ 12" PromptU="Easter egg 12" Prompt="イースターエッグ 12"/>
+    <Elem NameU="Rabbit with easter egg" Name="イースターエッグ　ウサギ" PromptU="Rabbit with easter egg" Prompt="イースターエッグ　ウサギ"/>
+    <Elem NameU="Rabbit 1" Name="ウサギ 1" PromptU="Rabbit 1" Prompt="ウサギ 1"/>
+    <Elem NameU="Rabbit 2" Name="ウサギ 2" PromptU="Rabbit 2" Prompt="ウサギ 2"/>
+    <Elem NameU="Chicken" Name="鶏" PromptU="Chicken" Prompt="鶏"/>
+    <Elem NameU="Meat" Name="肉" PromptU="Meat" Prompt="肉"/>
+    <Elem NameU="Chicken Leg 1" Name="チキンレッグ 1" PromptU="Chicken Leg 1" Prompt="チキンレッグ 1"/>
+    <Elem NameU="Chicken Leg 2" Name="チキンレッグ 2" PromptU="Chicken Leg 2" Prompt="チキンレッグ 2"/>
+    <Elem NameU="Book 1" Name="本 1" PromptU="Book 1" Prompt="本 1"/>
+    <Elem NameU="Book 2" Name="本 2" PromptU="Book 2" Prompt="本 2"/>
+    <Elem NameU="Cross" Name="十字架" PromptU="Cross" Prompt="十字架"/>
+    <Elem NameU="Jesus" Name="イエス" PromptU="Jesus" Prompt="イエス"/>
+    <Elem NameU="Cake" Name="ケーキ" PromptU="Cake" Prompt="ケーキ"/>
+    <Elem NameU="Candle 1" Name="キャンドル 1" PromptU="Candle 1" Prompt="キャンドル 1"/>
+    <Elem NameU="Candle 2" Name="キャンドル 2" PromptU="Candle 2" Prompt="キャンドル 2"/>
+    <Elem NameU="Red Wine Glass" Name="ワイングラス" PromptU="Red Wine Glass" Prompt="ワイングラス"/>
+    <Elem NameU="Red Wine" Name="ワイン" PromptU="Red Wine" Prompt="ワイン"/>
+    <Elem NameU="Basket" Name="バスケット" PromptU="Basket" Prompt="バスケット"/>
+    <Elem NameU="Flower" Name="花" PromptU="Flower" Prompt="花"/>
+</Lib>

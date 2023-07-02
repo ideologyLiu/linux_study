@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business Scene">
+    <Elem NameU="Business man" PromptU="Business man" Name="商人" Prompt="商人"/>
+    <Elem NameU="Sign the contact" PromptU="Sign the contact" Name="签约" Prompt="签约"/>
+    <Elem NameU="Business conference" PromptU="Business conference" Name="商务会议" Prompt="商务会议"/>
+    <Elem NameU="Business lectures" PromptU="Business lectures" Name="商务演讲" Prompt="商务演讲"/>
+    <Elem NameU="Business men shake hands" PromptU="Business men shake hands" Name="商人握手" Prompt="商人握手"/>
+    <Elem NameU="Business men talking" PromptU="Business men talking" Name="商人讨论" Prompt="商人讨论"/>
+    <Elem NameU="Business men reading" PromptU="Business men reading" Name="商人阅读" Prompt="商人阅读"/>
+    <Elem NameU="Meeting" PromptU="Meeting" Name="会议" Prompt="会议"/>
+    <Elem NameU="Shake hands" PromptU="Shake hands" Name="握手" Prompt="握手"/>
+    <Elem NameU="Business man make a speech" PromptU="Business man make a speech" Name="演讲" Prompt="演讲"/>
+    <Elem NameU="Manager sign files" PromptU="Manager sign files" Name="经理签署文件" Prompt="经理签署文件"/>
+    <Elem NameU="Partners talking about scheme" PromptU="Partners talking about scheme" Name="商务伙伴一起探讨方案" Prompt="商务伙伴一起探讨方案"/>
+    <Elem NameU="Secretary call someone" PromptU="Secretary call someone" Name="秘书打电话给某人" Prompt="秘书打电话给某人"/>
+    <Elem NameU="Manager working" PromptU="Manager working" Name="工作中的经理" Prompt="工作中的经理"/>
+    <Elem NameU="Business woman receiving fax" PromptU="Business woman receiving fax" Name="商务女士收取传真" Prompt="商务女士收取传真"/>
+    <Elem NameU="Business man explain global plan" PromptU="Business man explain global plan" Name="商务人员解释全球计划" Prompt="商务人员解释全球计划"/>
+    <Elem NameU="Business man with global plan" PromptU="Business man with global plan" Name="商人和全球计划" Prompt="商人和全球计划"/>
+    <Elem NameU="Business woman working" PromptU="Business woman working" Name="工作中的女商人" Prompt="工作中的女商人"/>
+    <Elem NameU="Going into office" PromptU="Going into office" Name="去工作室" Prompt="去工作室"/>
+    <Elem NameU="Business woman working with laptop" PromptU="Business woman working with laptop" Name="用电脑工作的女商人" Prompt="用电脑工作的女商人"/>
+    <Elem NameU="Business Trip" PromptU="Business Trip" Name="出差" Prompt="出差"/>
+    <Elem NameU="Coffee time" PromptU="Coffee time" Name="休息时间" Prompt="休息时间"/>
+    <Elem NameU="Business man on the airplane" PromptU="Business man on the airplane" Name="在飞机上的商人" Prompt="在飞机上的商人"/>
+    <Elem NameU="Business man in the choochoo" PromptU="Business man in the choochoo" Name="在火车上的商人" Prompt="在火车上的商人"/>
+    <Elem NameU="Business man waiting airplane" PromptU="Business man waiting airplane" Name="在候机室中等待的商人" Prompt="在候机室中等待的商人"/>
+</Lib>

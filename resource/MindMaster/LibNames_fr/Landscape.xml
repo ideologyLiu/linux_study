@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Landscape">
+    <Elem NameU="Great Wall" Name="Grande Muraille" PromptU="Great Wall" Prompt="Grande Muraille"/>
+    <Elem NameU="Volcano" Name="Volcan" PromptU="Volcano" Prompt="Volcan"/>
+    <Elem NameU="Snow Mountain" Name="Montagne enneigée" PromptU="Snow Mountain" Prompt="Montagne enneigée"/>
+    <Elem NameU="Desert" Name="Désert" PromptU="Desert" Prompt="Désert"/>
+    <Elem NameU="Mountains" Name="Montagnes" PromptU="Mountains" Prompt="Montagnes"/>
+    <Elem NameU="Lakes" Name="Lac" PromptU="Lakes" Prompt="Lac"/>
+    <Elem NameU="Forest" Name="Forêt" PromptU="Forest" Prompt="Forêt"/>
+    <Elem NameU="Waterfall 1" Name="Cascade 1" PromptU="Waterfall 1" Prompt="Cascade 1"/>
+    <Elem NameU="Waterfall 2" Name="Cascade 2" PromptU="Waterfall 2" Prompt="Cascade 2"/>
+    <Elem NameU="Stream" Name="Courant" PromptU="Stream" Prompt="Courant"/>
+    <Elem NameU="Sunrise" Name="Lever du soleil" PromptU="Sunrise" Prompt="Lever du soleil"/>
+    <Elem NameU="Beach 1" Name="Plage 1" PromptU="Beach 1" Prompt="Plage 1"/>
+    <Elem NameU="Beach 2" Name="Plage 2" PromptU="Beach 2" Prompt="Plage 2"/>
+    <Elem NameU="Beach 3" Name="Plage 3" PromptU="Beach 3" Prompt="Plage 3"/>
+    <Elem NameU="Holiday Bungalow" Name="Bungalow de vacances" PromptU="Holiday Bungalow" Prompt="Bungalow de vacances"/>
+    <Elem NameU="Castle" Name="Château" PromptU="Castle" Prompt="Château"/>
+    <Elem NameU="Windmill" Name="Moulin à vent" PromptU="Windmill" Prompt="Moulin à vent"/>
+    <Elem NameU="Park" Name="Parc" PromptU="Park" Prompt="Parc"/>
+    <Elem NameU="Stone Bridge" Name="Pont de pierre" PromptU="Stone Bridge" Prompt="Pont de pierre"/>
+    <Elem NameU="Amusement Park" Name="Parc d'attractions" PromptU="Amusement Park" Prompt="Parc d'attractions"/>
+    <Elem NameU="Lake Park" Name="Parc du lac" PromptU="Lake Park" Prompt="Parc du lac"/>
+    <Elem NameU="Village" Name="Village" PromptU="Village" Prompt="Village"/>
+    <Elem NameU="Beijing Bird's Nest Stadium" Name="Stade Beijing Bird's Nest" PromptU="Beijing Bird's Nest Stadium" Prompt="Stade Beijing Bird's Nest"/>
+    <Elem NameU="Taj Mahal" Name="Taj Mahal" PromptU="Taj Mahal" Prompt="Taj Mahal"/>
+    <Elem NameU="Sydney Opera House" Name="Opéra de Sydney" PromptU="Sydney Opera House" Prompt="Opéra de Sydney"/>
+    <Elem NameU="Eiffel Tower" Name="Tour Eiffel" PromptU="Eiffel Tower" Prompt="Tour Eiffel"/>
+    <Elem NameU="Pisa Leaning Tower" Name="Tour penchée de Pise" PromptU="Pisa Leaning Tower" Prompt="Tour penchée de Pise"/>
+</Lib>

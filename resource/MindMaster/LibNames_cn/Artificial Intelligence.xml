@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Artificial Intelligence">
+    <Elem NameU="Robot" Name="机器人" PromptU="Robot" Prompt="机器人"/>
+    <Elem NameU="Intelligent Sound" Name="智能语音" PromptU="Intelligent Sound" Prompt="智能语音"/>
+	<Elem NameU="Intelligent Knowledge" Name="智能知识" PromptU="Intelligent Knowledge" Prompt="智能知识"/>
+    <Elem NameU="Technology And The Brain 1" Name="技术与大脑1" PromptU="Technology And The Brain 1" Prompt="技术与大脑1"/>
+    <Elem NameU="Technology And The Brain 2" Name="技术与大脑2" PromptU="Technology And The Brain 2" Prompt="技术与大脑2"/>
+    <Elem NameU="AI 1" Name="人工智能1" PromptU="AI 1" Prompt="人工智能1"/>
+    <Elem NameU="AI 2" Name="人工智能2" PromptU="AI 2" Prompt="人工智能2"/>
+    <Elem NameU="Mechanical Brain" Name="机械大脑" PromptU="Mechanical Brain" Prompt="机械大脑"/>
+    <Elem NameU="Human Thinking" Name="人脑思考" PromptU="Human ThinkIntelligent Knowledgeing" Prompt="人脑思考"/>
+    <Elem NameU="Abstract Thinking 1" Name="抽象思维1" PromptU="Abstract Thinking 1" Prompt="抽象思维1"/>
+    <Elem NameU="Abstract Thinking 2" Name="抽象思维2" PromptU="Abstract Thinking 2" Prompt="抽象思维2"/>
+    <Elem NameU="People with Intelligence" Name="人与人工智能" PromptU="People with Intelligence" Prompt="People with Intelligence"/>
+    <Elem NameU="Automaton 1" Name="小机器人1" PromptU="Automaton 1" Prompt="小机器人1"/>
+    <Elem NameU="Automaton 2" Name="小机器人2" PromptU="Automaton 2" Prompt="小机器人2"/>
+    <Elem NameU="Automaton 3" Name="小机器人3" PromptU="Automaton 3" Prompt="小机器人3"/>
+    <Elem NameU="Automaton 4" Name="小机器人4" PromptU="Automaton 4" Prompt="小机器人4"/>
+    <Elem NameU="Robot Dog" Name="机械狗" PromptU="Robot Dog" Prompt="机械狗"/>
+    <Elem NameU="Manipulator 1" Name="机械手1" PromptU="Manipulator 1" Prompt="机械手1"/>
+    <Elem NameU="Manipulator 2" Name="机械手2" PromptU="Manipulator 2" Prompt="机械手2"/>
+    <Elem NameU="People With Intelligence" Name="人与人工智能" PromptU="People With Intelligence" Prompt="人与人工智能"/>
+    <Elem NameU="Smart Home" Name="智能家居" PromptU="Smart Home" Prompt="智能家居"/>
+    <Elem NameU="Intelligent Mop" Name="智能拖把" PromptU="Intelligent Mop" Prompt="智能拖把"/>
+    <Elem NameU="Smart Glasses" Name="智能眼镜" PromptU="Smart Glasses" Prompt="智能眼镜"/>
+    <Elem NameU="Blood Pressure Bracelet" Name="可测量血压的智能手环" PromptU="Blood Pressure Bracelet" Prompt="可测量血压的智能手环"/>
+    <Elem NameU="Dust Robot" Name="除尘机器人" PromptU="Dust Robot" Prompt="除尘机器人"/>
+    <Elem NameU="Smartwatch" Name="智能手表" PromptU="Smartwatch" Prompt="智能手表"/>
+    <Elem NameU="Moving Bracelet" Name="移动手环" PromptU="Moving Bracelet" Prompt="移动手环"/>
+    <Elem NameU="VR Glasses" Name="VR眼镜" PromptU="VR Glasses" Prompt="VR眼镜"/>
+    <Elem NameU="Mechanical Arm" Name="机械臂" PromptU="Mechanical Arm" Prompt="机械臂"/>
+    <Elem NameU="Chip Pattern 1" Name="芯片式样1" PromptU="Chip Pattern 1" Prompt="芯片式样1"/>
+    <Elem NameU="Chip Pattern 2" Name="芯片式样2" PromptU="Chip Pattern 2" Prompt="芯片式样2"/>
+    <Elem NameU="Chip Pattern 3" Name="芯片式样3" PromptU="Chip Pattern 3" Prompt="芯片式样3"/>
+    <Elem NameU="Line" Name="线条" PromptU="Line" Prompt="线条"/>
+    <Elem NameU="Fingerprint 1" Name="指纹1" PromptU="Fingerprint 1" Prompt="指纹1"/>
+    <Elem NameU="Fingerprint 2" Name="指纹2" PromptU="Fingerprint 2" Prompt="指纹2"/>
+    <Elem NameU="Fingerprint Scanning" Name="扫描指纹" PromptU="Fingerprint Scanning" Prompt="扫描指纹"/>
+    <Elem NameU="Fingerprint Scanner" Name="指纹扫描器" PromptU="Fingerprint Scanner" Prompt="指纹扫描器"/>
+    <Elem NameU="Aiming" Name="对准" PromptU="Aiming" Prompt="对准"/>
+    <Elem NameU="Creativity" Name="创造性" PromptU="Creativity" Prompt="创造性"/>
+	<Elem NameU="Discovery 1" Name="探索 1" PromptU="Discovery 1" Prompt="探索 1"/>
+	<Elem NameU="Discovery 2" Name="探索 2" PromptU="Discovery 2" Prompt="探索 2"/>
+	<Elem NameU="Communication" Name="智能机器" PromptU="Communication" Prompt="智能机器"/>
+	<Elem NameU="Wire" Name="无线" PromptU="Wire" Prompt="无线"/>
+	<Elem NameU="Machinery" Name="机械" PromptU="Machinery" Prompt="机械"/>
+</Lib>

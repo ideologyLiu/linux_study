@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Silhouette">
+     <Elem NameU="Woman 1"	Name="Frau 1"	PromptU="Woman 1"	Prompt="Frau 1"/>
+     <Elem NameU="Woman 2"	Name="Frau 2"	PromptU="Woman 2"	Prompt="Frau 2"/>
+     <Elem NameU="Woman 3"	Name="Frau 3"	PromptU="Woman 3"	Prompt="Frau 3"/>
+     <Elem NameU="Woman 4"	Name="Frau 4"	PromptU="Woman 4"	Prompt="Frau 4"/>
+     <Elem NameU="Woman 5"	Name="Frau 5"	PromptU="Woman 5"	Prompt="Frau 5"/>
+     <Elem NameU="Woman 6"	Name="Frau 6"	PromptU="Woman 6"	Prompt="Frau 6"/>
+     <Elem NameU="Woman 7"	Name="Frau 7"	PromptU="Woman 7"	Prompt="Frau 7"/>
+     <Elem NameU="Woman 8"	Name="Frau 8"	PromptU="Woman 8"	Prompt="Frau 8"/>
+     <Elem NameU="Woman 9"	Name="Frau 9"	PromptU="Woman 9"	Prompt="Frau 9"/>
+     <Elem NameU="Man 1"	Name="Mann 1"	PromptU="Man 1"	Prompt="Mann 1"/>
+     <Elem NameU="Man 2"	Name="Mann 2"	PromptU="Man 2"	Prompt="Mann 2"/>
+     <Elem NameU="Man 3"	Name="Mann 3"	PromptU="Man 3"	Prompt="Mann 3"/>
+     <Elem NameU="Man 4"	Name="Mann 4"	PromptU="Man 4"	Prompt="Mann 4"/>
+     <Elem NameU="Man 5"	Name="Mann 5"	PromptU="Man 5"	Prompt="Mann 5"/>
+     <Elem NameU="Man 6"	Name="Mann 6"	PromptU="Man 6"	Prompt="Mann 6"/>
+     <Elem NameU="Man 8"	Name="Mann 8"	PromptU="Man 8"	Prompt="Mann 8"/>
+     <Elem NameU="Man 7"	Name="Mann 7"	PromptU="Man 7"	Prompt="Mann 7"/>
+     <Elem NameU="Shake Hands 1"	Name="Hände schütteln 1"	PromptU="Shake Hands 1"	Prompt="Hände schütteln 1"/>
+     <Elem NameU="Shake Hands 2"	Name="Hände schütteln 2"	PromptU="Shake Hands 2"	Prompt="Hände schütteln 2"/>
+     <Elem NameU="Woman Go to Work"	Name="Frau geht zur Arbeit"	PromptU="Woman Go to Work"	Prompt="Frau geht zur Arbeit"/>
+     <Elem NameU="Woman Walking"	Name="Frau zum Fuß"	PromptU="Woman Walking"	Prompt="Frau zum Fuß"/>
+     <Elem NameU="Man Go to Work"	Name="Man geht zur Arbeit"	PromptU="Man Go to Work"	Prompt="Man geht zur Arbeit"/>
+     <Elem NameU="Talk"	Name="Sprechen"	PromptU="Talk"	Prompt="Sprechen"/>
+     <Elem NameU="Rest"	Name="Sich ausruhen"	PromptU="Rest"	Prompt="Sich ausruhen"/>
+     <Elem NameU="Man Play Computer"	Name="Man spielt Computer"	PromptU="Man Play Computer"	Prompt="Man spielt Computer"/>
+     <Elem NameU="Man Business Travel"	Name="Man Business Reise"	PromptU="Man Business Travel"	Prompt="Man Business Reise"/>
+     <Elem NameU="On the Phone"	Name="Am Telefon"	PromptU="On the Phone"	Prompt="Am Telefon"/>
+     <Elem NameU="Talk on the Phone 1"	Name="Gespräch am Telefon 1"	PromptU="Talk on the Phone 1"	Prompt="Gespräch am Telefon 1"/>
+     <Elem NameU="Talk on the Phone 2"	Name="Gespräch am Telefon 2"	PromptU="Talk on the Phone 2"	Prompt="Gespräch am Telefon 2"/>
+     <Elem NameU="Call Someone"	Name="Anruf jemand"	PromptU="Call Someone"	Prompt="Anruf jemand"/>
+     <Elem NameU="Talk with Loudspeaker"	Name="Gespräch mit Lautsprecher"	PromptU="Talk with Loudspeaker"	Prompt="Gespräch mit Lautsprecher"/>
+     <Elem NameU="Woman with Trophy"	Name="Frau mit Trophäe"	PromptU="Woman with Trophy"	Prompt="Frau mit Trophäe"/>
+     <Elem NameU="Man with Trophy"	Name="Mann mit Trophäe"	PromptU="Man with Trophy"	Prompt="Mann mit Trophäe"/>
+     <Elem NameU="Thinking 1"	Name="Denken 1"	PromptU="Thinking 1"	Prompt="Denken 1"/>
+     <Elem NameU="Thinking 2"	Name="Denken 2"	PromptU="Thinking 2"	Prompt="Denken 2"/>
+     <Elem NameU="Cheers"	Name="Beifall"	PromptU="Cheers"	Prompt="Beifall"/>
+     <Elem NameU="Man Celebrating"	Name="Man feiert"	PromptU="Man Celebrating"	Prompt="Man feiert"/>
+     <Elem NameU="Business Talk"	Name="Business Gespräch"	PromptU="Business Talk"	Prompt="Business Gespräch"/>
+     <Elem NameU="Shake Hands 3"	Name="Hände schütteln 3"	PromptU="Shake Hands 3"	Prompt="Hände schütteln 3"/>
+     <Elem NameU="Working"	Name="Arbeiten"	PromptU="Working"	Prompt="Arbeiten"/>
+     <Elem NameU="Cheering"	Name="Jubeln"	PromptU="Cheering"	Prompt="Jubeln"/>
+     <Elem NameU="People Cheering"	Name="Leute jubeln"	PromptU="People Cheering"	Prompt="Leute jubeln"/>
+     <Elem NameU="Girl Reading"	Name="Mädchen lesen"	PromptU="Girl Reading"	Prompt="Mädchen lesen"/>
+     <Elem NameU="Reading with Friend"	Name="Lesen mit Freund"	PromptU="Reading with Friend"	Prompt="Lesen mit Freund"/>
+     <Elem NameU="School Boy"	Name="Schuljunge"	PromptU="School Boy"	Prompt="Schuljunge"/>
+     <Elem NameU="School Girl"	Name="Schulmädchen"	PromptU="School Girl"	Prompt="Schulmädchen"/>
+     <Elem NameU="Champion"	Name="Champion"	PromptU="Champion"	Prompt="Champion"/>
+     <Elem NameU="Shopping"	Name="Einkaufen"	PromptU="Shopping"	Prompt="Einkaufen"/>
+     <Elem NameU="Shopping"	Name="Einkaufen"	PromptU="Shopping"	Prompt="Einkaufen"/>
+     <Elem NameU="Shopping"	Name="Einkaufen"	PromptU="Shopping"	Prompt="Einkaufen"/>
+     <Elem NameU="Business Travel"	Name="Geschäftsreise"	PromptU="Business Travel"	Prompt="Geschäftsreise"/>
+     <Elem NameU="Shopping"	Name="Einkaufen"	PromptU="Shopping"	Prompt="Einkaufen"/>
+     <Elem NameU="Shopping"	Name="Einkaufen"	PromptU="Shopping"	Prompt="Einkaufen"/>
+     <Elem NameU="Shopping Together"	Name="Einkaufen zusammen"	PromptU="Shopping Together"	Prompt="Einkaufen zusammen"/>
+     <Elem NameU="Shopping with Friends"	Name="Einkaufen mit Freunden"	PromptU="Shopping with Friends"	Prompt="Einkaufen mit Freunden"/>
+     <Elem NameU="Shopping with Friends"	Name="Einkaufen mit Freunden"	PromptU="Shopping with Friends"	Prompt="Einkaufen mit Freunden"/>
+     <Elem NameU="Shopping with Cart"	Name="Einkaufen mit Wagen"	PromptU="Shopping with Cart"	Prompt="Einkaufen mit Wagen"/>
+     <Elem NameU="Shopping"	Name="Einkaufen"	PromptU="Shopping"	Prompt="Einkaufen"/>
+     <Elem NameU="Playing Drums"	Name="Schlagzeug spielen"	PromptU="Playing Drums"	Prompt="Schlagzeug spielen"/>
+     <Elem NameU="Playing Piano"	Name="Klavier spielen"	PromptU="Playing Piano"	Prompt="Klavier spielen"/>
+     <Elem NameU="Playing Violin"	Name="Violine spielen"	PromptU="Playing Violin"	Prompt="Violine spielen"/>
+     <Elem NameU="Man Playing Violin"	Name="Mann spielt Violine"	PromptU="Man Playing Violin"	Prompt="Mann spielt Violine"/>
+     <Elem NameU="Playing Flute"	Name="Flöte spielen"	PromptU="Playing Flute"	 Prompt="Flöte spielen"/>
+     <Elem NameU="Woman Singer"	Name="Frau Sänger"	PromptU="Woman Singer"	Prompt="Frau Sänger"/>
+     <Elem NameU="Man Singer"	Name="Mann Sänger"	PromptU="Man Singer"	Prompt="Mann Sänger"/>
+     <Elem NameU="Playing Saxophone"	Name="Saxophon spielen"	PromptU="Playing Saxophone"	Prompt="Saxophon spielen"/>
+     <Elem NameU="Ballet Dancer"	Name="Balletttänzer"	PromptU="Ballet Dancer"	Prompt="Balletttänzer"/>
+     <Elem NameU="Interview"	Name="Interview"	PromptU="Interview"	Prompt="Interview"/>
+     <Elem NameU="Taking a Photo"	Name="Ein Foto aufnehmen"	PromptU="Taking a Photo"	Prompt="Ein Foto aufnehmen"/>
+     <Elem NameU="Taking a Photo"	Name="Ein Foto aufnehmen"	PromptU="Taking a Photo"	Prompt="Ein Foto aufnehmen"/>
+     <Elem NameU="Taking a Photo"	Name="Ein Foto aufnehmen"	PromptU="Taking a Photo"	Prompt="Ein Foto aufnehmen"/>
+     <Elem NameU="Go Travelling"	Name="Reisen"	PromptU="Go Travelling"	Prompt="Reisen"/>
+     <Elem NameU="Brothers"	Name="Brüder"	PromptU="Brothers"	Prompt="Brüder"/>
+     <Elem NameU="Couple"	Name="Paar"	PromptU="Couple"	Prompt="Paar"/>
+     <Elem NameU="Travel Alone"	Name="Alleine reisen"	PromptU="Travel Alone"	Prompt="Alleine reisen"/>
+     <Elem NameU="Happy Family"	Name="Glückliche Familie"	PromptU="Happy Family"	Prompt="Glückliche Familie"/>
+</Lib>

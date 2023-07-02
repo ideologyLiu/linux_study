@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Valentine's Day">
+    <Elem NameU="Lover" Name="Amoureux" PromptU="Lover" Prompt="Amoureux"/>
+    <Elem NameU="Yellow Rose" Name="Rose jaune" PromptU="Yellow Rose" Prompt="Rose jaune"/>
+    <Elem NameU="Red Rose" Name="Rose rouge" PromptU="Red Rose" Prompt="Rose rouge"/>
+    <Elem NameU="Red Rose 2" Name="Rose rouge 2" PromptU="Red Rose 2" Prompt="Rose rouge 2"/>
+    <Elem NameU="Pink Rose" Name="Rose rose" PromptU="Pink Rose" Prompt="Rose rose"/>
+    <Elem NameU="Lily" Name="Lis" PromptU="Lily" Prompt="Lis"/>
+    <Elem NameU="Chocolate" Name="Chocolat" PromptU="Chocolate" Prompt="Chocolat"/>
+    <Elem NameU="Bear Of Love" Name="Ours d'amour" PromptU="Bear Of Love" Prompt="Ours d'amour"/>
+    <Elem NameU="Bear Of Love" Name="Ours d'amour" PromptU="Bear Of Love" Prompt="Ours d'amour"/>
+    <Elem NameU="Fruity Cherry Hair Clip" Name="Pince à cheveux de cerise" PromptU="Fruity Cherry Hair Clip" Prompt="Pince à cheveux de cerise"/>
+    <Elem NameU="Lollipop Love 1" Name="Sucette 1" PromptU="Lollipop Love 1" Prompt="Sucette 1"/>
+    <Elem NameU="Lollipop Love 2" Name="Sucette 2" PromptU="Lollipop Love 2" Prompt="Sucette 2"/>
+    <Elem NameU="Lollipop Love 3" Name="Sucette 3" PromptU="Lollipop Love 3" Prompt="Sucette 3"/>
+    <Elem NameU="Proposal" Name="Proposition" PromptU="Proposal" Prompt="Proposition"/>
+    <Elem NameU="Photo album" Name="Album photo" PromptU="Photo album" Prompt="Album photo"/>
+    <Elem NameU="Wedding ring" Name="Alliance" PromptU="Wedding ring" Prompt="Alliance"/>
+    <Elem NameU="Perfume" Name="Parfum" PromptU="Perfume" Prompt="Parfum"/>
+    <Elem NameU="Love Letter" Name="Lettre d'amour" PromptU="Love Letter" Prompt="Lettre d'amour"/>
+    <Elem NameU="Cupid" Name="Cupidon" PromptU="Cupid" Prompt="Cupidon"/>
+    <Elem NameU="Love letters 1" Name="Lettres d'amour 1" PromptU="Love letters 1" Prompt="Lettres d'amour 1"/>
+    <Elem NameU="Love letters 2" Name="Lettres d'amour 2" PromptU="Love letters 2" Prompt="Lettres d'amour 2"/>
+    <Elem NameU="Lover cup" Name="Tasses d'amoureux" PromptU="Lover cup" Prompt="Tasses d'amoureux"/>
+    <Elem NameU="Kissing Bird" Name="Oiseaux baisent" PromptU="Kissing Bird" Prompt="Oiseaux baisent"/>
+    <Elem NameU="Heart key" Name="Clé de cœur" PromptU="Heart key" Prompt="Clé de cœur"/>
+    <Elem NameU="Heart lock" Name="Serrure de cœur" PromptU="Heart lock" Prompt="Serrure de cœur"/>
+    <Elem NameU="Cupcake 1" Name="Cupcake 1" PromptU="Cupcake 1" Prompt="Cupcake 1"/>
+    <Elem NameU="Cupcake 2" Name="Cupcake 2" PromptU="Cupcake 2" Prompt="Cupcake 2"/>
+    <Elem NameU="Bowknot 1" Name="Nœud Papillon 1" PromptU="Bowknot 1" Prompt="Nœud Papillon 1"/>
+    <Elem NameU="Bowknot 2" Name="Nœud Papillon 2" PromptU="Bowknot 2" Prompt="Nœud Papillon 2"/>
+    <Elem NameU="Flash Card 1" Name="Carte mémoire 1" PromptU="Flash Card 1" Prompt="Carte mémoire 1"/>
+    <Elem NameU="Flash Card 2" Name="Carte mémoire 2" PromptU="Flash Card 2" Prompt="Carte mémoire 2"/>
+    <Elem NameU="Flash Card 3" Name="Carte mémoire 3" PromptU="Flash Card 3" Prompt="Carte mémoire 3"/>
+    <Elem NameU="I LOVE YOU" Name="Je t'aime" PromptU="I LOVE YOU" Prompt="Je t'aime"/>
+    <Elem NameU="Candlestick" Name="Chandelier" PromptU="Candlestick" Prompt="Chandelier"/>
+    <Elem NameU="Red Rose" Name="Rose rouge" PromptU="Red Rose" Prompt="Rose rouge"/>
+    <Elem NameU="Sunflower" Name="Tournesol" PromptU="Sunflower" Prompt="Tournesol"/>
+    <Elem NameU="Tulip" Name="Tulipe" PromptU="Tulip" Prompt="Tulipe"/>
+    <Elem NameU="Lily" Name="Lis" PromptU="Lily" Prompt="Lis"/>
+    <Elem NameU="Flower" Name="Fleur" PromptU="Flower" Prompt="Fleur"/>
+</Lib>

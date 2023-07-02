@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Halloween">
+    <Elem NameU="Signs 1" Name="指示牌 1" PromptU="Signs 1" Prompt="指示牌 1"/>
+    <Elem NameU="Signs 2" Name="指示牌 2" PromptU="Signs 2" Prompt="指示牌 2"/>
+    <Elem NameU="Pumpkin" Name="南瓜" PromptU="Pumpkin" Prompt="南瓜"/>
+    <Elem NameU="Pumpkin1" Name="南瓜1" PromptU="Pumpkin1" Prompt="南瓜"/>
+    <Elem NameU="Pumpkin2" Name="南瓜2" PromptU="Pumpkin2" Prompt="南瓜2"/>
+    <Elem NameU="Pumpkin3" Name="南瓜3" PromptU="Pumpkin3" Prompt="南瓜3"/>
+    <Elem NameU="Pumpkin4" Name="南瓜4" PromptU="Pumpkin4" Prompt="南瓜4"/>
+    <Elem NameU="Pumpkin5" Name="南瓜5" PromptU="Pumpkin5" Prompt="南瓜5"/>
+    <Elem NameU="Pumpkin6" Name="南瓜6" PromptU="Pumpkin6" Prompt="南瓜6"/>
+    <Elem NameU="Pumpkin7" Name="南瓜7" PromptU="Pumpkin7" Prompt="南瓜7"/>
+    <Elem NameU="Pumpkin8" Name="南瓜8" PromptU="Pumpkin8" Prompt="南瓜8"/>
+    <Elem NameU="Bats" Name="蝙蝠" PromptU="Bats" Prompt="蝙蝠"/>
+    <Elem NameU="Bats1" Name="蝙蝠1" PromptU="Bats2" Prompt="蝙蝠2"/>
+    <Elem NameU="Bats2" Name="蝙蝠2" PromptU="Bats2" Prompt="蝙蝠2"/>
+    <Elem NameU="Bats3" Name="蝙蝠3" PromptU="Bats3" Prompt="蝙蝠3"/>
+    <Elem NameU="Tree" Name="树" PromptU="Tree" Prompt="树"/>
+    <Elem NameU="Tree1" Name="树1" PromptU="Tree1" Prompt="树1"/>
+    <Elem NameU="Tree2" Name="树2" PromptU="Tree2" Prompt="树2"/>
+    <Elem NameU="Tree3" Name="树3" PromptU="Tree3" Prompt="树3"/>
+    <Elem NameU="Tree4" Name="树4" PromptU="Tree4" Prompt="树4"/>
+    <Elem NameU="Cobwebs" Name="蜘蛛网" PromptU="Cobwebs" Prompt="蜘蛛网"/>
+    <Elem NameU="Cobwebs1" Name="蜘蛛网1" PromptU="Cobwebs1" Prompt="蜘蛛网1"/>
+    <Elem NameU="Cobwebs2" Name="蜘蛛网2" PromptU="Cobwebs2" Prompt="蜘蛛网2"/>
+    <Elem NameU="Spider" Name="蜘蛛" PromptU="Spider" Prompt="蜘蛛"/>
+    <Elem NameU="Spider1" Name="蜘蛛1" PromptU="Spider1" Prompt="蜘蛛1"/>
+    <Elem NameU="Spider2" Name="蜘蛛2" PromptU="Spider2" Prompt="蜘蛛2"/>
+    <Elem NameU="Spider3" Name="蜘蛛3" PromptU="Spider3" Prompt="蜘蛛3"/>
+    <Elem NameU="Cat" Name="猫" PromptU="Cat" Prompt="猫"/>
+    <Elem NameU="Haunted House" Name="鬼屋" PromptU="Haunted House" Prompt="鬼屋"/>
+    <Elem NameU="Haunted House1" Name="鬼屋1" PromptU="Haunted House1" Prompt="鬼屋1"/>
+    <Elem NameU="Haunted House2" Name="鬼屋2" PromptU="Haunted House2" Prompt="鬼屋2"/>
+    <Elem NameU="Cross" Name="十字架" PromptU="Cross" Prompt="十字架"/>
+    <Elem NameU="Cross1" Name="十字架" PromptU="Cross1" Prompt="十字架"/>
+    <Elem NameU="Ghost" Name="鬼" PromptU="Ghost" Prompt="鬼"/>
+    <Elem NameU="Ghost1" Name="鬼1" PromptU="Ghost1" Prompt="鬼1"/>
+    <Elem NameU="Ghost2" Name="鬼2" PromptU="Ghost2" Prompt="鬼2"/>
+    <Elem NameU="Witch Hat" Name="女巫帽" PromptU="Witch Hat" Prompt="女巫帽"/>
+    <Elem NameU="Witch Hat1" Name="女巫帽1" PromptU="Witch Hat1" Prompt="女巫帽1"/>
+    <Elem NameU="Witch Hat2" Name="女巫帽2" PromptU="Witch Hat2" Prompt="女巫帽2"/>
+    <Elem NameU="Broom" Name="扫帚" PromptU="Broom" Prompt="扫帚"/>
+    <Elem NameU="Broom1" Name="扫帚1" PromptU="Broom1" Prompt="扫帚"/>
+    <Elem NameU="Witch" Name="巫婆" PromptU="Witch" Prompt="巫婆"/>
+    <Elem NameU="Witch1" Name="巫婆1" PromptU="Witch1" Prompt="巫婆1"/>
+    <Elem NameU="Stockpot" Name="煮锅" PromptU="Stockpot" Prompt="煮锅"/>
+    <Elem NameU="Part Finger " Name="手指" PromptU="Part Finger " Prompt="手指"/>
+    <Elem NameU="Mask" Name="面具" PromptU="Mask" Prompt="面具"/>
+    <Elem NameU="Mask1" Name="面具1" PromptU="Mask1" Prompt="面具1"/>
+    <Elem NameU="Sweet" Name="棒棒糖" PromptU="Sweet" Prompt="棒棒糖"/>
+    <Elem NameU="Sweet1" Name="棒棒糖1" PromptU="Sweet1" Prompt="棒棒糖1"/>
+    <Elem NameU="Zombie" Name="僵尸" PromptU="Zombie" Prompt="僵尸"/>
+    <Elem NameU="No face bride" Name="无脸新娘" PromptU="No face bride" Prompt="无脸新娘"/>
+</Lib>

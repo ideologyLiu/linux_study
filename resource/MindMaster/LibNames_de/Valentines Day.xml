@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Valentinstag">
+     <Elem NameU="Lover"	Name = "Liebhaber"	PromptU="Lover"	Prompt = "Liebhaber"/>
+     <Elem NameU="Yellow Rose"	Name = "Gelbe Rose"	PromptU="Yellow Rose"	Prompt = "Gelbe Rose"/>
+     <Elem NameU="Red Rose"	Name = "Rote Rose"	PromptU="Red Rose"	Prompt = "Rote Rose"/>
+     <Elem NameU="Red Rose 2"	Name = "Rote Rose 2"	PromptU="Red Rose 2"	Prompt = "Rote Rose 2"/>
+     <Elem NameU="Pink Rose"	Name = "Rosa Rose"	PromptU="Pink Rose"	Prompt = "Rosa Rose"/>
+     <Elem NameU="Lily"	Name = "Lily"	PromptU="Lily"	Prompt = "Lily"/>
+     <Elem NameU="Chocolate"	Name = "Schokolade"	PromptU="Chocolate"	Prompt = "Schokolade"/>
+     <Elem NameU="Bear Of Love"	Name = "Bär der Liebe"	PromptU="Bear Of Love"	Prompt = "Bär der Liebe"/>
+     <Elem NameU="Bear Of Love"	Name = "Bär der Liebe"	PromptU="Bear Of Love"	Prompt = "Bär der Liebe"/>
+     <Elem NameU="Fruity Cherry Hair Clip"	Name = "Fruchtiger Kirschhaarclip"	PromptU="Fruity Cherry Hair Clip"	Prompt = "Fruchtiger Kirschhaarclip"/>
+     <Elem NameU="Lollipop Love 1"	Name = "Lollipop Liebe 1"	PromptU="Lollipop Love 1"	Prompt = "Lollipop Liebe 1"/>
+     <Elem NameU="Lollipop Love 2"	Name = "Lollipop Liebe 2"	PromptU="Lollipop Love 2"	Prompt = "Lollipop Liebe 2"/>
+     <Elem NameU="Lollipop Love 3"	Name = "Lollipop Liebe 3"	PromptU="Lollipop Love 3"	Prompt = "Lollipop Liebe 3"/>
+     <Elem NameU="Proposal"	Name = "Vorschlag"	PromptU="Proposal"	Prompt = "Vorschlag"/>
+     <Elem NameU="Photo album"	Name = "Fotoalbum"	PromptU="Photo album"	Prompt = "Fotoalbum"/>
+     <Elem NameU="Wedding ring"	Name = "Ehering"	PromptU="Wedding ring"	Prompt = "Ehering"/>
+     <Elem NameU="Perfume"	Name = "Parfüm"	PromptU="Perfume"	Prompt = "Parfüm"/>
+     <Elem NameU="Love Letter"	Name = "Liebesbrief"	PromptU="Love Letter"	Prompt = "Liebesbrief"/>
+     <Elem NameU="Cupid"	Name = "Amor"	PromptU="Cupid"	Prompt = "Amor"/>
+     <Elem NameU="Love letters 1"	Name = "Liebesbriefe 1"	PromptU="Love letters 1"	Prompt = "Liebesbriefe 1"/>
+     <Elem NameU="Love letters 2"	Name = "Liebesbriefe 2"	PromptU="Love letters 2"	Prompt = "Liebesbriefe 2"/>
+     <Elem NameU="Lover cup"	Name = "Lieber Flasche"	PromptU="Lover cup"	Prompt = "Lieber Flasche"/>
+     <Elem NameU="Kissing Bird"	Name = "Vogel küssen"	PromptU="Kissing Bird"	Prompt = "Vogel küssen"/>
+     <Elem NameU="Heart key"	Name = "Herzschlüssel"	PromptU="Heart key"	Prompt = "Herzschlüssel"/>
+     <Elem NameU="Heart lock"	Name = "Herzschloss"	PromptU="Heart lock"	Prompt = "Herzschloss"/>
+     <Elem NameU="Cupcake 1"	Name = "Cupkuchen 1"	PromptU="Cupcake 1"	Prompt = "Cupkuchen 1"/>
+     <Elem NameU="Cupcake 2"	Name = "Cupkuchen 2"	PromptU="Cupcake 2"	Prompt = "Cupkuchen 2"/>
+     <Elem NameU="Bowknot 1"	Name = "Bowknot 1"	PromptU="Bowknot 1"	Prompt = "Bowknot 1"/>
+     <Elem NameU="Bowknot 1"	Name = "Bowknot 1"	PromptU="Bowknot 1"	Prompt = "Bowknot 1"/>
+     <Elem NameU="Flash Card 1"	Name = "Flash Karte 1"	PromptU="Flash Card 1"	Prompt = "Flash Karte 1"/>
+     <Elem NameU="Flash Card 2"	Name = "Flash Karte 2"	PromptU="Flash Card 2"	Prompt = "Flash Karte 2"/>
+     <Elem NameU="Flash Card 3"	Name = "Flash Karte 3"	PromptU="Flash Card 3"	Prompt = "Flash Karte 3"/>
+     <Elem NameU="I LOVE YOU"	Name = "ICH LIEBE DICH"	PromptU="I LOVE YOU"	Prompt = "ICH LIEBE DICH"/>
+     <Elem NameU="Candlestick"	Name = "Kerzenständer"	PromptU="Candlestick"	Prompt = "Kerzenständer"/>
+     <Elem NameU="Red Rose"	Name = "Rote Rose"	PromptU="Red Rose"	Prompt = "Rote Rose"/>
+     <Elem NameU="Sunflower"	Name = "Sonnenblume"	PromptU="Sunflower"	Prompt = "Sonnenblume"/>
+     <Elem NameU="Tulip"	Name = "Tulpe"	PromptU="Tulip"	Prompt = "Tulpe"/>
+     <Elem NameU="Lily"	Name = "Lily"	PromptU="Lily"	Prompt = "Lily"/>
+     <Elem NameU="Flower"	Name = "Blume"	PromptU="Flower"	Prompt = "Blume"/>
+</Lib>

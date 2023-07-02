@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Office">
+    <Elem NameU="Pencil Vase" Name="筆立て" PromptU="Pencil Vase" Prompt="筆立て"/>
+    <Elem NameU="Pen" Name="ペン" PromptU="Pen" Prompt="ペン"/>
+    <Elem NameU="Table Lamp" Name="電気スタンド" PromptU="Table Lamp" Prompt="電気スタンド"/>
+    <Elem NameU="Globe" Name="地球儀" PromptU="Globe" Prompt="地球儀"/>
+    <Elem NameU="Office Chair" Name="オフィスチェア" PromptU="Office Chair" Prompt="オフィスチェア"/>
+    <Elem NameU="Hourglass" Name="砂時計" PromptU="Hourglass" Prompt="砂時計"/>
+    <Elem NameU="Briefcase 1" Name="書類カバン 1" PromptU="Briefcase 1" Prompt="書類カバン 1"/>
+    <Elem NameU="Briefcase 2" Name="書類カバン 2" PromptU="Briefcase 2" Prompt="書類カバン 2"/>
+    <Elem NameU="Briefcase 3" Name="書類カバン 3" PromptU="Briefcase 3" Prompt="書類カバン 3"/>
+    <Elem NameU="Calculator 1" Name="電卓 1" PromptU="Calculator 1" Prompt="電卓 1"/>
+    <Elem NameU="Calculator 2" Name="電卓 2" PromptU="Calculator 2" Prompt="電卓 2"/>
+    <Elem NameU="Employee's Card" Name="従業員のカード" PromptU="Employee's Card" Prompt="従業員のカード"/>
+    <Elem NameU="Folder" Name="フォルダ" PromptU="Folder" Prompt="フォルダ"/>
+    <Elem NameU="Notebook 1" Name="メモ帳 1" PromptU="Notebook 1" Prompt="メモ帳 1"/>
+    <Elem NameU="Notebook 2" Name="メモ帳 2" PromptU="Notebook 2" Prompt="メモ帳 2"/>
+    <Elem NameU="Notebook 3" Name="メモ帳 3" PromptU="Notebook 3" Prompt="メモ帳 3"/>
+    <Elem NameU="Notebook 4" Name="メモ帳 4" PromptU="Notebook 4" Prompt="メモ帳 4"/>
+    <Elem NameU="Calendar 1" Name="カレンダー 1" PromptU="Calendar 1" Prompt="カレンダー 1"/>
+    <Elem NameU="Calendar 2" Name="カレンダー 2" PromptU="Calendar 2" Prompt="カレンダー 2"/>
+    <Elem NameU="Calendar 3" Name="カレンダー 3" PromptU="Calendar 3" Prompt="カレンダー 3"/>
+    <Elem NameU="Calendar 4" Name="カレンダー 4" PromptU="Calendar 4" Prompt="カレンダー 4"/>
+	<Elem NameU="Calendar 5" Name="カレンダー" PromptU="Calendar 5" Prompt="カレンダー"/>
+	<Elem NameU="Calendar 6" Name="カレンダー" PromptU="Calendar 6" Prompt="カレンダー"/>
+	<Elem NameU="Calendar 7" Name="カレンダー" PromptU="Calendar 7" Prompt="カレンダー"/>
+	<Elem NameU="Calendar 8" Name="カレンダー" PromptU="Calendar 8" Prompt="カレンダー"/>
+	<Elem NameU="Calendar 9" Name="カレンダー" PromptU="Calendar 9" Prompt="カレンダー"/>
+	<Elem NameU="Calendar 10" Name="カレンダー" PromptU="Calendar 10" Prompt="カレンダー"/>
+	<Elem NameU="Calendar 11" Name="カレンダー" PromptU="Calendar 11" Prompt="カレンダー"/>
+    <Elem NameU="Documents Pouch" Name="ドキュメントポーチ" PromptU="Documents Pouch" Prompt="ドキュメントポーチ"/>
+    <Elem NameU="Address Book" Name="住所録" PromptU="Address Book" Prompt="住所録"/>
+    <Elem NameU="Printer" Name="プリンター" PromptU="Printer" Prompt="プリンター"/>
+    <Elem NameU="USB" Name="USB" PromptU="USB" Prompt="USB"/>
+    <Elem NameU="Screen" Name="スクリーン" PromptU="Screen" Prompt="スクリーン"/>
+    <Elem NameU="Router" Name="ルーター" PromptU="Router" Prompt="ルーター"/>
+    <Elem NameU="Cellphone" Name="携帯電話" PromptU="Cellphone" Prompt="携帯電話"/>
+    <Elem NameU="Phone" Name="電話" PromptU="Phone" Prompt="電話"/>
+    <Elem NameU="Note Board" Name="ノートボード" PromptU="Note Board" Prompt="ノートボード"/>
+    <Elem NameU="Scissors" Name="はさみ" PromptU="Scissors" Prompt="はさみ"/>
+    <Elem NameU="Ruler" Name="ルーラー" PromptU="Ruler" Prompt="ルーラー"/>
+    <Elem NameU="Pencil Sharpener" Name="鉛筆削り" PromptU="Pencil Sharpener" Prompt="鉛筆削り"/>
+    <Elem NameU="Magnifying Glass" Name="虫眼鏡" PromptU="Magnifying Glass" Prompt="虫眼鏡"/>
+    <Elem NameU="Envelope 1" Name="封筒 1" PromptU="Envelope 1" Prompt="封筒 1"/>
+    <Elem NameU="Envelope 2" Name="封筒 2" PromptU="Envelope 2" Prompt="封筒 2"/>
+    <Elem NameU="Seal" Name="印章" PromptU="Seal" Prompt="印章"/>
+    <Elem NameU="Clock 1" Name="時計 1" PromptU="Clock 1" Prompt="時計 1"/>
+    <Elem NameU="Clock 2" Name="時計 2" PromptU="Clock 2" Prompt="時計 2"/>
+    <Elem NameU="Stopwatch" Name="ストップウォッチ" PromptU="Stopwatch" Prompt="ストップウォッチ"/>
+    <Elem NameU="Bank Card" Name="銀行カード" PromptU="Bank Card" Prompt="銀行カード"/>
+    <Elem NameU="Safe Box" Name="セーフボックス" PromptU="Safe Box" Prompt="セーフボックス"/>
+    <Elem NameU="Folder" Name="フォルダ" PromptU="Folder" Prompt="フォルダ"/>
+    <Elem NameU="Coffee Cup" Name="コーヒーカップ" PromptU="Coffee Cup" Prompt="コーヒーカップ"/>
+    <Elem NameU="Coffee" Name="コーヒー" PromptU="Coffee" Prompt="コーヒー"/>
+    <Elem NameU="Report" Name="レポート" PromptU="Report" Prompt="レポート"/>
+    <Elem NameU="Information" Name="情報" PromptU="Information" Prompt="情報"/>
+    <Elem NameU="Drawing pin" Name="押しピン" PromptU="Drawing pin" Prompt="押しピン"/>
+    <Elem NameU="Headset" Name="ヘッドセット" PromptU="Headset" Prompt="ヘッドセット"/>
+    <Elem NameU="Webcam" Name="ウェブカメラ" PromptU="Webcam" Prompt="ウェブカメラ"/>
+    <Elem NameU="Newspaper" Name="新聞" PromptU="Newspaper" Prompt="新聞"/>
+    <Elem NameU="iPad" Name="iPad" PromptU="iPad" Prompt="iPad"/>
+    <Elem NameU="Laptop" Name="ラップトップ" PromptU="Laptop" Prompt="ラップトップ"/>
+    <Elem NameU="Desktop" Name="デスクトップ" PromptU="Desktop" Prompt="デスクトップ"/>
+    <Elem NameU="Pencil" Name="鉛筆" PromptU="Pencil" Prompt="鉛筆"/>
+    <Elem NameU="Desk" Name="デスク" PromptU="Desk" Prompt="デスク"/>
+    <Elem NameU="Cabinet" Name="キャビネット" PromptU="Cabinet" Prompt="キャビネット"/>
+</Lib>

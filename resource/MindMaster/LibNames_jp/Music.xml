@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Music">
+    <Elem NameU="Drums" Name="ドラム" PromptU="Drums" Prompt="ドラム"/>
+    <Elem NameU="Piano 1" Name="ピアノ 1" PromptU="Piano 1" Prompt="ピアノ 1"/>
+    <Elem NameU="Piano 2" Name="ピアノ 2" PromptU="Piano 2" Prompt="ピアノ 2"/>
+    <Elem NameU="Zither 1" Name="筝 1" PromptU="Zither 1" Prompt="筝 1"/>
+    <Elem NameU="Zither 2" Name="筝 2" PromptU="Zither 2" Prompt="筝 2"/>
+    <Elem NameU="Rock 1" Name="ロック 1" PromptU="Rock 1" Prompt="ロック 1"/>
+    <Elem NameU="Rock 2" Name="ロック 2" PromptU="Rock 2" Prompt="ロック 2"/>
+    <Elem NameU="Cello 1" Name="チェロ 1" PromptU="Cello 1" Prompt="チェロ 1"/>
+    <Elem NameU="Cello 2" Name="チェロ 2" PromptU="Cello 2" Prompt="チェロ 2"/>
+    <Elem NameU="Organist 1" Name="オルガン 1" PromptU="Organist 1" Prompt="オルガン 1"/>
+    <Elem NameU="Organist 2" Name="オルガン 2" PromptU="Organist 2" Prompt="オルガン 2"/>
+    <Elem NameU="Woman Playing Violin" Name="バイオリン" PromptU="Woman Playing Violin" Prompt="バイオリンを弾いている女性"/>
+    <Elem NameU="Man Playing Violin" Name="バイオリン" PromptU="Man Playing Violin" Prompt="バイオリンを弾いている男性"/>
+    <Elem NameU="Flute woman" Name="フルート" PromptU="Flute woman" Prompt="フルート"/>
+    <Elem NameU="Woman Singer" Name="女性歌手" PromptU="Woman Singer" Prompt="女性歌手"/>
+    <Elem NameU="Man Singer 1" Name="男性歌手 1" PromptU="Man Singer 1" Prompt="男性歌手 1"/>
+    <Elem NameU="Man Singer 2" Name="男性歌手 2" PromptU="Man Singer 2" Prompt="男性歌手 2"/>
+    <Elem NameU="Saxophone man" Name="サクソフォーン" PromptU="Saxophone man" Prompt="サクソフォーン"/>
+    <Elem NameU="Ballet" Name="バレエ" PromptU="Ballet" Prompt="バレエ"/>
+    <Elem NameU="Listen to music" Name="音楽を聴く" PromptU="Listen to music" Prompt="音楽を聴く"/>
+    <Elem NameU="Mobile Music" Name="モバイル音楽" PromptU="Mobile Music" Prompt="モバイル音楽"/>
+    <Elem NameU="Accordion" Name="アコーディオン" PromptU="Accordion" Prompt="アコーディオン"/>
+    <Elem NameU="Saxophone" Name="サクソフォーン" PromptU="Saxophone" Prompt="サクソフォーン"/>
+    <Elem NameU="Keyboard 1" Name="キーボード 1" PromptU="Keyboard 1" Prompt="キーボード 1"/>
+    <Elem NameU="Horn" Name="ホルン" PromptU="Horn" Prompt="ホルン"/>
+    <Elem NameU="Flute 1" Name="フルート 1" PromptU="Flute 1" Prompt="フルート 1"/>
+    <Elem NameU="Cello 3" Name="チェロ 3" PromptU="Cello 3" Prompt="チェロ 3"/>
+    <Elem NameU="Flute 2" Name="フルート 2" PromptU="Flute 2" Prompt="フルート 2"/>
+    <Elem NameU="Bass 1" Name="ベース 1" PromptU="Bass 1" Prompt="ベース 1"/>
+    <Elem NameU="Bass 2" Name="ベース 2" PromptU="Bass 2" Prompt="ベース 2"/>
+    <Elem NameU="Guitar" Name="ギター" PromptU="Guitar" Prompt="ギター"/>
+    <Elem NameU="Chinese Instrument" Name="阮咸" PromptU="Chinese Instrument" Prompt="中国の古代楽器"/>
+    <Elem NameU="Huqin" Name="胡琴" PromptU="Huqin" Prompt="胡琴"/>
+    <Elem NameU="Trump" Name="ラッパ" PromptU="Trump" Prompt="ラッパ"/>
+    <Elem NameU="Chinese lute" Name="琵琶" PromptU="Chinese lute" Prompt="琵琶"/>
+    <Elem NameU="Erhu" Name="二胡" PromptU="Erhu" Prompt="二胡"/>
+    <Elem NameU="Tambourine" Name="タンバリン" PromptU="Tambourine" Prompt="タンバリン"/>
+    <Elem NameU="Maraca" Name="マラカス" PromptU="Maraca" Prompt="マラカス"/>
+    <Elem NameU="Piano 3" Name="ピアノ 3" PromptU="Piano 3" Prompt="ピアノ 3"/>
+    <Elem NameU="Snare Drum" Name="小太鼓" PromptU="Snare Drum" Prompt="小太鼓"/>
+    <Elem NameU="Drum" Name="ドラム" PromptU="Drum" Prompt="ドラム"/>
+    <Elem NameU="Trombone" Name="トロンボーン" PromptU="Trombone" Prompt="トロンボーン"/>
+    <Elem NameU="Cheng" Name="箏" PromptU="Cheng" Prompt="箏"/>
+    <Elem NameU="CD 1" Name="CD 1" PromptU="CD 1" Prompt="CD 1"/>
+    <Elem NameU="CD 2" Name="CD 2" PromptU="CD 2" Prompt="CD 2"/>
+    <Elem NameU="BeatEd" Name="レコードプレーヤー" PromptU="BeatEd" Prompt="レコードプレーヤー"/>
+    <Elem NameU="Tape" Name="テープ" PromptU="Tape" Prompt="テープ"/>
+    <Elem NameU="Headset" Name="ヘッドセット" PromptU="Headset" Prompt="ヘッドセット"/>
+    <Elem NameU="Microphone" Name="マイクロフォン" PromptU="Microphone" Prompt="マイクロフォン"/>
+    <Elem NameU="MP3" Name="MP3" PromptU="MP3" Prompt="MP3"/>
+    <Elem NameU="Radio" Name="ラジオ" PromptU="Radio" Prompt="ラジオ"/>
+    <Elem NameU="Keyboard 2" Name="キーボード 2" PromptU="Keyboard 2" Prompt="キーボード 2"/>
+    <Elem NameU="Acoustics" Name="音響" PromptU="Acoustics" Prompt="音響"/>
+    <Elem NameU="Triangle" Name="トライアングル" PromptU="Triangle" Prompt="トライアングル"/>
+    <Elem NameU="Triangolo" Name="トライアングル" PromptU="Triangolo" Prompt="トライアングル"/>
+    <Elem NameU="Volume" Name="音量" PromptU="Volume" Prompt="音量"/>
+    <Elem NameU="Volume Control" Name="音量調節" PromptU="Volume Control" Prompt="音量調節"/>
+    <Elem NameU="Sonogram" Name="ソノグラム" PromptU="Sonogram" Prompt="ソノグラム"/>
+    <Elem NameU="Cable" Name="ケーブル" PromptU="Cable" Prompt="ケーブル"/>
+    <Elem NameU="G Clef" Name="G音記号" PromptU="G Clef" Prompt="G音記号"/>
+    <Elem NameU="Whole Note" Name="全音符" PromptU="Whole Note" Prompt="全音符"/>
+    <Elem NameU="Dotted Half" Name="付点2分音符" PromptU="Dotted Half" Prompt="付点2分音符"/>
+    <Elem NameU="Half Note" Name="2分音符" PromptU="Half Note" Prompt="2分音符"/>
+    <Elem NameU="Quarter Note" Name="4分音符" PromptU="Quarter Note" Prompt="4分音符"/>
+    <Elem NameU="Eighth Note" Name="8分音符" PromptU="Eighth Note" Prompt="8分音符"/>
+    <Elem NameU="Sixteenth Note" Name="16分音符" PromptU="Sixteenth Note" Prompt="16分音符"/>
+    <Elem NameU="Demisemiquaver" Name="32分音符" PromptU="Demisemiquaver" Prompt="32分音符"/>
+    <Elem NameU="Beam Notes" Name="音符" PromptU="Beam Notes" Prompt="音符"/>
+    <Elem NameU="Note" Name="音符" PromptU="Note" Prompt="音符"/>
+    <Elem NameU="Musical Notes with Curved Line" Name="波線付きの音符" PromptU="Musical Notes with Curved Line" Prompt="波線付きの音符"/>
+    <Elem NameU="Straight Musical Note" Name="直線音符" PromptU="Straight Musical Note" Prompt="直線音符"/>
+    <Elem NameU="Colored Musical Note" Name="カラー音符" PromptU="Colored Musical Note" Prompt="カラー音符"/>
+　　　 <Elem NameU="Play" Name="再生" PromptU="Play" Prompt="再生"/>
+    <Elem NameU="Stop" Name="停止" PromptU="Stop" Prompt="停止"/>
+    <Elem NameU="Next song" Name="次の曲" PromptU="Next song" Prompt="次の曲"/>
+    <Elem NameU="Previous song" Name="前の曲" PromptU="Previous song" Prompt="前の曲"/>
+    <Elem NameU="Pause" Name="一時停止" PromptU="Pause" Prompt="一時停止"/>
+    <Elem NameU="Eject" Name="取り出し" PromptU="Eject" Prompt="取り出し"/>
+</Lib>

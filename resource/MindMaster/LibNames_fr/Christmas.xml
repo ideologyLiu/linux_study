@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Christmas">
+    <Elem NameU="Christmas Tree 1" Name="Arbre de Noël 1" PromptU="Christmas Tree 1" Prompt="Arbre de Noël 1"/>
+    <Elem NameU="Christmas Tree 2" Name="Arbre de Noël 2" PromptU="Christmas Tree 2" Prompt="Arbre de Noël 2"/>
+    <Elem NameU="Christmas Tree 3" Name="Arbre de Noël 3" PromptU="Christmas Tree 3" Prompt="Arbre de Noël 3"/>
+    <Elem NameU="Christmas Tree 4" Name="Arbre de Noël 4" PromptU="Christmas Tree 4" Prompt="Arbre de Noël 4"/>
+    <Elem NameU="Christmas Tree 5" Name="Arbre de Noël 5" PromptU="Christmas Tree 5" Prompt="Arbre de Noël 5"/>
+    <Elem NameU="Christmas Tree 6" Name="Arbre de Noël 6" PromptU="Christmas Tree 6" Prompt="Arbre de Noël 6"/>
+    <Elem NameU="Santa Claus 1" Name="Père Noël 1" PromptU="Santa Claus 1" Prompt="Père Noël 1"/>
+    <Elem NameU="Santa Claus 2" Name="Père Noël 2" PromptU="Santa Claus 2" Prompt="Père Noël 2"/>
+    <Elem NameU="Snowman 1" Name="Bonhomme de neige 1" PromptU="Snowman 1" Prompt="Bonhomme de neige 1"/>
+    <Elem NameU="Snowman 2" Name="Bonhomme de neige 2" PromptU="Snowman 2" Prompt="Bonhomme de neige 2"/>
+    <Elem NameU="House" Name="Maison" PromptU="House" Prompt="Maison"/>
+    <Elem NameU="Reindeer" Name="Renne" PromptU="Reindeer" Prompt="Renne"/>
+    <Elem NameU="Elk 1" Name="Traineau du Père Noël 1" PromptU="Elk 1" Prompt="Traineau du Père Noël 1"/>
+    <Elem NameU="Elk 2" Name="Traineau du Père Noël 2" PromptU="Elk 2" Prompt="Traineau du Père Noël 2"/>
+    <Elem NameU="Reindeer 1" Name="Renne 1" PromptU="Reindeer 1" Prompt="Renne 1"/>
+    <Elem NameU="Reindeer 2" Name="Renne 2" PromptU="Reindeer 2" Prompt="Renne 2"/>
+    <Elem NameU="Bells 1" Name="Cloches 1" PromptU="Bells 1" Prompt="Cloches 1"/>
+    <Elem NameU="Bells 2" Name="Cloches 2" PromptU="Bells 2" Prompt="Cloches 2"/>
+    <Elem NameU="Christmas Wreath" Name="Guirlande de Noël" PromptU="Christmas Wreath" Prompt="Guirlande de Noël"/>
+    <Elem NameU="Gift" Name="Cadeau" PromptU="Gift" Prompt="Cadeau"/>
+    <Elem NameU="Gift" Name="Cadeau" PromptU="Gift" Prompt="Cadeau"/>
+    <Elem NameU="Gift" Name="Cadeau" PromptU="Gift" Prompt="Cadeau"/>
+    <Elem NameU="Gift" Name="Cadeau" PromptU="Gift" Prompt="Cadeau"/>
+    <Elem NameU="Gift" Name="Cadeau" PromptU="Gift" Prompt="Cadeau"/>
+    <Elem NameU="Gift" Name="Cadeau" PromptU="Gift" Prompt="Cadeau"/>
+    <Elem NameU="Gift" Name="Cadeau" PromptU="Gift" Prompt="Cadeau"/>
+    <Elem NameU="Gift" Name="Cadeau" PromptU="Gift" Prompt="Cadeau"/>
+    <Elem NameU="Gift" Name="Cadeau" PromptU="Gift" Prompt="Cadeau"/>
+    <Elem NameU="Gift" Name="Cadeau" PromptU="Gift" Prompt="Cadeau"/>
+    <Elem NameU="Gift" Name="Cadeau" PromptU="Gift" Prompt="Cadeau"/>
+    <Elem NameU="Gift" Name="Cadeau" PromptU="Gift" Prompt="Cadeau"/>
+    <Elem NameU="Candy cane" Name="Sucre d'orge" PromptU="Candy cane" Prompt="Sucre d'orge"/>
+    <Elem NameU="Candy cane" Name="Sucre d'orge" PromptU="Candy cane" Prompt="Sucre d'orge"/>
+    <Elem NameU="Candy cane" Name="Sucre d'orge" PromptU="Candy cane" Prompt="Sucre d'orge"/>
+    <Elem NameU="Christmas Ginger Bread" Name="Pain de gingembre de Noël" PromptU="Christmas Ginger Bread" Prompt="Pain de gingembre de Noël"/>
+    <Elem NameU="Christmas Ginger Bread" Name="Pain de gingembre de Noël" PromptU="Christmas Ginger Bread" Prompt="Pain de gingembre de Noël"/>
+    <Elem NameU="Hat" Name="Bonnet de Noël" PromptU="Hat" Prompt="Bonnet de Noël"/>
+    <Elem NameU="Hat" Name="Bonnet de Noël" PromptU="Hat" Prompt="Bonnet de Noël"/>
+    <Elem NameU="Christmas Stockings" Name="Bas de Noël" PromptU="Christmas Stockings" Prompt="Bas de Noël"/>
+    <Elem NameU="Christmas Stockings" Name="Bas de Noël" PromptU="Christmas Stockings" Prompt="Bas de Noël"/>
+    <Elem NameU="Christmas Stockings" Name="Bas de Noël" PromptU="Christmas Stockings" Prompt="Bas de Noël"/>
+    <Elem NameU="Gloves" Name="Gants" PromptU="Gloves" Prompt="Gants"/>
+    <Elem NameU="Gloves" Name="Gants" PromptU="Gloves" Prompt="Gants"/>
+    <Elem NameU="ScarvesGloves" Name="Gants d'écharpes" PromptU="ScarvesGloves" Prompt="Gants d'écharpes"/>
+    <Elem NameU="Reindeer ears" Name="Oreilles de rennes" PromptU="Reindeer ears" Prompt="Oreilles de rennes"/>
+    <Elem NameU="Reindeer ears" Name="Oreilles de rennes" PromptU="Reindeer ears" Prompt="Oreilles de rennes"/>
+    <Elem NameU="Star" Name="Étoile" PromptU="Star" Prompt="Étoile"/>
+    <Elem NameU="Star" Name="Étoile" PromptU="Star" Prompt="Étoile"/>
+    <Elem NameU="Snowflake" Name="Flocon de neige" PromptU="Snowflake" Prompt="Flocon de neige"/>
+    <Elem NameU="Snowflake" Name="Flocon de neige" PromptU="Snowflake" Prompt="Flocon de neige"/>
+    <Elem NameU="Snowflake" Name="Flocon de neige" PromptU="Snowflake" Prompt="Flocon de neige"/>
+    <Elem NameU="Snowflake" Name="Flocon de neige" PromptU="Snowflake" Prompt="Flocon de neige"/>
+    <Elem NameU="Snowflake" Name="Flocon de neige" PromptU="Snowflake" Prompt="Flocon de neige"/>
+    <Elem NameU="Snowflake" Name="Flocon de neige" PromptU="Snowflake" Prompt="Flocon de neige"/>
+    <Elem NameU="Snowflake" Name="Flocon de neige" PromptU="Snowflake" Prompt="Flocon de neige"/>
+    <Elem NameU="Snowflake" Name="Flocon de neige" PromptU="Snowflake" Prompt="Flocon de neige"/>
+    <Elem NameU="Snowflake" Name="Flocon de neige" PromptU="Snowflake" Prompt="Flocon de neige"/>
+    <Elem NameU="Snowflake" Name="Flocon de neige" PromptU="Snowflake" Prompt="Flocon de neige"/>
+    <Elem NameU="Snowflake" Name="Flocon de neige" PromptU="Snowflake" Prompt="Flocon de neige"/>
+    <Elem NameU="Snowflake" Name="Flocon de neige" PromptU="Snowflake" Prompt="Flocon de neige"/>
+    <Elem NameU="Snowflake" Name="Flocon de neige" PromptU="Snowflake" Prompt="Flocon de neige"/>
+    <Elem NameU="Snowflake" Name="Flocon de neige" PromptU="Snowflake" Prompt="Flocon de neige"/>
+    <Elem NameU="Snowflake" Name="Flocon de neige" PromptU="Snowflake" Prompt="Flocon de neige"/>
+    <Elem NameU="Candy" Name="Bonbons" PromptU="Candy" Prompt="Bonbons"/>
+    <Elem NameU="Candy" Name="Bonbons" PromptU="Candy" Prompt="Bonbons"/>
+    <Elem NameU="Candy" Name="Bonbons" PromptU="Candy" Prompt="Bonbons"/>
+    <Elem NameU="Candy" Name="Bonbons" PromptU="Candy" Prompt="Bonbons"/>
+    <Elem NameU="Candy" Name="Bonbons" PromptU="Candy" Prompt="Bonbons"/>
+    <Elem NameU="Candy" Name="Bonbons" PromptU="Candy" Prompt="Bonbons"/>
+    <Elem NameU="Candy" Name="Bonbons" PromptU="Candy" Prompt="Bonbons"/>
+    <Elem NameU="Candle" Name="Bougie" PromptU="Candle" Prompt="Bougie"/>
+    <Elem NameU="Ball" Name="Balle" PromptU="Ball" Prompt="Balle"/>
+    <Elem NameU="Ball" Name="Balle" PromptU="Ball" Prompt="Balle"/>
+    <Elem NameU="Ball" Name="Balle" PromptU="Ball" Prompt="Balle"/>
+    <Elem NameU="Christmas decorations" Name="Décorations de Noël" PromptU="Christmas decorations" Prompt="Christmas decorations"/>
+    <Elem NameU="Christmas decorations" Name="Décorations de Noël" PromptU="Christmas decorations" Prompt="Christmas decorations"/>
+    <Elem NameU="Christmas decorations" Name="Décorations de Noël" PromptU="Christmas decorations" Prompt="Christmas decorations"/>
+    <Elem NameU="Christmas decorations" Name="Décorations de Noël" PromptU="Christmas decorations" Prompt="Christmas decorations"/>
+    <Elem NameU="Christmas decorations" Name="Décorations de Noël" PromptU="Christmas decorations" Prompt="Christmas decorations"/>
+    <Elem NameU="Christmas decorations" Name="Décorations de Noël" PromptU="Christmas decorations" Prompt="Christmas decorations"/>
+    <Elem NameU="Christmas decorations" Name="Décorations de Noël" PromptU="Christmas decorations" Prompt="Christmas decorations"/>
+    <Elem NameU="Balloon" Name="Ballon" PromptU="Balloon" Prompt="Ballon"/>
+    <Elem NameU="Leaf of chinese ilex" Name="Feuille d'ilex chinois" PromptU="Leaf of chinese ilex" Prompt="Feuille d'ilex chinois"/>
+    <Elem NameU="Leaf of chinese ilex" Name="Feuille d'ilex chinois" PromptU="Leaf of chinese ilex" Prompt="Feuille d'ilex chinois"/>
+    <Elem NameU="Flower vine" Name="Fleur vine" PromptU="Flower vine" Prompt="Fleur vine"/>
+    <Elem NameU="Flags" Name="Drapeaux" PromptU="Flags" Prompt="Drapeaux"/>
+    <Elem NameU="Flags" Name="Drapeaux" PromptU="Flags" Prompt="Drapeaux"/>
+    <Elem NameU="Flags" Name="Drapeaux" PromptU="Flags" Prompt="Drapeaux"/>
+    <Elem NameU="Flags" Name="Drapeaux" PromptU="Flags" Prompt="Drapeaux"/>
+    <Elem NameU="Flags" Name="Drapeaux" PromptU="Flags" Prompt="Drapeaux"/>
+    <Elem NameU="Leaf" Name="Feuille" PromptU="Leaf" Prompt="Feuille"/>
+    <Elem NameU="Leaf" Name="Feuille" PromptU="Leaf" Prompt="Feuille"/>
+    <Elem NameU="Leaf" Name="Feuille" PromptU="Leaf" Prompt="Feuille"/>
+    <Elem NameU="Merry Christmas" Name="Joyeux Noël" PromptU="Merry Christmas" Prompt="Joyeux Noël"/>
+    <Elem NameU="Merry Christmas" Name="Joyeux Noël" PromptU="Merry Christmas" Prompt="Joyeux Noël"/>
+    <Elem NameU="Merry Christmas" Name="Joyeux Noël" PromptU="Merry Christmas" Prompt="Joyeux Noël"/>
+</Lib>

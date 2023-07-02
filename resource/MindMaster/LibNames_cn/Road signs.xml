@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Road Signs">
+    <Elem NameU="Roundabout" Name="环形交叉" PromptU="Roundabout" Prompt="环形交叉"/>
+    <Elem NameU="Road narrows on both sides ahead" Name="两侧变窄" PromptU="Road narrows on both sides ahead" Prompt="两侧变窄"/>
+    <Elem NameU="Hump Back Bridge" Name="驼峰桥" PromptU="Hump Back Bridge" Prompt="驼峰桥"/>
+    <Elem NameU="Horse Riders" Name="注意骑马的人" PromptU="Horse Riders" Prompt="注意骑马的人"/>
+    <Elem NameU="Height restriction warning" Name="高度限制警告" PromptU="Height restriction warning" Prompt="高度限制警告"/>
+    <Elem NameU="Falling Rocks" Name="注意落石" PromptU="Falling Rocks" Prompt="注意落石"/>
+    <Elem NameU="Slippery Road" Name="易滑" PromptU="Slippery Road" Prompt="易滑"/>
+    <Elem NameU="Children Crossing" Name="注意儿童" PromptU="Children Crossing" Prompt="注意儿童"/>
+    <Elem NameU="Sheep" Name="注意牲畜-羊" PromptU="Sheep" Prompt="羊"/>
+    <Elem NameU="Cattle" Name="注意牲畜-牛" PromptU="Cattle" Prompt="牛"/>
+    <Elem NameU="Cattle Grid" Name="拦畜木栅" PromptU="Cattle Grid" Prompt="拦畜木栅"/>
+    <Elem NameU="Steep hill downwards" Name="下陡坡" PromptU="Steep hill downwards" Prompt="下陡坡"/>
+    <Elem NameU="Steep hill upwards" Name="上陡坡" PromptU="Steep hill upwards" Prompt="上陡坡"/>
+    <Elem NameU="Danger place" Name="注意危险" PromptU="Danger place" Prompt="Danger place"/>
+    <Elem NameU="Intersection 1" Name="交叉道路" PromptU="Intersection 1" Prompt="交叉道路"/>
+    <Elem NameU="Intersection 2" Name="干路先行" PromptU="Intersection 2" Prompt="干路先行"/>
+    <Elem NameU="Bend" Name="弯路" PromptU="Bend" Prompt="弯路"/>
+    <Elem NameU="Double bend" Name="连续弯路" PromptU="Double bend" Prompt="连续弯路"/>
+    <Elem NameU="Two ways traffic" Name="双行道标志" PromptU="Two ways traffic" Prompt="双行道标志"/>
+    <Elem NameU="Mobile bridge" Name="渡口" PromptU="Mobile bridge" Prompt="渡口"/>
+    <Elem NameU="Traffic Lights" Name="注意信号灯" PromptU="Traffic Lights" Prompt="注意信号灯"/>
+    <Elem NameU="Pedestrian crossing" Name="注意行人" PromptU="Pedestrian crossing" Prompt="注意行人"/>
+    <Elem NameU="Road work" Name="道路施工" PromptU="Road work" Prompt="道路施工"/>
+    <Elem NameU="Back up" Name="后备" PromptU="Back up" Prompt="后备"/>
+    <Elem NameU="Give way" Name="减速让行" PromptU="Give way" Prompt="减速让行"/>
+    <Elem NameU="Crossing" Name="叉形符号" PromptU="Crossing" Prompt="叉形符号"/>
+    <Elem NameU="Stop" Name="停车让行" PromptU="Stop" Prompt="停车让行"/>
+    <Elem NameU="Roundable" Name="环岛行驶" PromptU="Roundable" Prompt="环岛行驶"/>
+    <Elem NameU="Cycle track" Name="非机动车行驶" PromptU="Cycle track" Prompt="非机动车行驶"/>
+    <Elem NameU="Pass this side" Name="靠右侧道路行驶" PromptU="Pass this side" Prompt="靠右侧道路行驶"/>
+    <Elem NameU="Direction to be followed" Name="向右转弯" PromptU="Direction to be followed" Prompt="向右转弯"/>
+    <Elem NameU="One way street" Name="单行路向左或向右" PromptU="One way street" Prompt="单行路向左或向右"/>
+    <Elem NameU="No entry" Name="禁止驶入" PromptU="No entry" Prompt="禁止驶入"/>
+    <Elem NameU="No entry both directions" Name="禁止通行" PromptU="No entry both directions" Prompt="禁止通行"/>
+    <Elem NameU="No pedestrians" Name="禁止行人通行" PromptU="No pedestrians" Prompt="禁止行人通行"/>
+    <Elem NameU="No vehicles designed to carry more than 8 passengers (excluding driver) or local buses" Name="禁止载客超过8人的车辆通行（包括司机）" PromptU="No vehicles designed to carry more than 8 passengers (excluding driver) or local buses" Prompt="禁止载客超过8人的车辆通行（包括司机）"/>
+    <Elem NameU="No towed caravans" Name="禁止拖/挂车通行" PromptU="No towed caravans" Prompt="禁止拖/挂车通行"/>
+    <Elem NameU="No goods vehicles exceeding maximum gross weight shown (in tonnes)" Name="禁止载重超过图示重量的货车通行 (公吨制)" PromptU="No goods vehicles exceeding maximum gross weight shown (in tonnes)" Prompt="禁止载重超过图示重量的货车通行 (公吨制)"/>
+    <Elem NameU="Maximum length (imperial only)" Name="限制车长（英尺制）" PromptU="Maximum length (imperial only)" Prompt="限制车长（英尺制）"/>
+    <Elem NameU="No cycling" Name="禁止非机动车通行" PromptU="No cycling" Prompt="禁止非机动车通行"/>
+    <Elem NameU="No motorcycles" Name="禁止摩托车通行" PromptU="No motorcycles" Prompt="禁止摩托车通行"/>
+    <Elem NameU="No horse-drawn vehicles" Name="禁止畜力车通行" PromptU="No horse-drawn vehicles" Prompt="禁止畜力车通行"/>
+    <Elem NameU="No motor vehicles except solo motorcycles" Name="禁止机动车通行-单人摩托车除外" PromptU="No motor vehicles except solo motorcycles" Prompt="禁止机动车通行-单人摩托车除外"/>
+    <Elem NameU="No motor vehicles" Name="禁止机动车通行" PromptU="No motor vehicles" Prompt="禁止机动车通行"/>
+    <Elem NameU="No Overtaking" Name="禁止超车" PromptU="No Overtaking" Prompt="禁止超车"/>
+    <Elem NameU="No vehicles carrying explosives" Name="禁止运输危险品驶入" PromptU="No vehicles carrying explosives" Prompt="禁止运输危险品驶入"/>
+    <Elem NameU="No U-turns" Name="禁止掉头" PromptU="No U-turns" Prompt="禁止掉头"/>
+    <Elem NameU="No articulated vehicles" Name="禁止拖挂车通行" PromptU="No articulated vehicles" Prompt="禁止拖挂车通行"/>
+    <Elem NameU="No Stopping" Name="禁止停车" PromptU="No Stopping" Prompt="禁止停车"/>
+    <Elem NameU="No left turn" Name="禁止向左转弯" PromptU="No left turn" Prompt="禁止向左转弯"/>
+    <Elem NameU="No right turn" Name="禁止向右转弯" PromptU="No right turn" Prompt="禁止向右转弯"/>
+    <Elem NameU="Maximum height (imperial only)" Name="限制高度（英尺制）" PromptU="Maximum height (imperial only)" Prompt="限制高度（英尺制）"/>
+    <Elem NameU="Maximum height (metric and imperial)" Name="限制高度（公尺和英尺）" PromptU="Maximum height (metric and imperial)" Prompt="限制高度（公尺和英尺）"/>
+    <Elem NameU="Maximum width (imperial only)" Name="限制宽度 （英尺制）" PromptU="Maximum width (imperial only)" Prompt="限制宽度 （英尺制）"/>
+    <Elem NameU="Maximum width (metric and imperial)" Name="限制宽度 （公尺和英尺）" PromptU="Maximum width (metric and imperial)" Prompt="限制宽度 （公尺和英尺）"/>
+    <Elem NameU="Minimum speed" Name="最低限速" PromptU="Minimum speed" Prompt="最低限速"/>
+    <Elem NameU="Maximum speed" Name="最高限速" PromptU="Maximum speed" Prompt="最高限速"/>
+    <Elem NameU="National speed limit" Name="全国车速限制" PromptU="National speed limit" Prompt="全国车速限制"/>
+    <Elem NameU="Shared cycle" Name="行人与非机动车共用车道" PromptU="Shared cycle" Prompt="行人与非机动车共用车道"/>
+    <Elem NameU="Segregated cycle 1" Name="行人与非机动车分离车道1" PromptU="Segregated cycle 1" Prompt="行人与非机动车分离车道1"/>
+    <Elem NameU="Segregated cycle 2" Name="行人与非机动车分离车道2" PromptU="Segregated cycle 2" Prompt="行人与非机动车分离车道2"/>
+    <Elem NameU="Entering 20mph zone" Name="进入20英里区域" PromptU="Entering 20mph zone" Prompt="进入20英里区域"/>
+    <Elem NameU="Maximum weight" Name="限制重量" PromptU="Maximum weight" Prompt="限制重量"/>
+    <Elem NameU="Speed Camera in Operation" Name="注意超速摄像头" PromptU="Speed Camera in Operation" Prompt="注意超速摄像头"/>
+    <Elem NameU="Unsuitable for motor vehicles warning" Name="不适合机动车行驶警示" PromptU="Unsuitable for motor vehicles warning" Prompt="不适合机动车行驶警示"/>
+    <Elem NameU="Escape lane 1" Name="应急逃生车道1" PromptU="Escape lane 1" Prompt="应急逃生车道1"/>
+    <Elem NameU="Escape lane 2" Name="应急逃生车道2" PromptU="Escape lane 2" Prompt="应急逃生车道2"/>
+    <Elem NameU="SOS Point" Name="紧急电话" PromptU="SOS Point" Prompt="紧急电话"/>
+    <Elem NameU="No through road" Name="此路不通" PromptU="No through road" Prompt="此路不通"/>
+    <Elem NameU="Parking" Name="泊车" PromptU="Parking" Prompt="泊车"/>
+    <Elem NameU="No passing without stopping" Name="禁止穿过" PromptU="No passing without stopping" Prompt="禁止穿过"/>
+    <Elem NameU="No parking" Name="禁止车辆长时停放" PromptU="No parking" Prompt="禁止车辆长时停放"/>
+    <Elem NameU="Speed limit" Name="限制速度" PromptU="Speed limit" Prompt="限制速度"/>
+    <Elem NameU="Heigh limit" Name="限制高度" PromptU="Heigh limit" Prompt="限制高度"/>
+    <Elem NameU="Width limit" Name="限制宽度" PromptU="Width limit" Prompt="限制宽度"/>
+    <Elem NameU="Weight limit" Name="限制质量" PromptU="Weight limit" Prompt="限制质量"/>
+    <Elem NameU="Priority over oncoming traffic" Name="交通优先权" PromptU="Priority over oncoming traffic" Prompt="交通优先权"/>
+    <Elem NameU="Streetcar or regular buses" Name="有轨电车或班车点" PromptU="Streetcar or regular buses" Prompt="有轨电车或班车点"/>
+    <Elem NameU="Taxi status" Name="禁止出租车" PromptU="Taxi status" Prompt="禁止出租车"/>
+    <Elem NameU="Speed 30-zone" Name="限速30区域" PromptU="Speed 30-zone" Prompt="限速30区域"/>
+    <Elem NameU="End speed 30-zone" Name="限速30区域结束" PromptU="End speed 30-zone" Prompt="限速30区域结束"/>
+    <Elem NameU="Pedestrian crossing 2" Name="人行横道 2" PromptU="Pedestrian crossing 2" Prompt="人行横道 2"/>
+    <Elem NameU="Police" Name="警察局" PromptU="Police" Prompt="警察局"/>
+    <Elem NameU="Hotel" Name="旅馆" PromptU="Hotel" Prompt="旅馆"/>
+    <Elem NameU="Restaurant" Name="餐饮" PromptU="Restaurant" Prompt="餐饮"/>
+    <Elem NameU="Break down service" Name="维修服务" PromptU="Break down service" Prompt="维修服务"/>
+    <Elem NameU="P+R" Name="转乘停车场" PromptU="P+R" Prompt="转乘停车场"/>
+    <Elem NameU="Restroom" Name="盥洗室" PromptU="Restroom" Prompt="盥洗室"/>
+    <Elem NameU="Fuel" Name="加油站" PromptU="Fuel" Prompt="加油站"/>
+    <Elem NameU="Telephone" Name="电话" PromptU="Telephone" Prompt="电话"/>
+    <Elem NameU="Recommended speed" Name="推荐速度" PromptU="Recommended speed" Prompt="推荐速度"/>
+    <Elem NameU="Nodal point of motorway" Name="告诉公路节点" PromptU="Nodal point of motorway" Prompt="告诉公路节点"/>
+    <Elem NameU="Motorway" Name="高速公路" PromptU="Motorway" Prompt="高速公路"/>
+    <Elem NameU="End motorway" Name="高速公路终点" PromptU="End motorway" Prompt="高速公路终点"/>
+    <Elem NameU="Populated zone" Name="行人密集区" PromptU="Populated zone" Prompt="行人密集区"/>
+    <Elem NameU="End populated zone" Name="行人密集区结束" PromptU="End populated zone" Prompt="行人密集区结束"/>
+    <Elem NameU="Parking with clock" Name="计时停车" PromptU="Parking with clock" Prompt="计时停车"/>
+    <Elem NameU="Number sign" Name="数字牌" PromptU="Number sign" Prompt="数字牌"/>
+    <Elem NameU="Number sign (federal highway)" Name="数字牌(高速路)" PromptU="Number sign (federal highway)" Prompt="数字牌(高速路)"/>
+    <Elem NameU="Exit" Name="出口" PromptU="Exit" Prompt="出口"/>
+    <Elem NameU="Direction to place" Name="路标" PromptU="Direction to place" Prompt="路标"/>
+    <Elem NameU="Board of announcement of exit" Name="出口告示牌" PromptU="Board of announcement of exit" Prompt="出口告示牌"/>
+</Lib>

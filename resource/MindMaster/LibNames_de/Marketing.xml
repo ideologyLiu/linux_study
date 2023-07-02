@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Marketing">
+    <Elem NameU="Marketing mix" Name="Marketing misch" PromptU="Marketing mix" Prompt="Marketing misch"/>
+    <Elem NameU="Marketing planning" Name="Marketing planen" PromptU="Marketing planning" Prompt="Marketing planen"/>
+    <Elem NameU="Content production" Name="Waren herstellen" PromptU="Content production" Prompt="Waren herstellen"/>
+    <Elem NameU="Currency conversion" Name="Währungsumrechnung" PromptU="Currency conversion" Prompt="Währungsumrechnung"/>
+    <Elem NameU="Data analysis" Name="Daten analyse" PromptU="Data analysis" Prompt="Daten analyse"/>
+    <Elem NameU="The statistical figure" Name="Die statistische Figur" PromptU="The statistical figure" Prompt="Die statistische Figur"/>
+    <Elem NameU="Loyalty program" Name="Treu Programm" PromptU="Loyalty program" Prompt="Treu Programm"/>
+    <Elem NameU="Internet marketing" Name="Internet Marketing" PromptU="Internet marketing" Prompt="Internet Marketing"/>
+    <Elem NameU="Advertising" Name="Werbung" PromptU="Advertising" Prompt="Werbung"/>
+    <Elem NameU="Geo targeting" Name="Geo-Targeting" PromptU="Geo targeting" Prompt="Geo-Targeting"/>
+    <Elem NameU="eMail Marketing" Name="eMail Marketing" PromptU="eMail Marketing" Prompt="eMail Marketing"/>
+    <Elem NameU="Creative marketing" Name="Kreative Marketing" PromptU="Creative marketing" Prompt="Kreative Marketing"/>
+    <Elem NameU="Direct mail marketing" Name="Direkt Mail Marketing" PromptU="Direct mail marketing" Prompt="Direkt Mail Marketing"/>
+    <Elem NameU="eCommece marketing" Name="eCommece Marketing" PromptU="eCommece marketing" Prompt="eCommece Marketing"/>
+    <Elem NameU="Marketing automation" Name="Marketing Automation" PromptU="Marketing automation" Prompt="Marketing Automation"/>
+    <Elem NameU="Promotion" Name="Promotion" PromptU="Promotion" Prompt="Promotion"/>
+    <Elem NameU="Mobile marketing" Name="Mobile Marketing" PromptU="Mobile marketing" Prompt="Mobile Marketing"/>
+    <Elem NameU="Monitoring marketing performance" Name="Überwachung der Marketingleistung" PromptU="Monitoring marketing performance" Prompt="Überwachung der Marketingleistung"/>
+    <Elem NameU="Target audience" Name="Zielgruppe" PromptU="Target audience" Prompt="Zielgruppe"/>
+    <Elem NameU="TeleMarketing" Name="TeleMarketing" PromptU="TeleMarketing" Prompt="TeleMarketing"/>
+    <Elem NameU="Training" Name="Ausbildung" PromptU="Training" Prompt="Ausbildung"/>
+    <Elem NameU="Webinars" Name="Webinare" PromptU="Webinars" Prompt="Webinare"/>
+    <Elem NameU="Web support" Name="Web Unterstützung" PromptU="Web support" Prompt="Web Unterstützung"/>
+    <Elem NameU="Online PR" Name="Online PR" PromptU="Online PR" Prompt="Online PR"/>
+    <Elem NameU="Marketing strategy" Name="Marketing Strategie" PromptU="Marketing strategy" Prompt="Marketing Strategie"/>
+    <Elem NameU="Affliate marketing" Name="Affiliate-Marketing" PromptU="Affliate marketing" Prompt="Affiliate-Marketing"/>
+    <Elem NameU="Search engine optimization" Name="Kunden persönliche Entwicklung" PromptU="Search engine optimization" Prompt="Kunden persönliche Entwicklung"/>
+    <Elem NameU="Customer personal development" Name="Persönliche Entwicklung des Kunden" PromptU="Customer personal development" Prompt="Persönliche Entwicklung des Kunden"/>
+    <Elem NameU="Customer relationship management" Name="Kundenbeziehungsmanagement" PromptU="Customer relationship management" Prompt="Kundenbeziehungsmanagement"/>
+    <Elem NameU="Social media marketing" Name="Sozial Medien Marketing" PromptU="Social media marketing" Prompt="Sozial Medien Marketing"/>
+    <Elem NameU="Sales" Name="Umsatz" PromptU="Sales" Prompt="Umsatz"/>
+</Lib>

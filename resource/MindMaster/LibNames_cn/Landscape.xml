@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Landscape">
+    <Elem NameU="Great Wall" Name="长城" PromptU="Great Wall" Prompt="长城"/>
+    <Elem NameU="Volcano" Name="火山" PromptU="Volcano" Prompt="火山"/>
+    <Elem NameU="Snow Mountain" Name="雪山" PromptU="Snow Mountain" Prompt="雪山"/>
+    <Elem NameU="Desert" Name="沙漠" PromptU="Desert" Prompt="沙漠"/>
+    <Elem NameU="Mountains" Name="群山" PromptU="Mountains" Prompt="群山"/>
+    <Elem NameU="Lakes" Name="湖泊" PromptU="Lakes" Prompt="湖泊"/>
+    <Elem NameU="Forest" Name="森林" PromptU="Forest" Prompt="森林"/>
+    <Elem NameU="Waterfall 1" Name="瀑布1" PromptU="Waterfall 1" Prompt="瀑布1"/>
+    <Elem NameU="Waterfall 2" Name="瀑布2" PromptU="Waterfall 2" Prompt="瀑布2"/>
+    <Elem NameU="Stream" Name="小河" PromptU="Stream" Prompt="小河"/>
+    <Elem NameU="Sunrise" Name="日出" PromptU="Sunrise" Prompt="日出"/>
+    <Elem NameU="Beach 1" Name="沙滩1" PromptU="Beach 1" Prompt="沙滩1"/>
+    <Elem NameU="Beach 2" Name="沙滩2" PromptU="Beach 2" Prompt="沙滩2"/>
+    <Elem NameU="Beach 3" Name="沙滩3" PromptU="Beach 3" Prompt="沙滩3"/>
+    <Elem NameU="Holiday Bungalow" Name="度假别墅" PromptU="Holiday Bungalow" Prompt="度假别墅"/>
+    <Elem NameU="Castle" Name="城堡" PromptU="Castle" Prompt="城堡"/>
+    <Elem NameU="Windmill" Name="风车" PromptU="Windmill" Prompt="风车"/>
+    <Elem NameU="Park" Name="公园" PromptU="Park" Prompt="公园"/>
+    <Elem NameU="Stone Bridge" Name="石桥" PromptU="Stone Bridge" Prompt="石桥"/>
+    <Elem NameU="Amusement Park" Name="游乐园" PromptU="Amusement Park" Prompt="游乐园"/>
+    <Elem NameU="Lake Park" Name="湖上公园" PromptU="Lake Park" Prompt="湖上公园"/>
+    <Elem NameU="Village" Name="村庄" PromptU="Village" Prompt="村庄"/>
+    <Elem NameU="Beijing Bird's Nest Stadium" Name="北京鸟巢体育场" PromptU="Beijing Bird's Nest Stadium" Prompt="北京鸟巢体育场"/>
+    <Elem NameU="Taj Mahal" Name="泰姬陵" PromptU="Taj Mahal" Prompt="泰姬陵"/>
+    <Elem NameU="Sydney Opera House" Name="悉尼歌剧院" PromptU="Sydney Opera House" Prompt="悉尼歌剧院"/>
+    <Elem NameU="Eiffel Tower" Name="埃菲尔铁塔" PromptU="Eiffel Tower" Prompt="埃菲尔铁塔"/>
+    <Elem NameU="Pisa Leaning Tower" Name="比萨斜塔" PromptU="Pisa Leaning Tower" Prompt="比萨斜塔"/>
+</Lib>

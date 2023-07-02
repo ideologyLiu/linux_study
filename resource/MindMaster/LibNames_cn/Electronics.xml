@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Electronics">
+    <Elem NameU="PC 1" Name="个人电脑1" PromptU="PC 1" Prompt="个人电脑1"/>
+    <Elem NameU="Laptop 1" Name="笔记本电脑1" PromptU="Laptop 1" Prompt="笔记本电脑1"/>
+    <Elem NameU="PC 2" Name="个人电脑2" PromptU="PC 2" Prompt="个人电脑2"/>
+    <Elem NameU="PC 3" Name="个人电脑3" PromptU="PC 3" Prompt="个人电脑3"/>
+    <Elem NameU="Desktop 1" Name="桌面1" PromptU="Desktop 1" Prompt="桌面1"/>
+    <Elem NameU="Desktop 2" Name="桌面2" PromptU="Desktop 2" Prompt="桌面2"/>
+    <Elem NameU="Laptop 2" Name="笔记本电脑2" PromptU="Laptop 2" Prompt="笔记本电脑2"/>
+    <Elem NameU="Laptop 3" Name="笔记本电脑3" PromptU="Laptop 3" Prompt="笔记本电脑3"/>
+    <Elem NameU="LCD TV" Name="液晶电视" PromptU="LCD TV" Prompt="液晶电视"/>
+    <Elem NameU="iMAC" Name="苹果台式电脑" PromptU="iMAC" Prompt="苹果台式电脑"/>
+    <Elem NameU="iPad" Name="苹果平板电脑" PromptU="iPad" Prompt="苹果平板电脑"/>
+    <Elem NameU="Mobile" Name="手机" PromptU="Mobile" Prompt="手机"/>
+    <Elem NameU="iWatch" Name="苹果手表" PromptU="iWatch" Prompt="苹果手表"/>
+    <Elem NameU="Microsoft Band 1" Name="微软手环1" PromptU="Microsoft Band 1" Prompt="微软手环1"/>
+    <Elem NameU="Microsoft Band 2" Name="微软手环2" PromptU="Microsoft Band 2" Prompt="微软手环2"/>
+    <Elem NameU="Microsoft Band 3" Name="微软手环3" PromptU="Microsoft Band 3" Prompt="微软手环3"/>
+    <Elem NameU="VR Glasses 1" Name="VR眼镜1" PromptU="VR Glasses 1" Prompt="VR眼镜1"/>
+    <Elem NameU="VR Glasses 2" Name="VR眼镜1" PromptU="VR Glasses 2" Prompt="VR眼镜2"/>
+    <Elem NameU="VR Glasses 3" Name="VR眼镜3" PromptU="VR Glasses 3" Prompt="VR眼镜3"/>
+    <Elem NameU="Server" Name="服务器" PromptU="Server" Prompt="服务器"/>
+    <Elem NameU="Mainframe" Name="主机" PromptU="Mainframe" Prompt="主机"/>
+    <Elem NameU="Switch" Name="转换器" PromptU="Switch" Prompt="转换器"/>
+    <Elem NameU="Fax Machine" Name="传真机" PromptU="Fax Machine" Prompt="传真机"/>
+    <Elem NameU="Scanner" Name="扫描仪" PromptU="Scanner" Prompt="扫描仪"/>
+    <Elem NameU="Printer" Name="打印机" PromptU="Printer" Prompt="打印机"/>
+    <Elem NameU="Drone 1" Name="无人机1" PromptU="Drone 1" Prompt="无人机1"/>
+    <Elem NameU="Drone 2" Name="无人机2" PromptU="Drone 2" Prompt="无人机2"/>
+    <Elem NameU="Camera" Name="摄像机" PromptU="Camera" Prompt="摄像机"/>
+    <Elem NameU="Dome Camera" Name="半球摄像机" PromptU="Dome Camera" Prompt="半球摄像机"/>
+    <Elem NameU="Microphone" Name="麦克风" PromptU="Microphone" Prompt="麦克风"/>
+    <Elem NameU="Mouse" Name="鼠标" PromptU="Mouse" Prompt="鼠标"/>
+    <Elem NameU="Wireless Mouse" Name="无线鼠标" PromptU="Wireless Mouse" Prompt="无线鼠标"/>
+    <Elem NameU="Floppy" Name="软盘" PromptU="Floppy" Prompt="软盘"/>
+    <Elem NameU="Loudspeaker" Name="喇叭" PromptU="Loudspeaker" Prompt="喇叭"/>
+    <Elem NameU="iPod" Name="iPod" PromptU="iPod" Prompt="iPod"/>
+    <Elem NameU="Wacom" Name="数位板" PromptU="Wacom" Prompt="数位板"/>
+    <Elem NameU="U-disk" Name="U盘" PromptU="U-disk" Prompt="U盘"/>
+    <Elem NameU="White Board" Name="白板" PromptU="White Board" Prompt="白板"/>
+    <Elem NameU="Projector 1" Name="投影仪1" PromptU="Projector 1" Prompt="投影仪1"/>
+    <Elem NameU="Projector 2" Name="投影仪2" PromptU="Projector 2" Prompt="投影仪2"/>
+    <Elem NameU="Router" Name="路由器" PromptU="Router" Prompt="路由器"/>
+    <Elem NameU="Camera 1" Name="相机1" PromptU="Camera 1" Prompt="相机1"/>
+    <Elem NameU="Camera 2" Name="相机2" PromptU="Camera 2" Prompt="相机2"/>
+    <Elem NameU="Machine" Name="机器" PromptU="Machine" Prompt="机器"/>
+    <Elem NameU="Phone" Name="电话" PromptU="Phone" Prompt="电话"/>
+    <Elem NameU="User" Name="用户" PromptU="User" Prompt="用户"/>
+    <Elem NameU="Organizational chart" Name="组织结构图" PromptU="Organizational chart" Prompt="组织结构图"/>
+    <Elem NameU="Cloud 1" Name="云1" PromptU="Cloud 1" Prompt="云1"/>
+    <Elem NameU="Cloud 2" Name="云2" PromptU="Cloud 2" Prompt="云2"/>
+    <Elem NameU="Lock" Name="锁" PromptU="Lock" Prompt="锁"/>
+    <Elem NameU="Link" Name="链接" PromptU="Link" Prompt="链接"/>
+    <Elem NameU="Search" Name="搜索" PromptU="Search" Prompt="搜索"/>
+    <Elem NameU="Gear 1" Name="设置1" PromptU="Gear 1" Prompt="设置1"/>
+    <Elem NameU="Gear 2" Name="设置2" PromptU="Gear 2" Prompt="设置2"/>
+    <Elem NameU="Gear 3" Name="设置3" PromptU="Gear 3" Prompt="设置3"/>
+    <Elem NameU="Gear 4" Name="设置4" PromptU="Gear 4" Prompt="设置4"/>
+</Lib>

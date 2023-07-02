@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Folders">
+    <Elem NameU="BELL" Name="警示" PromptU="BELL" Prompt="警示"/>
+	<Elem NameU="Dialog Box" Name="提示" PromptU="Dialog Box" Prompt="提示"/>
+	<Elem NameU="Heart" Name="心" PromptU="Heart" Prompt="心"/>
+	<Elem NameU="Location" Name="位置" PromptU="Location" Prompt="位置"/>
+	<Elem NameU="Key" Name="关键" PromptU="Key" Prompt="关键"/>
+	<Elem NameU="Clock" Name="时钟" PromptU="Clock" Prompt="时钟"/>
+	<Elem NameU="Film" Name="电影" PromptU="Film" Prompt="电影"/>
+	<Elem NameU="Phone" Name="电话" PromptU="Phone" Prompt="电话"/>
+	<Elem NameU="Home" Name="主页" PromptU="Home" Prompt="主页"/>
+	<Elem NameU="Sun" Name="晴" PromptU="Sun" Prompt="晴"/>
+	<Elem NameU="Mail" Name="邮件" PromptU="Mail" Prompt="邮件"/>
+	<Elem NameU="Tag" Name="标签" PromptU="Tag" Prompt="标签"/>
+	<Elem NameU="Signal" Name="信号" PromptU="Signal" Prompt="信号"/>
+	<Elem NameU="Computer" Name="计算机" PromptU="Computer" Prompt="计算机"/>
+	<Elem NameU="Prohibition" Name="禁止" PromptU="Prohibition" Prompt="禁止"/>
+	<Elem NameU="Cloud" Name="云" PromptU="Cloud" Prompt="云"/>
+	<Elem NameU="Export" Name="导出" PromptU="Export" Prompt="导出"/>
+	<Elem NameU="Import" Name="导入" PromptU="Import" Prompt="导入"/>
+	<Elem NameU="Music" Name="音乐" PromptU="Music" Prompt="音乐"/>
+	<Elem NameU="Triangle" Name="三角" PromptU="Triangle" Prompt="三角"/>
+	<Elem NameU="Picture" Name="图片" PromptU="Picture" Prompt="图片"/>
+	<Elem NameU="Set" Name="设置" PromptU="Set" Prompt="设置"/>
+	<Elem NameU="Recycle Bin" Name="垃圾桶" PromptU="Recycle Bin" Prompt="垃圾桶"/>
+	<Elem NameU="Magnifying Glass" Name="放大镜" PromptU="Magnifying Glass" Prompt="放大镜"/>
+	<Elem NameU="Star" Name="星" PromptU="Star" Prompt="星"/>
+	<Elem NameU="Deblocking" Name="解锁" PromptU="Deblocking" Prompt="解锁"/>
+	<Elem NameU="Lock" Name="锁定" PromptU="Lock" Prompt="锁定"/>
+	<Elem NameU="Refresh" Name="刷新" PromptU="Refresh" Prompt="刷新"/>
+	<Elem NameU="Plus Sign" Name="加" PromptU="Plus Sign" Prompt="加"/>
+	<Elem NameU="Minus" Name="减" PromptU="Minus" Prompt="减"/>	
+	<Elem NameU="Mistake" Name="错误" PromptU="Mistake" Prompt="错误"/>
+	<Elem NameU="Right" Name="正确" PromptU="Right" Prompt="正确"/>
+	<Elem NameU="Exclamation Point" Name="感叹号" PromptU="Exclamation Point" Prompt="感叹号"/>
+	<Elem NameU="Microphone" Name="麦克风" PromptU="Microphone" Prompt="麦克风"/>
+	<Elem NameU="Calendar" Name="日历" PromptU="Calendar" Prompt="日历"/>
+	<Elem NameU="Switch" Name="电源" PromptU="Switch" Prompt="电源"/>
+	<Elem NameU="Camera" Name="相机" PromptU="Camera" Prompt="相机"/>
+	<Elem NameU="Bracket" Name="括弧" PromptU="Bracket" Prompt="括弧"/>
+	
+</Lib>

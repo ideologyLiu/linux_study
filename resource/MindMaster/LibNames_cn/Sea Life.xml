@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Sea Life">
+    <Elem NameU="Goldfish" Name="金鱼" PromptU="Goldfish" Prompt="Goldfish"/>
+    <Elem NameU="Fish" Name="鱼" PromptU="Fish" Prompt="Fish"/>
+    <Elem NameU="Kiss Fish 1" Name="接吻鱼1" PromptU="Kiss Fish 1" Prompt="接吻鱼"/>
+    <Elem NameU="Kiss Fish 2" Name="接吻鱼2" PromptU="Kiss Fish 2" Prompt="接吻鱼2"/>
+    <Elem NameU="Nemo" Name="小丑鱼" PromptU="Nemo" Prompt="小丑鱼"/>
+    <Elem NameU="Hippocampus 1" Name="海马1" PromptU="Hippocampus 1" Prompt="海马1"/>
+    <Elem NameU="Hippocampus 2" Name="海马2" PromptU="Hippocampus 2" Prompt="海马2"/>
+    <Elem NameU="Jellyfish 1" Name="水母1" PromptU="Jellyfish 1" Prompt="水母1"/>
+    <Elem NameU="Jellyfish 2" Name="水母2" PromptU="Jellyfish 2" Prompt="水母2"/>
+    <Elem NameU="Sea lion 1" Name="海狮1" PromptU="Sea lion 1" Prompt="海狮1"/>
+    <Elem NameU="Sea lion 2" Name="海狮1" PromptU="Sea lion 2" Prompt="海狮1"/>
+    <Elem NameU="Dolphin 1" Name="海豚1" PromptU="Dolphin 1" Prompt="海豚1"/>
+    <Elem NameU="Dolphin 2" Name="海豚2" PromptU="Dolphin 2" Prompt="海豚2"/>
+    <Elem NameU="Dolphin 3" Name="海豚3" PromptU="Dolphin 3" Prompt="海豚3"/>
+    <Elem NameU="Penguin 1" Name="企鹅1" PromptU="Penguin 1" Prompt="企鹅1"/>
+    <Elem NameU="Penguin 2" Name="企鹅2" PromptU="Penguin 2" Prompt="企鹅2"/>
+    <Elem NameU="Octopus" Name="章鱼" PromptU="Octopus" Prompt="章鱼"/>
+    <Elem NameU="Starfish 1" Name="海星1" PromptU="Starfish 1" Prompt="海星1"/>
+    <Elem NameU="Starfish 2" Name="海星2" PromptU="Starfish 2" Prompt="海星2"/>
+    <Elem NameU="Starfish 3" Name="海星3" PromptU="Starfish 3" Prompt="海星3"/>
+    <Elem NameU="Shark" Name="鲨鱼" PromptU="Shark" Prompt="鲨鱼"/>
+    <Elem NameU="Walrus" Name="海象" PromptU="Walrus" Prompt="海象"/>
+    <Elem NameU="Seal 1" Name="海豹1" PromptU="Seal 1" Prompt="海豹1"/>
+    <Elem NameU="Seal 2" Name="海豹2" PromptU="Seal 2" Prompt="海2豹"/>
+    <Elem NameU="Seashell" Name="海贝壳" PromptU="Seashell" Prompt="海贝壳"/>
+    <Elem NameU="Spiral Shell 1" Name="海螺1" PromptU="Spiral Shell 1" Prompt="海螺1"/>
+    <Elem NameU="Spiral Shell 2" Name="海螺2" PromptU="Spiral Shell 2" Prompt="海螺2"/>
+    <Elem NameU="Spiral Shell 3" Name="海螺3" PromptU="Spiral Shell 3" Prompt="海螺3"/>
+</Lib>

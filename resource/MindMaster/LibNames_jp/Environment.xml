@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Environment">
+    <Elem Prompt="水を節約する" Name="水を節約する" PromptU="Save Water" NameU="Save Water"/>
+    <Elem Prompt="緑の地球 1" Name="緑の地球 1" PromptU="Green Earth 1" NameU="Green Earth 1"/>
+    <Elem Prompt="緑の地球 2" Name="緑の地球 2" PromptU="Green Earth 2" NameU="Green Earth 2"/>
+    <Elem Prompt="省エネ" Name="省エネ" PromptU="Energy Saving Bulb" NameU="Energy Saving Bulb"/>
+    <Elem Prompt="省エネ自動車" Name="省エネ自動車" PromptU="Eco-Friendly Car" NameU="Eco-Friendly Car"/>
+    <Elem Prompt="太陽 1" Name="太陽 1" PromptU="Sun 1" NameU="Sun 1"/>
+    <Elem Prompt="太陽 2" Name="太陽 2" PromptU="Sun 2" NameU="Sun 2"/>
+    <Elem Prompt="ゴミ箱 黄" Name="ゴミ箱 黄" PromptU="Yellow Bin" NameU="Yellow Bin"/>
+    <Elem Prompt="ゴミ箱 赤" Name="ゴミ箱 赤" PromptU="Red Bin" NameU="Red Bin"/>
+    <Elem Prompt="ゴミ箱 緑" Name="ゴミ箱 緑" PromptU="Green Bin" NameU="Green Bin"/>
+    <Elem Prompt="ごみ箱 1" Name="ごみ箱 1" PromptU="Recycle Bin 1" NameU="Recycle Bin 1"/>
+    <Elem Prompt="ごみ箱 2" Name="ごみ箱 2" PromptU="Recycle Bin 2" NameU="Recycle Bin 2"/>
+    <Elem Prompt="飛行機 1" Name="飛行機 1" PromptU="Aircraft 1" NameU="Aircraft 1"/>
+    <Elem Prompt="飛行機 2" Name="飛行機 2" PromptU="Aircraft 2" NameU="Aircraft 2"/>
+    <Elem Prompt="自転車" Name="自転車" PromptU="Red Bike" NameU="Red Bike"/>
+    <Elem Prompt="自転車" Name="自転車" PromptU="Green Bike" NameU="Green Bike"/>
+    <Elem Prompt="環境に優しい家" Name="環境に優しい家" PromptU="Eco-Friendly House" NameU="Eco-Friendly House"/>
+    <Elem Prompt="太陽エネルギー" Name="太陽エネルギー" PromptU="Solar Energy" NameU="Solar Energy"/>
+    <Elem Prompt="風エネルギー 1" Name="風エネルギー 1" PromptU="Wind Power 1" NameU="Wind Power 1"/>
+    <Elem Prompt="風エネルギー 2" Name="風エネルギー 2" PromptU="Wind Power 2" NameU="Wind Power 2"/>
+    <Elem Prompt="省エネ電球 1" Name="省エネ電球 1" PromptU="Energy Saving Bulb 1" NameU="Energy Saving Bulb 1"/>
+    <Elem Prompt="省エネ電球 2" Name="省エネ電球 2" PromptU="Energy Saving Bulb 2" NameU="Energy Saving Bulb 2"/>
+    <Elem Prompt="省エネ電球 3" Name="省エネ電球 3" PromptU="Energy Saving Bulb 3" NameU="Energy Saving Bulb 3"/>
+    <Elem Prompt="再利用可能なショッピングバッグ" Name="再利用可能なショッピングバッグ" PromptU="Reusable Shopping Bag" NameU="Reusable Shopping Bag"/>
+    <Elem Prompt="水のリサイクル" Name="水のリサイクル" PromptU="Water Recycle" NameU="Water Recycle"/>
+    <Elem Prompt="節水イラスト" Name="節水イラスト" PromptU="Saving Water Sign" NameU="Saving Water Sign"/>
+    <Elem Prompt="再利用タグ" Name="再利用タグ" PromptU="Environmental Friendly Tag" NameU="Environmental Friendly Tag"/>
+    <Elem Prompt="100% 汚染なしラベル" Name="100% 汚染なしラベル" PromptU="100% Green Label" NameU="100% Green Label"/>
+    <Elem Prompt="エコロゴ 1" Name="エコロゴ 1" PromptU="Environmental Friendly Logo 1" NameU="Environmental Friendly Logo 1"/>
+    <Elem Prompt="エコロゴ 2" Name="エコロゴ 2" PromptU="Environmental Friendly Logo 2" NameU="Environmental Friendly Logo 2"/>
+    <Elem Prompt="再利用可能な瓶" Name="再利用可能な瓶" PromptU="Returnable bottle" NameU="Returnable bottle"/>
+    <Elem Prompt="リサイクルバッテリー" Name="リサイクルバッテリー" PromptU="Recyclable Batteries" NameU="Recyclable Batteries"/>
+    <Elem Prompt="リサイクル可能な紙" Name="リサイクル可能な紙" PromptU="Recyclable Paper" NameU="Recyclable Paper"/>
+    <Elem Prompt="熱気球" Name="熱気球" PromptU="Hot-air Balloon" NameU="Hot-air Balloon"/>
+    <Elem Prompt="道案内" Name="道案内" PromptU="Direction Board" NameU="Direction Board"/>
+    <Elem Prompt="環境保護の勲章" Name="環境保護の勲章" PromptU="Environmental Protection Medal" NameU="Environmental Protection Medal"/>
+    <Elem Prompt="環境にやさしいボックス（開く）" Name="環境にやさしいボックス（開く）" PromptU="Environmental Friendly Box (open)" NameU="Environmental Friendly Box (open)"/>
+    <Elem Prompt="環境にやさしいボックス" Name="環境にやさしいボックス" PromptU="Environmental Friendly Box" NameU="Environmental Friendly Box"/>
+    <Elem Prompt="カクタス 1" Name="カクタス 1" PromptU="Cactus 1" NameU="Cactus 1"/>
+    <Elem Prompt="カクタス 2" Name="カクタス 2" PromptU="Cactus 2" NameU="Cactus 2"/>
+    <Elem Prompt="カクタス 3" Name="カクタス 3" PromptU="Cactus 3" NameU="Cactus 3"/>
+    <Elem Prompt="木 1" Name="木 1" PromptU="Tree 1" NameU="Tree 1"/>
+    <Elem Prompt="木 2" Name="木 2" PromptU="Tree 2" NameU="Tree 2"/>
+    <Elem Prompt="住民" Name="住民" PromptU="Resident" NameU="Resident"/>
+    <Elem Prompt="雲" Name="雲" PromptU="Cloud" NameU="Cloud"/>
+    <Elem Prompt="草原" Name="草原" PromptU="Grassland" NameU="Grassland"/>
+    <Elem Prompt="リサイクルラベル" Name="リサイクルラベル" PromptU="Recycle Label" NameU="Recycle Label"/>
+    <Elem Prompt="リサイクルロゴ 1" Name="リサイクルロゴ 1" PromptU="Recycle Logo 1" NameU="Recycle Logo 1"/>
+    <Elem Prompt="リサイクルロゴ 2" Name="リサイクルロゴ 2" PromptU="Recycle Logo 2" NameU="Recycle Logo 2"/>
+    <Elem Prompt="リサイクルロゴ 3" Name="リサイクルロゴ 3" PromptU="Recycle Logo 3" NameU="Recycle Logo 3"/>
+    <Elem Prompt="化学工場" Name="化学工場" PromptU="Chemical Plant" NameU="Chemical Plant"/>
+    <Elem Prompt="工場" Name="工場" PromptU="Plant" NameU="Plant"/>
+    <Elem Prompt="タンク　1" Name="タンク　1" PromptU="Tanks" NameU="Tanks"/>
+    <Elem Prompt="タンク　2" Name="タンク　2" PromptU="Tank" NameU="Tank"/>
+    <Elem Prompt="架台ラダー" Name="架台ラダー" PromptU="Trestle Ladder" NameU="Trestle Ladder"/>
+    <Elem Prompt="はしご" Name="はしご" PromptU="Ladder" NameU="Ladder"/>
+    <Elem Prompt="ライトスモーク" Name="ライトスモーク" PromptU="Light Smoke" NameU="Light Smoke"/>
+    <Elem Prompt="黒煙" Name="黒煙" PromptU="Dark Smoke" NameU="Dark Smoke"/>
+    <Elem Prompt="建築 1" Name="建築 1" PromptU="Building 1" NameU="Building 1"/>
+    <Elem Prompt="建築 2" Name="建築 2" PromptU="Building 2" NameU="Building 2"/>
+    <Elem Prompt="建築 3" Name="建築 3" PromptU="Building 3" NameU="Building 3"/>
+    <Elem Prompt="建築 4" Name="建築 4" PromptU="Building 4" NameU="Building 4"/>
+    <Elem Prompt="建築 5" Name="建築 5" PromptU="Building 5" NameU="Building 5"/>
+    <Elem Prompt="建築 6" Name="建築 6" PromptU="Building 6" NameU="Building 6"/>
+    <Elem Prompt="建築 7" Name="建築 7" PromptU="Building 7" NameU="Building 7"/>
+    <Elem Prompt="建築 8" Name="建築 8" PromptU="Building 8" NameU="Building 8"/>
+    <Elem Prompt="建築 9" Name="建築 9" PromptU="Building 9" NameU="Building 9"/>
+    <Elem Prompt="煙突 1" Name="煙突 1" PromptU="Chimney 1" NameU="Chimney 1"/>
+    <Elem Prompt="煙突 2" Name="煙突 2" PromptU="Chimney 2" NameU="Chimney 2"/>
+    <Elem Prompt="煙突 4" Name="煙突 4" PromptU="Chimney 4" NameU="Chimney 4"/>
+    <Elem Prompt="煙突 3" Name="煙突 3" PromptU="Chimney 3" NameU="Chimney 3"/>
+    <Elem Prompt="煙突 5" Name="煙突 5" PromptU="Chimney 5" NameU="Chimney 5"/>
+    <Elem Prompt="矢印" Name="矢印" PromptU="Arrows" NameU="Arrows"/>
+    <Elem Prompt="掘削機 1" Name="掘削機 1" PromptU="Excavator 1" NameU="Excavator 1"/>
+    <Elem Prompt="掘削機 2" Name="掘削機 2" PromptU="Excavator 2" NameU="Excavator 2"/>
+    <Elem Prompt="起重機" Name="起重機" PromptU="Hoist" NameU="Hoist"/>
+    <Elem Prompt="起重機 1" Name="起重機 1" PromptU="Crane 1" NameU="Crane 1"/>
+    <Elem Prompt="起重機 2" Name="起重機 2" PromptU="Crane 2" NameU="Crane 2"/>
+    <Elem Prompt="カー 1" Name="カー 1" PromptU="Car 1" NameU="Car 1"/>
+    <Elem Prompt="カー 2" Name="カー 2" PromptU="Car 2" NameU="Car 2"/>
+    <Elem Prompt="オートバイ" Name="オートバイ" PromptU="Motorcycle" NameU="Motorcycle"/>
+    <Elem Prompt="トラック" Name="トラック" PromptU="Truck" NameU="Truck"/>
+    <Elem Prompt="ダンプトラック" Name="ダンプトラック" PromptU="Dump Truck" NameU="Dump Truck"/>
+    <Elem Prompt="ドーナツチャート 1" Name="ドーナツチャート 1" PromptU="Doughnut Chart 1" NameU="Doughnut Chart 1"/>
+    <Elem Prompt="ドーナツチャート 2" Name="ドーナツチャート 2" PromptU="Doughnut Chart 2" NameU="Doughnut Chart 2"/>
+    <Elem Prompt="チャート 1" Name="チャート 1" PromptU="Chart 1" NameU="Chart 1"/>
+    <Elem Prompt="チャート 2" Name="チャート 2" PromptU="Chart 2" NameU="Chart 2"/>
+    <Elem Prompt="水道の蛇口 1" Name="水道の蛇口 1" PromptU="Water Tap 1" NameU="Water Tap 1"/>
+    <Elem Prompt="水道の蛇口 2" Name="水道の蛇口 2" PromptU="Water Tap 2" NameU="Water Tap 2"/>
+    <Elem Prompt="鮫" Name="鮫" PromptU="Shark" NameU="Shark"/>
+    <Elem Prompt="プラグ" Name="プラグ" PromptU="Plug" NameU="Plug"/>
+    <Elem Prompt="環境保護" Name="環境保護" PromptU="Environmental protection" NameU="Environmental protection"/>
+</Lib>

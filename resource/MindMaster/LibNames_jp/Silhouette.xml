@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Silhouette">
+    <Elem NameU="Woman 1" Name="女性 1" PromptU="Woman 1" Prompt="女性 1"/>
+    <Elem NameU="Woman 2" Name="女性 2" PromptU="Woman outline" Prompt="女性 2"/>
+    <Elem NameU="Woman 3" Name="女性 3" PromptU="Woman outline" Prompt="女性 3"/>
+    <Elem NameU="Woman 4" Name="女性 4" PromptU="Woman outline" Prompt="女性 4"/>
+    <Elem NameU="Woman 5" Name="女性 5" PromptU="Woman outline" Prompt="女性 5"/>
+    <Elem NameU="Woman 6" Name="女性 6" PromptU="Woman outline" Prompt="女性 6"/>
+    <Elem NameU="Woman 7" Name="女性 7" PromptU="Woman outline" Prompt="女性 7"/>
+    <Elem NameU="Woman 8" Name="女性 8" PromptU="Woman outline" Prompt="女性 8"/>
+    <Elem NameU="Woman 9" Name="女性 9" PromptU="Woman outline" Prompt="女性 9"/>
+    <Elem NameU="Man 1" Name="男性 1" PromptU="Man 1" Prompt="男性 1"/>
+    <Elem NameU="Man 2" Name="男性 2" PromptU="Man outline" Prompt="男性 2"/>
+    <Elem NameU="Man 3" Name="男性 3" PromptU="Man outline" Prompt="男性 3"/>
+    <Elem NameU="Man 4" Name="男性 4" PromptU="Man outline" Prompt="男性 4"/>
+    <Elem NameU="Man 5" Name="男性 5" PromptU="Man outline" Prompt="男性 5"/>
+    <Elem NameU="Man 6" Name="男性 6" PromptU="Man outline" Prompt="男性 6"/>
+    <Elem NameU="Man 8" Name="男性 7" PromptU="Man outline" Prompt="男性 7"/>
+    <Elem NameU="Man 7" Name="男性 8" PromptU="Man outline" Prompt="男性 8"/>
+    <Elem NameU="Shake Hands 1" Name="握手をする 1" PromptU="Shake hands 1" Prompt="握手をする 1"/>
+    <Elem NameU="Shake Hands 2" Name="握手をする 2" PromptU="Shake Hands 2" Prompt="握手をする 2"/>
+    <Elem NameU="Woman Go to Work" Name="通勤する女性" PromptU="Woman Go to Work" Prompt="通勤する女性"/>
+    <Elem NameU="Woman Walking" Name="ウォーキング女性" PromptU="Woman Walking" Prompt="ウォーキング女性"/>
+    <Elem NameU="Man Go to Work" Name="通勤する男性" PromptU="Man Go to Work" Prompt="通勤する男性"/>
+    <Elem NameU="Talk" Name="話し合う" PromptU="Talk" Prompt="話し合う"/>
+    <Elem NameU="Rest" Name="休憩" PromptU="Rest" Prompt="休憩"/>
+    <Elem NameU="Man Play Computer" Name="仕事中" PromptU="Man Play Computer" Prompt="仕事中"/>
+    <Elem NameU="Man Business Travel" Name="ビジネス旅行 マン" PromptU="Man Business Travel" Prompt="ビジネス旅行 マン"/>
+    <Elem NameU="On the Phone" Name="電話をする" PromptU="On the Phone" Prompt="電話をする"/>
+    <Elem NameU="Talk on the Phone 1" Name="電話をする 1" PromptU="Talk on the Phone 1" Prompt="電話をする 1"/>
+    <Elem NameU="Talk on the Phone 2" Name="電話をする 2" PromptU="Talk on the Phone 2" Prompt="電話をする 2"/>
+    <Elem NameU="Call Someone" Name="誰かに電話する" PromptU="Call Someone" Prompt="誰かに電話する"/>
+    <Elem NameU="Talk with Loudspeaker" Name="スピーカーで話す" PromptU="Talk with Loudspeaker" Prompt="スピーカーで話す"/>
+    <Elem NameU="Woman with Trophy" Name="トロフィーを持つ女性" PromptU="Woman with Trophy" Prompt="トロフィーを持つ女性"/>
+    <Elem NameU="Man with Trophy" Name="トロフィーを持つ男性" PromptU="Man with Trophy" Prompt="トロフィーを持つ男性"/>
+    <Elem NameU="Thinking 1" Name="考えている 1" PromptU="Thinking 1" Prompt="考えている 1"/>
+    <Elem NameU="Thinking 2" Name="考えている 2" PromptU="Thinking 2" Prompt="考えている 2"/>
+    <Elem NameU="Cheers" Name="がんばる" PromptU="Cheers" Prompt="がんばる"/>
+    <Elem NameU="Man Celebrating" Name="興奮している" PromptU="Man Celebrating" Prompt="興奮している"/>
+    <Elem NameU="Business Talk" Name="ビジネス会談" PromptU="Business Talk" Prompt="ビジネス会談"/>
+    <Elem NameU="Shake Hands 3" Name="握手をする 3" PromptU="Shake Hands 3" Prompt="握手をする 3"/>
+    <Elem NameU="Working" Name="仕事中" PromptU="Working" Prompt="仕事中"/>
+    <Elem NameU="Cheering" Name="祝いをする" PromptU="Cheering" Prompt="祝いをする"/>
+    <Elem NameU="People Cheering" Name="祝いをする" PromptU="People Cheering" Prompt="祝いをする"/>
+    <Elem NameU="Girl Reading" Name="読書" PromptU="Girl Reading" Prompt="読書"/>
+    <Elem NameU="Reading with Friend" Name="読書" PromptU="Reading with Friend" Prompt="読書"/>
+    <Elem NameU="School Boy" Name="男子学生" PromptU="School Boy" Prompt="男子学生"/>
+    <Elem NameU="School Girl" Name="女子学生" PromptU="School Girl" Prompt="女子学生"/>
+    <Elem NameU="Champion" Name="優勝者" PromptU="Champion" Prompt="優勝者"/>
+    <Elem NameU="Shopping" Name="買い物" PromptU="Shopping" Prompt="買い物"/>
+    <Elem NameU="Shopping" Name="買い物" PromptU="Shopping" Prompt="買い物"/>
+    <Elem NameU="Shopping" Name="買い物" PromptU="Shopping" Prompt="買い物"/>
+    <Elem NameU="Business Travel" Name="ビジネス旅行" PromptU="Business Travel" Prompt="ビジネス旅行"/>
+    <Elem NameU="Shopping" Name="買い物" PromptU="Shopping" Prompt="買い物"/>
+    <Elem NameU="Shopping" Name="買い物" PromptU="Shopping" Prompt="買い物"/>
+    <Elem NameU="Shopping Together" Name="買い物" PromptU="Shopping Together" Prompt="買い物"/>
+    <Elem NameU="Shopping with Friends" Name="買い物" PromptU="Shopping with Friends" Prompt="買い物"/>
+    <Elem NameU="Shopping with Friends" Name="買い物" PromptU="Shopping with Friends" Prompt="買い物"/>
+    <Elem NameU="Shopping with Cart" Name="買い物" PromptU="Shopping with Cart" Prompt="買い物"/>
+    <Elem NameU="Shopping" Name="買い物" PromptU="Shopping" Prompt="買い物"/>
+    <Elem NameU="Playing Drums" Name="ドラムを演奏する" PromptU="Playing Drums" Prompt="ドラムを演奏する"/>
+    <Elem NameU="Playing Piano" Name="ピアノを弾く" PromptU="Playing Piano" Prompt="ピアノを弾く"/>
+    <Elem NameU="Playing Violin" Name="ヴァイオリンを弾く" PromptU="Playing Violin" Prompt="ヴァイオリンを弾く"/>
+    <Elem NameU="Man Playing Violin" Name="ヴァイオリンを弾く男子" PromptU="Man Playing Violin" Prompt="ヴァイオリンを弾く男子"/>
+    <Elem NameU="Playing Flute" Name="フルートを演奏する" PromptU="Playing Flute" Prompt="フルートを演奏する"/>
+    <Elem NameU="Woman Singer" Name="女性歌手" PromptU="Woman Singer" Prompt="女性歌手"/>
+    <Elem NameU="Man Singer" Name="男性歌手" PromptU="Man Singer" Prompt="男性歌手"/>
+    <Elem NameU="Playing Saxophone" Name="サクソフォンを演奏する" PromptU="Playing Saxophone" Prompt="サクソフォンを演奏する"/>
+    <Elem NameU="Ballet Dancer" Name="バレエダンサー" PromptU="Ballet Dancer" Prompt="バレエダンサー"/>
+    <Elem NameU="Interview" Name="インタビュー" PromptU="Interview" Prompt="インタビュー"/>
+    <Elem NameU="Taking a Photo" Name="写真を撮る" PromptU="Taking a Photo" Prompt="写真を撮る"/>
+    <Elem NameU="Taking a Photo" Name="写真を撮る" PromptU="Taking a Photo" Prompt="写真を撮る"/>
+    <Elem NameU="Taking a Photo" Name="写真を撮る" PromptU="Taking a Photo" Prompt="写真を撮る"/>
+    <Elem NameU="Go Travelling" Name="旅行する" PromptU="Go Travelling" Prompt="旅行する"/>
+    <Elem NameU="Brothers" Name="兄弟" PromptU="Brothers" Prompt="兄弟"/>
+    <Elem NameU="Couple" Name="夫婦" PromptU="Couple" Prompt="夫婦"/>
+    <Elem NameU="Travel Alone" Name="一人の旅" PromptU="Travel Alone" Prompt="一人の旅"/>
+    <Elem NameU="Happy Family" Name="幸せな家族" PromptU="Happy Family" Prompt="幸せな家族"/>
+</Lib>

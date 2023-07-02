@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Tourismus">
+     <Elem PromptU="The Grand Palace"	Prompt= "Der Großartige Palast"	NameU="The Grand Palace"	Name= "Der Großartige Palast"/>
+     <Elem PromptU="London Eye"	Prompt= "London Eye"	NameU="London Eye"	Name= "London Eye"/>
+     <Elem PromptU="Statue of Liberty"	Prompt= "Freiheitsstatue"	NameU="Statue of Liberty"	Name= "Freiheitsstatue"/>
+     <Elem PromptU="Rome Colosseum"	Prompt= "Rom Kolosseum"	NameU="Rome Colosseum"	Name= "Rom Kolosseum"/>
+     <Elem PromptU="Great Wall"	Prompt= "Große Mauer"	NameU="Great Wall"	Name= "Große Mauer"/>
+     <Elem PromptU="Sydney Opera House"	Prompt= "Sydney Opera House"	NameU="Sydney Opera House"	Name= "Sydney Opera House"/>
+     <Elem PromptU="The Pyramids"	Prompt= "Die Pyramiden"	NameU="The Pyramids"	Name= "Die Pyramiden"/>
+     <Elem PromptU="Church"	Prompt= "Kirche"	NameU="Church"	Name= "Kirche"/>
+     <Elem PromptU="Leaning Tower of Pisa"	Prompt= "Lehnender Turm von Pisa"	NameU="Leaning Tower of Pisa"	Name= "Lehnender Turm von Pisa"/>
+     <Elem PromptU="Eiffel Tower"	Prompt= "Eiffelturm"	NameU="Eiffel Tower"	Name= "Eiffelturm"/>
+     <Elem PromptU="The Louvre"	Prompt= "Der Louvre"	NameU="The Louvre"	Name= "Der Louvre"/>
+     <Elem PromptU="Merloin"	Prompt= "Merloin"	NameU="Merloin"	Name= "Merloin"/>
+     <Elem PromptU="Big Ben"	Prompt= "Big Ben"	NameU="Big Ben"	Name= "Big Ben"/>
+     <Elem PromptU="Triumphal Arch"	Prompt= "Triumphbogen"	NameU="Triumphal Arch"	Name= "Triumphbogen"/>
+     <Elem PromptU="Burj Al Arab Hotel"	Prompt= "Burj Al Arab Hotel"	NameU="Burj Al Arab Hotel"	Name= "Burj Al Arab Hotel"/>
+     <Elem PromptU="Dutch Windmill"	Prompt= "Niederländische Windmühle"	NameU="Dutch Windmill"	Name= "Niederländische Windmühle"/>
+     <Elem PromptU="Taj Mahal"	Prompt= "Taj Mahal"	NameU="Taj Mahal"	Name= "Taj Mahal"/>
+     <Elem PromptU="British Museum"	Prompt= "Britisches Museum"	NameU="British Museum"	Name= "Britisches Museum"/>
+     <Elem PromptU="Chichen Itza"	Prompt= "Chichen Itza"	NameU="Chichen Itza"	Name= "Chichen Itza"/>
+     <Elem PromptU="Parliament House"	Prompt= "Parlamentsgebäude"	NameU="Parliament House"	Name= "Parlamentsgebäude"/>
+     <Elem PromptU="The White House"	Prompt= "Das Weiße Haus"	NameU="The White House"	Name= "Das Weiße Haus"/>
+     <Elem PromptU="Pavilion"	Prompt= "Pavillon"	NameU="Pavilion"	Name= "Pavillon"/>
+     <Elem PromptU="Water Villa"	Prompt= "Wasser-Villa"	NameU="Water Villa"	Name= "Wasser-Villa"/>
+     <Elem PromptU="Waterfall 1"	Prompt= "Wasserfall 1"	NameU="Waterfall 1"	Name= "Wasserfall 1"/>
+     <Elem PromptU="Waterfall 2"	Prompt= "Wasserfall 2"	NameU="Waterfall 2"	Name= "Wasserfall 2"/>
+     <Elem PromptU="Fountain"	Prompt= "Brunnen"	NameU="Fountain"	Name= "Brunnen"/>
+     <Elem PromptU="Telephone Booth"	Prompt= "Telefonzelle"	NameU="Telephone Booth"	Name= "Telefonzelle"/>
+     <Elem PromptU="Pillar box"	Prompt= "Säulenbox"	NameU="Pillar box"	Name= "Säulenbox"/>
+     <Elem PromptU="Direction Board"	Prompt= "Richtungsbrett"	NameU="Direction Board"	Name= "Richtungsbrett"/>
+     <Elem PromptU="Travel Suitcase"	Prompt= "Reisekoffer"	NameU="Travel Suitcase"	Name= "Reisekoffer"/>
+     <Elem PromptU="Luggage"	Prompt= "Gepäck"	NameU="Luggage"	Name= "Gepäck"/>
+     <Elem PromptU="Person with Suitcase"	Prompt= "Person mit Koffer"	NameU="Person with Suitcase"	Name= "Person mit Koffer"/>
+     <Elem PromptU="Brother and Sister"	Prompt= "Bruder und Schwester"	NameU="Brother and Sister"	Name= "Bruder und Schwester"/>
+     <Elem PromptU="Couple Walking"	Prompt= "Paar Wandern"	NameU="Couple Walking"	Name= "Paar Wandern"/>
+     <Elem PromptU="People with Camera"	Prompt= "Leute mit Kamera"	NameU="People with Camera"	Name= "Leute mit Kamera"/>
+     <Elem PromptU="Family"	Prompt= "Familie"	NameU="Family"	Name= "Familie"/>
+     <Elem PromptU="Surfboard"	Prompt= "Surfboard"	NameU="Surfboard"	Name= "Surfboard"/>
+     <Elem PromptU="Beach Umbrella"	Prompt= "Sonnenschirm"	NameU="Beach Umbrella"	Name= "Sonnenschirm"/>
+     <Elem PromptU="Liqueur"	Prompt= "Likör"	NameU="Liqueur"	Name= "Likör"/>
+     <Elem PromptU="Coconut Palm"	Prompt= "Kokosnuss-Palme"	NameU="Coconut Palm"	Name= "Kokosnuss-Palme"/>
+     <Elem PromptU="Dolphin"	Prompt= "Dolphin"	NameU="Dolphin"	Name= "Dolphin"/>
+     <Elem PromptU="Starfish"	Prompt= "Starfish"	NameU="Starfish"	Name= "Starfish"/>
+     <Elem PromptU="Seashell"	Prompt= "Seashell"	NameU="Seashell"	Name= "Seashell"/>
+     <Elem PromptU="Spiral Shell 1"	Prompt= "Spiralschale 1"	NameU="Spiral Shell 1"	Name= "Spiralschale 1"/>
+     <Elem PromptU="Spiral Shell 2"	Prompt= "Spiral Shell 2"	NameU="Spiral Shell 2"	Name= "Spiral Shell 2"/>
+     <Elem PromptU="Spiral Shell 3"	Prompt= "Spiralschale 3"	NameU="Spiral Shell 3"	Name= "Spiralschale 3"/>
+     <Elem PromptU="Shark"	Prompt= "Hai"	NameU="Shark"	Name= "Hai"/>
+     <Elem PromptU="Fish"	Prompt= "Fisch"	NameU="Fish"	Name= "Fisch"/>
+     <Elem PromptU="Giraffe"	Prompt= "Giraffe"	NameU="Giraffe"	Name= "Giraffe"/>
+     <Elem PromptU="Swim goggles"	Prompt= "Schwimmbrille"	NameU="Swim goggles"	Name= "Schwimmbrille"/>
+     <Elem PromptU="Sunglasses 1"	Prompt= "Sonnenbrille 1"	NameU="Sunglasses 1"	Name= "Sonnenbrille 1"/>
+     <Elem PromptU="Sunglasses 2"	Prompt= "Sonnenbrille 2"	NameU="Sunglasses 2"	Name= "Sonnenbrille 2"/>
+     <Elem PromptU="Cap 1"	Prompt= "Hut 1"	NameU="Cap 1"	Name= "Hut 1"/>
+     <Elem PromptU="Cap 2"	Prompt= "Hut 2"	NameU="Cap 2"	Name= "Hut 2"/>
+     <Elem PromptU="Bikini"	Prompt= "Bikini"	NameU="Bikini"	Name= "Bikini"/>
+     <Elem PromptU="Packet"	Prompt= "Paket"	NameU="Packet"	Name= "Paket"/>
+     <Elem PromptU="Beach shoes"	Prompt= "Strandschuhe"	NameU="Beach shoes"	Name= "Strandschuhe"/>
+     <Elem PromptU="Beach chair 1"	Prompt= "Strandstuhl 1"	NameU="Beach chair 1"	Name= "Strandstuhl 1"/>
+     <Elem PromptU="Beach chair 2"	Prompt= "Strandstuhl 2"	NameU="Beach chair 2"	Name= "Strandstuhl 2"/>
+     <Elem PromptU="The beach area"	Prompt= "Der Strandbereich"	NameU="The beach area"	Name= "Der Strandbereich"/>
+     <Elem PromptU="Bank Card"	Prompt= "Bankkarte"	NameU="Bank Card"	Name= "Bankkarte"/>
+     <Elem PromptU="Cloud"	Prompt= "Wolke"	NameU="Cloud"	Name= "Wolke"/>
+     <Elem PromptU="Aircraft 1"	Prompt= "Flugzeug 1"	NameU="Aircraft 1"	Name= "Flugzeug 1"/>
+     <Elem PromptU="Aircraft 2"	Prompt= "Flugzeug 2"	NameU="Aircraft 2"	Name= "Flugzeug 2"/>
+     <Elem PromptU="Aircraft 3"	Prompt= "Flugzeug 3"	NameU="Aircraft 3"	Name= "Flugzeug 3"/>
+     <Elem PromptU="Car"	Prompt= "Auto"	NameU="Car"	Name= "Auto"/>
+     <Elem PromptU="Bus"	Prompt= "Bus"	NameU="Bus"	Name= "Bus"/>
+     <Elem PromptU="Double Decker Bus"	Prompt= "Doppeldeckerbus"	NameU="Double Decker Bus"	Name= "Doppeldeckerbus"/>
+     <Elem PromptU="Family Car"	Prompt= "Familienwagen"	NameU="Family Car"	Name= "Familienwagen"/>
+     <Elem PromptU="Cruise Ship"	Prompt= "Kreuzfahrtschiff"	NameU="Cruise Ship"	Name= "Kreuzfahrtschiff"/>
+     <Elem PromptU="Sailing"	Prompt= "Segeln"	NameU="Sailing"	Name= "Segeln"/>
+     <Elem PromptU="Sunny"	Prompt= "Sonnig"	NameU="Sunny"	Name= "Sonnig"/>
+     <Elem PromptU="Cloudy"	Prompt= "Bewölkt"	NameU="Cloudy"	Name= "Bewölkt"/>
+     <Elem PromptU="Overcast"	Prompt= "Bedeckter"	NameU="Overcast"	Name= "Bedeckter"/>
+     <Elem PromptU="Rainy"	Prompt= "Regnerisch"	NameU="Rainy"	Name= "Regnerisch"/>
+     <Elem PromptU="Thunderstorm"	Prompt= "Gewitter"	NameU="Thunderstorm"	Name= "Gewitter"/>
+     <Elem PromptU="Thunder"	Prompt= "Donner"	NameU="Thunder"	Name= "Donner"/>
+     <Elem PromptU="Heavy Snow"	Prompt= "Heavy Snow"	NameU="Heavy Snow"	Name= "Heavy Snow"/>
+     <Elem PromptU="Rain and Snow"	Prompt= "Regen und Schnee"	NameU="Rain and Snow"	Name= "Regen und Schnee"/>
+     <Elem PromptU="Umbrella"	Prompt= "Regenschirm"	NameU="Umbrella"	Name= "Regenschirm"/>
+     <Elem PromptU="Location Mark"	Prompt= "Standortmarke"	NameU="Location Mark"	Name= "Standortmarke"/>
+     <Elem PromptU="Compass"	Prompt= "Kompass"	NameU="Compass"	Name= "Kompass"/>
+     <Elem PromptU="People"	Prompt= "Menschen"	NameU="People"	Name= "Menschen"/>
+</Lib>

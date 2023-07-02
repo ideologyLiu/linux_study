@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="News Media">
+    <Elem Prompt="カチンコ" Name="カチンコ" PromptU="Clapboard" NameU="Clapboard"/>
+    <Elem Prompt="テレビ" Name="テレビ" PromptU="TV" NameU="TV"/>
+    <Elem Prompt="ラジオ" Name="ラジオ" PromptU="Radio" NameU="Radio"/>
+    <Elem Prompt="映画" Name="映画" PromptU="Film" NameU="Film"/>
+    <Elem Prompt="監視" Name="監視" PromptU="Monitoring" NameU="Monitoring"/>
+    <Elem Prompt="マイク" Name="マイク" PromptU="Microphone" NameU="Microphone"/>
+    <Elem Prompt="受信機" Name="受信機" PromptU="Receiver" NameU="Receiver"/>
+    <Elem Prompt="衛星" Name="衛星" PromptU="Satellite" NameU="Satellite"/>
+    <Elem Prompt="ビデオプレイヤー" Name="ビデオプレイヤー" PromptU="Video player" NameU="Video player"/>
+    <Elem Prompt="放送" Name="放送" PromptU="Broadcast" NameU="Broadcast"/>
+    <Elem Prompt="マイクロフォン 1" Name="マイクロフォン 1" PromptU="Microphone 1" NameU="Microphone 1"/>
+    <Elem Prompt="マイクロフォン 2" Name="マイクロフォン 2" PromptU="Microphone 2" NameU="Microphone 2"/>
+    <Elem Prompt="イヤホン" Name="イヤホン" PromptU="Earphone" NameU="Earphone"/>
+    <Elem Prompt="話題のニュース" Name="話題のニュース" PromptU="Hot News" NameU="Hot News"/>
+    <Elem Prompt="取材許可証" Name="取材許可証" PromptU="Press Card" NameU="Press Card"/>
+    <Elem Prompt="ビデオカメラ" Name="ビデオカメラ" PromptU="Video Camera" NameU="Video Camera"/>
+    <Elem Prompt="中継車" Name="中継車" PromptU="News Truck" NameU="News Truck"/>
+    <Elem Prompt="中継車" Name="中継車" PromptU="News Van" NameU="News Van"/>
+    <Elem Prompt="取材" Name="取材" PromptU="Interview" NameU="Interview"/>
+    <Elem Prompt="撮影" Name="撮影" PromptU="Video Shooting" NameU="Video Shooting"/>
+    <Elem Prompt="写真を撮る 1" Name="写真を撮る 1" PromptU="Taking Photos 1" NameU="Taking Photos 1"/>
+    <Elem Prompt="写真を撮る 2" Name="写真を撮る 2" PromptU="Taking Photo 2" NameU="Taking Photo 2"/>
+    <Elem Prompt="グローバル" Name="グローバル" PromptU="Global" NameU="Global"/>
+    <Elem Prompt="記者会見" Name="記者会見" PromptU="Press Conference" NameU="Press Conference"/>
+    <Elem Prompt="焦点" Name="焦点" PromptU="Focus" NameU="Focus"/>
+    <Elem Prompt="発見" Name="発見" PromptU="Discover" NameU="Discover"/>
+    <Elem Prompt="世界地図" Name="世界地図" PromptU="World Map" NameU="World Map"/>
+    <Elem Prompt="時計" Name="時計" PromptU="Clock" NameU="Clock"/>
+    <Elem Prompt="メモ帳" Name="メモ帳" PromptU="Notepad" NameU="Notepad"/>
+    <Elem Prompt="データ分析" Name="データ分析" PromptU="Data Analysis" NameU="Data Analysis"/>
+    <Elem Prompt="人" Name="人" PromptU="People" NameU="People"/>
+    <Elem Prompt="新聞" Name="新聞" PromptU="Newspaper" NameU="Newspaper"/>
+    <Elem Prompt="映写幕" Name="映写幕" PromptU="Projection screen" NameU="Projection screen"/>
+    <Elem Prompt="パソコン" Name="パソコン" PromptU="Computer" NameU="Computer"/>
+    <Elem Prompt="液晶テレビ" Name="液晶テレビ" PromptU="LCD TV" NameU="LCD TV"/>
+    <Elem Prompt="携帯電話" Name="携帯電話" PromptU="Mobile" NameU="Mobile"/>
+</Lib>

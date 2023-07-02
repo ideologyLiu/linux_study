@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bedroom">
+    <Elem NameU="Running on Treadmill 1" PromptU="Running on Treadmill 1" Prompt="Courir sur le tapis roulant 1" Name="Courir sur le tapis roulant 1"/>
+	<Elem NameU="Running on Treadmill 2" PromptU="Running on Treadmill 2" Prompt="Courir sur le tapis roulant 2" Name="Courir sur le tapis roulant 2"/>
+    <Elem NameU="Fitness Man" PromptU="Fitness Man" Prompt="Homme de fitness" Name="Homme de fitness"/>
+	<Elem NameU="Yoga 1" PromptU="Yoga 1" Prompt="Yoga 1" Name="Yoga 1"/>
+	<Elem NameU="Yoga 2" PromptU="Yoga 2" Prompt="Yoga 2" Name="Yoga 2"/>
+	<Elem NameU="Yoga 3" PromptU="Yoga 3" Prompt="Yoga 3" Name="Yoga 3"/>
+	<Elem NameU="Yoga 4" PromptU="Yoga 4" Prompt="Yoga 4" Name="Yoga 4"/>
+	<Elem NameU="Exercise Bike" PromptU="Exercise Bike" Prompt="Vélo d'appartement" Name="Vélo d'appartement"/>
+	<Elem NameU="Outdoor Fitness Equipment" PromptU="Outdoor Fitness Equipment" Prompt="Équipement de fitness en plein air" Name="Équipement de fitness en plein air"/>
+	<Elem NameU="Outdoor Rings" PromptU="Outdoor Rings" Prompt="Anneaux extérieurs" Name="Anneaux extérieurs"/>
+	<Elem NameU="Gym Bag 1" PromptU="Gym Bag 1" Prompt="Sac de gym 1" Name="Sac de gym 1"/>
+	<Elem NameU="Gym Bag 2" PromptU="Gym Bag 2" Prompt="Sac de gym 2" Name="Sac de gym 2"/>
+	<Elem NameU="Fitness With Short Sleeves" PromptU="Fitness With Short Sleeves" Prompt="Fitness avec manches courtes" Name="Fitness avec manches courtes"/>
+	<Elem NameU="Gym Shorts" PromptU="Gym Shorts" Prompt="Short de gymnastique" Name="Short de gymnastique"/>
+	<Elem NameU="Fitness Coat" PromptU="Fitness Coat" Prompt="Manteau de conditionnement physique" Name="Manteau de conditionnement physique"/>
+	<Elem NameU="Fitness Vest" PromptU="Fitness Vest" Prompt="Veste de fitness" Name="Veste de fitness"/>
+	<Elem NameU="Fitness Short Skirt" PromptU="Fitness Short Skirt" Prompt="Jupe courte de fitness" Name="Jupe courte de fitness"/>
+	<Elem NameU="Fitness Hat" PromptU="Fitness Hat" Prompt="Chapeau de conditionnement physique" Name="Chapeau de conditionnement physique"/>
+	<Elem NameU="Dumbbell" PromptU="Dumbbell" Prompt="Haltère" Name="Haltère"/>
+	<Elem NameU="Dumbbell" PromptU="Dumbbell" Prompt="Haltère" Name="Haltère"/>
+	<Elem NameU="Small Dumbbell" PromptU="Small Dumbbell" Prompt="Petit haltère" Name="Petit haltère"/>
+	<Elem NameU="Bathroom Scale" PromptU="Bathroom Scale" Prompt="Balance" Name="Balance"/>
+	<Elem NameU="Fitness Schedule" PromptU="Fitness Schedule" Prompt="Programme de conditionnement physique" Name="Programme de conditionnement physique"/>
+	<Elem NameU="Tape Measure" PromptU="Tape Measure" Prompt="Mètre à ruban" Name="Mètre à ruban"/>
+	<Elem NameU="Stopwatch" PromptU="Stopwatch" Prompt="Chronomètre" Name="Chronomètre"/>
+	<Elem NameU="Sports Shoes" PromptU="Sports Shoes" Prompt="Chaussures de sport" Name="Chaussures de sport"/>
+	<Elem NameU="Towel" PromptU="Towel" Prompt="Serviette" Name="Serviette"/>
+	<Elem NameU="Fitness Gloves" PromptU="Fitness Gloves" Prompt="Gants de fitness" Name="Gants de fitness"/>
+	<Elem NameU="Fitness Kettle" PromptU="Fitness Kettle" Prompt="Bouilloire de fitness" Name="Bouilloire de fitness"/>
+	<Elem NameU="Health Drink" PromptU="Health Drink" Prompt="Boisson santé" Name="Boisson santé"/>
+	<Elem NameU="Care Of Soda" PromptU="Care Of Soda" Prompt="Boisson santé" Name="Boisson santé"/>
+	<Elem NameU="Fitball" PromptU="Fitball" Prompt="Fitball" Name="Fitball"/>
+	<Elem NameU="Tubing" PromptU="Tubing" Prompt="Tubes" Name="Tubes"/>
+	<Elem NameU="Hula Hoop" PromptU="Hula Hoop" Prompt="Hula Hoop" Name="Hula Hoop"/>
+	<Elem NameU="Skipping Rope" PromptU="Skipping Rope" Prompt="Corde à sauter" Name="Corde à sauter"/>
+	<Elem NameU="Yoga Mat" PromptU="Yoga Mat" Prompt="Tapis de yoga" Name="Tapis de yoga"/>
+</Lib>

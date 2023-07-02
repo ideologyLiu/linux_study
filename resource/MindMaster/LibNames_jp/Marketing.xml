@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Marketing">
+    <Elem NameU="Marketing mix" Name="マーケティングミックス" PromptU="Marketing mix" Prompt="マーケティングミックス"/>
+    <Elem NameU="Marketing planning" Name="マーケティング計画" PromptU="Marketing planning" Prompt="マーケティング計画"/>
+    <Elem NameU="Content production" Name="コンテンツ制作" PromptU="Content production" Prompt="コンテンツ制作"/>
+    <Elem NameU="Currency conversion" Name="通貨換算" PromptU="Currency conversion" Prompt="通貨換算"/>
+    <Elem NameU="Data analysis" Name="データ分析" PromptU="Data analysis" Prompt="データ分析"/>
+    <Elem NameU="The statistical figure" Name="データ統計" PromptU="The statistical figure" Prompt="データ統計"/>
+    <Elem NameU="Loyalty program" Name="ポイントプログラム" PromptU="Loyalty program" Prompt="ポイントプログラム"/>
+    <Elem NameU="Internet marketing" Name="インターネットマーケティング" PromptU="Internet Marketing" Prompt="インターネットマーケティング"/>
+    <Elem NameU="Advertising" Name="広告" PromptU="Advertising" Prompt="広告"/>
+    <Elem NameU="Geo targeting" Name="ジオターゲティング" PromptU="Geo targeting" Prompt="ジオターゲティング"/>
+    <Elem NameU="Email marketing" Name="メールマーケティング" PromptU="Email marketing" Prompt="メールマーケティング"/>
+    <Elem NameU="Creative marketing" Name="クリエイティブマーケティング" PromptU="Creative marketing" Prompt="クリエイティブマーケティング"/>
+    <Elem NameU="Direct mail marketing" Name="DMマーケティング" PromptU="Direct mail marketing" Prompt="DMマーケティング"/>
+    <Elem NameU="eCommece marketing" Name="eコマースマーケティング" PromptU="eCommece marketing" Prompt="eコマースマーケティング"/>
+    <Elem NameU="Marketing automation" Name="マーケティングの自動化" PromptU="Marketing automation" Prompt="マーケティングの自動化"/>
+    <Elem NameU="Promotion" Name="プロモーション" PromptU="Promotion" Prompt="プロモーション"/>
+    <Elem NameU="Mobile marketing" Name="モバイルマーケティング" PromptU="Mobile Marketing" Prompt="モバイルマーケティング"/>
+    <Elem NameU="Monitoring marketing performance" Name="マーケティングパフォーマンスの監視" PromptU="Monitoring Marketing performance" Prompt="マーケティングパフォーマンスの監視"/>
+    <Elem NameU="Target audience" Name="ターゲットオーディエンス" PromptU="Target audience" Prompt="ターゲットオーディエンス"/>
+    <Elem NameU="Telemarketing" Name="テレマーケティング" PromptU="Telemarketing" Prompt="テレマーケティング"/>
+    <Elem NameU="Training" Name="トレーニング" PromptU="Training" Prompt="トレーニング"/>
+    <Elem NameU="Webinars" Name="ウェビナー" PromptU="Webinars" Prompt="ウェビナー"/>
+    <Elem NameU="Web support" Name="ウェブサポート" PromptU="Web support" Prompt="ウェブサポート"/>
+    <Elem NameU="Online PR" Name="オンラインPR" PromptU="Online PR" Prompt="オンラインPR"/>
+    <Elem NameU="Marketing strategy" Name="マーケティング戦略" PromptU="Marketing strategy" Prompt="マーケティング戦略"/>
+    <Elem NameU="Affliate marketing" Name="アフィリ" PromptU="Affliate marketing" Prompt="アフィリ"/>
+    <Elem NameU="Search engine optimization" Name="SEO" PromptU="Search engine optimization" Prompt="SEO"/>
+    <Elem NameU="Customer personal development" Name="顧客の個人開発" PromptU="Customer personal development" Prompt="顧客の個人開発"/>
+    <Elem NameU="Customer relationship management" Name="顧客関係管理" PromptU="Customer relationship management" Prompt="顧客関係管理"/>
+    <Elem NameU="Social media marketing" Name="ソーシャルメディアマーケティング" PromptU="Social media Marketing" Prompt="ソーシャルメディアマーケティング"/>
+    <Elem NameU="Sales" Name="セールス" PromptU="Sales" Prompt="セールス"/>
+</Lib>

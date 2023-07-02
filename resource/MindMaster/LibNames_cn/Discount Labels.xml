@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Discount Labels">
+    <Elem NameU="Price Sticker 1" Name="价格贴纸1" PromptU="Price Sticker 1" Prompt="价格贴纸1"/>
+    <Elem NameU="Price Sticker 2" Name="价格贴纸2" PromptU="Price Sticker 2" Prompt="价格贴纸2"/>
+    <Elem NameU="Price Sticker 3" Name="价格贴纸3" PromptU="Price Sticker 3" Prompt="价格贴纸3"/>
+    <Elem NameU="Price Sticker 4" Name="价格贴纸4" PromptU="Price Sticker 4" Prompt="价格贴纸4"/>
+    <Elem NameU="Price Sticker 5" Name="价格贴纸5" PromptU="Price Sticker 5" Prompt="价格贴纸5"/>
+    <Elem NameU="Price Sticker 6" Name="价格贴纸6" PromptU="Price Sticker 6" Prompt="价格贴纸6"/>
+    <Elem NameU="Price Sticker 7" Name="价格贴纸7" PromptU="Price Sticker 7" Prompt="价格贴纸7"/>
+    <Elem NameU="Price Sticker 8" Name="价格贴纸8" PromptU="Price Sticker 8" Prompt="价格贴纸8"/>
+    <Elem NameU="Price Tag 1" Name="价格标签1" PromptU="Price Tag 1" Prompt="价格标签1"/>
+    <Elem NameU="Price Tag 2" Name="价格标签2" PromptU="Price Tag 2" Prompt="价格标签2"/>
+    <Elem NameU="Price Tag 3" Name="价格标签3" PromptU="Price Tag 3" Prompt="价格标签3"/>
+    <Elem NameU="Price Sticker 9" Name="价格贴纸9" PromptU="Price Sticker 9" Prompt="价格贴纸9"/>
+    <Elem NameU="Price Sticker 10" Name="价格贴纸10" PromptU="Price Sticker 10" Prompt="价格贴纸10"/>
+    <Elem NameU="Price Sticker 11" Name="价格贴纸11" PromptU="Price Sticker 11" Prompt="价格贴纸11"/>
+    <Elem NameU="Price Sticker 12" Name="价格贴纸12" PromptU="Price Sticker 12" Prompt="价格贴纸12"/>
+    <Elem NameU="Best Price" Name="最优价格" PromptU="Best Price" Prompt="最优价格"/>
+    <Elem NameU="Price Sticker 13" Name="价格贴纸13" PromptU="Price Sticker 13" Prompt="价格贴纸13"/>
+    <Elem NameU="Price Sticker 14" Name="价格贴纸14" PromptU="Price Sticker 14" Prompt="价格贴纸14"/>
+    <Elem NameU="Price Sticker 15" Name="价格贴纸15" PromptU="Price Sticker 15" Prompt="价格贴纸15"/>
+    <Elem NameU="Price Sticker 16" Name="价格贴纸16" PromptU="Price Sticker 16" Prompt="价格贴纸16"/>
+    <Elem NameU="Price Sticker 17" Name="价格贴纸17" PromptU="Price Sticker 17" Prompt="价格贴纸17"/>
+    <Elem NameU="Special Offer" Name="特别提供" PromptU="Special Offer" Prompt="特别提供"/>
+    <Elem NameU="Price Sticker 18" Name="价格贴纸18" PromptU="Price Sticker 18" Prompt="价格贴纸18"/>
+    <Elem NameU="FREE" Name="免费" PromptU="FREE" Prompt="免费"/>
+    <Elem NameU="Price Sticker 19" Name="价格贴纸19" PromptU="Price Sticker 19" Prompt="价格贴纸19"/>
+    <Elem NameU="Gift 1" Name="礼物1" PromptU="Gift 1" Prompt="礼物1"/>
+    <Elem NameU="Gift 2" Name="礼物2" PromptU="Gift 2" Prompt="礼物2"/>
+    <Elem NameU="Thank You Tag" Name="谢谢惠顾" PromptU="Thank You Tag" Prompt="谢谢惠顾"/>
+    <Elem NameU="Price Up" Name="价格上涨" PromptU="Price Up" Prompt="价格上涨"/>
+    <Elem NameU="Price Down" Name="价格下降" PromptU="Price Down" Prompt="价格下降"/>
+    <Elem NameU="Sale Tag 1" Name="销售标签1" PromptU="Sale Tag 1" Prompt="销售标签1"/>
+    <Elem NameU="Sale Tag 2" Name="销售标签2" PromptU="Sale Tag 2" Prompt="销售标签2"/>
+    <Elem NameU="Sale Banner" Name="销售横幅" PromptU="Sale Banner" Prompt="销售横幅"/>
+    <Elem NameU="Ribbons 1" Name="色带1" PromptU="Ribbons 1" Prompt="色带1"/>
+    <Elem NameU="Ribbons 2" Name="色带2" PromptU="Ribbons 2" Prompt="色带2"/>
+    <Elem NameU="Ribbons 3" Name="色带3" PromptU="Ribbons 3" Prompt="色带3"/>
+    <Elem NameU="Ribbons 4" Name="色带4" PromptU="Ribbons 4" Prompt="色带4"/>
+    <Elem NameU="Ribbons 5" Name="色带5" PromptU="Ribbons 5" Prompt="色带5"/>
+    <Elem NameU="Ribbons 6" Name="色带6" PromptU="Ribbons 6" Prompt="色带6"/>
+    <Elem NameU="Coupons 1" Name="优惠券1" PromptU="Coupons 1" Prompt="优惠券1"/>
+    <Elem NameU="Coupons 2" Name="优惠券2" PromptU="Coupons 2" Prompt="优惠券2"/>
+</Lib>

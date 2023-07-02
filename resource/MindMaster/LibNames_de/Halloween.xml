@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Halloween">
+     <Elem NameU="Signs 1"	Name= "Zeichen 1"	PromptU="Signs 1"	Prompt = "Zeichen 1"	/>
+     <Elem NameU="Signs 2"	Name= "Zeichen 2"	PromptU="Signs 2"	Prompt = "Zeichen 2"	/>
+     <Elem NameU="Pumpkin"	Name= "Kürbis"	PromptU="Pumpkin"	Prompt = "Kürbis"	/>
+     <Elem NameU="Pumpkin1"	Name= "Kürbis1"	PromptU="Pumpkin1"	Prompt = "Kürbis1"	/>
+     <Elem NameU="Pumpkin2"	Name= "Kürbis2"	PromptU="Pumpkin2"	Prompt = "Kürbis2"	/>
+     <Elem NameU="Pumpkin3"	Name= "Kürbis3"	PromptU="Pumpkin3"	Prompt = "Kürbis3"	/>
+     <Elem NameU="Pumpkin4"	Name= "Kürbis4"	PromptU="Pumpkin4"	Prompt = "Kürbis4"	/>
+     <Elem NameU="Pumpkin5"	Name= "Kürbis5"	PromptU="Pumpkin5"	Prompt = "Kürbis5"	/>
+     <Elem NameU="Pumpkin6"	Name= "Kürbis6"	PromptU="Pumpkin6"	Prompt = "Kürbis6"	/>
+     <Elem NameU="Pumpkin7"	Name= "Kürbis7"	PromptU="Pumpkin7"	Prompt = "Kürbis7"	/>
+     <Elem NameU="Pumpkin8"	Name= "Kürbis8"	PromptU="Pumpkin8"	Prompt = "Kürbis8"	/>
+     <Elem NameU="Bats"	Name= "Fledermäuse"	PromptU="Bats"	Prompt = "Fledermäuse"	/>
+     <Elem NameU="Bats1"	Name= "Fledermäuse1"	PromptU="Bats1"	Prompt = "Fledermäuse1"	/>
+     <Elem NameU="Bats2"	Name= "Fledermäuse2"	PromptU="Bats2"	Prompt = "Fledermäuse2"	/>
+     <Elem NameU="Bats3"	Name= "Fledermäuse3"	PromptU="Bats3"	Prompt = "Fledermäuse3"	/>
+     <Elem NameU="Tree"	Name= "Baum"	PromptU="Tree"	Prompt = "Baum"	/>
+     <Elem NameU="Tree1"	Name= "Baum1"	PromptU="Tree1"	Prompt = "Baum1"	/>
+     <Elem NameU="Tree2"	Name= "Baum2"	PromptU="Tree2"	Prompt = "Baum2"	/>
+     <Elem NameU="Tree3"	Name= "Baum3"	PromptU="Tree3"	Prompt = "Baum3"	/>
+     <Elem NameU="Tree4"	Name= "Baum4"	PromptU="Tree4"	Prompt = "Baum4"	/>
+     <Elem NameU="Cobwebs"	Name= "Spinnweben"	PromptU="Cobwebs"	Prompt = "Spinnweben"	/>
+     <Elem NameU="Cobwebs1"	Name= "Spinnweben1"	PromptU="Cobwebs1"	Prompt = "Spinnweben1"	/>
+     <Elem NameU="Cobwebs2"	Name= "Spinnweben2"	PromptU="Cobwebs2"	Prompt = "Spinnweben2"	/>
+     <Elem NameU="Spider"	Name= "Spinne"	PromptU="Spider"	Prompt = "Spinne"	/>
+     <Elem NameU="Spider1"	Name= "Spinne1"	PromptU="Spider1"	Prompt = "Spinne1"	/>
+     <Elem NameU="Spider2"	Name= "Spinne2"	PromptU="Spider2"	Prompt = "Spinne2"	/>
+     <Elem NameU="Spider3"	Name= "Spinne3"	PromptU="Spider3"	Prompt = "Spinne3"	/>
+     <Elem NameU="Cat"	Name= "Katze"	PromptU="Cat"	Prompt = "Katze"	/>
+     <Elem NameU="Haunted House"	Name= "Spukhaus"	PromptU="Haunted House"	Prompt = "Spukhaus"	/>
+     <Elem NameU="Haunted House1"	Name= "Spukhaus1"	PromptU="Haunted House1"	Prompt = "Spukhaus1"	/>
+     <Elem NameU="Haunted House2"	Name= "Spukhaus2"	PromptU="Haunted House2"	Prompt = "Spukhaus2"	/>
+     <Elem NameU="Cross"	Name= "Kreuz"	PromptU="Cross"	Prompt = "Kreuz"	/>
+     <Elem NameU="Cross1"	Name= "Kreuz1"	PromptU="Cross1"	Prompt = "Kreuz1"	/>
+     <Elem NameU="Ghost"	Name= "Ghost"	PromptU="Ghost"	Prompt = "Ghost"	/>
+     <Elem NameU="Ghost1"	Name= "Ghost1"	PromptU="Ghost1"	Prompt = "Ghost1"	/>
+     <Elem NameU="Ghost2"	Name= "Ghost2"	PromptU="Ghost2"	Prompt = "Ghost2"	/>
+     <Elem NameU="Witch Hat"	Name= "Hexenhut"	PromptU="Witch Hat"	Prompt = "Hexenhut"	/>
+     <Elem NameU="Witch Hat1"	Name= "Hexenhut1"	PromptU="Witch Hat1"	Prompt = "Hexenhut1"	/>
+     <Elem NameU="Witch Hat2"	Name= "Hexenhut2"	PromptU="Witch Hat2"	Prompt = "Hexenhut2"	/>
+     <Elem NameU="Broom"	Name= "Besen"	PromptU="Broom"	Prompt = "Besen"	/>
+     <Elem NameU="Broom1"	Name= "Besen1"	PromptU="Broom1"	Prompt = "Besen1"	/>
+     <Elem NameU="Witch"	Name= "Hexe"	PromptU="Witch"	Prompt = "Hexe"	/>
+     <Elem NameU="Witch1"	Name= "Hexe1"	PromptU="Witch1"	Prompt = "Hexe1"	/>
+     <Elem NameU="Stockpot"	Name= "Stockpot"	PromptU="Stockpot"	Prompt = "Stockpot"	/>
+     <Elem NameU="Part Finger "	Name= "Teil Finger"	PromptU="Part Finger "	Prompt = "Teil Finger"	/>
+     <Elem NameU="Mask"	Name= "Maske"	PromptU="Mask"	Prompt = "Maske"	/>
+     <Elem NameU="Mask1"	Name= "Maske1"	PromptU="Mask1"	Prompt = "Maske1"	/>
+     <Elem NameU="Sweet"	Name= "Süß"	PromptU="Sweet"	Prompt = "Süß"	/>
+     <Elem NameU="Sweet1"	Name= "Süß1"	PromptU="Sweet1"	Prompt = "Süß1"	/>
+     <Elem NameU="Zombie"	Name= "Zombie"	PromptU="Zombie"	Prompt = "Zombie"	/>
+     <Elem NameU="No face bride"	Name= "Kein Gesicht Braut"	PromptU="No face bride"	Prompt = "Kein Gesicht Braut"	/>
+</Lib>

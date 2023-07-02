@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Trees">
+    <Elem NameU="Tree 1" Name="树1" PromptU="Tree 1" Prompt="树1"/>
+    <Elem NameU="Tree 2" Name="树2" PromptU="Tree 2" Prompt="树2"/>
+    <Elem NameU="Tree 3" Name="树3" PromptU="Tree 3" Prompt="树3"/>
+    <Elem NameU="Tree 4" Name="树4" PromptU="Tree 4" Prompt="树4"/>
+    <Elem NameU="Cypress" Name="柏树36" PromptU="Cypress" Prompt="柏树36"/>
+    <Elem NameU="Tree 5" Name="树5" PromptU="Tree 5" Prompt="树5"/>
+    <Elem NameU="Tree 6" Name="树6" PromptU="Tree 6" Prompt="树6"/>
+    <Elem NameU="Tree 7" Name="树7" PromptU="Tree 7" Prompt="树7"/>
+    <Elem NameU="Tree 8" Name="树8" PromptU="Tree 8" Prompt="树8"/>
+    <Elem NameU="Tree 9" Name="树9" PromptU="Tree 9" Prompt="树9"/>
+    <Elem NameU="Coconut Tree 1" Name="椰子树1" PromptU="Coconut Tree 1" Prompt="椰子树1"/>
+    <Elem NameU="Tree 10" Name="树10" PromptU="Tree 10" Prompt="树10"/>
+    <Elem NameU="Tree 11" Name="树11" PromptU="Tree 11" Prompt="树11"/>
+    <Elem NameU="Tree 12" Name="树12" PromptU="Tree 12" Prompt="树12"/>
+    <Elem NameU="Tree 13" Name="树13" PromptU="Tree 13" Prompt="树13"/>
+    <Elem NameU="Tree 14" Name="树14" PromptU="Tree 14" Prompt="树14"/>
+    <Elem NameU="Tree 15" Name="树15" PromptU="Tree 15" Prompt="树15"/>
+    <Elem NameU="Tree 16" Name="树16" PromptU="Tree 16" Prompt="树16"/>
+    <Elem NameU="Tree 17" Name="树17" PromptU="Tree 17" Prompt="树17"/>
+    <Elem NameU="Tree 18" Name="树18" PromptU="Tree 18" Prompt="树18"/>
+    <Elem NameU="Tree 19" Name="树19" PromptU="Tree 19" Prompt="树19"/>
+    <Elem NameU="Tree 20" Name="树20" PromptU="Tree 20" Prompt="树20"/>
+    <Elem NameU="Chrismas Tree" Name="圣诞树" PromptU="Chrismas Tree" Prompt="圣诞树"/>
+    <Elem NameU="Tree 21" Name="树21" PromptU="Tree 21" Prompt="树21"/>
+    <Elem NameU="Tree 22" Name="树22" PromptU="Tree 22" Prompt="树22"/>
+    <Elem NameU="Tree Group 1" Name="树群1" PromptU="Tree Group 1" Prompt="树群1"/>
+    <Elem NameU="Tree 23" Name="树23" PromptU="Tree 23" Prompt="树23"/>
+    <Elem NameU="Tree 24" Name="树24" PromptU="Tree 24" Prompt="树24"/>
+    <Elem NameU="Tree 25" Name="树25" PromptU="Tree 25" Prompt="树25"/>
+    <Elem NameU="Tree 26" Name="树26" PromptU="Tree 26" Prompt="树26"/>
+    <Elem NameU="Tree 27" Name="树27" PromptU="Tree 27" Prompt="树27"/>
+    <Elem NameU="Tree 28" Name="树28" PromptU="Tree 28" Prompt="树28"/>
+    <Elem NameU="Tree Group 2" Name="树群2" PromptU="Tree Group 2" Prompt="树群2"/>
+    <Elem NameU="Tree 29" Name="树29" PromptU="Tree 29" Prompt="树29"/>
+    <Elem NameU="Coconut Tree 2" Name="椰子树2" PromptU="Coconut Tree 2" Prompt="椰子树2"/>
+    <Elem NameU="Tree 30" Name="树31" PromptU="Tree 30" Prompt="树31"/>
+    <Elem NameU="Tree 31" Name="树31" PromptU="Tree 31" Prompt="树31"/>
+    <Elem NameU="Tree 32" Name="树32" PromptU="Tree 32" Prompt="树32"/>
+    <Elem NameU="Tree 33" Name="树33" PromptU="Tree 33" Prompt="树33"/>
+    <Elem NameU="Tree 34" Name="树34" PromptU="Tree 34" Prompt="树34"/>
+    <Elem NameU="Tree 35" Name="树35" PromptU="Tree 35" Prompt="树35"/>
+    <Elem NameU="Tree 36" Name="树36" PromptU="Tree 36" Prompt="树36"/>
+</Lib>

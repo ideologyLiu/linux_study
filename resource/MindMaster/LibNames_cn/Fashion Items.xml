@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fashion Items">
+    <Elem NameU="Women Bag 1" Name="女士包 1" PromptU="Women Bag 1" Prompt="女士包 1"/>
+    <Elem NameU="Women Bag 2" Name="女士包 2" PromptU="Women Bag 2" Prompt="女士包 2"/>
+    <Elem NameU="Women Bag 3" Name="女士包 3" PromptU="Women Bag 3" Prompt="女士包 3"/>
+    <Elem NameU="Women Bag 4" Name="女士包 4" PromptU="Women Bag 4" Prompt="女士包 4"/>
+    <Elem NameU="Women Bag 5" Name="女士包 5" PromptU="Women Bag 5" Prompt="女士包 5"/>
+    <Elem NameU="Women Bag 6" Name="女士包 6" PromptU="Women Bag 6" Prompt="女士包 6"/>
+    <Elem NameU="Women Bag 8" Name="女士包 8" PromptU="Women Bag 8" Prompt="女士包 8"/>
+    <Elem NameU="Women Bag 7" Name="女士包 7" PromptU="Women Bag 7" Prompt="女士包 7"/>
+    <Elem NameU="Backpack" Name="双肩背包" PromptU="Backpack" Prompt="双肩背包"/>
+    <Elem NameU="Purse 1" Name="手提袋 1" PromptU="Purse 1" Prompt="手提袋 1"/>
+    <Elem NameU="Purse 2" Name="手提袋 2" PromptU="Purse 2" Prompt="手提袋 2"/>
+    <Elem NameU="Men Purse" Name="男士手提袋" PromptU="Men Purse" Prompt="男士手提袋"/>
+    <Elem NameU="Men Bag 1" Name="男士包 1" PromptU="Men Bag 1" Prompt="男士包 1"/>
+    <Elem NameU="Men Bag 2" Name="男士包 2" PromptU="Men Bag 2" Prompt="男士包 2"/>
+    <Elem NameU="Travelling Bag 1" Name="旅行包 1" PromptU="Travelling Bag 1" Prompt="旅行包 1"/>
+    <Elem NameU="Travelling Bag 2" Name="旅行包 2" PromptU="Travelling Bag 2" Prompt="旅行包2"/>
+    <Elem NameU="Cap 1" Name="帽子 1" PromptU="Cap 1" Prompt="帽子 1"/>
+    <Elem NameU="Cap 2" Name="帽子 2" PromptU="Cap 2" Prompt="帽子 2"/>
+    <Elem NameU="Cap 3" Name="帽子 3" PromptU="Cap 3" Prompt="帽子 3"/>
+    <Elem NameU="Cap 4" Name="帽子 4" PromptU="Cap 4" Prompt="帽子 4"/>
+    <Elem NameU="Cap 5" Name="帽子 5" PromptU="Cap 5" Prompt="帽子 5"/>
+    <Elem NameU="Cap 6" Name="帽子 6" PromptU="Cap 6" Prompt="帽子 6"/>
+    <Elem NameU="Cap 7" Name="帽子 7" PromptU="Cap 7" Prompt="帽子 7"/>
+    <Elem NameU="Cap 8" Name="帽子 8" PromptU="Cap 8" Prompt="帽子 8"/>
+    <Elem NameU="Cap 9" Name="帽子 9" PromptU="Cap 9" Prompt="帽子 9"/>
+    <Elem NameU="Cap 10" Name="帽子 10" PromptU="Cap 10" Prompt="帽子 10"/>
+    <Elem NameU="Cap 11" Name="帽子 11" PromptU="Cap 11" Prompt="帽子 11"/>
+    <Elem NameU="glasses 1" Name="眼镜 1" PromptU="glasses 1" Prompt="眼镜 1"/>
+    <Elem NameU="glasses 2" Name="眼镜 2" PromptU="glasses 2" Prompt="眼镜 2"/>
+    <Elem NameU="glasses 3" Name="眼镜 3" PromptU="glasses 3" Prompt="眼镜 3"/>
+    <Elem NameU="glasses 4" Name="眼镜 4" PromptU="glasses 4" Prompt="眼镜 4"/>
+    <Elem NameU="Ring 1" Name="戒指 1" PromptU="Ring 1" Prompt="戒指 1"/>
+    <Elem NameU="Ring 2" Name="戒指 2" PromptU="Ring 2" Prompt="戒指 2"/>
+    <Elem NameU="Ring 3" Name="戒指 3" PromptU="Ring 3" Prompt="戒指 3"/>
+    <Elem NameU="Earrings 1" Name="耳环 1" PromptU="Earrings 1" Prompt="耳环 1"/>
+    <Elem NameU="Earrings 2" Name="耳环 2" PromptU="Earrings 2" Prompt="耳环 2"/>
+    <Elem NameU="Earrings 3" Name="耳环 3" PromptU="Earrings 3" Prompt="耳环 3"/>
+    <Elem NameU="Earrings 4" Name="耳环 4" PromptU="Earrings 4" Prompt="耳环 4"/>
+    <Elem NameU="Earrings 5" Name="耳环 5" PromptU="Earrings 5" Prompt="耳环 5"/>
+    <Elem NameU="Earrings 6" Name="耳环 6" PromptU="Earrings 6" Prompt="耳环 6"/>
+    <Elem NameU="Earrings 7" Name="耳环 7" PromptU="Earrings 7" Prompt="耳环 7"/>
+    <Elem NameU="Earrings 8" Name="耳环 8" PromptU="Earrings 8" Prompt="耳环 8"/>
+    <Elem NameU="Earrings 9" Name="耳环 9" PromptU="Earrings 9" Prompt="耳环 9"/>
+    <Elem NameU="Earrings 10" Name="耳环 10" PromptU="Earrings 10" Prompt="耳环 10"/>
+    <Elem NameU="Earrings 11" Name="耳环 11" PromptU="Earrings 11" Prompt="耳环 11"/>
+    <Elem NameU="Earrings 12" Name="耳环 12" PromptU="Earrings 12" Prompt="耳环 12"/>
+    <Elem NameU="Earrings 13" Name="耳环 13" PromptU="Earrings 13" Prompt="耳环 13"/>
+    <Elem NameU="Earrings 14" Name="耳环 14" PromptU="Earrings 14" Prompt="耳环 14"/>
+    <Elem NameU="Earrings 15" Name="耳环 15" PromptU="Earrings 15" Prompt="耳环 15"/>
+    <Elem NameU="Earrings 16" Name="耳环 16" PromptU="Earrings 16" Prompt="耳环 16"/>
+    <Elem NameU="Earrings 17" Name="耳环 17" PromptU="Earrings 17" Prompt="耳环 17"/>
+    <Elem NameU="Necklace 1" Name="项链 1" PromptU="Necklace 1" Prompt="项链 1"/>
+    <Elem NameU="Necklace 2" Name="项链 2" PromptU="Necklace 2" Prompt="项链 2"/>
+    <Elem NameU="Necklace 3" Name="项链 3" PromptU="Necklace 3" Prompt="项链 3"/>
+    <Elem NameU="Bracelet 1" Name="项链 1" PromptU="Bracelet 1" Prompt="项链 1"/>
+    <Elem NameU="Bracelet 2" Name="项链 2" PromptU="Bracelet 2" Prompt="项链 2"/>
+    <Elem NameU="Brooch 1" Name="胸针 1" PromptU="Brooch 1" Prompt="胸针 1"/>
+    <Elem NameU="Brooch 2" Name="胸针 2" PromptU="Brooch 2" Prompt="胸针 2"/>
+    <Elem NameU="Brooch 3" Name="胸针 3" PromptU="Brooch 3" Prompt="胸针 3"/>
+    <Elem NameU="Accessories 1" Name="配饰 1" PromptU="Accessories 1" Prompt="配饰 1"/>
+    <Elem NameU="Accessories 2" Name="配饰 2" PromptU="Accessories 2" Prompt="配饰 2"/>
+    <Elem NameU="Scarves" Name="围巾" PromptU="Scarves" Prompt="围巾"/>
+    <Elem NameU="Watch 1" Name="手表 1" PromptU="Watch 1" Prompt="手表 1"/>
+    <Elem NameU="Watch 2" Name="手表 2" PromptU="Watch 2" Prompt="手表 2"/>
+    <Elem NameU="Watch 3" Name="手表 3" PromptU="Watch 3" Prompt="手表 3"/>
+    <Elem NameU="Watch 4" Name="手表 4" PromptU="Watch 4" Prompt="手表 4"/>
+    <Elem NameU="Watch 5" Name="手表 5" PromptU="Watch 5" Prompt="手表 5"/>
+    <Elem NameU="Scarf" Name="围巾" PromptU="Scarf" Prompt="围巾"/>
+    <Elem NameU="Tie 1" Name="领带 1" PromptU="Tie 1" Prompt="领带 1"/>
+    <Elem NameU="Tie 2" Name="领带 2" PromptU="Tie 2" Prompt="领带 2"/>
+    <Elem NameU="Tie 3" Name="领带 3" PromptU="Tie 3" Prompt="领带 3"/>
+    <Elem NameU="Lipstick" Name="口红" PromptU="Lipstick" Prompt="口红"/>
+    <Elem NameU="Eyebrow pencil" Name="眉笔" PromptU="Eyebrow pencil" Prompt="眉笔"/>
+    <Elem NameU="Liquid eyeliner" Name="眼线液" PromptU="Liquid eyeliner" Prompt="眼线液"/>
+    <Elem NameU="Cosmetic Brush 1" Name="化妆刷 1" PromptU="Cosmetic Brush 1" Prompt="化妆刷 1"/>
+    <Elem NameU="Cosmetic Brush 2" Name="化妆刷2" PromptU="Cosmetic Brush 2" Prompt="化妆刷 2"/>
+    <Elem NameU="Mascara" Name="睫毛膏" PromptU="Mascara" Prompt="睫毛膏"/>
+    <Elem NameU="Perfume 1" Name="香水 1" PromptU="Perfume 1" Prompt="香水 1"/>
+    <Elem NameU="Perfume 2" Name="香水 2" PromptU="Perfume 2" Prompt="香水 2"/>
+    <Elem NameU="Perfume 3" Name="香水 3" PromptU="Perfume 3" Prompt="香水 3"/>
+    <Elem NameU="Facial Cleanser" Name="洗面奶" PromptU="Facial Cleanser" Prompt="洗面奶"/>
+    <Elem NameU="Skin Care" Name="护肤品" PromptU="Skin Care" Prompt="护肤品"/>
+    <Elem NameU="Body Wash" Name="沐浴露" PromptU="Body Wash" Prompt="沐浴露"/>
+    <Elem NameU="Shampoo 1" Name="洗发水 1" PromptU="Shampoo 1" Prompt="洗发水 1"/>
+    <Elem NameU="Shampoo 2" Name="洗发水 2" PromptU="Shampoo 2" Prompt="洗发水 2"/>
+    <Elem NameU="Leather belt" Name="皮带" PromptU="Leather belt" Prompt="皮带"/>
+    <Elem NameU="wig 1" Name="假发 1" PromptU="wig 1" Prompt="假发 1"/>
+    <Elem NameU="wig 2" Name="假发 2" PromptU="wig 2" Prompt="假发 2"/>
+    <Elem NameU="wig 3" Name="假发 3" PromptU="wig 3" Prompt="假发 3"/>
+    <Elem NameU="Curling Comb" Name="卷发梳" PromptU="Curling Comb" Prompt="卷发梳"/>
+    <Elem NameU="Comb 2" Name="梳子 2" PromptU="Comb 2" Prompt="梳子 2"/>
+    <Elem NameU="Blower 1" Name="吹风机 1" PromptU="Blower 1" Prompt="吹风机 1"/>
+    <Elem NameU="Blower 2" Name="吹风机 2" PromptU="Blower 2" Prompt="吹风机 2"/>
+    <Elem NameU="Manicure 1" Name="美甲 1" PromptU="Manicure 1" Prompt="美甲 1"/>
+    <Elem NameU="Manicure 2" Name="美甲 2" PromptU="Manicure 2" Prompt="美甲 2"/>
+    <Elem NameU="Manicure 3" Name="美甲 3" PromptU="Manicure 3" Prompt="美甲 3"/>
+</Lib>

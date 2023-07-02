@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Transportation">
+    <Elem NameU="Road 1" Name="Route 1" PromptU="Road 1" Prompt="Route 1"/>
+    <Elem NameU="Road 2" Name="Route 2" PromptU="Road 2" Prompt="Route 2"/>
+    <Elem NameU="Road 3" Name="Route 3" PromptU="Road 3" Prompt="Route 3"/>
+    <Elem NameU="Road 4" Name="Route 4" PromptU="Road 4" Prompt="Route 4"/>
+    <Elem NameU="Police Car" Name="Voiture de police" PromptU="Police Car" Prompt="Voiture de police"/>
+    <Elem NameU="Police" Name="Police" PromptU="Police" Prompt="Police"/>
+    <Elem NameU="Traffic Police" Name="Police de la route" PromptU="Traffic Police" Prompt="Police de la route"/>
+    <Elem NameU="Bus" Name="Bus" PromptU="Bus" Prompt="Bus"/>
+    <Elem NameU="Car 1" Name="Voiture 1" PromptU="Car 1" Prompt="Voiture 1"/>
+    <Elem NameU="Car 2" Name="Voiture 2" PromptU="Car 2" Prompt="Voiture 2"/>
+    <Elem NameU="Taxi" Name="Taxi" PromptU="Taxi" Prompt="Taxi"/>
+    <Elem NameU="Motorcycle" Name="Moto" PromptU="Motorcycle" Prompt="Moto"/>
+    <Elem NameU="Train" Name="Train" PromptU="Train" Prompt="Train"/>
+    <Elem NameU="Ship Rudder" Name="Gouvernail de bateau" PromptU="Ship Rudder" Prompt="Gouvernail de bateau"/>
+    <Elem NameU="Bicycle" Name="Vélo" PromptU="Bicycle" Prompt="Vélo"/>
+    <Elem NameU="Sailing Boat" Name="Bateau à voile" PromptU="Sailing Boat" Prompt="Bateau à voile"/>
+    <Elem NameU="Excavator" Name="Pelleteuse" PromptU="Excavator" Prompt="Pelleteuse"/>
+    <Elem NameU="Truck" Name="Camion" PromptU="Truck" Prompt="Camion"/>
+    <Elem NameU="Cement Truck" Name="Bétonneuse" PromptU="Cement Truck" Prompt="Bétonneuse"/>
+    <Elem NameU="Tank Truck" Name="Camion citerne" PromptU="Tank Truck" Prompt="Camion citerne"/>
+    <Elem NameU="Man" Name="Homme" PromptU="Man" Prompt="Homme"/>
+    <Elem NameU="Woman" Name="Femme" PromptU="Woman" Prompt="Femme"/>
+    <Elem NameU="Pedestrian 1" Name="Piéton 1" PromptU="Pedestrian 1" Prompt="Piéton 1"/>
+    <Elem NameU="Pedestrian 2" Name="Piéton 2" PromptU="Pedestrian 2" Prompt="Piéton 2"/>
+    <Elem NameU="Zebra crossing" Name="Passage piéton" PromptU="Zebra crossing" Prompt="Passage piéton"/>
+    <Elem NameU="Traffic Light 1" Name="Feu de circulation 1" PromptU="Traffic Light 1" Prompt="Feu de circulation 1"/>
+    <Elem NameU="Traffic Light 2" Name="Feu de circulation 2" PromptU="Traffic Light 2" Prompt="Feu de circulation 2"/>
+    <Elem NameU="Speed Camera" Name="Radar de vitesse" PromptU="Speed Camera" Prompt="Radar de vitesse"/>
+    <Elem NameU="Road Sign" Name="Panneau de signalisation" PromptU="Road Sign" Prompt="Panneau de signalisation"/>
+    <Elem NameU="Footway" Name="Trottoir" PromptU="Footway" Prompt="Trottoir"/>
+    <Elem NameU="No Smoking" Name="Interdiction de fumer" PromptU="No Smoking" Prompt="Interdiction de fumer"/>
+    <Elem NameU="Do Not Enter Sign" Name="Défense d'entrer" PromptU="Do Not Enter Sign" Prompt="Défense d'entrer"/>
+    <Elem NameU="Stop Sign" Name="Panneau stop" PromptU="Stop Sign" Prompt="Panneau stop"/>
+    <Elem NameU="No Fire" Name="Pas de feu" PromptU="No Fire" Prompt="Pas de feu"/>
+    <Elem NameU="Road Sign" Name="Panneau de signalisation" PromptU="Road Sign" Prompt="Panneau de signalisation"/>
+    <Elem NameU="No Horn" Name="L'interdiction de klaxonner" PromptU="No Horn" Prompt="L'interdiction de klaxonner"/>
+    <Elem NameU="Bus Sign" Name="Signe de Bus" PromptU="Bus Sign" Prompt="Signe de Bus"/>
+    <Elem NameU="Stop Sign" Name="Panneau stop" PromptU="Stop Sign" Prompt="Panneau stop"/>
+    <Elem NameU="Parking 1" Name="Parking 1" PromptU="Parking 1" Prompt="Parking 1"/>
+    <Elem NameU="Parking 2" Name="Parking 2" PromptU="Parking 2" Prompt="Parking 2"/>
+    <Elem NameU="No parking" Name="Parking interdit" PromptU="No parking" Prompt="Parking interdit"/>
+    <Elem NameU="Circular Intersection" Name="Intersection circulaire" PromptU="Circular Intersection" Prompt="Intersection circulaire"/>
+    <Elem NameU="No Taxi" Name="Taxi" PromptU="No Taxi" Prompt="Pas de Taxi"/>
+    <Elem NameU="No Straight Nor Right Turn" Name="Sans droit ni virage à droite" PromptU="No Straight Nor Right Turn" Prompt="Sans droit ni virage à droite"/>
+    <Elem NameU="No Straight Nor Left Turn" Name="Sans droit ni virage à gauche" PromptU="No Straight Nor Left Turn" Prompt="Sans droit ni virage à gauche"/>
+    <Elem NameU="No U-Turn" Name="Interdiction de faire demi-tour" PromptU="No U-Turn" Prompt="Interdiction de faire demi-tour"/>
+    <Elem NameU="No Left Turn" Name="Interdiction de tourner à gauche" PromptU="No Left Turn" Prompt="Interdiction de tourner à gauche"/>
+    <Elem NameU="No Right Turn" Name="Interdiction de tourner à droite" PromptU="No Right Turn" Prompt="Interdiction de tourner à droite"/>
+    <Elem NameU="No Pedestrians" Name="Interdits aux piétons" PromptU="No Pedestrians" Prompt="Pas de piétons"/>
+    <Elem NameU="No Overtaking" Name="Interdiction de dépasser" PromptU="No Overtaking" Prompt="Interdiction de dépasser"/>
+    <Elem NameU="No Entry" Name="Entrée interdite" PromptU="No Entry" Prompt="Entrée interdite"/>
+    <Elem NameU="No Left Nor Right Turn" Name="Interdiction de tourner à gauche ou à droite" PromptU="No Left Nor Right Turn" Prompt="Interdiction de tourner à gauche ou à dryclettes interdites" />
+    <Elem NameU="No Cars" Name="Voitures intoite" PromptU="No Cars" Prompt="Voitures interdites"/>
+    <Elem NameU="No Bicycles" Name="Bicyclettes interdites" PromptU="No Bicycles" Prompt="Bicyclettes interdites" />
+    <Elem NameU="No Trucks" Name="Interdits aux camions" PromptU="No Trucks" Prompt="Interdits aux camions"/>
+    <Elem NameU="Two-Way Traffic" Name="Circulation à double sens" PromptU="Two-Way Traffic" Prompt="Circulation à double sens"/>
+    <Elem NameU="Crossroad Ahead" Name="Carrefour avance" PromptU="Crossroad Ahead" Prompt="Carrefour avance"/>
+    <Elem NameU="Side Road (Right)" Name="Route secondaire (Droite)" PromptU="Side Road (Right)" Prompt="Route secondaire (Droite)"/>
+    <Elem NameU="Side Road (Left)" Name="Route secondaire (Gauche)" PromptU="Side Road (Left)" Prompt="Route secondaire (Gauche)"/>
+    <Elem NameU="Traffic Signal Ahead" Name="Feux de circulation à venir" PromptU="Traffic Signal Ahead" Prompt="Feux de circulation à venir"/>
+    <Elem NameU="Overhead Electric Cable" Name="Câble électrique aérien" PromptU="Overhead Electric Cable" Prompt="Câble électrique aérien"/>
+    <Elem NameU="T Intersection Ahead" Name="T Intersection devant" PromptU="T Intersection Ahead" Prompt="T Intersection devant"/>
+    <Elem NameU="Y Intersection Ahead" Name="Y Intersection devant" PromptU="Y Intersection Ahead" Prompt="Y Intersection devant"/>
+    <Elem NameU="Hump Bridge Ahead" Name="Pont bosse avant" PromptU="Hump Bridge Ahead" Prompt="Pont bosse avant"/>
+    <Elem NameU="Dangerous" Name="Dangereux" PromptU="Dangerous" Prompt="Dangereux"/>
+    <Elem NameU="Caution Drop Down" Name="Prudence déroulante" PromptU="Caution Drop Down" Prompt="Prudence déroulante"/>
+    <Elem NameU="Caution No Motor Vehicle" Name="Interdit aux véhicules à moteur" PromptU="Caution No Motor Vehicle" Prompt="Interdit aux véhicules à moteur"/>
+    <Elem NameU="Barricade 1" Name="Barricade 1" PromptU="Barricade 1" Prompt="Barricade 1"/>
+    <Elem NameU="Barricade 2" Name="Barricade 2" PromptU="Barricade 2" Prompt="Barricade 2"/>
+    <Elem NameU="Floor Stand Sign" Name="Signe de pied de sol" PromptU="Floor Stand Sign" Prompt="Signe de pied de sol"/>
+    <Elem NameU="Red Pylon" Name="Pylône rouge" PromptU="Red Pylon" Prompt="Pylône rouge"/>
+    <Elem NameU="Yellow Warning Stipe" Name="Jaune avertissement stipe" PromptU="Yellow Warning Stipe" Prompt="Jaune avertissement stipe"/>
+    <Elem NameU="OSHA tape (red-white striped)" Name="Bande OSHA (rayé de rouge-blanc)" PromptU="OSHA tape (red-white striped)" Prompt="Bande OSHA (rayé de rouge-blanc)"/>
+    <Elem NameU="OSHA tape (yellow-black checked)" Name="Bande OSHA (jaune-noir vérifiée)" PromptU="OSHA tape (yellow-black checked)" Prompt="Bande OSHA (jaune-noir vérifiée)"/>
+    <Elem NameU="OSHA tape (yellow-black striped)" Name="Bande OSHA (rayée jaune-noir)" PromptU="OSHA tape (yellow-black striped)" Prompt="Bande OSHA (rayée jaune-noir)"/>
+    <Elem NameU="Green Light 1" Name="Lumière verte 1" PromptU="Green Light 1" Prompt="Lumière verte 1"/>
+    <Elem NameU="Red Light 1" Name="Lumière rouge 1" PromptU="Red Light 1" Prompt="Lumière rouge 1"/>
+    <Elem NameU="Yellow Light 1" Name="Lumière jaune 1" PromptU="Yellow Light 1" Prompt="Lumière jaune 1"/>
+    <Elem NameU="Green Light 2" Name="Lumière verte 2" PromptU="Green Light 2" Prompt="Lumière verte 2"/>
+    <Elem NameU="Red Light 2" Name="Lumière rouge 2" PromptU="Red Light 2" Prompt="Lumière rouge 2"/>
+    <Elem NameU="Yellow Light 2" Name="Lumière jaune 2" PromptU="Yellow Light 2" Prompt="Lumière jaune 2"/>
+    <Elem NameU="Green Light 3" Name="Lumière verte 3" PromptU="Green Light 3" Prompt="Lumière verte 3"/>
+    <Elem NameU="Red Light 3" Name="Lumière rouge 3" PromptU="Red Light 3" Prompt="Lumière rouge 3"/>
+    <Elem NameU="Yellow Light 3" Name="Lumière jaune 3" PromptU="Yellow Light 3" Prompt="Lumière jaune 3"/>
+    <Elem NameU="Red Light 4" Name="Lumière rouge 4" PromptU="Red Light 4" Prompt="Lumière rouge 4"/>
+    <Elem NameU="Gas-station" Name="Station-essence" PromptU="Gas-station" Prompt="Station-essence"/>
+    <Elem NameU="Street lamp 1" Name="Lampadaire 1" PromptU="Street lamp 1" Prompt="Lampadaire 1"/>
+    <Elem NameU="Street lamp 2" Name="Lampadaire 2" PromptU="Street lamp 2" Prompt="Lampadaire 2"/>
+    <Elem NameU="Instrument" Name="Instrument" PromptU="Instrument" Prompt="Instrument"/>
+    <Elem NameU="Steering Wheel 1" Name="Volant 1" PromptU="Steering Wheel 1" Prompt="Volant 1"/>
+    <Elem NameU="Steering Wheel 2" Name="Volant 2" PromptU="Steering Wheel 2" Prompt="Volant 2"/>
+    <Elem NameU="Direction 1" Name="Direction 1" PromptU="Direction 1" Prompt="Direction 1"/>
+    <Elem NameU="Direction 2" Name="Direction 2" PromptU="Direction 2" Prompt="Direction 2"/>
+    <Elem NameU="Direction 3" Name="Direction 3" PromptU="Direction 3" Prompt="Direction 3"/>
+    <Elem NameU="Trumpet" Name="Trompette" PromptU="Trumpet" Prompt="Trompette"/>
+    <Elem NameU="Ban on the horn" Name="Interdiction de la corne" PromptU="Ban on the horn" Prompt="Interdiction de la corne"/>
+    <Elem NameU="Mansion" Name="Manoir" PromptU="Mansion" Prompt="Manoir"/>
+    <Elem NameU="School" Name="École" PromptU="School" Prompt="École"/>
+    <Elem NameU="Shop" Name="Boutique" PromptU="Shop" Prompt="Boutique"/>
+    <Elem NameU="Tree 1" Name="Arbre 1" PromptU="Tree 1" Prompt="Arbre 1"/>
+    <Elem NameU="Tree 2" Name="Arbre 2" PromptU="Tree 2" Prompt="Arbre 2"/>
+</Lib>

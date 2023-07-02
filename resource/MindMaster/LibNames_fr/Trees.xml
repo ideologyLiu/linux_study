@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Trees">
+    <Elem NameU="Tree 1" Name="Arbre 1" PromptU="Tree 1" Prompt="Arbre 1"/>
+    <Elem NameU="Tree 2" Name="Arbre 2" PromptU="Tree 2" Prompt="Arbre 2"/>
+    <Elem NameU="Tree 3" Name="Arbre 3" PromptU="Tree 3" Prompt="Arbre 3"/>
+    <Elem NameU="Tree 4" Name="Arbre 4" PromptU="Tree 4" Prompt="Arbre 4"/>
+    <Elem NameU="Cypress" Name="Cyprès" PromptU="Cypress" Prompt="Cyprès"/>
+    <Elem NameU="Tree 5" Name="Arbre 5" PromptU="Tree 5" Prompt="Arbre 5"/>
+    <Elem NameU="Tree 6" Name="Arbre 6" PromptU="Tree 6" Prompt="Arbre 6"/>
+    <Elem NameU="Tree 7" Name="Arbre 7" PromptU="Tree 7" Prompt="Arbre 7"/>
+    <Elem NameU="Tree 8" Name="Arbre 8" PromptU="Tree 8" Prompt="Arbre 8"/>
+    <Elem NameU="Tree 9" Name="Arbre 9" PromptU="Tree 9" Prompt="Arbre 9"/>
+    <Elem NameU="Coconut Tree 1" Name="Cocotier 1" PromptU="Coconut Tree 1" Prompt="Cocotier 1"/>
+    <Elem NameU="Tree 10" Name="Arbre 10" PromptU="Tree 10" Prompt="Arbre 10"/>
+    <Elem NameU="Tree 11" Name="Arbre 11" PromptU="Tree 11" Prompt="Arbre 11"/>
+    <Elem NameU="Tree 12" Name="Arbre 12" PromptU="Tree 12" Prompt="Arbre 12"/>
+    <Elem NameU="Tree 13" Name="Arbre 13" PromptU="Tree 13" Prompt="Arbre 13"/>
+    <Elem NameU="Tree 14" Name="Arbre 14" PromptU="Tree 14" Prompt="Arbre 14"/>
+    <Elem NameU="Tree 15" Name="Arbre 15" PromptU="Tree 15" Prompt="Arbre 15"/>
+    <Elem NameU="Tree 16" Name="Arbre 16" PromptU="Tree 16" Prompt="Arbre 16"/>
+    <Elem NameU="Tree 17" Name="Arbre 17" PromptU="Tree 17" Prompt="Arbre 17"/>
+    <Elem NameU="Tree 18" Name="Arbre 18" PromptU="Tree 18" Prompt="Arbre 18"/>
+    <Elem NameU="Tree 19" Name="Arbre 19" PromptU="Tree 19" Prompt="Arbre 19"/>
+    <Elem NameU="Tree 20" Name="Arbre 20" PromptU="Tree 20" Prompt="Arbre 20"/>
+    <Elem NameU="Chrismas Tree" Name="Arbre de Noël" PromptU="Chrismas Tree" Prompt="Arbre de Noël"/>
+    <Elem NameU="Tree 21" Name="Arbre 21" PromptU="Tree 21" Prompt="Arbre 21"/>
+    <Elem NameU="Tree 22" Name="Arbre 22" PromptU="Tree 22" Prompt="Arbre 22"/>
+    <Elem NameU="Tree Group 1" Name="Groupe d'arbres 1" PromptU="Tree Group 1" Prompt="Groupe d'arbres 1"/>
+    <Elem NameU="Tree 23" Name="Arbre 23" PromptU="Tree 23" Prompt="Arbre 23"/>
+    <Elem NameU="Tree 24" Name="Arbre 24" PromptU="Tree 24" Prompt="Arbre 24"/>
+    <Elem NameU="Tree 25" Name="Arbre 25" PromptU="Tree 25" Prompt="Arbre 25"/>
+    <Elem NameU="Tree 26" Name="Arbre 26" PromptU="Tree 26" Prompt="Arbre 26"/>
+    <Elem NameU="Tree 27" Name="Arbre 27" PromptU="Tree 27" Prompt="Arbre 27"/>
+    <Elem NameU="Tree 28" Name="Arbre 28" PromptU="Tree 28" Prompt="Arbre 28"/>
+    <Elem NameU="Tree Group 2" Name="Groupe d'arbres 2" PromptU="Tree Group 2" Prompt="Groupe d'arbres 2"/>
+    <Elem NameU="Tree 29" Name="Arbre 29" PromptU="Tree 29" Prompt="Arbre 29"/>
+    <Elem NameU="Coconut Tree 2" Name="Cocotier 2" PromptU="Coconut Tree 2" Prompt="Cocotier 2"/>
+    <Elem NameU="Tree 30" Name="Arbre 30" PromptU="Tree 30" Prompt="Arbre 30"/>
+    <Elem NameU="Tree 31" Name="Arbre 31" PromptU="Tree 31" Prompt="Arbre 31"/>
+    <Elem NameU="Tree 32" Name="Arbre 32" PromptU="Tree 32" Prompt="Arbre 32"/>
+    <Elem NameU="Tree 33" Name="Arbre 33" PromptU="Tree 33" Prompt="Arbre 33"/>
+    <Elem NameU="Tree 34" Name="Arbre 34" PromptU="Tree 34" Prompt="Arbre 34"/>
+    <Elem NameU="Tree 35" Name="Arbre 35" PromptU="Tree 35" Prompt="Arbre 35"/>
+    <Elem NameU="Tree 36" Name="Arbre 36" PromptU="Tree 36" Prompt="Arbre 36"/>
+</Lib>

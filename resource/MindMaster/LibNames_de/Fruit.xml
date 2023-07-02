@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fruit">
+     <Elem NameU="Apple 1"	Name= "Apfel 1"	PromptU="Apple 1"	Prompt= "Apfel 1"/>
+     <Elem NameU="Apple 2"	Name= "Apfel 2"	PromptU="Apple 2"	Prompt= "Apfel 2"/>
+     <Elem NameU="Apple 3"	Name= "Apfel 3"	PromptU="Apple 3"	Prompt= "Apfel 3"/>
+     <Elem NameU="Avocado"	Name= "Avocado"	PromptU="Avocado"	Prompt= "Avocado"/>
+     <Elem NameU="Banana 1"	Name= "Banane 1"	PromptU="Banana 1"	Prompt= "Banane 1"/>
+     <Elem NameU="Banana 2"	Name= "Banane 2"	PromptU="Banana 2"	Prompt= "Banane 2"/>
+     <Elem NameU="Banana 3"	Name= "Banane 3"	PromptU="Banana 3"	Prompt= "Banane 3"/>
+     <Elem NameU="Blueberry"	Name= "Blaubeere"	PromptU="Blueberry"	Prompt= "Blaubeere"/>
+     <Elem NameU="Cantaloupe"	Name= "Cantaloupe"	PromptU="Cantaloupe"	Prompt= "Cantaloupe"/>
+     <Elem NameU="Carambola 1"	Name= "Carambola 1"	PromptU="Carambola 1"	Prompt= "Carambola 1"/>
+     <Elem NameU="Carambola 2"	Name= "Carambola 2"	PromptU="Carambola 2"	Prompt= "Carambola 2"/>
+     <Elem NameU="Cherry 1"	Name= "Kirsche 1"	PromptU="Cherry 1"	Prompt= "Kirsche 1"/>
+     <Elem NameU="Cherry 2"	Name= "Kirsche 2"	PromptU="Cherry 2"	Prompt= "Kirsche 2"/>
+     <Elem NameU="Coconut"	Name= "Kokosnuss"	PromptU="Coconut"	Prompt= "Kokosnuss"/>
+     <Elem NameU="Durian"	Name= "Durian"	PromptU="Durian"	Prompt= "Durian"/>
+     <Elem NameU="Guava"	Name= "Guava"	PromptU="Guava"	Prompt= "Guava"/>
+     <Elem NameU="Grape"	Name= "Traube"	PromptU="Grape"	Prompt= "Traube"/>
+     <Elem NameU="Kiwi Fruit"	Name= "Kiwi-Frucht"	PromptU="Kiwi Fruit"	Prompt= "Kiwi-Frucht"/>
+     <Elem NameU="Leechee 1"	Name= "Leechee 1"	PromptU="Leechee 1"	Prompt= "Leechee 1"/>
+     <Elem NameU="Leechee 2"	Name= "Leechee 2"	PromptU="Leechee 2"	Prompt= "Leechee 2"/>
+     <Elem NameU="Lemon 1"	Name= "Zitrone 1"	PromptU="Lemon 1"	Prompt= "Zitrone 1"/>
+     <Elem NameU="Lemon 2"	Name= "Zitrone 2"	PromptU="Lemon 2"	Prompt= "Zitrone 2"/>
+     <Elem NameU="Loquat"	Name= "Loquat"	PromptU="Loquat"	Prompt= "Loquat"/>
+     <Elem NameU="Mango"	Name= "Mango"	PromptU="Mango"	Prompt= "Mango"/>
+     <Elem NameU="Mangosteen"	Name= "Mangosteen"	PromptU="Mangosteen"	Prompt= "Mangosteen"/>
+     <Elem NameU="Orange"	Name= "Orange"	PromptU="Orange"	Prompt= "Orange"/>
+     <Elem NameU="Pawpaw"	Name= "Pawpaw"	PromptU="Pawpaw"	Prompt= "Pawpaw"/>
+     <Elem NameU="Peach 1"	Name= "Pfirsich 1"	PromptU="Peach 1"	Prompt= "Pfirsich 1"/>
+     <Elem NameU="Peach 2"	Name= "Pfirsich 2"	PromptU="Peach 2"	Prompt= "Pfirsich 2"/>
+     <Elem NameU="Pear"	Name= "Birne"	PromptU="Pear"	Prompt= "Birne"/>
+     <Elem NameU="Carambola 2"	Name= "Carambola 2"	PromptU="Carambola 2"	Prompt= "Carambola 2"/>
+     <Elem NameU="Persimmon 1"	Name= "Persimmon 1"	PromptU="Persimmon 1"	Prompt= "Persimmon 1"/>
+     <Elem NameU="Persimmon 2"	Name= "Persimmon 2"	PromptU="Persimmon 2"	Prompt= "Persimmon 2"/>
+     <Elem NameU="Pineapple 1"	Name= "Ananas 1"	PromptU="Pineapple 1"	Prompt= "Ananas 1"/>
+     <Elem NameU="Pineapple 2"	Name= "Ananas 2"	PromptU="Pineapple 2"	Prompt= "Ananas 2"/>
+     <Elem NameU="Pitaya Fruit"	Name= "Pitaya Frucht"	PromptU="Pitaya Fruit"	Prompt= "Pitaya Frucht"/>
+     <Elem NameU="Pomegranate"	Name= "Granatapfel"	PromptU="Pomegranate"	Prompt= "Granatapfel"/>
+     <Elem NameU="Raspberry"	Name= "Himbeere"	PromptU="Raspberry"	Prompt= "Himbeere"/>
+     <Elem NameU="Shaddock"	Name= "Shaddock"	PromptU="Shaddock"	Prompt= "Shaddock"/>
+     <Elem NameU="Strawberry 1"	Name= "Erdbeere 1"	PromptU="Strawberry 1"	Prompt= "Erdbeere 1"/>
+     <Elem NameU="Strawberry 2"	Name= "Erdbeere 2"	PromptU="Strawberry 2"	Prompt= "Erdbeere 2"/>
+     <Elem NameU="Tomato"	Name= "Tomate"	PromptU="Tomato"	Prompt= "Tomate"/>
+     <Elem NameU="Watermelon 1"	Name= "Wassermelone 1"	PromptU="Watermelon 1"	Prompt= "Wassermelone 1"/>
+     <Elem NameU="Watermelon 2"	Name= "Wassermelone 2"	PromptU="Watermelon 2"	Prompt= "Wassermelone 2"/>
+     <Elem NameU="Watermelon 3"	Name= "Wassermelone 3"	PromptU="Watermelon 3"	Prompt= "Wassermelone 3"/>
+
+</Lib>

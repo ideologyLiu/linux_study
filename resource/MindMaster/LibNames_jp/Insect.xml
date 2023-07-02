@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Insect">
+    <Elem NameU="Beetles 1" Name="テントウムシ 1" PromptU="Beetles 1" Prompt="テントウムシ 1"/>
+    <Elem NameU="Beetles 2" Name="テントウムシ 2" PromptU="Beetles 2" Prompt="テントウムシ 2"/>
+    <Elem NameU="Beetles 3" Name="テントウムシ 3" PromptU="Beetles 3" Prompt="テントウムシ 3"/>
+    <Elem NameU="Mantis" Name="カマキリ" PromptU="Mantis" Prompt="カマキリ"/>
+    <Elem NameU="Fly" Name="ハエ" PromptU="Fly" Prompt="ハエ"/>
+    <Elem NameU="Bees 1" Name="ミツバチ 1" PromptU="Bees 1" Prompt="ミツバチ 1"/>
+    <Elem NameU="Bees 2" Name="ミツバチ 2" PromptU="Bees 2" Prompt="ミツバチ 2"/>
+    <Elem NameU="Caterpillar" Name="ケムシ" PromptU="Caterpillar" Prompt="ケムシ"/>
+    <Elem NameU="Butterfly 1" Name="チョウ 1" PromptU="Butterfly 1" Prompt="チョウ 1"/>
+    <Elem NameU="Butterfly 2" Name="チョウ 2" PromptU="Butterfly 2" Prompt="チョウ 2"/>
+    <Elem NameU="Butterfly3" Name="チョウ 3" PromptU="Butterfly3" Prompt="チョウ 3"/>
+    <Elem NameU="Dragonfly" Name="トンボ" PromptU="Dragonfly" Prompt="トンボ"/>
+    <Elem NameU="Glowworm" Name="蛍" PromptU="Glowworm" Prompt="蛍"/>
+    <Elem NameU="Snail" Name="カタツムリ" PromptU="Snail" Prompt="カタツムリ"/>
+    <Elem NameU="Scorpion" Name="サソリ" PromptU="Scorpion" Prompt="サソリ"/>
+    <Elem NameU="Grasshopper" Name="バッタ" PromptU="Grasshopper" Prompt="バッタ"/>
+    <Elem NameU="Cicada" Name="セミ" PromptU="Cicada" Prompt="セミ"/>
+    <Elem NameU="Earthworm 1" Name="ミミズ 1" PromptU="Earthworm 1" Prompt="ミミズ 1"/>
+    <Elem NameU="Earthworm 2" Name="ミミズ 2" PromptU="Earthworm 2" Prompt="ミミズ 2"/>
+    <Elem NameU="Spider" Name="クモ" PromptU="Spider" Prompt="クモ"/>
+    <Elem NameU="Ant 2" Name="蟻" PromptU="Ant 2" Prompt="蟻"/>
+    <Elem NameU="Ant 1" Name="蟻" PromptU="Ant 1" Prompt="蟻"/>
+    <Elem NameU="Mosquito" Name="蚊" PromptU="Mosquito" Prompt="蚊"/>
+    <Elem NameU="Moth" Name="蛾" PromptU="Moth" Prompt="蛾"/>
+    <Elem NameU="Cockroach" Name="ゴキブリ" PromptU="Cockroach" Prompt="ゴキブリ"/>
+    <Elem NameU="Lucanidae" Name="クワガタムシ" PromptU="Lucanidae" Prompt="クワガタムシ"/>
+    <Elem NameU="Dicelosternus Corallinus" Name="カミキリムシ" PromptU="Dicelosternus Corallinus" Prompt="カミキリムシ"/>
+</Lib>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Children's Day">
+    <Elem NameU="Fish 1" Name="鱼 1" PromptU="Fish 1" Prompt="鱼 1"/>
+    <Elem NameU="Fish 2" Name="鱼 2" PromptU="Fish 2" Prompt="鱼 2"/>
+    <Elem NameU="Lobster 1" Name="龙虾 1" PromptU="Lobster 1" Prompt="龙虾 1"/>
+    <Elem NameU="Lobster 2" Name="龙虾 2" PromptU="Lobster 2" Prompt="龙虾 2"/>
+    <Elem NameU="Boy" Name="男孩" PromptU="Boy" Prompt="男孩"/>
+    <Elem NameU="Girl 1" Name="女孩 1" PromptU="Girl 1" Prompt="女孩 1"/>
+    <Elem NameU="Girl 2" Name="女孩 2" PromptU="Girl 2" Prompt="女孩 2"/>
+    <Elem NameU="Girl 3" Name="女孩 3" PromptU="Girl 3" Prompt="女孩 3"/>
+    <Elem NameU="Girl 4" Name="女孩 4" PromptU="Girl 4" Prompt="女孩 4"/>
+    <Elem NameU="Boy And Windmill" Name="风车男孩" PromptU="Boy And Windmill" Prompt="风车男孩"/>
+    <Elem NameU="Korean Costume" Name="韩国服装" PromptU="Korean Costume" Prompt="韩国服装"/>
+    <Elem NameU="Duck" Name="鸭" PromptU="Duck" Prompt="鸭"/>
+    <Elem NameU="Toy Car" Name="玩具车" PromptU="Toy Car" Prompt="玩具车"/>
+    <Elem NameU="Bucket and Shovel" Name="桶和铲子" PromptU="Bucket and Shovel" Prompt="桶和铲子"/>
+    <Elem NameU="Spinning Top" Name="陀螺" PromptU="Spinning Top" Prompt="陀螺"/>
+    <Elem NameU="Toy" Name="玩偶" PromptU="Toy" Prompt="玩偶"/>
+    <Elem NameU="Carousel" Name="旋转木马" PromptU="Carousel" Prompt="旋转木马"/>
+    <Elem NameU="Pony" Name="小马" PromptU="Pony" Prompt="小马"/>
+    <Elem NameU="Clown 1" Name="小丑 1" PromptU="Clown 1" Prompt="小丑 1"/>
+    <Elem NameU="Clown 2" Name="小丑 2" PromptU="Clown 2" Prompt="小丑 2"/>
+    <Elem NameU="Toy Bear" Name="玩具熊" PromptU="Toy Bear" Prompt="玩具熊"/>
+    <Elem NameU="Prop the ball 1" Name="球 1" PromptU="Prop the ball 1" Prompt="球 1"/>
+    <Elem NameU="Prop the ball 2" Name="球 2" PromptU="Prop the ball 2" Prompt="球 2"/>
+    <Elem NameU="Prop the ball 3" Name="球 3" PromptU="Prop the ball 3" Prompt="球 3"/>
+    <Elem NameU="Prop the ball 4" Name="球 4" PromptU="Prop the ball 4" Prompt="球 4"/>
+    <Elem NameU="Prop the ball 5" Name="球 5" PromptU="Prop the ball 5" Prompt="球 5"/>
+    <Elem NameU="Prop the ball 6" Name="球 6" PromptU="Prop the ball 6" Prompt="球 6"/>
+    <Elem NameU="Prop the ball 7" Name="球 7" PromptU="Prop the ball 7" Prompt="球 7"/>
+    <Elem NameU="Clown Mask" Name="小丑面具" PromptU="Clown Mask" Prompt="小丑面具"/>
+    <Elem NameU="Spiderman" Name="蜘蛛侠" PromptU="Spiderman" Prompt="蜘蛛侠"/>
+    <Elem NameU="Ice Cream" Name="冰激凌" PromptU="Ice Cream" Prompt="冰激凌"/>
+    <Elem NameU="Lollipop" Name="棒棒糖" PromptU="Lollipop" Prompt="棒棒糖"/>
+    <Elem NameU="Lollipop 2" Name="棒棒糖 2" PromptU="Lollipop 2" Prompt="棒棒糖 2"/>
+    <Elem NameU="Lollipop 3" Name="棒棒糖 3" PromptU="Lollipop 3" Prompt="棒棒糖 3"/>
+    <Elem NameU="Lollipop 4" Name="棒棒糖 4" PromptU="Lollipop 4" Prompt="棒棒糖 4"/>
+    <Elem NameU="Lollipop 5" Name="棒棒糖 5" PromptU="Lollipop 5" Prompt="棒棒糖 5"/>
+    <Elem NameU="Lollipop 6" Name="棒棒糖 6" PromptU="Lollipop 6" Prompt="棒棒糖 6"/>
+    <Elem NameU="Ballon" Name="气球" PromptU="Ballon" Prompt="气球"/>
+    <Elem NameU="Ballon" Name="气球" PromptU="Ballon" Prompt="气球"/>
+    <Elem NameU="Ballon" Name="气球" PromptU="Ballon" Prompt="气球"/>
+    <Elem NameU="Ballon" Name="气球" PromptU="Ballon" Prompt="气球"/>
+    <Elem NameU="Ballon" Name="气球" PromptU="Ballon" Prompt="气球"/>
+</Lib>

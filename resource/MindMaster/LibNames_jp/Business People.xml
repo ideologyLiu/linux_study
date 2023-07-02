@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business People">
+    <Elem NameU="Man 1" Name="男性 1" PromptU="Man 1" Prompt="男性 1"/>
+    <Elem NameU="Man 2" Name="男性 2" PromptU="Man" Prompt="男性"/>
+    <Elem NameU="Man 3" Name="男性 3" PromptU="Man" Prompt="男性"/>
+    <Elem NameU="Man 4" Name="男性 4" PromptU="Man" Prompt="男性"/>
+    <Elem NameU="Man 5" Name="男性 5" PromptU="Man" Prompt="男性"/>
+    <Elem NameU="Man 6" Name="男性 6" PromptU="Man" Prompt="男性"/>
+    <Elem NameU="Woman 1" Name="女性 1" PromptU="Woman 1" Prompt="女性 1"/>
+    <Elem NameU="Woman 2" Name="女性 2" PromptU="Woman" Prompt="女性"/>
+    <Elem NameU="Woman 3" Name="女性 3" PromptU="Woman" Prompt="女性"/>
+    <Elem NameU="Woman 4" Name="女性 4" PromptU="Woman" Prompt="女性"/>
+    <Elem NameU="Woman 5" Name="女性 5" PromptU="Woman" Prompt="女性"/>
+    <Elem NameU="Woman 6" Name="女性 6" PromptU="Woman" Prompt="女性"/>
+    <Elem NameU="Woman 7" Name="女性 7" PromptU="Woman" Prompt="女性"/>
+    <Elem NameU="Running man" Name="走っている人" PromptU="Running man" Prompt="走っている人"/>
+    <Elem NameU="Rest" Name="休憩している人" PromptU="Rest man" Prompt="休憩している人"/>
+    <Elem NameU="Working" Name="仕事中の人" PromptU="Working man" Prompt="仕事中の人"/>
+    <Elem NameU="Meeting" Name="打ち合わせ" PromptU="Meeting" Prompt="打ち合わせ"/>
+</Lib>

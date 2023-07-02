@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Tourism">
+    <Elem Prompt="王宮" Name="王宮" PromptU="The Grand Palace" NameU="The Grand Palace"/>
+    <Elem Prompt="ロンドン・アイ" Name="ロンドン・アイ" PromptU="London Eye" NameU="London Eye"/>
+    <Elem Prompt="自由の女神像" Name="自由の女神像" PromptU="Statue of Liberty" NameU="Statue of Liberty"/>
+    <Elem Prompt="コロッセオ" Name="コロッセオ" PromptU="Rome Colosseum" NameU="Rome Colosseum"/>
+    <Elem Prompt="万里の長城" Name="万里の長城" PromptU="Great Wall" NameU="Great Wall"/>
+    <Elem Prompt="シドニー・オペラハウス" Name="シドニー・オペラハウス" PromptU="Sydney Opera House" NameU="Sydney Opera House"/>
+    <Elem Prompt="ピラミッド" Name="ピラミッド" PromptU="The Pyramids" NameU="The Pyramids"/>
+    <Elem Prompt="聖堂" Name="聖堂" PromptU="Church" NameU="Church"/>
+    <Elem Prompt="ピサの斜塔" Name="ピサの斜塔" PromptU="Leaning Tower of Pisa" NameU="Leaning Tower of Pisa"/>
+    <Elem Prompt="エッフェル塔" Name="エッフェル塔" PromptU="Eiffel Tower" NameU="Eiffel Tower"/>
+    <Elem Prompt="ルーブル美術館" Name="ルーブル美術館" PromptU="The Louvre" NameU="The Louvre"/>
+    <Elem Prompt="マーライオン" Name="マーライオン" PromptU="Merloin" NameU="Merloin"/>
+    <Elem Prompt="ビッグ・ベン" Name="ビッグ・ベン" PromptU="Big Ben" NameU="Big Ben"/>
+    <Elem Prompt="凱旋門" Name="凱旋門" PromptU="Triumphal Arch" NameU="Triumphal Arch"/>
+    <Elem Prompt="ブルジュ・アル・アラブ" Name="ブルジュ・アル・アラブ" PromptU="Burj Al Arab Hotel" NameU="Burj Al Arab Hotel"/>
+    <Elem Prompt="オランダの風車" Name="オランダの風車" PromptU="Dutch Windmill" NameU="Dutch Windmill"/>
+    <Elem Prompt="タージマハル" Name="タージマハル" PromptU="Taj Mahal" NameU="Taj Mahal"/>
+    <Elem Prompt="大英博物館" Name="大英博物館" PromptU="British Museum" NameU="British Museum"/>
+    <Elem Prompt="チチェン・イッツァ" Name="チチェン・イッツァ" PromptU="Chichen Itza" NameU="Chichen Itza"/>
+    <Elem Prompt="国会議事堂" Name="国会議事堂" PromptU="Parliament House" NameU="Parliament House"/>
+    <Elem Prompt="ホワイトハウス" Name="ホワイトハウス" PromptU="The White House" NameU="The White House"/>
+    <Elem Prompt="東屋" Name="東屋" PromptU="Pavilion" NameU="Pavilion"/>
+    <Elem Prompt="水辺の東屋" Name="水辺の東屋" PromptU="Water Villa" NameU="Water Villa"/>
+    <Elem Prompt="滝 1" Name="滝 1" PromptU="Waterfall 1" NameU="Waterfall 1"/>
+    <Elem Prompt="滝 2" Name="滝 2" PromptU="Waterfall 2" NameU="Waterfall 2"/>
+    <Elem Prompt="噴水" Name="噴水" PromptU="Fountain" NameU="Fountain"/>
+    <Elem Prompt="電話ボックス" Name="電話ボックス" PromptU="Telephone Booth" NameU="Telephone Booth"/>
+    <Elem Prompt="郵便ポスト" Name="郵便ポスト" PromptU="Pillar box" NameU="Pillar box"/>
+    <Elem Prompt="交通標識" Name="交通標識" PromptU="Direction Board" NameU="Direction Board"/>
+    <Elem Prompt="旅行スーツケース" Name="旅行スーツケース" PromptU="Travel Suitcase" NameU="Travel Suitcase"/>
+    <Elem Prompt="荷物" Name="荷物" PromptU="Luggage" NameU="Luggage"/>
+    <Elem Prompt="スーツケースを持っている人" Name="スーツケースを持っている人" PromptU="Person with Suitcase" NameU="Person with Suitcase"/>
+    <Elem Prompt="兄弟" Name="兄弟" PromptU="Brother and Sister" NameU="Brother and Sister"/>
+    <Elem Prompt="夫婦" Name="夫婦" PromptU="Couple Walking" NameU="Couple Walking"/>
+    <Elem Prompt="カメラを持っている人" Name="カメラを持っている人" PromptU="People with Camera" NameU="People with Camera"/>
+    <Elem Prompt="家族" Name="家族" PromptU="Family" NameU="Family"/>
+    <Elem Prompt="サーフボード" Name="サーフボード" PromptU="Surfboard" NameU="Surfboard"/>
+    <Elem Prompt="ビーチパラソル" Name="ビーチパラソル" PromptU="Beach Umbrella" NameU="Beach Umbrella"/>
+    <Elem Prompt="リキュール" Name="リキュール" PromptU="Liqueur" NameU="Liqueur"/>
+    <Elem Prompt="ココヤシ" Name="ココヤシ" PromptU="Coconut Palm" NameU="Coconut Palm"/>
+    <Elem Prompt="イルカ" Name="イルカ" PromptU="Dolphin" NameU="Dolphin"/>
+    <Elem Prompt="ヒトデ" Name="ヒトデ" PromptU="Starfish" NameU="Starfish"/>
+    <Elem Prompt="貝殻" Name="貝殻" PromptU="Seashell" NameU="Seashell"/>
+    <Elem Prompt="巻貝 1" Name="巻貝 1" PromptU="Spiral Shell 1" NameU="Spiral Shell 1"/>
+    <Elem Prompt="巻貝 2" Name="巻貝 2" PromptU="Spiral Shell 2" NameU="Spiral Shell 2"/>
+    <Elem Prompt="巻貝 3" Name="巻貝 3" PromptU="Spiral Shell 3" NameU="Spiral Shell 3"/>
+    <Elem Prompt="鮫" Name="鮫" PromptU="Shark" NameU="Shark"/>
+    <Elem Prompt="魚" Name="魚" PromptU="Fish" NameU="Fish"/>
+    <Elem Prompt="キリン" Name="キリン" PromptU="Giraffe" NameU="Giraffe"/>
+    <Elem Prompt="スイムゴーグル" Name="スイムゴーグル" PromptU="Swim goggles" NameU="Swim goggles"/>
+    <Elem Prompt="サングラス 1" Name="サングラス 1" PromptU="Sunglasses 1" NameU="Sunglasses 1"/>
+    <Elem Prompt="サングラス 2" Name="サングラス 2" PromptU="Sunglasses 2" NameU="Sunglasses 2"/>
+    <Elem Prompt="帽子 1" Name="帽子 1" PromptU="Cap 1" NameU="Cap 1"/>
+    <Elem Prompt="帽子 2" Name="帽子 2" PromptU="Cap 2" NameU="Cap 2"/>
+    <Elem Prompt="ビキニ" Name="ビキニ" PromptU="Bikini" NameU="Bikini"/>
+    <Elem Prompt="パケット" Name="パケット" PromptU="Packet" NameU="Packet"/>
+    <Elem Prompt="ビーチ靴" Name="ビーチ靴" PromptU="Beach shoes" NameU="Beach shoes"/>
+    <Elem Prompt="ビーチチェア 1" Name="ビーチチェア 1" PromptU="Beach chair 1" NameU="Beach chair 1"/>
+    <Elem Prompt="ビーチチェア 2" Name="ビーチチェア 2" PromptU="Beach chair 2" NameU="Beach chair 2"/>
+    <Elem Prompt="ビーチエリア" Name="ビーチエリア" PromptU="The beach area" NameU="The beach area"/>
+    <Elem Prompt="銀行カード" Name="銀行カード" PromptU="Bank Card" NameU="Bank Card"/>
+    <Elem Prompt="雲" Name="雲" PromptU="Cloud" NameU="Cloud"/>
+    <Elem Prompt="飛行機 1" Name="飛行機 1" PromptU="Aircraft 1" NameU="Aircraft 1"/>
+    <Elem Prompt="飛行機 2" Name="飛行機 2" PromptU="Aircraft 2" NameU="Aircraft 2"/>
+    <Elem Prompt="飛行機 3" Name="飛行機 3" PromptU="Aircraft 3" NameU="Aircraft 3"/>
+    <Elem Prompt="車" Name="車" PromptU="Car" NameU="Car"/>
+    <Elem Prompt="バス" Name="バス" PromptU="Bus" NameU="Bus"/>
+    <Elem Prompt="2階建車両" Name="2階建車両" PromptU="Double Decker Bus" NameU="Double Decker Bus"/>
+    <Elem Prompt="ファミリーカー" Name="ファミリーカー" PromptU="Family Car" NameU="Family Car"/>
+    <Elem Prompt="クルーズ船" Name="クルーズ船" PromptU="Cruise Ship" NameU="Cruise Ship"/>
+    <Elem Prompt="セーリング" Name="セーリング" PromptU="Sailing" NameU="Sailing"/>
+    <Elem Prompt="晴れの日" Name="晴れの日" PromptU="Sunny" NameU="Sunny"/>
+    <Elem Prompt="雲の日" Name="雲の日" PromptU="Cloudy" NameU="Cloudy"/>
+    <Elem Prompt="曇り" Name="曇り" PromptU="Overcast" NameU="Overcast"/>
+    <Elem Prompt="雨の日" Name="雨の日" PromptU="Rainy" NameU="Rainy"/>
+    <Elem Prompt="雷雨" Name="雷雨" PromptU="Thunderstorm" NameU="Thunderstorm"/>
+    <Elem Prompt="雷" Name="雷" PromptU="Thunder" NameU="Thunder"/>
+    <Elem Prompt="大雪" Name="大雪" PromptU="Heavy Snow" NameU="Heavy Snow"/>
+    <Elem Prompt="雨雪" Name="雨雪" PromptU="Rain and Snow" NameU="Rain and Snow"/>
+    <Elem Prompt="傘" Name="傘" PromptU="Umbrella" NameU="Umbrella"/>
+    <Elem Prompt="現在地マーク" Name="現在地マーク" PromptU="Location Mark" NameU="Location Mark"/>
+    <Elem Prompt="コンパス" Name="コンパス" PromptU="Compass" NameU="Compass"/>
+    <Elem Prompt="人" Name="人" PromptU="People" NameU="People"/>
+</Lib>

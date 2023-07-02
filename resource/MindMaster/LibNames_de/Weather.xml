@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Weather">
+     <Elem NameU="Sunny"	Name="Sonnig"	PromptU="Sunny"	Prompt="Sonnig"/>
+     <Elem NameU="Cloudy"	Name="Bewölkt"	PromptU="Cloudy"	Prompt="Bewölkt"/>
+     <Elem NameU="Overcast"	Name="Bedeckter"	PromptU="Overcast"	Prompt="Bedeckter"/>
+     <Elem NameU="Rainy"	Name="Regnerisch"	PromptU="Rainy"	Prompt="Regnerisch"/>
+     <Elem NameU="Drizzle"	Name="Nieselregen"	PromptU="Drizzle"	Prompt="Nieselregen"/>
+     <Elem NameU="Snowy"    Name="schneereich"	PromptU="Snowy"	Prompt="schneereich"/>
+     <Elem NameU="Heavy Snow"	Name="Stark Schnee"	PromptU="Heavy Snow"	Prompt="Stark Schnee"/>
+     <Elem NameU="Sleet"	Name="Schneeregen"	PromptU="Sleet"	Prompt="Schneeregen"/>
+     <Elem NameU="Hailstone"	Name="Hailstone"	PromptU="Hailstone"	Prompt="Hailstone"/>
+     <Elem NameU="Hailstone and Snow"	Name="Hailstone und Schnee"	PromptU="Hailstone and Snow"	Prompt="Hailstone und Schnee"/>
+     <Elem NameU="Thunderstorm"	Name="Gewitter"	PromptU="Thunderstorm"	Prompt="Gewitter"/>
+     <Elem NameU="Thunder"	Name="Donner"	PromptU="Thunder"	Prompt="Donner"/>
+     <Elem NameU="Snow and Thunder"	Name="Schnee und Donner"	PromptU="Snow and Thunder"	Prompt="Schnee und Donner"/>
+     <Elem NameU="Thunderstorm and Hailstone"	Name="Gewitter und Hagel"	PromptU="Thunderstorm and Hailstone"	Prompt="Gewitter und Hagel"/>
+     <Elem NameU="Showery Rain"	Name="Duschiger Regen"	PromptU="Showery Rain"	Prompt="Duschiger Regen"/>
+     <Elem NameU="Showery Snow"	Name="Duschiger Schnee"	PromptU="Showery Snow"	Prompt="Duschiger Schnee"/>
+     <Elem NameU="Clear to Cloudy"	Name="Clear to Cloudy"	PromptU="Clear to Cloudy"	Prompt="Clear to Cloudy"/>
+     <Elem NameU="Foggy and Sun"	Name="Nebelig und Sonne"	PromptU="Foggy and Sun"	Prompt="Nebelig und Sonne"/>
+     <Elem NameU="Foggy 1"	Name="Nebelig"	PromptU="Foggy 1"	Prompt="Nebelig"/>
+     <Elem NameU="Foggy 2"	Name="Nebelig 2"	PromptU="Foggy 2"	Prompt="Nebelig 2"/>
+     <Elem NameU="Tornado"	Name="Tornado"	PromptU="Tornado"	Prompt="Tornado"/>
+     <Elem NameU="Windy"	Name="Windig"	PromptU="Windy"	Prompt="Windig"/>
+     <Elem NameU="Windy and Dusty"	Name="Windig und Staubig"	PromptU="Windy and Dusty"	Prompt="Windig und Staubig"/>
+     <Elem NameU="Floating Dust"	Name="schwimmender Staub"	PromptU="Floating Dust"	Prompt="schwimmender Staub"/>
+     <Elem NameU="Wind Vane"	Name="Windfahne"	PromptU="Wind Vane"	Prompt="Windfahne"/>
+     <Elem NameU="Dust Tester"	Name="Staubprüfgerät"	PromptU="Dust Tester"	Prompt="Staubprüfgerät"/>
+     <Elem NameU="Rainbow Cloudy"	Name="Regenbogen bewölkt"	PromptU="Rainbow Cloudy"	Prompt="Regenbogen bewölkt"/>
+     <Elem NameU="Rainbow Rainy"	Name="Regenbogen regnerisch"	PromptU="Rainbow Rainy"	Prompt="Regenbogen regnerisch"/>
+     <Elem NameU="Clear at Night"	Name="Nachts klar"	PromptU="Clear at Night"	Prompt="Nachts klar"/>
+     <Elem NameU="Cloudy at Night"	Name="Bewölkt bei Nacht"	PromptU="Cloudy at Night"	Prompt="Bewölkt bei Nacht"/>
+     <Elem NameU="Overcast at Night"	Name="nachts bewölkt"	PromptU="Overcast at Night"	Prompt="nachts bewölkt"/>
+     <Elem NameU="Rainy at Night"	Name="Regnerisch in der Nacht"	PromptU="Rainy at Night"	Prompt="Regnerisch in der Nacht"/>
+     <Elem NameU="Heavy Rain at Night"	Name="Starker Regen in der Nacht"	PromptU="Heavy Rain at Night"	Prompt="Starker Regen in der Nacht"/>
+     <Elem NameU="Heavy Snow at Night"	Name="Starker Schnee nachts"	PromptU="Heavy Snow at Night"	Prompt="Starker Schnee nachts"/>
+     <Elem NameU="Snowy at Night"	Name="Snowy bei Nacht"	PromptU="Snowy at Night"	Prompt="Snowy bei Nacht"/>
+     <Elem NameU="Thunderstorm at Night"	Name="Gewitter bei Nacht"	PromptU="Thunderstorm at Night"	Prompt="Gewitter bei Nacht"/>
+     <Elem NameU="Thunder at Night"	Name="Donner nachts"	PromptU="Thunder at Night"	Prompt="Donner nachts"/>
+     <Elem NameU="Sleet at Night"	Name="Sleet nachts"	PromptU="Sleet at Night"	Prompt="Sleet nachts"/>
+     <Elem NameU="Foggy at Night"	Name="Nebelig nachts"	PromptU="Foggy at Night"	Prompt="Nebelig nachts"/>
+     <Elem NameU="Tornado at Night"	Name="Tornado nachts"	PromptU="Tornado at Night"	Prompt="Tornado nachts"/>
+     <Elem NameU="Hailstone at Night"	Name="Hailstone bei Nacht"	PromptU="Hailstone at Night"	Prompt="Hailstone bei Nacht"/>
+</Lib>

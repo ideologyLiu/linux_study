@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Tableware">
+    <Elem NameU="Wine Bottle 2" Name="Bouteille de vin 2" PromptU="Wine Bottle 2" Prompt="Bouteille de vin 2"/>
+    <Elem NameU="Wine Bottle 3" Name="Bouteille de vin 3" PromptU="Wine Bottle 3" Prompt="Bouteille de vin 3"/>
+    <Elem NameU="Wine Bottle 4" Name="Bouteille de vin 4" PromptU="Wine Bottle 4" Prompt="Bouteille de vin 4"/>
+    <Elem NameU="Wine Bottle 5" Name="Bouteille de vin 5" PromptU="Wine Bottle 5" Prompt="Bouteille de vin 5"/>
+    <Elem NameU="Wine Bottle 6" Name="Bouteille de vin 6" PromptU="Wine Bottle 6" Prompt="Bouteille de vin 6"/>
+    <Elem NameU="Wine Bottle 7" Name="Bouteille de vin 7" PromptU="Wine Bottle 7" Prompt="Bouteille de vin 7"/>
+    <Elem NameU="Wine Bottle 8" Name="Bouteille de vin 8" PromptU="Wine Bottle 8" Prompt="Bouteille de vin 8"/>
+    <Elem NameU="Wine Bottle" Name="Bouteille de vin" PromptU="Wine Bottle" Prompt="Bouteille de vin"/>
+    <Elem NameU="Wine Bottle 9" Name="Bouteille de vin 9" PromptU="Wine Bottle 9" Prompt="Bouteille de vin 9"/>
+    <Elem NameU="Wine Glass 1" Name="Verre de vin 1" PromptU="Wine Glass 1" Prompt="Verre de vin 1"/>
+    <Elem NameU="Wine Glass 2" Name="Verre de vin 2" PromptU="Wine Glass 2" Prompt="Verre de vin 2"/>
+    <Elem NameU="Wine Glass 3" Name="Verre de vin 3" PromptU="Wine Glass 3" Prompt="Verre de vin 3"/>
+    <Elem NameU="Wine Glass 4" Name="Verre de vin 4" PromptU="Wine Glass 4" Prompt="Verre de vin 4"/>
+    <Elem NameU="Wine Glass 5" Name="Verre de vin 5" PromptU="Wine Glass 5" Prompt="Verre de vin 5"/>
+    <Elem NameU="Wine Glass 6" Name="Verre de vin 6" PromptU="Wine Glass 6" Prompt="Verre de vin 6"/>
+    <Elem NameU="Wine Glass 7" Name="Verre de vin 7" PromptU="Wine Glass 7" Prompt="Verre de vin 7"/>
+    <Elem NameU="Wooden spoon" Name="Spatule en bois" PromptU="Wooden spoon" Prompt="Spatule en bois"/>
+    <Elem NameU="Wooden spoon" Name="Spatule en bois" PromptU="Wooden spoon" Prompt="Spatule en bois"/>
+    <Elem NameU="Large wooden spoon" Name="Spatule en bois" PromptU="Large wooden spoon" Prompt="Spatule en bois"/>
+    <Elem NameU="Long wooden spoon" Name="Spatule en bois" PromptU="Long wooden spoon" Prompt="Spatule en bois"/>
+    <Elem NameU="Spoon" Name="Cuillère" PromptU="Spoon" Prompt="Cuillère"/>
+    <Elem NameU="Fork" Name="Fourchette" PromptU="Fork" Prompt="Fourchette"/>
+    <Elem NameU="Circular plate" Name="Plaque circulaire" PromptU="Circular plate" Prompt="Plaque circulaire"/>
+    <Elem NameU="Oval plate" Name="Plaque ovale" PromptU="Oval plate" Prompt="Plaque ovale"/>
+    <Elem NameU="Bowl" Name="Bol" PromptU="Bowl" Prompt="Bol"/>
+    <Elem NameU="Fruit Knife" Name="Couteau à fruits" PromptU="Fruit Knife" Prompt="Couteau à fruits"/>
+    <Elem NameU="Kitchen Knife" Name="Couteau de cuisine" PromptU="Kitchen Knife" Prompt="Couteau de cuisine"/>
+    <Elem NameU="Chopping board" Name="Planche à découper" PromptU="Chopping board" Prompt="Planche à découper"/>
+    <Elem NameU="Teapot" Name="Théière" PromptU="Teapot" Prompt="Théière"/>
+    <Elem NameU="Bread maker" Name="Machine a pain" PromptU="Bread maker" Prompt="Machine a pain"/>
+    <Elem NameU="Induction cooker" Name="Plaque à induction" PromptU="Induction cooker" Prompt="Plaque à induction"/>
+    <Elem NameU="Microwave oven" Name="Four micro-onde" PromptU="Microwave oven" Prompt="Four micro-onde"/>
+    <Elem NameU="Pan" Name="Poêle" PromptU="Pan" Prompt="Poêle"/>
+    <Elem NameU="Chef" Name="Chef" PromptU="Chef" Prompt="Chef"/>
+    <Elem NameU="Canteen" Name="Cantine" PromptU="Canteen" Prompt="Cantine"/>
+</Lib>

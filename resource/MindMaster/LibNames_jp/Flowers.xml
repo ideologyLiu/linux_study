@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Flowers">
+    <Elem NameU="Flower 1" Name="花 1" PromptU="Flower 1" Prompt="花 1"/>
+    <Elem NameU="Flower 2" Name="花 2" PromptU="Flower 2" Prompt="花 2"/>
+    <Elem NameU="Flower 3" Name="花 3" PromptU="Flower 3" Prompt="花 3"/>
+    <Elem NameU="Flower 4" Name="花 4" PromptU="Flower 4" Prompt="花 4"/>
+    <Elem NameU="Flower 5" Name="花 5" PromptU="Flower 5" Prompt="花 5"/>
+    <Elem NameU="Flower 6" Name="花 6" PromptU="Flower 6" Prompt="花 6"/>
+    <Elem NameU="Flower 7" Name="花 7" PromptU="Flower 7" Prompt="花 7"/>
+    <Elem NameU="Flower 8" Name="花 8" PromptU="Flower 8" Prompt="花 8"/>
+    <Elem NameU="Flower 9" Name="花 9" PromptU="Flower 9" Prompt="花 9"/>
+    <Elem NameU="Flower 10" Name="花 10" PromptU="Flower 10" Prompt="花 10"/>
+    <Elem NameU="Flower 11" Name="花 11" PromptU="Flower 11" Prompt="花 11"/>
+    <Elem NameU="Flower 12" Name="花 12" PromptU="Flower 12" Prompt="花 12"/>
+    <Elem NameU="Flower 13" Name="花 13" PromptU="Flower 13" Prompt="花 13"/>
+    <Elem NameU="Flower 14" Name="花 14" PromptU="Flower 14" Prompt="花 14"/>
+    <Elem NameU="Flower 15" Name="花 15" PromptU="Flower 15" Prompt="花 15"/>
+    <Elem NameU="Flower 16" Name="花 16" PromptU="Flower 16" Prompt="花 16"/>
+    <Elem NameU="Flower 17" Name="花 17" PromptU="Flower 17" Prompt="花 17"/>
+    <Elem NameU="Flower 18" Name="花 18" PromptU="Flower 18" Prompt="花 18"/>
+    <Elem NameU="Flower 19" Name="花 19" PromptU="Flower 19" Prompt="花 19"/>
+    <Elem NameU="Flower 20" Name="花 20" PromptU="Flower 20" Prompt="花 20"/>
+    <Elem NameU="Flower 21" Name="花 21" PromptU="Flower 21" Prompt="花 21"/>
+    <Elem NameU="Flower 22" Name="花 22" PromptU="Flower 22" Prompt="花 22"/>
+    <Elem NameU="Flower 23" Name="花 23" PromptU="Flower 23" Prompt="花 23"/>
+    <Elem NameU="Flower 24" Name="花 24" PromptU="Flower 24" Prompt="花 24"/>
+    <Elem NameU="Flower 25" Name="花 25" PromptU="Flower 25" Prompt="花 25"/>
+    <Elem NameU="Flower 26" Name="花 26" PromptU="Flower 26" Prompt="花 26"/>
+    <Elem NameU="Flower 27" Name="花 27" PromptU="Flower 27" Prompt="花 27"/>
+    <Elem NameU="Flower 28" Name="花 28" PromptU="Flower 28" Prompt="花 28"/>
+    <Elem NameU="Flower 29" Name="花 29" PromptU="Flower 29" Prompt="花 29"/>
+    <Elem NameU="Flower 30" Name="花 30" PromptU="Flower 30" Prompt="花 30"/>
+    <Elem NameU="Flower 31" Name="花 31" PromptU="Flower 31" Prompt="花 31"/>
+    <Elem NameU="Flower 32" Name="花 32" PromptU="Flower 32" Prompt="花 32"/>
+    <Elem NameU="Flower 33" Name="花 33" PromptU="Flower 33" Prompt="花 33"/>
+    <Elem NameU="Flower 34" Name="花 34" PromptU="Flower 34" Prompt="花 34"/>
+    <Elem NameU="Flower 35" Name="花 35" PromptU="Flower 35" Prompt="花 35"/>
+    <Elem NameU="Flower 36" Name="花 36" PromptU="Flower 36" Prompt="花 36"/>
+    <Elem NameU="Flower 37" Name="花 37" PromptU="Flower 37" Prompt="花 37"/>
+    <Elem NameU="Flower 38" Name="花 38" PromptU="Flower 38" Prompt="花 38"/>
+    <Elem NameU="Flower 39" Name="花 39" PromptU="Flower 39" Prompt="花 39"/>
+    <Elem NameU="Flower 40" Name="花 40" PromptU="Flower 40" Prompt="花 40"/>
+    <Elem NameU="Flower 41" Name="花 41" PromptU="Flower 41" Prompt="花 41"/>
+    <Elem NameU="Flower 42" Name="花 42" PromptU="Flower 42" Prompt="花 42"/>
+    <Elem NameU="Rose" Name="バラ" PromptU="Rose" Prompt="バラ"/>
+    <Elem NameU="Flower 43" Name="花 43" PromptU="Flower 43" Prompt="花 43"/>
+</Lib>

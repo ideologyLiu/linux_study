@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Environment">
+    <Elem Prompt="Économiser l'eau" Name="Économiser l'eau" PromptU="Save Water" NameU="Save Water"/>
+    <Elem Prompt="Terre verte 1" Name="Terre verte 1" PromptU="Green Earth 1" NameU="Green Earth 1"/>
+    <Elem Prompt="Terre verte 2" Name="Terre verte 2" PromptU="Green Earth 2" NameU="Green Earth 2"/>
+    <Elem Prompt="Ampoule à économie d'énergie" Name="Ampoule à économie d'énergie" PromptU="Energy Saving Bulb" NameU="Energy Saving Bulb"/>
+    <Elem Prompt="Voiture écologique" Name="Voiture écologique" PromptU="Eco-Friendly Car" NameU="Eco-Friendly Car"/>
+    <Elem Prompt="Soleil 1" Name="Soleil 1" PromptU="Sun 1" NameU="Sun 1"/>
+    <Elem Prompt="Soleil 2" Name="Soleil 2" PromptU="Sun 2" NameU="Sun 2"/>
+    <Elem Prompt="Poubelle jaune" Name="Poubelle jaune" PromptU="Yellow Bin" NameU="Yellow Bin"/>
+    <Elem Prompt="Poubelle rouge" Name="Poubelle rouge" PromptU="Red Bin" NameU="Red Bin"/>
+    <Elem Prompt="Poubelle verte" Name="Poubelle verte" PromptU="Green Bin" NameU="Green Bin"/>
+    <Elem Prompt="Corbeille 1" Name="Corbeille 1" PromptU="Recycle Bin 1" NameU="Recycle Bin 1"/>
+    <Elem Prompt="Corbeille 2" Name="Corbeille 2" PromptU="Recycle Bin 2" NameU="Recycle Bin 2"/>
+    <Elem Prompt="Avion 1" Name="Avion 1" PromptU="Aircraft 1" NameU="Aircraft 1"/>
+    <Elem Prompt="Avion 2" Name="Avion 2" PromptU="Aircraft 2" NameU="Aircraft 2"/>
+    <Elem Prompt="Vélo rouge" Name="Vélo rouge" PromptU="Red Bike" NameU="Red Bike"/>
+    <Elem Prompt="Vélo vert" Name="Vélo vert" PromptU="Green Bike" NameU="Green Bike"/>
+    <Elem Prompt="Maison écologique" Name="Maison écologique" PromptU="Eco-Friendly House" NameU="Eco-Friendly House"/>
+    <Elem Prompt="Énergie solaire" Name="Énergie solaire" PromptU="Solar Energy" NameU="Solar Energy"/>
+    <Elem Prompt="Énergie éolienne 1" Name="Énergie éolienne 1" PromptU="Wind Power 1" NameU="Wind Power 1"/>
+    <Elem Prompt="Énergie éolienne 2" Name="Énergie éolienne 2" PromptU="Wind Power 2" NameU="Wind Power 2"/>
+    <Elem Prompt="Ampoule à économie d'énergie 1" Name="Ampoule à économie d'énergie 1" PromptU="Energy Saving Bulb 1" NameU="Energy Saving Bulb 1"/>
+    <Elem Prompt="Ampoule à économie d'énergie 2" Name="Ampoule à économie d'énergie 2" PromptU="Energy Saving Bulb 2" NameU="Energy Saving Bulb 2"/>
+    <Elem Prompt="Ampoule à économie d'énergie 3" Name="Ampoule à économie d'énergie 3" PromptU="Energy Saving Bulb 3" NameU="Energy Saving Bulb 3"/>
+    <Elem Prompt="Sac à provisions réutilisable" Name="Sac à provisions réutilisable" PromptU="Reusable Shopping Bag" NameU="Reusable Shopping Bag"/>
+    <Elem Prompt="Recyclage de l'eau" Name="Recyclage de l'eau" PromptU="Water Recycle" NameU="Water Recycle"/>
+    <Elem Prompt="Signe Sauver l'eau" Name="Signe Sauver l'eau" PromptU="Saving Water Sign" NameU="Saving Water Sign"/>
+    <Elem Prompt="Tag écologique" Name="Tag écologique" PromptU="Environmental Friendly Tag" NameU="Environmental Friendly Tag"/>
+    <Elem Prompt="Étiquette verte 100%" Name="Étiquette verte 100%" PromptU="100% Green Label" NameU="100% Green Label"/>
+    <Elem Prompt="Logo Respectueux de l'environnement 1" Name="Logo Respectueux de l'environnement 1" PromptU="Environmental Friendly Logo 1" NameU="Environmental Friendly Logo 1"/>
+    <Elem Prompt="Logo Respectueux de l'environnement 2" Name="Logo Respectueux de l'environnement 2" PromptU="Environmental Friendly Logo 2" NameU="Environmental Friendly Logo 2"/>
+    <Elem Prompt="Bouteille consignée" Name="Bouteille consignée" PromptU="Returnable bottle" NameU="Returnable bottle"/>
+    <Elem Prompt="Recyclable Batteries" Name="Recyclable Batteries" PromptU="Recyclable Batteries" NameU="Recyclable Batteries"/>
+    <Elem Prompt="Papier recyclable" Name="Papier recyclable" PromptU="Recyclable Paper" NameU="Recyclable Paper"/>
+    <Elem Prompt="Montgolfière" Name="Montgolfière" PromptU="Hot-air Balloon" NameU="Hot-air Balloon"/>
+    <Elem Prompt="Panneau de direction" Name="Panneau de direction" PromptU="Direction Board" NameU="Direction Board"/>
+    <Elem Prompt="Médaille Protection de l'environnement" Name="Médaille Protection de l'environnement" PromptU="Environmental Protection Medal" NameU="Environmental Protection Medal"/>
+    <Elem Prompt="Boîte respectueux de l'environnement (ouverte)" Name="Boîte respectueux de l'environnement (ouverte)" PromptU="Environmental Friendly Box (open)" NameU="Environmental Friendly Box (open)"/>
+    <Elem Prompt="Boîte respectueux de l'environnement" Name="Boîte respectueux de l'environnement" PromptU="Environmental Friendly Box" NameU="Environmental Friendly Box"/>
+    <Elem Prompt="Cactus 1" Name="Cactus 1" PromptU="Cactus 1" NameU="Cactus 1"/>
+    <Elem Prompt="Cactus 2" Name="Cactus 2" PromptU="Cactus 2" NameU="Cactus 2"/>
+    <Elem Prompt="Cactus 3" Name="Cactus 3" PromptU="Cactus 3" NameU="Cactus 3"/>
+    <Elem Prompt="Arbre 1" Name="Arbre 1" PromptU="Tree 1" NameU="Tree 1"/>
+    <Elem Prompt="Arbre 2" Name="Arbre 2" PromptU="Tree 2" NameU="Tree 2"/>
+    <Elem Prompt="Résident" Name="Résident" PromptU="Resident" NameU="Resident"/>
+    <Elem Prompt="Nuage" Name="Nuage" PromptU="Cloud" NameU="Cloud"/>
+    <Elem Prompt="Prairie" Name="Prairie" PromptU="Grassland" NameU="Grassland"/>
+    <Elem Prompt="Étiquette de recyclage" Name="Étiquette de recyclage" PromptU="Recycle Label" NameU="Recycle Label"/>
+    <Elem Prompt="Recycle Logo 1" Name="Recycle Logo 1" PromptU="Recycle Logo 1" NameU="Recycle Logo 1"/>
+    <Elem Prompt="Logo de recyclage 2" Name="Logo de recyclage 2" PromptU="Recycle Logo 2" NameU="Recycle Logo 2"/>
+    <Elem Prompt="Logo de recyclage 3" Name="Logo de recyclage 3" PromptU="Recycle Logo 3" NameU="Recycle Logo 3"/>
+    <Elem Prompt="Usine chimique" Name="Usine chimique" PromptU="Chemical Plant" NameU="Chemical Plant"/>
+    <Elem Prompt="Usine" Name="Usine" PromptU="Plant" NameU="Plant"/>
+    <Elem Prompt="Réservoires" Name="Réservoires" PromptU="Tanks" NameU="Tanks"/>
+    <Elem Prompt="Réservoire" Name="Réservoire" PromptU="Tank" NameU="Tank"/>
+    <Elem Prompt="Échelle de chevalet" Name="Échelle de chevalet" PromptU="Trestle Ladder" NameU="Trestle Ladder"/>
+    <Elem Prompt="Échelle" Name="Échelle" PromptU="Ladder" NameU="Ladder"/>
+    <Elem Prompt="Fumée légère" Name="Fumée légère" PromptU="Light Smoke" NameU="Light Smoke"/>
+    <Elem Prompt="Fumée foncée" Name="Fumée foncée" PromptU="Dark Smoke" NameU="Dark Smoke"/>
+    <Elem Prompt="Bâtiment 1" Name="Bâtiment 1" PromptU="Building 1" NameU="Building 1"/>
+    <Elem Prompt="Bâtiment 2" Name="Bâtiment 2" PromptU="Building 2" NameU="Building 2"/>
+    <Elem Prompt="Bâtiment 3" Name="Bâtiment 3" PromptU="Building 3" NameU="Building 3"/>
+    <Elem Prompt="Bâtiment 4" Name="Bâtiment 4" PromptU="Building 4" NameU="Building 4"/>
+    <Elem Prompt="Bâtiment 5" Name="Bâtiment 5" PromptU="Building 5" NameU="Building 5"/>
+    <Elem Prompt="Bâtiment 6" Name="Bâtiment 6" PromptU="Building 6" NameU="Building 6"/>
+    <Elem Prompt="Bâtiment 7" Name="Bâtiment 7" PromptU="Building 7" NameU="Building 7"/>
+    <Elem Prompt="Bâtiment 8" Name="Bâtiment 8" PromptU="Building 8" NameU="Building 8"/>
+    <Elem Prompt="Bâtiment 9" Name="Bâtiment 9" PromptU="Building 9" NameU="Building 9"/>
+    <Elem Prompt="Cheminée 1" Name="Cheminée 1" PromptU="Chimney 1" NameU="Chimney 1"/>
+    <Elem Prompt="Cheminée 2" Name="Cheminée 2" PromptU="Chimney 2" NameU="Chimney 2"/>
+    <Elem Prompt="Cheminée 4" Name="Cheminée 4" PromptU="Chimney 4" NameU="Chimney 4"/>
+    <Elem Prompt="Cheminée 3" Name="Cheminée 3" PromptU="Chimney 3" NameU="Chimney 3"/>
+    <Elem Prompt="Cheminée 5" Name="Cheminée 5" PromptU="Chimney 5" NameU="Chimney 5"/>
+    <Elem Prompt="Flèches" Name="Flèches" PromptU="Arrows" NameU="Arrows"/>
+    <Elem Prompt="Excavatrice 1" Name="Excavatrice 1" PromptU="Excavator 1" NameU="Excavator 1"/>
+    <Elem Prompt="Excavatrice 2" Name="Excavatrice 2" PromptU="Excavator 2" NameU="Excavator 2"/>
+    <Elem Prompt="Treuil de levage" Name="Treuil de levage" PromptU="Hoist" NameU="Hoist"/>
+    <Elem Prompt="Grue 1" Name="Grue 1" PromptU="Crane 1" NameU="Crane 1"/>
+    <Elem Prompt="Grue 2" Name="Grue 2" PromptU="Crane 2" NameU="Crane 2"/>
+    <Elem Prompt="Voiture 1" Name="Voiture 1" PromptU="Car 1" NameU="Car 1"/>
+    <Elem Prompt="Voiture 2" Name="Voiture 2" PromptU="Car 2" NameU="Car 2"/>
+    <Elem Prompt="Moto" Name="Moto" PromptU="Motorcycle" NameU="Motorcycle"/>
+    <Elem Prompt="Camion" Name="Camion" PromptU="Truck" NameU="Truck"/>
+    <Elem Prompt="Tombereau" Name="Tombereau" PromptU="Dump Truck" NameU="Dump Truck"/>
+    <Elem Prompt="Anneau 1" Name="Anneau 1" PromptU="Doughnut Chart 1" NameU="Doughnut Chart 1"/>
+    <Elem Prompt="Anneau 2" Name="Anneau 2" PromptU="Doughnut Chart 2" NameU="Doughnut Chart 2"/>
+    <Elem Prompt="Graphique 1" Name="Graphique 1" PromptU="Chart 1" NameU="Chart 1"/>
+    <Elem Prompt="Graphique 2" Name="Graphique 2" PromptU="Chart 2" NameU="Chart 2"/>
+    <Elem Prompt="Robinet 1" Name="Robinet 1" PromptU="Water Tap 1" NameU="Water Tap 1"/>
+    <Elem Prompt="Robinet 2" Name="Robinet 2" PromptU="Water Tap 2" NameU="Water Tap 2"/>
+    <Elem Prompt="Requin" Name="Requin" PromptU="Shark" NameU="Shark"/>
+    <Elem Prompt="Prise de courant" Name="Prise de courant" PromptU="Plug" NameU="Plug"/>
+    <Elem Prompt="Protection environementale" Name="Protection environementale" PromptU="Environmental protection" NameU="Environmental protection"/>
+</Lib>

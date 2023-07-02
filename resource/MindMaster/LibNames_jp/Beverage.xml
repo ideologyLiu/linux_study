@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Drinks">
+    <Elem NameU="Cocktail 1" Name="カクテル 1" PromptU="Cocktail 1" Prompt="カクテル 1"/>
+    <Elem NameU="Cocktail 2" Name="カクテル 2" PromptU="Cocktail 2" Prompt="カクテル 2"/>
+    <Elem NameU="Champagne" Name="シャンパン" PromptU="Champagne" Prompt="シャンパン"/>
+    <Elem NameU="Juice" Name="ジュース" PromptU="Juice" Prompt="ジュース"/>
+    <Elem NameU="Orange Juice" Name="オレンジジュース" PromptU="Orange Juice" Prompt="オレンジジュース"/>
+    <Elem NameU="Milk Tea" Name="ミルクティー" PromptU="Milk Tea" Prompt="ミルクティー"/>
+    <Elem NameU="Slush" Name="スラッシュ" PromptU="Slush" Prompt="スラッシュ"/>
+    <Elem NameU="Lemon Mint Beverage" Name="レモンミントドリンク" PromptU="Lemon Mint Beverage" Prompt="レモンミントドリンク"/>
+    <Elem NameU="Margaritas" Name="マルガリータワイン" PromptU="Margaritas" Prompt="マルガリータワイン"/>
+    <Elem NameU="Cola 1" Name="コーラ 1" PromptU="Cola 1" Prompt="コーラ 1"/>
+    <Elem NameU="Cola 2" Name="コーラ 2" PromptU="Cola 2" Prompt="コーラ 2"/>
+    <Elem NameU="Coffee 1" Name="コーヒー 1" PromptU="Coffee 1" Prompt="コーヒー 1"/>
+    <Elem NameU="Coffee 2" Name="コーヒー 2" PromptU="Coffee 2" Prompt="コーヒー 2"/>
+    <Elem NameU="Tea 1" Name="お茶" PromptU="Tea 1" Prompt="お茶"/>
+    <Elem NameU="Tea" Name="どびん" PromptU="Tea" Prompt="どびん"/>
+    <Elem NameU="Beer 1" Name="ビール 1" PromptU="Beer 1" Prompt="ビール 1"/>
+    <Elem NameU="Beer 2" Name="ビール 2" PromptU="Beer 2" Prompt="ビール 2"/>
+    <Elem NameU="Coconut Drink" Name="ココナッツドリンク" PromptU="Coconut Drink" Prompt="ココナッツドリンク"/>
+    <Elem NameU="Wine" Name="ワイン" PromptU="Wine" Prompt="ワイン"/>
+    <Elem NameU="Champagne" Name="シャンパｓン" PromptU="Champagne" Prompt="シャンパン"/>
+    <Elem NameU="Red Wine" Name="赤ワイン" PromptU="Red Wine" Prompt="赤ワイン"/>
+    <Elem NameU="soda 1" Name="ソーダ 1" PromptU="soda 1" Prompt="ソーダ 1"/>
+    <Elem NameU="Soda 2" Name="ソーダ 2" PromptU="Soda 2" Prompt="ソーダ 2"/>
+	<Elem NameU="beer" Name="ビール" PromptU="beer" Prompt="ビール"/>
+    <Elem NameU="Liqueur" Name="リキュール" PromptU="Liqueur" Prompt="リキュール"/>
+</Lib>

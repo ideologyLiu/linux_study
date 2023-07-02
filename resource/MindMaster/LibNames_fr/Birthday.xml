@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Birthday">
+    <Elem NameU="Lollipop 1" Name="Sucette 1" PromptU="Lollipop 1" Prompt="Sucette 1"/>
+    <Elem NameU="Lollipop 2" Name="Sucette 2" PromptU="Lollipop 2" Prompt="Sucette 2"/>
+    <Elem NameU="Lollipop 3" Name="Sucette 3" PromptU="Lollipop 3" Prompt="Sucette 3"/>
+    <Elem NameU="Balloon 1" Name="Ballon 1" PromptU="Balloon 1" Prompt="Ballon 1"/>
+    <Elem NameU="Balloon 2" Name="Ballon 2" PromptU="Balloon 2" Prompt="Ballon 2"/>
+    <Elem NameU="Balloon 3" Name="Ballon 3" PromptU="Balloon 3" Prompt="Ballon 3"/>
+    <Elem NameU="Star balloons 1" Name="Ballons étoiles 1" PromptU="Star balloons 1" Prompt="Ballons étoiles 1"/>
+    <Elem NameU="Star balloons 2" Name="Ballons étoiles 2" PromptU="Star balloons 2" Prompt="Ballons étoiles 2"/>
+    <Elem NameU="Star balloons 3" Name="Ballons étoiles 3" PromptU="Star balloons 3" Prompt="Ballons étoiles 3"/>
+    <Elem NameU="Birthday hat 1" Name="Bonnet d'anniversaire 1" PromptU="Birthday hat 1" Prompt="Bonnet d'anniversaire 1"/>
+    <Elem NameU="Birthday hat 2" Name="Bonnet d'anniversaire 2" PromptU="Birthday hat 2" Prompt="Bonnet d'anniversaire 2"/>
+    <Elem NameU="Birthday hat 3" Name="Bonnet d'anniversaire 3" PromptU="Birthday hat 3" Prompt="Bonnet d'anniversaire 3"/>
+    <Elem NameU="Birthday hat 4" Name="Bonnet d'anniversaire 4" PromptU="Birthday hat 4" Prompt="Bonnet d'anniversaire 4"/>
+    <Elem NameU="Glasses frame 1" Name="Cadre de lunettes 1" PromptU="Glasses frame 1" Prompt="Cadre de lunettes 1"/>
+    <Elem NameU="Glasses frame 2" Name="Cadre de lunettes 2" PromptU="Glasses frame 2" Prompt="Cadre de lunettes 2"/>
+    <Elem NameU="Candle" Name="Bougie" PromptU="Candle" Prompt="Bougie"/>
+    <Elem NameU="Magic wand" Name="Baguette magique" PromptU="Magic wand" Prompt="Baguette magique"/>
+    <Elem NameU="Beard" Name="Barbe" PromptU="Beard" Prompt="Barbe"/>
+    <Elem NameU="Gift box 1" Name="Boîte cadeau 1" PromptU="Gift box 1" Prompt="Boîte cadeau 1"/>
+    <Elem NameU="Gift box 2" Name="Boîte cadeau 2" PromptU="Gift box 2" Prompt="Boîte cadeau 2"/>
+    <Elem NameU="Cake 1" Name="Gâteau 1" PromptU="Cake 1" Prompt="Gâteau 1"/>
+    <Elem NameU="Cake 2" Name="Gâteau 2" PromptU="Cake 2" Prompt="Gâteau 2"/>
+    <Elem NameU="Cake 3" Name="Gâteau 3" PromptU="Cake 3" Prompt="Gâteau 3"/>
+    <Elem NameU="Cake 5" Name="Gâteau 5" PromptU="Cake 5" Prompt="Gâteau 5"/>
+    <Elem NameU="Candy" Name="Bonbons" PromptU="Candy" Prompt="Bonbons"/>
+    <Elem NameU="Peach" Name="Pêche" PromptU="Peach" Prompt="Pêche"/>
+    <Elem NameU="Banner 1" Name="Bannière 1" PromptU="Banner 1" Prompt="Bannière 1"/>
+    <Elem NameU="Happy Birthday" Name="Bon anniversaire" PromptU="Happy Birthday" Prompt="Bon anniversaire"/>
+    <Elem NameU="Banner 2" Name="Bannière 2" PromptU="Banner 2" Prompt="Bannière 2"/>
+</Lib>

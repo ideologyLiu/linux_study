@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Birthday">
+     <Elem NameU="lollipop 1"	Name= "Lollipop 1"	PromptU="lollipop 1"	Prompt= "Lollipop 1"/>
+     <Elem NameU="lollipop 2"	Name= "Lollipop 2"	PromptU="lollipop 2"	Prompt= "Lollipop 2"/>
+     <Elem NameU="lollipop 3"	Name= "Lollipop 3"	PromptU="lollipop 3"	Prompt= "Lollipop 3"/>
+     <Elem NameU="balloon 1"	Name= "Ballon 1"	PromptU="balloon 1"	Prompt= "Ballon 1"/>
+     <Elem NameU="balloon 2"	Name= "Ballon 2"	PromptU="balloon 2"	Prompt= "Ballon 2"/>
+     <Elem NameU="balloon 3"	Name= "Ballon 3"	PromptU="balloon 3"	Prompt= "Ballon 3"/>
+     <Elem NameU="Star balloons 1"	Name= "Sternballons 1"	PromptU="Star balloons 1"	Prompt= "Sternballons 1"/>
+     <Elem NameU="Star balloons 2"	Name= "Sternballons 2"	PromptU="Star balloons 2"	Prompt= "Sternballons 2"/>
+     <Elem NameU="Star balloons 3"	Name= "Sternballons 3"	PromptU="Star balloons 3"	Prompt= "Sternballons 3"/>
+     <Elem NameU="Birthday hat 1"	Name= "Geburtstag Hut 1"	PromptU="Birthday hat 1"	Prompt= "Geburtstag Hut 1"/>
+     <Elem NameU="Birthday hat 2"	Name= "Geburtstag Hut 2"	PromptU="Birthday hat 2"	Prompt= "Geburtstagshut 2"/>
+     <Elem NameU="Birthday hat 3"	Name= "Geburtstag Hut 3"	PromptU="Birthday hat 3"	Prompt= "Geburtstag Hut 3"/>
+     <Elem NameU="Birthday hat 4"	Name= "Geburtstagshut 4"	PromptU="Birthday hat 4"	Prompt= "Geburtstagshut 4"/>
+     <Elem NameU="Glasses frame 1"	Name= "Brillengestell 1"	PromptU="Glasses frame 1"	Prompt= "Brillengestell 1"/>
+     <Elem NameU="Glasses frame 2"	Name= "Brillengestell 2"	PromptU="Glasses frame 2"	Prompt= "Brillengestell 2"/>
+     <Elem NameU="Candle"	Name= "Kerze"	PromptU="Candle"	Prompt= "Kerze"/>
+     <Elem NameU="Magic wand"	Name= "Zauberstab"	PromptU="Magic wand"	Prompt= "Zauberstab"/>
+     <Elem NameU="Beard"	Name= "Bart"	PromptU="Beard"	Prompt= "Bart"/>
+     <Elem NameU="Gift box 1"	Name= "Geschenkbox 1"	PromptU="Gift box 1"	Prompt= "Geschenkbox 1"/>
+     <Elem NameU="Gift box 2"	Name= "Geschenkbox 2"	PromptU="Gift box 2"	Prompt= "Geschenkbox 2"/>
+     <Elem NameU="Cake 1"	Name= "Kuchen 1"	PromptU="Cake 1"	Prompt= "Kuchen 1"/>
+     <Elem NameU="Cake 2"	Name= "Kuchen 2"	PromptU="Cake 2"	Prompt= "Kuchen 2"/>
+     <Elem NameU="Cake 3"	Name= "Kuchen 3"	PromptU="Cake 3"	Prompt= "Kuchen 3"/>
+     <Elem NameU="Cake 5"	Name= "Kuchen 5"	PromptU="Cake 5"	Prompt= "Kuchen 5"/>
+     <Elem NameU="Candy"	Name= "Süßigkeit"	PromptU="Candy"	Prompt= "Süßigkeit"/>
+     <Elem NameU="Peach"	Name= "Pfirsich"	PromptU="Peach"	Prompt= "Pfirsich"/>
+     <Elem NameU="banner 1"	Name= "Banner 1"	PromptU="banner 1"	Prompt= "Banner 1"/>
+     <Elem NameU="Happy Birthday"	Name= "Alles Gute zum Geburtstag"	PromptU="Happy Birthday"	Prompt= "Alles Gute zum Geburtstag"/>
+     <Elem NameU="banner 2"	Name= "Banner 2"	PromptU="banner 2"	Prompt= "Banner 2"/>
+
+</Lib>

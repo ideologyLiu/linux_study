@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Education Flat">
+     <Elem NameU="Folder"	Name= "Ordner"	PromptU="Folder"	Prompt= "Ordner"/>
+     <Elem NameU="Books"	Name= "Bücher"	PromptU="Books"	Prompt= "Bücher"/>
+     <Elem NameU="Pen Pot"	Name= "Stift Pot"	PromptU="Pen Pot"	Prompt= "Stift Pot"/>
+     <Elem NameU="Globe"	Name= "Globe"	PromptU="Globe"	Prompt= "Globe"/>
+     <Elem NameU="Schoolbag"	Name= "Schultasche"	PromptU="Schoolbag"	Prompt= "Schultasche"/>
+     <Elem NameU="Opened Book"	Name= "Geöffnetes Buch"	PromptU="Opened Book"	Prompt= "Geöffnetes Buch"/>
+     <Elem NameU="Color Pens"	Name= "Farbstifte"	PromptU="Color Pens"	Prompt= "Farbstifte"/>
+     <Elem NameU="Paint"	Name= "Farbe"	PromptU="Paint"	Prompt= "Farbe"/>
+     <Elem NameU="Brushes"	Name= "Bürsten"	PromptU="Brushes"	Prompt= "Bürsten"/>
+     <Elem NameU="Scissors"	Name= "Schere"	PromptU="Scissors"	Prompt= "Schere"/>
+     <Elem NameU="Pen"	Name= "Stift"	PromptU="Pen"	Prompt= "Stift"/>
+     <Elem NameU="Ballpoint Pen"	Name= "Kugelschreiber"	PromptU="Ballpoint Pen"	Prompt= "Kugelschreiber"/>
+     <Elem NameU="Pencil 1"	Name= "Bleistift 1"	PromptU="Pencil 1"	Prompt= "Bleistift 1"/>
+     <Elem NameU="Pencil 2"	Name= "Bleistift 2"	PromptU="Pencil 2"	Prompt= "Bleistift 2"/>
+     <Elem NameU="Palette 1"	Name= "Palette 1"	PromptU="Palette 1"	Prompt= "Palette 1"/>
+     <Elem NameU="Palette 2"	Name= "Palette 2"	PromptU="Palette 2"	Prompt= "Palette 2"/>
+     <Elem NameU="Rubber"	Name= "Gummi"	PromptU="Rubber"	Prompt= "Gummi"/>
+     <Elem NameU="Compass"	Name= "Kompass"	PromptU="Compass"	Prompt= "Kompass"/>
+     <Elem NameU="Drawing Board"	Name= "Zeichentafel"	PromptU="Drawing Board"	Prompt= "Zeichentafel"/>
+     <Elem NameU="Pushpin"	Name= "Pushpin"	PromptU="Pushpin"	Prompt= "Pushpin"/>
+     <Elem NameU="Paper Clip"	Name= "Papierklammer"	PromptU="Paper Clip"	Prompt= "Papierklammer"/>
+     <Elem NameU="Note Paper"	Name= "Notizpapier"	PromptU="Note Paper"	Prompt= "Notizpapier"/>
+     <Elem NameU="Glasses"	Name= "Gläser"	PromptU="Glasses"	Prompt= "Gläser"/>
+     <Elem NameU="Glue"	Name= "Kleber"	PromptU="Glue"	Prompt= "Kleber"/>
+     <Elem NameU="Blackboard"	Name= "Blackboard"	PromptU="Blackboard"	Prompt= "Blackboard"/>
+     <Elem NameU="Calculater"	Name= "Calculater"	PromptU="Calculater"	Prompt= "Calculater"/>
+     <Elem NameU="School Bus"	Name= "Schulbus"	PromptU="School Bus"	Prompt= "Schulbus"/>
+     <Elem NameU="Mortarboard"	Name= "Mortarboard"	PromptU="Mortarboard"	Prompt= "Mortarboard"/>
+     <Elem NameU="Diploma"	Name= "Diplom"	PromptU="Diploma"	Prompt= "Diplom"/>
+     <Elem NameU="Football"	Name= "Fußball"	PromptU="Football"	Prompt= "Fußball"/>
+     <Elem NameU="Basketball"	Name= "Basketball"	PromptU="Basketball"	Prompt= "Basketball"/>
+     <Elem NameU="Rugby"	Name= "Rugby"	PromptU="Rugby"	Prompt= "Rugby"/>
+     <Elem NameU="Tennis Ball"	Name= "Tennisball"	PromptU="Tennis Ball"	Prompt= "Tennisball"/>
+     <Elem NameU="Flask"	Name= "Flasche"	PromptU="Flask"	Prompt= "Flasche"/>
+     <Elem NameU="Conical Flask"	Name= "Konische Flasche"	PromptU="Conical Flask"	Prompt= "Konische Flasche"/>
+     <Elem NameU="Beaker"	Name= "Becher"	PromptU="Beaker"	Prompt= "Becher"/>
+     <Elem NameU="Flask"	Name= "Flasche"	PromptU="Flask"	Prompt= "Flasche"/>
+     <Elem NameU="Test Tube"	Name= "Test Tube"	PromptU="Test Tube"	Prompt= "Test Tube"/>
+     <Elem NameU="Alcohol Burner"	Name= "Alkoholbrenner"	PromptU="Alcohol Burner"	Prompt= "Alkoholbrenner"/>
+     <Elem NameU="Ruler"	Name= "Herrscher"	PromptU="Ruler"	Prompt= "Herrscher"/>
+     <Elem NameU="Set Square"	Name= "Set Square"	PromptU="Set Square"	Prompt= "Set Square"/>
+     <Elem NameU="Angle Ruler"	Name= "Angle Lineal"	PromptU="Angle Ruler"	Prompt= "Angle Lineal"/>
+     <Elem NameU="Telescopes"	Name= "Teleskope"	PromptU="Telescopes"	Prompt= "Teleskope"/>
+     <Elem NameU="Microscope"	Name= "Mikroskop"	PromptU="Microscope"	Prompt= "Mikroskop"/>
+     <Elem NameU="Sand Timer"	Name= "Sand-Timer"	PromptU="Sand Timer"	Prompt= "Sand-Timer"/>
+     <Elem NameU="Cell"	Name= "Zelle"	PromptU="Cell"	Prompt= "Zelle"/>
+     <Elem NameU="Gene Map"	Name= "Gene Map"	PromptU="Gene Map"	Prompt= "Gene Map"/>
+     <Elem NameU="Sun"	Name= "Sonne"	PromptU="Sun"	Prompt= "Sonne"/>
+     <Elem NameU="Planetary motion"	Name= "Planetenbewegung"	PromptU="Planetary motion"	Prompt= "Planetenbewegung"/>
+     <Elem NameU="Astronomical telescope"	Name= "Astronomisches Teleskop"	PromptU="Astronomical telescope"	Prompt= "Astronomisches Teleskop"/>
+     <Elem NameU="Table lamp"	Name= "Tischleuchte"	PromptU="Table lamp"	Prompt= "Tischleuchte"/>
+     <Elem NameU="Small bell 1"	Name= "Kleine Glocke 1"	PromptU="Small bell 1"	Prompt= "Kleine Glocke 1"/>
+     <Elem NameU="Small bell 2"	Name= "Kleine Glocke 2"	PromptU="Small bell 2"	Prompt= "Kleine Glocke 2"/>
+     <Elem NameU="Tree 1"	Name= "Baum 1"	PromptU="Tree 1"	Prompt= "Baum 1"/>
+     <Elem NameU="Tree 2"	Name= "Baum 2"	PromptU="Tree 2"	Prompt= "Baum 2"/>
+     <Elem NameU="Bass 1"	Name= "Bass 1"	PromptU="Bass 1"	Prompt= "Bass 1"/>
+     <Elem NameU="Bass 2"	Name= "Bass 2"	PromptU="Bass 2"	Prompt= "Bass 2"/>
+     <Elem NameU="Guitar 1"	Name= "Gitarre 1"	PromptU="Guitar 1"	Prompt= "Gitarre 1"/>
+     <Elem NameU="Guitar 2"	Name= "Gitarre 2"	PromptU="Guitar 2"	Prompt= "Gitarre 2"/>
+     <Elem NameU="School"	Name= "Schule"	PromptU="School"	Prompt= "Schule"/>
+     <Elem NameU="Lecturer"	Name= "Dozent"	PromptU="Lecturer"	Prompt= "Dozent"/>
+     <Elem NameU="Notebook computer"	Name= "Notebook-Computer"	PromptU="Notebook computer"	Prompt= "Notebook-Computer"/>
+     <Elem NameU="Desktop computer"	Name= "Desktop-Computer"	PromptU="Desktop computer"	Prompt= "Desktop-Computer"/>
+     <Elem NameU="Flower pot 1"	Name= "Blumentopf 1"	PromptU="Flower pot 1"	Prompt= "Blumentopf 1"/>
+     <Elem NameU="Flower pot 2"	Name= "Blumentopf 2"	PromptU="Flower pot 2"	Prompt= "Blumentopf 2"/>
+     <Elem NameU="Apple"	Name= "Apfel"	PromptU="Apple"	Prompt= "Apfel"/>
+     <Elem NameU="Light bulb 1"	Name= "Glühbirne 1"	PromptU="Light bulb 1"	Prompt= "Glühbirne 1"/>
+     <Elem NameU="Light bulb 2"	Name= "Glühbirne 2"	PromptU="Light bulb 2"	Prompt= "Glühbirne 2"/>
+     <Elem NameU="Balloon"	Name= "Ballon"	PromptU="Balloon"	Prompt= "Ballon"/>
+     <Elem NameU="Trophy"	Name= "Trophy"	PromptU="Trophy"	Prompt= "Trophy"/>
+     <Elem NameU="Medal"	Name= "Medaille"	PromptU="Medal"	Prompt= "Medaille"/>
+     <Elem NameU="Various certificates"	Name= "Verschiedene Zertifikate"	PromptU="Various certificates"	Prompt= "Verschiedene Zertifikate"/>
+     <Elem NameU="Go to school 1"	Name= "Gehe zur Schule 1"	PromptU="Go to school 1"	Prompt= "Gehe zur Schule 1"/>
+     <Elem NameU="Go to school 2"	Name= "Gehe zur Schule 2"	PromptU="Go to school 2"	Prompt= "Gehe zur Schule 2"/>
+     <Elem NameU="Reading 1"	Name= "Lesen 1"	PromptU="Reading 1"	Prompt= "Lesen 1"/>
+     <Elem NameU="Reading 2"	Name= "Lesen 2"	PromptU="Reading 2"	Prompt= "Lesen 2"/>
+     <Elem NameU="School Boy"	Name= "Schuljunge"	PromptU="School Boy"	Prompt= "Schuljunge"/>
+     <Elem NameU="School Girl"	Name= "Schulmädchen"	PromptU="School Girl"	Prompt= "Schulmädchen"/>
+     <Elem NameU="Party"	Name= "Party"	PromptU="Party"	Prompt= "Party"/>
+     <Elem NameU="Student with Trophy"	Name= "Student mit Trophäe"	PromptU="Student with Trophy"	Prompt= "Student mit Trophäe"/>
+     <Elem NameU="Pupil girl 1"	Name= "Schüler-Mädchen 1"	PromptU="Pupil girl 1"	Prompt= "Schüler-Mädchen 1"/>
+     <Elem NameU="Pupil boy 1"	Name= "Schülerjunge 1"	PromptU="Pupil boy 1"	Prompt= "Schülerjunge 1"/>
+     <Elem NameU="Pupil girl 2"	Name= "Schüler-Mädchen 2"	PromptU="Pupil girl 2"	Prompt= "Schüler-Mädchen 2"/>
+     <Elem NameU="Pupil boy 2"	Name= "Schülerjunge 2"	PromptU="Pupil boy 2"	Prompt= "Schülerjunge 2"/>
+     <Elem NameU="Student Girl 1"	Name= "Studentin 1"	PromptU="Student Girl 1"	Prompt= "Studentin 1"/>
+     <Elem NameU="Student Boy 1"	Name= "Student 1"	PromptU="Student Boy 1"	Prompt= "Student 1"/>
+     <Elem NameU="Student Girl 2"	Name= "Studentin 2"	PromptU="Student Girl 2"	Prompt= "Studentin 2"/>
+     <Elem NameU="Student Boy 2"	Name= "Student 2"	PromptU="Student Boy 2"	Prompt= "Student 2"/>
+     <Elem NameU="Attend class"	Name= "Klasse besuchen"	PromptU="Attend class"	Prompt= "Klasse besuchen"/>
+     <Elem NameU="The Graduate"	Name= "Der Graduierte"	PromptU="The Graduate"	Prompt= "Der Graduierte"/>
+
+</Lib>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Architecture">
+    <Elem NameU="Building" PromptU="Building" Prompt="楼房" Name="楼房"/>
+    <Elem NameU="Bank" PromptU="Bank" Prompt="银行" Name="银行"/>
+    <Elem NameU="Beauty Salon" PromptU="Beauty Salon" Prompt="美容院" Name="美容院"/>
+    <Elem NameU="Beach Villa" PromptU="Beach Villa" Prompt="海滩别墅" Name="海滩别墅"/>
+    <Elem NameU="Beach Villa" PromptU="Beach Villa" Prompt="海滩别墅" Name="海滩别墅"/>
+    <Elem NameU="Cafeteria" PromptU="Cafeteria" Prompt="餐厅" Name="餐厅"/>
+    <Elem NameU="Castle" PromptU="Castle" Prompt="城堡" Name="城堡"/>
+    <Elem NameU="Cathedral" PromptU="Cathedral" Prompt="大教堂" Name="大教堂"/>
+    <Elem NameU="Church" PromptU="Church" Prompt="教堂" Name="教堂"/>
+    <Elem NameU="Coffee House" PromptU="Coffee House" Prompt="咖啡馆" Name="咖啡馆"/>
+    <Elem NameU="Clothing Store" PromptU="Clothing Store" Prompt="服装店" Name="服装店"/>
+    <Elem NameU="Consulate" PromptU="Consulate" Prompt="领事馆" Name="领事馆"/>
+    <Elem NameU="Factory" PromptU="Factory" Prompt="工厂" Name="工厂"/>
+    <Elem NameU="Family Apartment" PromptU="Family Apartment" Prompt="家庭旅馆" Name="家庭旅馆"/>
+    <Elem NameU="Guest House" PromptU="Guest House" Prompt="宾馆" Name="宾馆"/>
+    <Elem NameU="Gymnasium" PromptU="Gymnasium" Prompt="健身房" Name="健身房"/>
+    <Elem NameU="Hospital" PromptU="Hospital" Prompt="医院" Name="医院"/>
+    <Elem NameU="Hotel" PromptU="Hotel" Prompt="酒店" Name="酒店"/>
+    <Elem NameU="House 1" PromptU="House 1" Prompt="房子1" Name="房子1"/>
+    <Elem NameU="House 2" PromptU="House 2" Prompt="房子2" Name="房子2"/>
+    <Elem NameU="House 3" PromptU="House 3" Prompt="房子3" Name="房子3"/>
+    <Elem NameU="Library" PromptU="Library" Prompt="图书馆" Name="图书馆"/>
+    <Elem NameU="Kindergarten" PromptU="Kindergarten" Prompt="幼儿园" Name="幼儿园"/>
+    <Elem NameU="Market" PromptU="Market" Prompt="市场" Name="市场"/>
+    <Elem NameU="Mansion 1" PromptU="Mansion 1" Prompt="大厦1" Name="大厦1"/>
+    <Elem NameU="Mansion 2" PromptU="Mansion 2" Prompt="大厦2" Name="大厦2"/>
+    <Elem NameU="Mansion 3" PromptU="Mansion 3" Prompt="大厦3" Name="大厦3"/>
+    <Elem NameU="Mansion 4" PromptU="Mansion 4" Prompt="大厦4" Name="大厦4"/>
+    <Elem NameU="Movie Theater" PromptU="Movie Theater" Prompt="电影院" Name="电影院"/>
+    <Elem NameU="Newspaper Kiosk" PromptU="Newspaper Kiosk" Prompt="报刊亭" Name="报刊亭"/>
+    <Elem NameU="Office Building 1" PromptU="Office Building 1" Prompt="写字楼1" Name="写字楼1"/>
+    <Elem NameU="Office Building 2" PromptU="Office Building 2" Prompt="写字楼2" Name="写字楼2"/>
+    <Elem NameU="Office Building 3" PromptU="Office Building 3" Prompt="写字楼3" Name="写字楼3"/>
+    <Elem NameU="Post Office" PromptU="Post Office" Prompt="邮局" Name="邮局"/>
+    <Elem NameU="Police Station" PromptU="Police Station" Prompt="警察局" Name="警察局"/>
+    <Elem NameU="School" PromptU="School" Prompt="学校" Name="学校"/>
+    <Elem NameU="School Building" PromptU="School Building" Prompt="学校大楼" Name="学校大楼"/>
+    <Elem NameU="Self-Serve Gas Station" PromptU="Self-Serve Gas Station" Prompt="自助加油站" Name="自助加油站"/>
+    <Elem NameU="Shop" PromptU="Shop" Prompt="店" Name="店"/>
+    <Elem NameU="Student Dorm Building" PromptU="Student Dorm Building" Prompt="学生宿舍" Name="学生宿舍"/>
+    <Elem NameU="Supermarket" PromptU="Supermarket" Prompt="超市" Name="超市"/>
+    <Elem NameU="Twin Tower" PromptU="Twin Tower" Prompt="双子塔" Name="双子塔"/>
+    <Elem NameU="University" PromptU="University" Prompt="大学" Name="大学"/>
+    <Elem NameU="Villa" PromptU="Villa" Prompt="别墅" Name="别墅"/>
+    <Elem NameU="Hot-air balloon 1" PromptU="Hot-air balloon 1" Prompt="热气球1" Name="热气球1"/>
+    <Elem NameU="Hot-air balloon 2" PromptU="Hot-air balloon 2" Prompt="热气球2" Name="热气球2"/>
+    <Elem NameU="Hot-air balloon 3" PromptU="Hot-air balloon 3" Prompt="热气球3" Name="热气球3"/>
+    <Elem NameU="Blue Cloud" PromptU="Blue Cloud" Prompt="蓝色的云" Name="蓝色的云"/>
+    <Elem NameU="Yellow Cloud" PromptU="Yellow Cloud" Prompt="黄色的云" Name="黄色的云"/>
+    <Elem NameU="Red Cloud" PromptU="Red Cloud" Prompt="红色的云" Name="红色的云"/>
+    <Elem NameU="Family" PromptU="Family" Prompt="家庭" Name="家庭"/>
+</Lib>

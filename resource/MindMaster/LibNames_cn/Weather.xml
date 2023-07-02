@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Weather">
+    <Elem NameU="Sunny" Name="晴天" PromptU="Sunny" Prompt="晴天"/>
+    <Elem NameU="Cloudy" Name="多云" PromptU="Cloudy" Prompt="多云"/>
+    <Elem NameU="Overcast" Name="阴天" PromptU="Overcast" Prompt="阴天"/>
+    <Elem NameU="Rainy" Name="多雨" PromptU="Rainy" Prompt="多雨"/>
+    <Elem NameU="Drizzle" Name="细雨" PromptU="Drizzle" Prompt="细雨"/>
+    <Elem NameU="Snowy" Name="多雪" PromptU="Snowy" Prompt="多雪"/>
+    <Elem NameU="Heavy Snow" Name="暴雪" PromptU="Heavy Snow" Prompt="暴雪"/>
+    <Elem NameU="Sleet" Name="雨夹雪" PromptU="Sleet" Prompt="雨夹雪"/>
+    <Elem NameU="Hailstone" Name="冰雹" PromptU="Hailstone" Prompt="冰雹"/>
+    <Elem NameU="Hailstone and Snow" Name="冰加雪" PromptU="Hailstone and Snow" Prompt="冰加雪"/>
+    <Elem NameU="Thunderstorm" Name="暴雨" PromptU="Thunderstorm" Prompt="暴雨"/>
+    <Elem NameU="Thunder" Name="雷" PromptU="Thunder" Prompt="雷"/>
+    <Elem NameU="Snow and Thunder" Name="雷加雪" PromptU="Snow and Thunder" Prompt="雷加雪"/>
+    <Elem NameU="Thunderstorm and Hailstone" Name="雷加冰" PromptU="Thunderstorm and Hailstone" Prompt="雷加冰"/>
+    <Elem NameU="Showery Rain" Name="阵雨" PromptU="Showery Rain" Prompt="阵雨"/>
+    <Elem NameU="Showery Snow" Name="阵雪" PromptU="Showery Snow" Prompt="阵雪"/>
+    <Elem NameU="Clear to Cloudy" Name="晴转多云" PromptU="Clear to Cloudy" Prompt="晴转多云"/>
+    <Elem NameU="Foggy and Sun" Name="晴天有雾" PromptU="Foggy and Sun" Prompt="晴天有雾"/>
+    <Elem NameU="Foggy 1" Name="有雾 1" PromptU="Foggy 1" Prompt="有雾 1"/>
+    <Elem NameU="Foggy 2" Name="有雾 2" PromptU="Foggy 2" Prompt="有雾 2"/>
+    <Elem NameU="Tornado" Name="龙卷风" PromptU="Tornado" Prompt="龙卷风"/>
+    <Elem NameU="Windy" Name="多风" PromptU="Windy" Prompt="多风"/>
+    <Elem NameU="Windy and Dusty" Name="风暴" PromptU="Windy and Dusty" Prompt="风暴"/>
+    <Elem NameU="Floating Dust" Name="飘尘" PromptU="Floating Dust" Prompt="飘尘"/>
+    <Elem NameU="Wind Vane" Name="风向标" PromptU="Wind Vane" Prompt="风向标"/>
+    <Elem NameU="Dust Tester" Name="耐尘试验机" PromptU="Dust Tester" Prompt="耐尘试验机"/>
+    <Elem NameU="Rainbow Cloudy" Name="彩虹云" PromptU="Rainbow Cloudy" Prompt="彩虹云"/>
+    <Elem NameU="Rainbow Rainy" Name="彩虹雨" PromptU="Rainbow Rainy" Prompt="彩虹雨"/>
+    <Elem NameU="Clear at Night" Name="清亮的夜晚" PromptU="Clear at Night" Prompt="清亮的夜晚"/>
+    <Elem NameU="Cloudy at Night" Name="多云的夜晚" PromptU="Cloudy at Night" Prompt="多云的夜晚"/>
+    <Elem NameU="Overcast at Night" Name="阴暗的夜晚" PromptU="Overcast at Night" Prompt="阴暗的夜晚"/>
+    <Elem NameU="Rainy at Night" Name="多雨的夜晚" PromptU="Rainy at Night" Prompt="多雨的夜晚"/>
+    <Elem NameU="Heavy Rain at Night" Name="暴雨的夜晚" PromptU="Heavy Rain at Night" Prompt="暴雨的夜晚"/>
+    <Elem NameU="Heavy Snow at Night" Name="暴雪的夜晚" PromptU="Heavy Snow at Night" Prompt="暴雪的夜晚"/>
+    <Elem NameU="Snowy at Night" Name="下雪的夜晚" PromptU="Snowy at Night" Prompt="下雪的夜晚"/>
+    <Elem NameU="Thunderstorm at Night" Name="雷雨的夜晚" PromptU="Thunderstorm at Night" Prompt="雷雨的夜晚"/>
+    <Elem NameU="Thunder at Night" Name="打雷的夜晚" PromptU="Thunder at Night" Prompt="打雷的夜晚"/>
+    <Elem NameU="Sleet at Night" Name="雨夹雪的夜晚" PromptU="Sleet at Night" Prompt="雨夹雪的夜晚"/>
+    <Elem NameU="Foggy at Night" Name="多雾的夜晚" PromptU="Foggy at Night" Prompt="多雾的夜晚"/>
+    <Elem NameU="Tornado at Night" Name="龙卷风的夜晚" PromptU="Tornado at Night" Prompt="龙卷风的夜晚"/>
+    <Elem NameU="Hailstone at Night" Name="冰雹的夜晚" PromptU="Hailstone at Night" Prompt="冰雹的夜晚"/>
+</Lib>
