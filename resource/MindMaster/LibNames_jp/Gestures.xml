@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Gestures">
+    <Elem NameU="Shake hands" Name="握手" PromptU="Shake Hands" Prompt="握手"/>
+    <Elem NameU="Cooperation" Name="協力" PromptU="Cooperation" Prompt="協力"/>
+    <Elem NameU="Competition" Name="競争" PromptU="Competition" Prompt="競争"/>
+    <Elem NameU="Gesture" Name="手振り 1" PromptU="Gesture" Prompt="手振り 1"/>
+    <Elem NameU="Good" Name="いいね" PromptU="Good" Prompt="いいね"/>
+    <Elem NameU="Point 1" Name="ポイント 1" PromptU="Point 1" Prompt="ポイント 1"/>
+    <Elem NameU="Point 2" Name="ポイント 2" PromptU="Point 2" Prompt="ポイント 2"/>
+	<Elem NameU="Guesture 1" Name="手振り" PromptU="Gesture 1" Prompt="手振り"/>
+	<Elem NameU="Gesture 1" Name="手振り 1" PromptU="Gesture 1" Prompt="手振り 1"/>
+    <Elem NameU="Gesture 2" Name="手振り 2" PromptU="Gesture 2" Prompt="手振り 2"/>
+    <Elem NameU="Cheers" Name="勝利手振り" PromptU="Cheers" Prompt="勝利手振り"/>
+    <Elem NameU="Gesture 3" Name="手振り 3" PromptU="Gesture 3" Prompt="手振り 3"/>
+    <Elem NameU="Gesture 4" Name="手振り 4" PromptU="Gesture 4" Prompt="手振り 4"/>
+    <Elem NameU="Gesture 5" Name="手振り 5" PromptU="Gesture 5" Prompt="手振り 5"/>
+    <Elem NameU="Gesture 6" Name="手振り 6" PromptU="Gesture 6" Prompt="手振り 6"/>
+    <Elem NameU="Gesture 7" Name="手振り 7" PromptU="Gesture 7" Prompt="手振り 7"/>
+	<Elem NameU="Gesture 8" Name="手振り 8" PromptU="Gesture 8" Prompt="手振り 8"/>
+	<Elem NameU="Gesture 9" Name="手振り 9" PromptU="Gesture 9" Prompt="手振り 9"/>
+	<Elem NameU="Gesture 10" Name="手振り 10" PromptU="Gesture 10" Prompt="手振り 10"/>
+	<Elem NameU="Gesture 11" Name="手振り 11" PromptU="Gesture 11" Prompt="手振り 11"/>
+	<Elem NameU="Gesture 12" Name="手振り 12" PromptU="Gesture 12" Prompt="手振り 12"/>
+	<Elem NameU="Gesture 13" Name="手振り 13" PromptU="Gesture 13" Prompt="手振り 13"/>
+	<Elem NameU="Gesture 14" Name="手振り 14" PromptU="Gesture 14" Prompt="手振り 14"/>
+	<Elem NameU="Gesture 15" Name="手振り 15" PromptU="Gesture 15" Prompt="手振り 15"/>
+	<Elem NameU="Gesture 16" Name="手振り 16" PromptU="Gesture 16" Prompt="手振り 16"/>
+	<Elem NameU="Gesture 17" Name="手振り 17" PromptU="Gesture 17" Prompt="手振り 17"/>
+	<Elem NameU="Gesture 18" Name="手振り 18" PromptU="Gesture 18" Prompt="手振り 18"/>
+	<Elem NameU="Gesture 19" Name="手振り 19" PromptU="Gesture 19" Prompt="手振り 19"/>
+	<Elem NameU="Gesture 20" Name="手振り 20" PromptU="Gesture 20" Prompt="手振り 20"/>
+	<Elem NameU="Gesture 21" Name="手振り 21" PromptU="Gesture 21" Prompt="手振り 21"/>
+	<Elem NameU="Gesture 22" Name="手振り 22" PromptU="Gesture 22" Prompt="手振り 22"/>
+	<Elem NameU="Gesture 23" Name="手振り 23" PromptU="Gesture 23" Prompt="手振り 23"/>
+	<Elem NameU="Gesture 24" Name="手振り 24" PromptU="Gesture 24" Prompt="手振り 24"/>
+	<Elem NameU="Gesture 25" Name="手振り 25" PromptU="Gesture 25" Prompt="手振り 25"/>
+	<Elem NameU="Gesture 26" Name="手振り 26" PromptU="Gesture 26" Prompt="手振り 26"/>
+	<Elem NameU="Gesture 27" Name="手振り 27" PromptU="Gesture 27" Prompt="手振り 27"/>
+	<Elem NameU="Gesture 28" Name="手振り 28" PromptU="Gesture 28" Prompt="手振り 28"/>
+	<Elem NameU="Gesture 29" Name="手振り 29" PromptU="Gesture 29" Prompt="手振り 29"/>
+	<Elem NameU="Gesture 30" Name="手振り 30" PromptU="Gesture 30" Prompt="手振り 30"/>
+    <Elem NameU="Welcome" Name="歓迎" PromptU="Welcome" Prompt="歓迎"/>
+    <Elem NameU="Power" Name="握りこぶし" PromptU="Power" Prompt="握りこぶし"/>
+</Lib>

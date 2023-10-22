@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Artificial Intelligence">
+     <Elem NameU="Robot"	Name="Roboter"	PromptU="Robot"	Prompt="Roboter"/>
+     <Elem NameU="Intelligent Sound"	Name="Intelligenter Klang"	PromptU="Intelligent Sound"	Prompt="Intelligenter Klang"/>
+     <Elem NameU="Technology And The Brain 1"	Name="Technologie und das Gehirn 1"	PromptU="Technology And The Brain 1"	Prompt="Technologie und das Gehirn 1"/>
+     <Elem NameU="Technology And The Brain 2"	Name="Technologie und das Gehirn 2"	PromptU="Technology And The Brain 2"	Prompt="Technologie und das Gehirn 2"/>
+     <Elem NameU="AI 1"	Name="AI 1"	PromptU="AI 1"	Prompt="AI 1"/>
+     <Elem NameU="AI 2"	Name="AI 2"	PromptU="AI 2"	Prompt="AI 2"/>
+     <Elem NameU="Mechanical Brain"	Name="Mechanisches Gehirn"	PromptU="Mechanical Brain"	Prompt="Mechanisches Gehirn"/>
+     <Elem NameU="Human Thinking"	Name="Menschliches Denken"	PromptU="Human Thinking"	Prompt="Menschliches Denken"/>
+     <Elem NameU="Abstract Thinking 1"	Name="Abstraktes Denken 1"	PromptU="Abstract Thinking 1"	Prompt="Abstraktes Denken 1"/>
+     <Elem NameU="Abstract Thinking 2"	Name="Abstraktes Denken 2"	PromptU="Abstract Thinking 2"	Prompt="Abstraktes Denken 2"/>
+	 <Elem NameU="Discovery 1"	Name="Entdeckung 1"	PromptU="Discovery 1"	Prompt="Entdeckung 1"/>
+     <Elem NameU="Discovery 2"	Name="Entdeckung 2"	PromptU="Discovery 1"	Prompt="Entdeckung 2"/>
+     <Elem NameU="Communication"	Name="Kommunikation"	PromptU="Communication"	Prompt="Kommunikation"/>
+     <Elem NameU="People with Intelligence"	Name="Menschen mit Intelligenz"	PromptU="People with Intelligence"	Prompt="Menschen mit Intelligenz"/>
+     <Elem NameU="Automaton 1"	Name="Automaton 1"	PromptU="Automaton 1"	Prompt="Automaton 1"/>
+     <Elem NameU="Automaton  2"	Name="Automaton 2"	PromptU="Automaton  2"	Prompt="Automaton 2"/>
+     <Elem NameU="Automaton 3"	Name="Automaton 3"	PromptU="Automaton 3"	Prompt="Automaton 3"/>
+     <Elem NameU="Automaton  4"	Name="Automaton 4"	PromptU="Automaton  4"	Prompt="Automaton 4"/>
+     <Elem NameU="Robot Dog"	Name="Roboterhund"	PromptU="Robot Dog"	Prompt="Roboterhund"/>
+     <Elem NameU="Manipulator 1"	Name="Manipulator 1"	PromptU="Manipulator 1"	Prompt="Manipulator 1"/>
+     <Elem NameU="Manipulator 2"	Name="Manipulator 2"	PromptU="Manipulator 2"	Prompt="Manipulator 2"/>
+     <Elem NameU="People With Intelligence"	Name="Menschen mit Intelligenz"	PromptU="People With Intelligence"	Prompt="Menschen mit Intelligenz"/>
+     <Elem NameU="Smart Home"	Name="Smart Home"	PromptU="Smart Home"	Prompt="Smart Home"/>
+     <Elem NameU="Intelligent Mop"	Name="Intelligenter Mop"	PromptU="Intelligent Mop"	Prompt="Intelligenter Mop"/>
+     <Elem NameU="Smart Glasses"	Name="Smart Gläser"	PromptU="Smart Glasses"	Prompt="Smart Gläser"/>
+     <Elem NameU="Blood Pressure Bracelet"	Name="Blutdruck-Armband"	PromptU="Blood Pressure Bracelet"	Prompt="Blutdruck-Armband"/>
+     <Elem NameU="Dust Robot"	Name="Staubroboter"	PromptU="Dust Robot"	Prompt="Staubroboter"/>
+     <Elem NameU="Smartwatch"	Name="Smartwatch"	PromptU="Smartwatch"	Prompt="Smartwatch"/>
+     <Elem NameU="Moving Bracelet"	Name="Bewegliches Armband"	PromptU="Moving Bracelet"	Prompt="Bewegliches Armband"/>
+     <Elem NameU="VR Glasses"	Name="VR Gläser"	PromptU="VR Glasses"	Prompt="VR Gläser"/>
+     <Elem NameU="Mechanical Arm"	Name="Mechanischer Arm"	PromptU="Mechanical Arm"	Prompt="Mechanischer Arm"/>
+     <Elem NameU="Chip Pattern 1"	Name="Chipmuster 1"	PromptU="Chip Pattern 1"	Prompt="Chipmuster 1"/>
+     <Elem NameU="Chip Pattern 2"	Name="Chip Pattern 2"	PromptU="Chip Pattern 2"	Prompt="Chip Pattern 2"/>
+     <Elem NameU="Chip Pattern 3"	Name="Chipmuster 3"	PromptU="Chip Pattern 3"	Prompt="Chipmuster 3"/>
+     <Elem NameU="Line"	Name="Linie"	PromptU="Line"	Prompt="Linie"/>
+     <Elem NameU="Fingerprint 1"	Name="Fingerabdruck 1"	PromptU="Fingerprint 1"	Prompt="Fingerabdruck 1"/>
+     <Elem NameU="Fingerprint 2"	Name="Fingerabdruck 2"	PromptU="Fingerprint 2"	Prompt="Fingerabdruck 2"/>
+     <Elem NameU="Fingerprint Scanning"	Name="Fingerabdruck-Scannen"	PromptU="Fingerprint Scanning"	Prompt="Fingerabdruck-Scannen"/>
+     <Elem NameU="Fingerprint Scanner"	Name="Fingerabdruck-Scanner"	PromptU="Fingerprint Scanner"	Prompt="Fingerabdruck-Scanner"/>
+     <Elem NameU="Aiming"	Name="Zielen"	PromptU="Aiming"	Prompt="Zielen"/>
+     <Elem NameU="iPhone"	Name="iPhone"	PromptU="iPhone"	Prompt="iPhone"/>
+</Lib>

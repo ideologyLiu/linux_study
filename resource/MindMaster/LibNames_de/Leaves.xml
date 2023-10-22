@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Leaves">
+    <Elem NameU="Leaf 1" Name="Blatt 1" PromptU="Leaf 1" Prompt="Blatt 1"/>
+    <Elem NameU="Leaf 2" Name="Blatt 2" PromptU="Leaf 2" Prompt="Blatt 2"/>
+    <Elem NameU="Leaf 3" Name="Blatt 3" PromptU="Leaf 3" Prompt="Blatt 3"/>
+    <Elem NameU="Leaf 4" Name="Blatt 4" PromptU="Leaf 4" Prompt="Blatt 4"/>
+    <Elem NameU="Leaf 5" Name="Blatt 5" PromptU="Leaf 5" Prompt="Blatt 5"/>
+    <Elem NameU="Leaf 6" Name="Blatt 6" PromptU="Leaf 6" Prompt="Blatt 6"/>
+    <Elem NameU="Leaf 7" Name="Blatt 7" PromptU="Leaf 7" Prompt="Blatt 7"/>
+    <Elem NameU="Leaf 8" Name="Blatt 8" PromptU="Leaf 8" Prompt="Blatt 8"/>
+    <Elem NameU="Leaf 9" Name="Blatt 9" PromptU="Leaf 9" Prompt="Blatt 9"/>
+    <Elem NameU="Leaf 10" Name="Blatt 10" PromptU="Leaf 10" Prompt="Blatt 10"/>
+    <Elem NameU="Leaf 11" Name="Blatt 11" PromptU="Leaf 11" Prompt="Blatt 11"/>
+    <Elem NameU="Leaf 12" Name="Blatt 12" PromptU="Leaf 12" Prompt="Blatt 12"/>
+    <Elem NameU="Leaf 13" Name="Blatt 13" PromptU="Leaf 13" Prompt="Blatt 13"/>
+    <Elem NameU="Leaf 14" Name="Blatt 14" PromptU="Leaf 14" Prompt="Blatt 14"/>
+    <Elem NameU="Leaf 15" Name="Blatt 15" PromptU="Leaf 15" Prompt="Blatt 15"/>
+    <Elem NameU="Leaf 16" Name="Blatt 16" PromptU="Leaf 16" Prompt="Blatt 16"/>
+    <Elem NameU="Leaf 17" Name="Blatt 17" PromptU="Leaf 17" Prompt="Blatt 17"/>
+    <Elem NameU="Leaf 18" Name="Blatt 18" PromptU="Leaf 18" Prompt="Blatt 18"/>
+    <Elem NameU="Leaf 19" Name="Blatt 19" PromptU="Leaf 19" Prompt="Blatt 19"/>
+    <Elem NameU="Leaf 20" Name="Blatt 20" PromptU="Leaf 20" Prompt="Blatt 20"/>
+    <Elem NameU="Leaf 21" Name="Blatt 21" PromptU="Leaf 21" Prompt="Blatt 21"/>
+    <Elem NameU="Leaf 22" Name="Blatt 22" PromptU="Leaf 22" Prompt="Blatt 22"/>
+    <Elem NameU="Leaf 23" Name="Blatt 23" PromptU="Leaf 23" Prompt="Blatt 23"/>
+    <Elem NameU="Leaf 24" Name="Blatt 24" PromptU="Leaf 24" Prompt="Blatt 24"/>
+    <Elem NameU="Leaf 25" Name="Blatt 25" PromptU="Leaf 25" Prompt="Blatt 25"/>
+</Lib>

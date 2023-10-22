@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Birthday">
+    <Elem NameU="Lollipop 1" Name="ロリポップ 1" PromptU="Lollipop 1" Prompt="ロリポップ 1"/>
+    <Elem NameU="Lollipop 2" Name="ロリポップ 2" PromptU="Lollipop 2" Prompt="ロリポップ 2"/>
+    <Elem NameU="Lollipop 3" Name="ロリポップ 3" PromptU="Lollipop 3" Prompt="ロリポップ 3"/>
+    <Elem NameU="Balloon 1" Name="風船 1" PromptU="Balloon 1" Prompt="風船 1"/>
+    <Elem NameU="Balloon 2" Name="風船 2" PromptU="Balloon 2" Prompt="風船 2"/>
+    <Elem NameU="Balloon 3" Name="風船 3" PromptU="Balloon 3" Prompt="風船 3"/>
+    <Elem NameU="Star balloons 1" Name="星形の風船 1" PromptU="Star balloons 1" Prompt="星形の風船 1"/>
+    <Elem NameU="Star balloons 2" Name="星形の風船 2" PromptU="Star balloons 2" Prompt="星形の風船 2"/>
+    <Elem NameU="Star balloons 3" Name="星形の風船 3" PromptU="Star balloons 3" Prompt="星形の風船 3"/>
+    <Elem NameU="Birthday hat 1" Name="バースデー ハット  1" PromptU="Birthday hat 1" Prompt="バースデー ハット  1"/>
+    <Elem NameU="Birthday hat 2" Name="バースデー ハット  2" PromptU="Birthday hat 2" Prompt="バースデー ハット  2"/>
+    <Elem NameU="Birthday hat 3" Name="バースデー ハット  3" PromptU="Birthday hat 3" Prompt="バースデー ハット  3"/>
+    <Elem NameU="Birthday hat 4" Name="バースデー ハット  4" PromptU="Birthday hat 4" Prompt="バースデー ハット  4"/>
+    <Elem NameU="Glasses frame 1" Name="メガネフレーム 1" PromptU="Glasses frame 1" Prompt="メガネフレーム 1"/>
+    <Elem NameU="Glasses frame 2" Name="メガネフレーム 2" PromptU="Glasses frame 2" Prompt="メガネフレーム 2"/>
+    <Elem NameU="Candle" Name="キャンドル" PromptU="Candle" Prompt="キャンドル"/>
+    <Elem NameU="Magic wand" Name="魔法の杖" PromptU="Magic wand" Prompt="魔法の杖"/>
+    <Elem NameU="Beard" Name="ひげ" PromptU="Beard" Prompt="ひげ"/>
+    <Elem NameU="Gift box 1" Name="ギフトボックス 1" PromptU="Gift box 1" Prompt="ギフトボックス 1"/>
+    <Elem NameU="Gift box 2" Name="ギフトボックス 2" PromptU="Gift box 2" Prompt="ギフトボックス 2"/>
+    <Elem NameU="Cake 1" Name="ケーキ 1" PromptU="Cake 1" Prompt="ケーキ 1"/>
+    <Elem NameU="Cake 2" Name="ケーキ 2" PromptU="Cake 2" Prompt="ケーキ 2"/>
+    <Elem NameU="Cake 3" Name="ケーキ 3" PromptU="Cake 3" Prompt="ケーキ 3"/>
+    <Elem NameU="Cake 5" Name="ケーキ 4" PromptU="Cake 5" Prompt="ケーキ 4"/>
+    <Elem NameU="Candy" Name="キャンディ" PromptU="Candy" Prompt="キャンディ"/>
+    <Elem NameU="Peach" Name="桃" PromptU="Peach" Prompt="桃"/>
+    <Elem NameU="Banner 1" Name="バナー 1" PromptU="Banner 1" Prompt="バナー 1"/>
+    <Elem NameU="Happy Birthday" Name="ハッピー・バースデー" PromptU="Happy Birthday" Prompt="ハッピー・バースデー"/>
+    <Elem NameU="Banner 2" Name="バナー 2" PromptU="Banner 2" Prompt="バナー 2"/>
+</Lib>

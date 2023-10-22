@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Aerospace and Military">
+    <Elem NameU="Astronaut 1" Name="Astronaut 1" PromptU="Astronaut 1" Prompt="Astronaut 1"/>
+    <Elem NameU="Astronaut 2" Name="Astronaut 2" PromptU="Astronaut 2" Prompt="Astronaut 2"/>
+    <Elem NameU="Astronaut 3" Name="Astronaut 3" PromptU="Astronaut 3" Prompt="Astronaut 3"/>
+    <Elem NameU="Astronomical Telescope 1" Name="Astronomisches Teleskop 1" PromptU="Astronomical Telescope 1" Prompt="Astronomisches Teleskop 1"/>
+    <Elem NameU="Astronomical Telescope 2" Name="Astronomisches Teleskop 2" PromptU="Astronomical Telescope 2" Prompt="Astronomisches Teleskop 2"/>
+    <Elem NameU="Rocket" Name="Rakete" PromptU="Rocket" Prompt="Rakete"/>
+    <Elem NameU="Satellite 1" Name="Satelliten 1" PromptU="Satellite 1" Prompt="Satelliten 1"/>
+    <Elem NameU="Satellite 2" Name="Satelliten 2" PromptU="Satellite 2" Prompt="Satelliten 2"/>
+    <Elem NameU="Launching Tower" Name="Starten Turm" PromptU="Launching Tower" Prompt="Starten Turm"/>
+    <Elem NameU="Plane" Name="Flugzeug" PromptU="Plane" Prompt="Flugzeug"/>
+    <Elem NameU="Earth" Name="Erde" PromptU="Earth" Prompt="Erde"/>
+    <Elem NameU="Fighter Aircraft" Name="Kämpferflugzeug" PromptU="Fighter Aircraft" Prompt="Kämpferflugzeug"/>
+    <Elem NameU="Fighter Aircraft" Name="Kämpferflugzeug" PromptU="Fighter Aircraft" Prompt="Kämpferflugzeug"/>
+    <Elem NameU="Fighter Aircraft" Name="Kämpferflugzeug" PromptU="Fighter Aircraft" Prompt="Kämpferflugzeug"/>
+    <Elem NameU="Fighter Aircraft" Name="Kämpferflugzeug" PromptU="Fighter Aircraft" Prompt="Kämpferflugzeug"/>
+    <Elem NameU="Fighter Aircraft" Name="Kämpferflugzeug" PromptU="Fighter Aircraft" Prompt="Kämpferflugzeug"/>
+    <Elem NameU="Fighter Aircraft" Name="Kämpferflugzeug" PromptU="Fighter Aircraft" Prompt="Kämpferflugzeug"/>
+    <Elem NameU="Fighter Aircraft" Name="Kämpferflugzeug" PromptU="Fighter Aircraft" Prompt="Kämpferflugzeug"/>
+    <Elem NameU="Missle 1" Name="Geschoss 1" PromptU="Missle 1" Prompt="Geschoss 1"/>
+    <Elem NameU="Missle 2" Name="Geschoss 2" PromptU="Missle 2" Prompt="Geschoss 2"/>
+    <Elem NameU="High Speed Rail" Name="Hochgeschwindigkeitszug" PromptU="High Speed Rail" Prompt="Hochgeschwindigkeitszug"/>
+    <Elem NameU="Submarine 1" Name="Unterseeisch 1" PromptU="Submarine 1" Prompt="Unterseeisch 1"/>
+    <Elem NameU="Submarine 2" Name="Unterseeisch 2" PromptU="Submarine 2" Prompt="Unterseeisch 2"/>
+    <Elem NameU="Submarine 3" Name="Unterseeisch 3" PromptU="Submarine 3" Prompt="Unterseeisch 3"/>
+    <Elem NameU="Tank" Name="Tank" PromptU="Tank" Prompt="Tank"/>
+</Lib>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="People Pictogram">
+    <Elem NameU="Cross the Road" Name="Traverser la route" PromptU="Cross the Road" Prompt="Traverser la route"/>
+    <Elem NameU="Mom &amp; Son" Name="Maman &amp; Fils" PromptU="Mom &amp; Son" Prompt="Maman &amp; Fils"/>
+    <Elem NameU="Ride Horse" Name="Pratiquer l'équitation" PromptU="Ride Horse" Prompt="Pratiquer l'équitation"/>
+    <Elem NameU="Father &amp; Kid" Name="Père &amp; Enfant" PromptU="Father &amp; Kid" Prompt="Père &amp; Enfant"/>
+    <Elem NameU="Mom &amp; Daughter" Name="Maman &amp; Fille" PromptU="Mom &amp; Daughter" Prompt="Maman &amp; Fille"/>
+    <Elem NameU="Walking" Name="Marcher" PromptU="Walking" Prompt="Marcher"/>
+    <Elem NameU="Carriage" Name="Chariot" PromptU="Carriage" Prompt="Chariot"/>
+    <Elem NameU="Woman" Name="Femme" PromptU="Woman" Prompt="Femme"/>
+    <Elem NameU="Man" Name="Homme" PromptU="Man" Prompt="Homme"/>
+    <Elem NameU="Child" Name="Enfant" PromptU="Child" Prompt="Enfant"/>
+    <Elem NameU="Couple" Name="Couple" PromptU="Couple" Prompt="Couple"/>
+    <Elem NameU="Family" Name="Famille" PromptU="Family" Prompt="Famille"/>
+    <Elem NameU="Worker Digging Sand" Name="Travailleur creusant du sable" PromptU="Worker Digging Sand" Prompt="Travailleur creusant du sable"/>
+    <Elem NameU="Shopping" Name="Achats" PromptU="Shopping" Prompt="Achats"/>
+    <Elem NameU="Old Man" Name="Vieil homme" PromptU="Old Man" Prompt="Vieil homme"/>
+    <Elem NameU="Go up Stairs" Name="Go up Stairs" PromptU="Go up Stairs" Prompt="Go up Stairs"/>
+    <Elem NameU="Littering" Name="Litière" PromptU="Littering" Prompt="Litière"/>
+    <Elem NameU="Riding Bycicle" Name="Faire du vélo" PromptU="Riding Bycicle" Prompt="Faire du vélo"/>
+    <Elem NameU="Running" Name="Courir" PromptU="Running" Prompt="Courir"/>
+    <Elem NameU="Champion" Name="Champion" PromptU="Champion" Prompt="Champion"/>
+    <Elem NameU="Photographer" Name="Photographe" PromptU="Photographer" Prompt="Photographe"/>
+    <Elem NameU="Mail Man" Name="Courrier" PromptU="Mail Man" Prompt="Courrier"/>
+    <Elem NameU="Man with Umbrella" Name="Homme avec un parapluie" PromptU="Man with Umbrella" Prompt="Homme avec un parapluie"/>
+    <Elem NameU="Making a Phone Call" Name="Faire un appel téléphonique" PromptU="Making a Phone Call" Prompt="Faire un appel téléphonique"/>
+    <Elem NameU="Answering Phone" Name="Répondez au téléphone" PromptU="Answering Phone" Prompt="Répondez au téléphone"/>
+    <Elem NameU="Listening Music" Name="Écouter de la musique" PromptU="Listening Music" Prompt="Écouter de la musique"/>
+    <Elem NameU="Watering Flowers" Name="Arroser des fleurs" PromptU="Watering Flowers" Prompt="Arroser des fleurs"/>
+    <Elem NameU="Reading" Name="Lire" PromptU="Reading" Prompt="Lire"/>
+    <Elem NameU="Teaching" Name="Enseigner" PromptU="Teaching" Prompt="Enseigner"/>
+    <Elem NameU="Playing Basketball" Name="Jouer au basket" PromptU="Playing Basketball" Prompt="Jouer au basket"/>
+    <Elem NameU="People with a Loudspeaker" Name="Personnes avec un haut-parleur" PromptU="People with a Loudspeaker" Prompt="Personnes avec un haut-parleur"/>
+    <Elem NameU="Woman with a Hat" Name="Femme avec un chapeau" PromptU="Woman with a Hat" Prompt="Femme avec un chapeau"/>
+    <Elem NameU="Walking the Dog" Name="Promener le chien" PromptU="Walking the Dog" Prompt="Promener le chien"/>
+    <Elem NameU="Having a Date" Name="Avoir une date" PromptU="Having a Date" Prompt="Avoir une date"/>
+    <Elem NameU="Making a Proposal" Name="Faire une proposition" PromptU="Making a Proposal" Prompt="Faire une proposition"/>
+    <Elem NameU="Thinking" Name="Penser" PromptU="Thinking" Prompt="Penser"/>
+    <Elem NameU="Working" Name="Travailler" PromptU="Working" Prompt="Travailler"/>
+    <Elem NameU="Writing" Name="Écrire" PromptU="Writing" Prompt="Écrire"/>
+    <Elem NameU="Wheelchair" Name="Fauteuil roulant" PromptU="Wheelchair" Prompt="Fauteuil roulant"/>
+    <Elem NameU="Illness" Name="Maladie" PromptU="Illness" Prompt="Maladie"/>
+</Lib>

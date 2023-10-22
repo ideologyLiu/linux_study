@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Ostern">
+     <Elem NameU="Easter egg 1"	Name= "Osterei 1"	PromptU="Easter egg 1"	Prompt= "Osterei 1"/>
+     <Elem NameU="Easter egg 2"	Name= "Osterei 2"	PromptU="Easter egg 2"	Prompt= "Osterei 2"/>
+     <Elem NameU="Easter egg 3"	Name= "Osterei 3"	PromptU="Easter egg 3"	Prompt= "Osterei 3"/>
+     <Elem NameU="Easter egg 4"	Name= "Osterei 4"	PromptU="Easter egg 4"	Prompt= "Osterei 4"/>
+     <Elem NameU="Easter egg 5"	Name= "Osterei 5"	PromptU="Easter egg 5"	Prompt= "Osterei 5"/>
+     <Elem NameU="Easter egg 6"	Name= "Osterei 6"	PromptU="Easter egg 6"	Prompt= "Osterei 6"/>
+     <Elem NameU="Easter egg 6"	Name= "Osterei 6"	PromptU="Easter egg 6"	Prompt= "Osterei 6"/>
+     <Elem NameU="Easter egg 8"	Name= "Osterei 8"	PromptU="Easter egg 8"	Prompt= "Osterei 8"/>
+     <Elem NameU="Easter egg 9"	Name= "Osterei 9"	PromptU="Easter egg 9"	Prompt= "Osterei 9"/>
+     <Elem NameU="Easter egg 10"	Name= "Osterei 10"	PromptU="Easter egg 10"	Prompt= "Osterei 10"/>
+     <Elem NameU="Easter egg 11"	Name= "Osterei 11"	PromptU="Easter egg 11"	Prompt= "Osterei 11"/>
+     <Elem NameU="Easter egg 12"	Name= "Osterei 12"	PromptU="Easter egg 12"	Prompt= "Osterei 12"/>
+     <Elem NameU="Rabbit with easter egg"	Name= "Kaninchen mit Osterei"	PromptU="Rabbit with easter egg"	Prompt= "Kaninchen mit Osterei"/>
+     <Elem NameU="Rabbit 1"	Name= "Kaninchen 1"	PromptU="Rabbit 1"	Prompt= "Kaninchen 1"/>
+     <Elem NameU="Rabbit 2"	Name= "Kaninchen 2"	PromptU="Rabbit 2"	Prompt= "Kaninchen 2"/>
+     <Elem NameU="Chicken"	Name= "Huhn"	PromptU="Chicken"	Prompt= "Huhn"/>
+     <Elem NameU="Meat"	Name= "Fleisch"	PromptU="Meat"	Prompt= "Fleisch"/>
+     <Elem NameU="Chicken Leg 1"	Name= "Hühnerbein 1"	PromptU="Chicken Leg 1"	Prompt= "Hühnerbein 1"/>
+     <Elem NameU="Chicken Leg 2"	Name= "Hühnerbein 2"	PromptU="Chicken Leg 2"	Prompt= "Hühnerbein 2"/>
+     <Elem NameU="Book 1"	Name= "Buch 1"	PromptU="Book 1"	Prompt= "Buch 1"/>
+     <Elem NameU="Book 2"	Name= "Buch 2"	PromptU="Book 2"	Prompt= "Buch 2"/>
+     <Elem NameU="Cross"	Name= "Kreuz"	PromptU="Cross"	Prompt= "Kreuz"/>
+     <Elem NameU="Jesus"	Name= "Jesus"	PromptU="Jesus"	Prompt= "Jesus"/>
+     <Elem NameU="Cake"	Name= "Kuchen"	PromptU="Cake"	Prompt= "Kuchen"/>
+     <Elem NameU="Candle 1"	Name= "Kerze 1"	PromptU="Candle 1"	Prompt= "Kerze 1"/>
+     <Elem NameU="Candle 2"	Name= "Kerze 2"	PromptU="Candle 2"	Prompt= "Kerze 2"/>
+     <Elem NameU="Red Wine Glass"	Name= "Rotweinglas"	PromptU="Red Wine Glass"	Prompt= "Rotweinglas"/>
+     <Elem NameU="Red Wine"	Name= "Rotwein"	PromptU="Red Wine"	Prompt= "Rotwein"/>
+     <Elem NameU="Basket"	Name= "Korb"	PromptU="Basket"	Prompt= "Korb"/>
+     <Elem NameU="Flower"	Name= "Blume"	PromptU="Flower"	Prompt= "Blume"/>
+</Lib>

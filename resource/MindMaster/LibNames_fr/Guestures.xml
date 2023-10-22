@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Guestures">
+    <Elem NameU="Shake Hands" PromptU="Shake Hands" Name="Serrer la main" Prompt="Serrer la main"/>
+    <Elem NameU="Cooperation" PromptU="Cooperation" Name="La coopération" Prompt="La coopération"/>
+    <Elem NameU="Competition" PromptU="Competition" Name="Compétition" Prompt="Compétition"/>
+    <Elem NameU="Guesture" PromptU="Guesture" Name="Geste" Prompt="Geste"/>
+    <Elem NameU="Guesture 2" PromptU="Guesture" Name="Geste 2" Prompt="Geste"/>
+    <Elem NameU="Guesture 3" PromptU="Guesture" Name="Geste 3" Prompt="Geste"/>
+    <Elem NameU="Guesture 4" PromptU="Guesture" Name="Geste 4" Prompt="Geste"/>
+    <Elem NameU="Guesture 5" PromptU="Guesture" Name="Geste 5" Prompt="Geste"/>
+    <Elem NameU="Guesture 6" PromptU="Guesture 6" Name="Geste 6" Prompt="Geste 6"/>
+    <Elem NameU="Guesture 7" PromptU="Guesture" Name="Geste 7" Prompt="Geste"/>
+    <Elem NameU="Guesture 8" PromptU="Guesture" Name="Geste 8" Prompt="Geste"/>
+    <Elem NameU="Guesture 9" PromptU="Guesture" Name="Geste 9" Prompt="Geste"/>
+    <Elem NameU="Guesture 10" PromptU="Guesture 10" Name="Geste 10" Prompt="Geste 10"/>
+    <Elem NameU="Guesture 11" PromptU="Guesture" Name="Geste 11" Prompt="Geste"/>
+    <Elem NameU="Guesture 12" PromptU="Guesture" Name="Geste 12" Prompt="Geste"/>
+    <Elem NameU="Guesture 13" PromptU="Guesture" Name="Geste 13" Prompt="Geste"/>
+</Lib>

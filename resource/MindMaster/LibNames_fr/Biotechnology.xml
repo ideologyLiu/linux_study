@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Biotechnology">
+    <Elem NameU="Brain" Name="Cerveau" PromptU="Brain" Prompt="Cerveau"/>
+    <Elem NameU="Neuron" Name="Neuron" PromptU="Neuron" Prompt="Neuron"/>
+    <Elem NameU="DNA 1" Name="DNA 1" PromptU="DNA 1" Prompt="DNA 1"/>
+    <Elem NameU="DNA 2" Name="DNA 2" PromptU="DNA 2" Prompt="DNA 2"/>
+    <Elem NameU="Cells" Name="Cellules" PromptU="Cells" Prompt="Cellules"/>
+    <Elem NameU="Molecular Structure 1" Name="Structure moleculaire 1" PromptU="Molecular Structure 1" Prompt="Structure moleculaire 1"/>
+    <Elem NameU="Molecular Structure 2" Name="Structure moleculaire 2" PromptU="Molecular Structure 2" Prompt="Structure moleculaire 2"/>
+    <Elem NameU="Molecular Structure 3" Name="Structure moleculaire 3" PromptU="Molecular Structure 3" Prompt="Structure moleculaire 3"/>
+    <Elem NameU="Molecular Structure 4" Name="Structure moleculaire 4" PromptU="Molecular Structure 4" Prompt="Structure moleculaire 4"/>
+    <Elem NameU="Plant Cell" Name="Cellule de plante" PromptU="Plant Cell" Prompt="Cellule de plante"/>
+    <Elem NameU="Animal Cells" Name="Cellules animales" PromptU="Animal Cells" Prompt="Cellules animales"/>
+    <Elem NameU="Microbial Culture Medium" Name="Milieu de culture microbiologique" PromptU="Microbial Culture Medium" Prompt="Milieu de culture microbiologique"/>
+    <Elem NameU="Surgical Scissors" Name="Ciseaux chirurgicaux" PromptU="Surgical Scissors" Prompt="Ciseaux chirurgicaux"/>
+    <Elem NameU="Injector" Name="Injecteur" PromptU="Injector" Prompt="Injecteur"/>
+    <Elem NameU="Microscopes" Name="Microscopes" PromptU="Microscopes" Prompt="Microscopes"/>
+    <Elem NameU="Specimen" Name="Spécimen" PromptU="Specimen" Prompt="Spécimen"/>
+    <Elem NameU="Plant Specimens" Name="Spécifications végétales" PromptU="Plant Specimens" Prompt="Spécifications végétales"/>
+    <Elem NameU="Glass Pipette" Name="Pipette en verre" PromptU="Glass Pipette" Prompt="Pipette en verre"/>
+    <Elem NameU="Test Tube" Name="Tube à essai" PromptU="Test Tube" Prompt="Tube à essai"/>
+    <Elem NameU="Glassware 1" Name="Verrerie 1" PromptU="Glassware 1" Prompt="Verrerie 1"/>
+    <Elem NameU="Glassware 2" Name="Verrerie 2" PromptU="Glassware 2" Prompt="Verrerie 2"/>
+    <Elem NameU="Experiment 1" Name="Expérience 1" PromptU="Experiment 1" Prompt="Expérience 1"/>
+    <Elem NameU="Experiment 2" Name="Expérience 2" PromptU="Experiment 2" Prompt="Expérience 2"/>
+    <Elem NameU="Experimenter 1" Name="Expérimentateur 1" PromptU="Experimenter 1" Prompt="Expérimentateur 1"/>
+    <Elem NameU="Experimenter 2" Name="Expérimentateur 2" PromptU="Experimenter 2" Prompt="Expérimentateur 2"/>
+    <Elem NameU="Experimenter 3" Name="Expérimentateur 3" PromptU="Experimenter 3" Prompt="Expérimentateur 3"/>
+    <Elem NameU="Biology And Technology" Name="Biologie et technologie" PromptU="Biology And Technology" Prompt="Biologie et technologie"/>
+</Lib>

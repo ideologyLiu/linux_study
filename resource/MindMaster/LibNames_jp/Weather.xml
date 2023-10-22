@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Weather">
+    <Elem NameU="Sunny" Name="晴れ" PromptU="Sunny" Prompt="晴れ"/>
+    <Elem NameU="Cloudy" Name="曇り" PromptU="Cloudy" Prompt="曇り"/>
+    <Elem NameU="Overcast" Name="空一面曇り" PromptU="Overcast" Prompt="空一面曇り"/>
+    <Elem NameU="Rainy" Name="雨" PromptU="Rainy" Prompt="雨"/>
+    <Elem NameU="Drizzle" Name="霧雨" PromptU="Drizzle" Prompt="霧雨"/>
+    <Elem NameU="Snowy" Name="雪" PromptU="Snowy" Prompt="雪"/>
+    <Elem NameU="Heavy Snow" Name="大雪" PromptU="Heavy Snow" Prompt="大雪"/>
+    <Elem NameU="Sleet" Name="霙" PromptU="Sleet" Prompt="霙"/>
+    <Elem NameU="Hailstone" Name="雹" PromptU="Hailstone" Prompt="雹"/>
+    <Elem NameU="Hailstone and Snow" Name="雹と雪" PromptU="Hailstone and Snow" Prompt="雹と雪"/>
+    <Elem NameU="Thunderstorm" Name="雷雨" PromptU="Thunderstorm" Prompt="雷雨"/>
+    <Elem NameU="Thunder" Name="雷" PromptU="Thunder" Prompt="雷"/>
+    <Elem NameU="Snow and Thunder" Name="雪と雷" PromptU="Snow and Thunder" Prompt="雪と雷"/>
+    <Elem NameU="Thunderstorm and Hailstone" Name="雷と雹" PromptU="Thunderstorm and Hailstone" Prompt="雷と雹"/>
+    <Elem NameU="Showery Rain" Name="雨時々晴れ" PromptU="Showery Rain" Prompt="雨時々晴れ"/>
+    <Elem NameU="Showery Snow" Name="雪時々晴れ" PromptU="Showery Snow" Prompt="雪時々晴れ"/>
+    <Elem NameU="Clear to Cloudy" Name="晴れのちくもり" PromptU="Clear to Cloudy" Prompt="晴れのちくもり"/>
+    <Elem NameU="Foggy and Sun" Name="晴れ時々霧" PromptU="Foggy and Sun" Prompt="晴れ時々霧"/>
+    <Elem NameU="Foggy 1" Name="霧 1" PromptU="Foggy 1" Prompt="霧 1"/>
+    <Elem NameU="Foggy 2" Name="霧 2" PromptU="Foggy 2" Prompt="霧 2"/>
+    <Elem NameU="Tornado" Name="竜巻" PromptU="Tornado" Prompt="竜巻"/>
+    <Elem NameU="Windy" Name="風" PromptU="Windy" Prompt="風"/>
+    <Elem NameU="Windy and Dusty" Name="風塵" PromptU="Windy and Dusty" Prompt="風塵"/>
+    <Elem NameU="Floating Dust" Name="砂嵐" PromptU="Floating Dust" Prompt="砂嵐(t"/>
+    <Elem NameU="Wind Vane" Name="天気ベーン" PromptU="Wind Vane" Prompt="天気ベーン"/>
+    <Elem NameU="Dust Tester" Name="ダストテスター" PromptU="Dust Tester" Prompt="ダストテスター"/>
+    <Elem NameU="Rainbow Cloudy" Name="虹と曇り" PromptU="Rainbow Cloudy" Prompt="虹と曇り"/>
+    <Elem NameU="Rainbow Rainy" Name="虹と雨" PromptU="Rainbow Rainy" Prompt="虹と雨"/>
+    <Elem NameU="Clear at Night" Name="晴れの夜" PromptU="Clear at Night" Prompt="晴れの夜"/>
+    <Elem NameU="Cloudy at Night" Name="曇りの夜" PromptU="Cloudy at Night" Prompt="曇りの夜"/>
+    <Elem NameU="Overcast at Night" Name="曇りの夜" PromptU="Overcast at Night" Prompt="曇りの夜"/>
+    <Elem NameU="Rainy at Night" Name="雨の夜" PromptU="Rainy at Night" Prompt="雨の夜"/>
+    <Elem NameU="Heavy Rain at Night" Name="大雨の夜" PromptU="Heavy Rain at Night" Prompt="大雨の夜"/>
+    <Elem NameU="Heavy Snow at Night" Name="大雪の夜" PromptU="Heavy Snow at Night" Prompt="大雪の夜"/>
+    <Elem NameU="Snowy at Night" Name="雪の夜" PromptU="Snowy at Night" Prompt="雪の夜"/>
+    <Elem NameU="Thunderstorm at Night" Name="雷雨の夜" PromptU="Thunderstorm at Night" Prompt="雷雨の夜"/>
+    <Elem NameU="Thunder at Night" Name="雷の夜" PromptU="Thunder at Night" Prompt="雷の夜"/>
+    <Elem NameU="Sleet at Night" Name="霙の夜" PromptU="Sleet at Night" Prompt="霙の夜"/>
+    <Elem NameU="Foggy at Night" Name="霧の夜" PromptU="Foggy at Night" Prompt="霧の夜"/>
+    <Elem NameU="Tornado at Night" Name="竜巻の夜" PromptU="Tornado at Night" Prompt="竜巻の夜"/>
+    <Elem NameU="Hailstone at Night" Name="雹の夜" PromptU="Hailstone at Night" Prompt="雹の夜"/>
+</Lib>

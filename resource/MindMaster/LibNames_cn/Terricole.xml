@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Terricole">
+    <Elem NameU="Dog" Name="狗" PromptU="Dog" Prompt="狗"/>
+    <Elem NameU="Rabbit" Name="兔子" PromptU="Rabbit" Prompt="兔子"/>
+    <Elem NameU="Cat" Name="猫" PromptU="Cat" Prompt="猫"/>
+    <Elem NameU="Red-crowned Crane" Name="丹顶鹤" PromptU="Red-crowned Crane" Prompt="丹顶鹤"/>
+    <Elem NameU="Giraffe 1" Name="长颈鹿1" PromptU="Giraffe 1" Prompt="长颈鹿1"/>
+    <Elem NameU="Giraffe 2" Name="长颈鹿2" PromptU="Giraffe 2" Prompt="长颈鹿2"/>
+    <Elem NameU="Cock" Name="公鸡" PromptU="Cock" Prompt="公鸡"/>
+    <Elem NameU="Sheep" Name="绵羊" PromptU="Sheep" Prompt="绵羊"/>
+    <Elem NameU="Cow" Name="奶牛" PromptU="Cow" Prompt="奶牛"/>
+    <Elem NameU="Squirrel" Name="松鼠" PromptU="Squirrel" Prompt="松鼠"/>
+    <Elem NameU="Tortoise" Name="陆龟" PromptU="Tortoise" Prompt="陆龟"/>
+    <Elem NameU="Mouse" Name="老鼠" PromptU="Mouse" Prompt="老鼠"/>
+    <Elem NameU="Duck" Name="鸭子" PromptU="13" Prompt="13"/>
+    <Elem NameU="Pigeon" Name="鸽子" PromptU="Pigeon" Prompt="鸽子"/>
+    <Elem NameU="Peace Dove" Name="和平鸽" PromptU="Peace Dove" Prompt="和平鸽"/>
+    <Elem NameU="Panda" Name="熊猫" PromptU="Panda" Prompt="熊猫"/>
+    <Elem NameU="Snake" Name="蛇" PromptU="Snake" Prompt="蛇"/>
+    <Elem NameU="Elephant" Name="大象" PromptU="Elephant" Prompt="daxiang"/>
+    <Elem NameU="Koala" Name="考拉" PromptU="Koala" Prompt="考拉"/>
+    <Elem NameU="Horse" Name="马" PromptU="Horse" Prompt="马"/>
+    <Elem NameU="Camel" Name="骆驼" PromptU="Camel" Prompt="骆驼"/>
+    <Elem NameU="Pig" Name="猪" PromptU="Pig" Prompt="猪"/>
+    <Elem NameU="Sika Deer" Name="梅花鹿" PromptU="Sika Deer" Prompt="梅花鹿"/>
+    <Elem NameU="Snail" Name="蜗牛" PromptU="Snail" Prompt="蜗牛"/>
+    <Elem NameU="Gecko" Name="壁虎" PromptU="Gecko" Prompt="壁虎"/>
+    <Elem NameU="Frog" Name="青蛙" PromptU="Frog" Prompt="青蛙"/>
+    <Elem NameU="Toad" Name="蟾蜍" PromptU="Toad" Prompt="蟾蜍"/>
+    <Elem NameU="Parrot" Name="鹦鹉" PromptU="Parrot" Prompt="鹦鹉"/>
+    <Elem NameU="Rhinoceros" Name="犀牛" PromptU="Rhinoceros" Prompt="犀牛"/>
+    <Elem NameU="Bat" Name="蝙蝠" PromptU="Bat" Prompt="蝙蝠"/>
+    <Elem NameU="Lizard" Name="蜥蜴" PromptU="Lizard" Prompt="蜥蜴"/>
+    <Elem NameU="Leopard" Name="猎豹" PromptU="Leopard" Prompt="猎豹"/>
+    <Elem NameU="Hippopotamus 1" Name="河马1" PromptU="Hippopotamus 1" Prompt="河马1"/>
+    <Elem NameU="Hippopotamus 2" Name="河马2" PromptU="Hippopotamus 2" Prompt="河马2"/>
+    <Elem NameU="Polar bear 1" Name="北极熊1" PromptU="Polar bear 1" Prompt="北极熊1"/>
+    <Elem NameU="Polar bear 2" Name="北极熊2" PromptU="Polar bear 2" Prompt="北极熊2"/>
+    <Elem NameU="Polar bear 3" Name="北极熊3" PromptU="Polar bear 3" Prompt="北极熊3"/>
+    <Elem NameU="Elephant 1" Name="大象1" PromptU="Elephant 1" Prompt="大象1"/>
+    <Elem NameU="Elephant 2" Name="大象2" PromptU="Elephant 2" Prompt="大象2"/>
+    <Elem NameU="Crocodile 1" Name="鳄鱼1" PromptU="Crocodile 1" Prompt="鳄鱼1"/>
+    <Elem NameU="Crocodile 2" Name="鳄鱼2" PromptU="Crocodile 2" Prompt="鳄鱼2"/>
+    <Elem NameU="Tyrannosaurus" Name="暴龙" PromptU="Tyrannosaurus" Prompt="暴龙"/>
+    <Elem NameU="Stegosaurus" Name="剑龙" PromptU="Stegosaurus" Prompt="剑龙"/>
+</Lib>

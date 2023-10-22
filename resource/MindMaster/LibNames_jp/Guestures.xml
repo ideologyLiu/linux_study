@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Guestures">
+    <Elem NameU="Shake Hands" PromptU="Shake Hands" Name="握手" Prompt="握手"/>
+    <Elem NameU="Cooperation" PromptU="Cooperation" Name="協力" Prompt="協力"/>
+    <Elem NameU="Competition" PromptU="Competition" Name="競争" Prompt="競争"/>
+    <Elem NameU="Guesture" PromptU="Guesture" Name="手振り 1" Prompt="手振り 1"/>
+    <Elem NameU="Guesture 2" PromptU="Guesture" Name="手振り 2" Prompt="手振り 2"/>
+    <Elem NameU="Guesture 3" PromptU="Guesture" Name="手振り 3" Prompt="手振り 3"/>
+    <Elem NameU="Guesture 4" PromptU="Guesture" Name="手振り 4" Prompt="手振り 4"/>
+    <Elem NameU="Guesture 5" PromptU="Guesture" Name="手振り 5" Prompt="手振り 5"/>
+    <Elem NameU="Guesture 6" PromptU="Guesture 6" Name="手振り 6" Prompt="手振り 6"/>
+    <Elem NameU="Guesture 7" PromptU="Guesture" Name="手振り 7" Prompt="手振り 7"/>
+    <Elem NameU="Guesture 8" PromptU="Guesture" Name="手振り 8" Prompt="手振り 8"/>
+    <Elem NameU="Guesture 9" PromptU="Guesture" Name="手振り 9" Prompt="手振り 9"/>
+    <Elem NameU="Guesture 10" PromptU="Guesture 10" Name="手振り 10" Prompt="手振り 10"/>
+    <Elem NameU="Guesture 11" PromptU="Guesture" Name="手振り 11" Prompt="手振り 11"/>
+    <Elem NameU="Guesture 12" PromptU="Guesture" Name="手振り 12" Prompt="手振り 12"/>
+    <Elem NameU="Guesture 13" PromptU="Guesture" Name="手振り 13" Prompt="手振り 13"/>
+</Lib>

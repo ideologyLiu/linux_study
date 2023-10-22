@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Halloween">
+    <Elem NameU="Signs 1" Name="Signes 1" PromptU="Signs 1" Prompt="Signes 1"/>
+    <Elem NameU="Signs 2" Name="Signes 2" PromptU="Signs 2" Prompt="Signes 2"/>
+    <Elem NameU="Pumpkin" Name="Citrouille" PromptU="Pumpkin" Prompt="Citrouille"/>
+    <Elem NameU="Pumpkin1" Name="Citrouille1" PromptU="Pumpkin1" Prompt="Citrouille1"/>
+    <Elem NameU="Pumpkin2" Name="Citrouille2" PromptU="Pumpkin2" Prompt="Citrouille2"/>
+    <Elem NameU="Pumpkin3" Name="Citrouille3" PromptU="Pumpkin3" Prompt="Citrouille3"/>
+    <Elem NameU="Pumpkin4" Name="Citrouille4" PromptU="Pumpkin4" Prompt="Citrouille4"/>
+    <Elem NameU="Pumpkin5" Name="Citrouille5" PromptU="Pumpkin5" Prompt="Citrouille5"/>
+    <Elem NameU="Pumpkin6" Name="Citrouille6" PromptU="Pumpkin6" Prompt="Citrouille6"/>
+    <Elem NameU="Pumpkin7" Name="Citrouille7" PromptU="Pumpkin7" Prompt="Citrouille7"/>
+    <Elem NameU="Pumpkin8" Name="Citrouille8" PromptU="Pumpkin8" Prompt="Citrouille8"/>
+    <Elem NameU="Bats" Name="Les chauves-souris" PromptU="Bats" Prompt="Les chauves-souris"/>
+    <Elem NameU="Bats1" Name="Les chauves-souris1" PromptU="Bats2" Prompt="Les chauves-souris2"/>
+    <Elem NameU="Bats2" Name="Les chauves-souris2" PromptU="Bats2" Prompt="Les chauves-souris2"/>
+    <Elem NameU="Bats3" Name="Les chauves-souris3" PromptU="Bats3" Prompt="Les chauves-souris3"/>
+    <Elem NameU="Tree" Name="Arbre" PromptU="Tree" Prompt="Arbre"/>
+    <Elem NameU="Tree1" Name="Arbre1" PromptU="Tree1" Prompt="Arbre1"/>
+    <Elem NameU="Tree2" Name="Arbre2" PromptU="Tree2" Prompt="Arbre2"/>
+    <Elem NameU="Tree3" Name="Arbre3" PromptU="Tree3" Prompt="Arbre3"/>
+    <Elem NameU="Tree4" Name="Arbre4" PromptU="Tree4" Prompt="Arbre4"/>
+    <Elem NameU="Cobwebs" Name="Des toiles d'araignée" PromptU="Cobwebs" Prompt="Des toiles d'araignée"/>
+    <Elem NameU="Cobwebs1" Name="Des toiles d'araignée1" PromptU="Cobwebs1" Prompt="Des toiles d'araignée1"/>
+    <Elem NameU="Cobwebs2" Name="Des toiles d'araignée2" PromptU="Cobwebs2" Prompt="Des toiles d'araignée2"/>
+    <Elem NameU="Spider" Name="Araignée" PromptU="Spider" Prompt="Araignée"/>
+    <Elem NameU="Spider1" Name="Araignée1" PromptU="Spider1" Prompt="Araignée1"/>
+    <Elem NameU="Spider2" Name="Araignée2" PromptU="Spider2" Prompt="Araignée2"/>
+    <Elem NameU="Spider3" Name="Araignée3" PromptU="Spider3" Prompt="Araignée3"/>
+    <Elem NameU="Cat" Name="Chat" PromptU="Cat" Prompt="Chat"/>
+    <Elem NameU="Haunted House" Name="Maison hantée" PromptU="Haunted House" Prompt="Maison hantée"/>
+    <Elem NameU="Haunted House1" Name="Maison hantée1" PromptU="Haunted House1" Prompt="Maison hantée1"/>
+    <Elem NameU="Haunted House2" Name="Maison hantée2" PromptU="Haunted House2" Prompt="Maison hantée2"/>
+    <Elem NameU="Cross" Name="Croix" PromptU="Cross" Prompt="Croix"/>
+    <Elem NameU="Cross1" Name="Croix1" PromptU="Cross1" Prompt="Croix1"/>
+    <Elem NameU="Ghost" Name="Fantôme" PromptU="Ghost" Prompt="Fantôme"/>
+    <Elem NameU="Ghost1" Name="Fantôme1" PromptU="Ghost1" Prompt="Fantôme1"/>
+    <Elem NameU="Ghost2" Name="Fantôme2" PromptU="Ghost2" Prompt="Fantôme2"/>
+    <Elem NameU="Witch Hat" Name="Chapeau de sorcière" PromptU="Witch Hat" Prompt="Chapeau de sorcière"/>
+    <Elem NameU="Witch Hat1" Name="Chapeau de sorcière1" PromptU="Witch Hat1" Prompt="Chapeau de sorcière1"/>
+    <Elem NameU="Witch Hat2" Name="Chapeau de sorcière2" PromptU="Witch Hat2" Prompt="Chapeau de sorcière2"/>
+    <Elem NameU="Broom" Name="Balai" PromptU="Broom" Prompt="Balai"/>
+    <Elem NameU="Broom1" Name="Balai1" PromptU="Broom1" Prompt="Balai1"/>
+    <Elem NameU="Witch" Name="Sorcière" PromptU="Witch" Prompt="Sorcière"/>
+    <Elem NameU="Witch1" Name="Sorcière1" PromptU="Witch1" Prompt="Sorcière1"/>
+    <Elem NameU="Stockpot" Name="Marmite" PromptU="Stockpot" Prompt="Marmite"/>
+    <Elem NameU="Part Finger " Name="Une partie de doigt" PromptU="Part Finger " Prompt="Une partie de doigt"/>
+    <Elem NameU="Mask" Name="Masque" PromptU="Mask" Prompt="Masque"/>
+    <Elem NameU="Mask1" Name="Masque1" PromptU="Mask1" Prompt="Masque1"/>
+    <Elem NameU="Sweet" Name="Bonbon" PromptU="Sweet" Prompt="Bonbon"/>
+    <Elem NameU="Sweet1" Name="Bonbon1" PromptU="Sweet1" Prompt="Bonbon1"/>
+    <Elem NameU="Zombie" Name="Zombi" PromptU="Zombie" Prompt="Zombi"/>
+    <Elem NameU="No face bride" Name="Mariée sans visage" PromptU="No face bride" Prompt="Mariée sans visage"/>
+</Lib>

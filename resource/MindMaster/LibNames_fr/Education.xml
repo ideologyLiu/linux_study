@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Education Flat">
+    <Elem NameU="Folder" Name="Dossier" PromptU="Folder" Prompt="Dossier"/>
+    <Elem NameU="Books" Name="Livres" PromptU="Books" Prompt="Livres"/>
+    <Elem NameU="Pen Pot" Name="Brosse pot" PromptU="Pen Pot" Prompt="Brosse pot"/>
+    <Elem NameU="Globe" Name="Globe" PromptU="Globe" Prompt="Globe"/>
+    <Elem NameU="Schoolbag" Name="Cartable" PromptU="Schoolbag" Prompt="Cartable"/>
+    <Elem NameU="Opened Book" Name="Livre ouvert" PromptU="Opened Book" Prompt="Livre ouvert"/>
+    <Elem NameU="Color Pens" Name="Stylos colorés" PromptU="Color Pens" Prompt="Stylos colorés"/>
+    <Elem NameU="Paint" Name="Peindre" PromptU="Paint" Prompt="Peindre"/>
+    <Elem NameU="Brushes" Name="Brosses" PromptU="Brushes" Prompt="Brosses"/>
+    <Elem NameU="Scissors" Name="Ciseaux" PromptU="Scissors" Prompt="Ciseaux"/>
+    <Elem NameU="Pen" Name="Stylo" PromptU="Pen" Prompt="Stylo"/>
+    <Elem NameU="Ballpoint Pen" Name="Stylo à bille" PromptU="Ballpoint Pen" Prompt="Stylo à bille"/>
+    <Elem NameU="Pencil 1" Name="Crayon 1" PromptU="Pencil 1" Prompt="Crayon 1"/>
+    <Elem NameU="Pencil 2" Name="Crayon 2" PromptU="Pencil 2" Prompt="Crayon 2"/>
+    <Elem NameU="Palette 1" Name="Palette 1" PromptU="Palette 1" Prompt="Palette 1"/>
+    <Elem NameU="Palette 2" Name="Palette 2" PromptU="Palette 2" Prompt="Palette 2"/>
+    <Elem NameU="Rubber" Name="Caoutchouc" PromptU="Rubber" Prompt="Caoutchouc"/>
+    <Elem NameU="Compass" Name="Boussole" PromptU="Compass" Prompt="Boussole"/>
+    <Elem NameU="Drawing Board" Name="Planche à dessin" PromptU="Drawing Board" Prompt="Planche à dessin"/>
+    <Elem NameU="Pushpin" Name="Punaise" PromptU="Pushpin" Prompt="Punaise"/>
+    <Elem NameU="Paper Clip" Name="Trombone" PromptU="Paper Clip" Prompt="Trombone"/>
+    <Elem NameU="Note Paper" Name="Papier de note" PromptU="Note Paper" Prompt="Papier de note"/>
+    <Elem NameU="Glasses" Name="Lunettes" PromptU="Glasses" Prompt="Lunettes"/>
+    <Elem NameU="Glue" Name="Colle" PromptU="Glue" Prompt="Colle"/>
+    <Elem NameU="Blackboard" Name="Tableau noir" PromptU="Blackboard" Prompt="Tableau noir"/>
+    <Elem NameU="Calculater" Name="Calculatrice" PromptU="Calculater" Prompt="Calculatrice"/>
+    <Elem NameU="School Bus" Name="Bus scolaire" PromptU="School Bus" Prompt="Bus scolaire"/>
+    <Elem NameU="Mortarboard" Name="Mortier" PromptU="Mortarboard" Prompt="Mortier"/>
+    <Elem NameU="Diploma" Name="Diplôme" PromptU="Diploma" Prompt="Diplôme"/>
+    <Elem NameU="Football" Name="Football" PromptU="Football" Prompt="Football"/>
+    <Elem NameU="Basketball" Name="Basketball" PromptU="Basketball" Prompt="Basketball"/>
+    <Elem NameU="Rugby" Name="Rugby" PromptU="Rugby" Prompt="Rugby"/>
+    <Elem NameU="Tennis Ball" Name="Balle de tennis" PromptU="Tennis Ball" Prompt="Balle de tennis"/>
+    <Elem NameU="Flask" Name="Ballon" PromptU="Flask" Prompt="Ballon"/>
+    <Elem NameU="Conical Flask" Name="Fiole conique" PromptU="Conical Flask" Prompt="Fiole conique"/>
+    <Elem NameU="Beaker" Name="Gobelet" PromptU="Beaker" Prompt="Gobelet"/>
+    <Elem NameU="Flask" Name="Ballon" PromptU="Flask" Prompt="Ballon"/>
+    <Elem NameU="Test Tube" Name="Tube à essai" PromptU="Test Tube" Prompt="Tube à essai"/>
+    <Elem NameU="Alcohol Burner" Name="Brûleur d'alcool" PromptU="Alcohol Burner" Prompt="Brûleur d'alcool"/>
+    <Elem NameU="Ruler" Name="Règle" PromptU="Ruler" Prompt="Règle"/>
+    <Elem NameU="Set Square" Name="Équerre" PromptU="Set Square" Prompt="Équerre"/>
+    <Elem NameU="Angle Ruler" Name="Règle d'angle" PromptU="Angle Ruler" Prompt="Règle d'angle"/>
+    <Elem NameU="Telescopes" Name="Télescopes" PromptU="Telescopes" Prompt="Télescopes"/>
+    <Elem NameU="Microscope" Name="Microscope" PromptU="Microscope" Prompt="Microscope"/>
+    <Elem NameU="Sand Timer" Name="Sablier" PromptU="Sand Timer" Prompt="Sablier"/>
+    <Elem NameU="Cell" Name="Cellule" PromptU="Cell" Prompt="Cellule"/>
+    <Elem NameU="Gene Map" Name="Carte de gène" PromptU="Gene Map" Prompt="Carte de gène"/>
+    <Elem NameU="Sun" Name="Soleil" PromptU="Sun" Prompt="Soleil"/>
+    <Elem NameU="Planetary motion" Name="Mouvement planétaire" PromptU="Planetary motion" Prompt="Mouvement planétaire"/>
+    <Elem NameU="Astronomical telescope" Name="Lunette astronomique" PromptU="Astronomical telescope" Prompt="Lunette astronomique"/>
+    <Elem NameU="Table lamp" Name="Lampe de table" PromptU="Table lamp" Prompt="Lampe de table"/>
+    <Elem NameU="Small bell 1" Name="Clochette 1" PromptU="Small bell 1" Prompt="Clochette 1"/>
+    <Elem NameU="Small bell 2" Name="Clochette 2" PromptU="Small bell 2" Prompt="Clochette 2"/>
+    <Elem NameU="Tree 1" Name="Arbre 1" PromptU="Tree 1" Prompt="Arbre 1"/>
+    <Elem NameU="Tree 2" Name="Arbre 2" PromptU="Tree 2" Prompt="Arbre 2"/>
+    <Elem NameU="Bass 1" Name="Arbre 1" PromptU="Bass 1" Prompt="Arbre 1"/>
+    <Elem NameU="Bass 2" Name="Arbre 2" PromptU="Bass 2" Prompt="Arbre 2"/>
+    <Elem NameU="Guitar 1" Name="Guitare 1" PromptU="Guitar 1" Prompt="Guitare 1"/>
+    <Elem NameU="Guitar 2" Name="Guitare 2" PromptU="Guitar 2" Prompt="Guitare 2"/>
+    <Elem NameU="School" Name="École" PromptU="School" Prompt="École"/>
+    <Elem NameU="Lecturer" Name="Maître de conférences" PromptU="Lecturer" Prompt="Maître de conférences"/>
+    <Elem NameU="Notebook computer" Name="Ordinateur portable" PromptU="Notebook computer" Prompt="Ordinateur portable"/>
+    <Elem NameU="Desktop computer" Name="Ordinateur de bureau" PromptU="Desktop computer" Prompt="Ordinateur de bureau"/>
+    <Elem NameU="Flower pot 1" Name="Pot de fleur 1" PromptU="Flower pot 1" Prompt="Pot de fleur 1"/>
+    <Elem NameU="Flower pot 2" Name="Pot de fleur 2" PromptU="Flower pot 2" Prompt="Pot de fleur 2"/>
+    <Elem NameU="Apple" Name="Pomme" PromptU="Apple" Prompt="Pomme"/>
+    <Elem NameU="Light bulb 1" Name="Ampoule 1" PromptU="Light bulb 1" Prompt="Ampoule 1"/>
+    <Elem NameU="Light bulb 2" Name="Ampoule 2" PromptU="Light bulb 2" Prompt="Ampoule 2"/>
+    <Elem NameU="Balloon" Name="Ballon" PromptU="Balloon" Prompt="Ballon"/>
+    <Elem NameU="Trophy" Name="Trophée" PromptU="Trophy" Prompt="Trophée"/>
+    <Elem NameU="Medal" Name="Médaille" PromptU="Medal" Prompt="Médaille"/>
+    <Elem NameU="Various certificates" Name="Divers certificats" PromptU="Various certificates" Prompt="Divers certificats"/>
+    <Elem NameU="Go to school 1" Name="Va à l'école 1" PromptU="Go to school 1" Prompt="Va à l'école 1"/>
+    <Elem NameU="Go to school 2" Name="Va à l'école 2" PromptU="Go to school 2" Prompt="Va à l'école 2"/>
+    <Elem NameU="Reading 1" Name="Lire 1" PromptU="Reading 1" Prompt="Lire 1"/>
+    <Elem NameU="Reading 2" Name="Lire 2" PromptU="Reading 2" Prompt="Lire 2"/>
+    <Elem NameU="School Boy" Name="Écolier" PromptU="School Boy" Prompt="Écolier"/>
+    <Elem NameU="School Girl" Name="École fille" PromptU="School Girl" Prompt="École fille"/>
+    <Elem NameU="Party" Name="Fête" PromptU="Party" Prompt="Fête"/>
+    <Elem NameU="Student with Trophy" Name="Étudiant avec Trophée" PromptU="Student with Trophy" Prompt="Étudiant avec Trophée"/>
+    <Elem NameU="Pupil girl 1" Name="Élève 1" PromptU="Pupil girl 1" Prompt="Élève 1"/>
+    <Elem NameU="Pupil boy 1" Name="Élève 2" PromptU="Pupil boy 1" Prompt="Élève 2"/>
+    <Elem NameU="Pupil girl 2" Name="Élève 3" PromptU="Pupil girl 2" Prompt="Élève 3"/>
+    <Elem NameU="Pupil boy 2" Name="Élève 4" PromptU="Pupil boy 2" Prompt="Élève 4"/>
+    <Elem NameU="Student Girl 1" Name="Élève 5" PromptU="Student Girl 1" Prompt="Élève 5"/>
+    <Elem NameU="Student Boy 1" Name="Élève 6" PromptU="Student Boy 1" Prompt="Élève 6"/>
+    <Elem NameU="Student Girl 2" Name="Élève 7" PromptU="Student Girl 2" Prompt="Élève 7"/>
+    <Elem NameU="Student Boy 2" Name="Élève 8" PromptU="Student Boy 2" Prompt="Élève 8"/>
+    <Elem NameU="Attend class" Name="Assister à la classe" PromptU="Attend class" Prompt="Assister à la classe"/>
+    <Elem NameU="The Graduate" Name="Diplômer" PromptU="The Graduate" Prompt="Diplômer"/>
+</Lib>

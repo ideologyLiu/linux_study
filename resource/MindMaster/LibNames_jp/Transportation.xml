@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Transportation">
+    <Elem NameU="Road 1" Name="道路 1" PromptU="Road 1" Prompt="道路 1"/>
+    <Elem NameU="Road 2" Name="道路 2" PromptU="Road 2" Prompt="道路 2"/>
+    <Elem NameU="Road 3" Name="道路 3" PromptU="Road 3" Prompt="道路 3"/>
+    <Elem NameU="Road 4" Name="道路 4" PromptU="Road 4" Prompt="道路 4"/>
+    <Elem NameU="Police Car" Name="警察車" PromptU="Police Car" Prompt="警察車"/>
+    <Elem NameU="Police" Name="警察" PromptU="Police" Prompt="警察"/>
+    <Elem NameU="Traffic Police" Name="交通警察" PromptU="Traffic Police" Prompt="交通警察"/>
+    <Elem NameU="Bus" Name="バス" PromptU="Bus" Prompt="バス"/>
+    <Elem NameU="Car 1" Name="自動車 1" PromptU="Car 1" Prompt="自動車 1"/>
+    <Elem NameU="Car 2" Name="自動車 2" PromptU="Car 2" Prompt="自動車 2"/>
+    <Elem NameU="Taxi" Name="タクシー" PromptU="Taxi" Prompt="タクシー"/>
+    <Elem NameU="Motorcycle" Name="オートバイ" PromptU="Motorcycle" Prompt="オートバイ"/>
+    <Elem NameU="Train" Name="列車" PromptU="Train" Prompt="列車"/>
+    <Elem NameU="Ship Rudder" Name="船の舵" PromptU="Ship Rudder" Prompt="船の舵"/>
+    <Elem NameU="Bicycle" Name="自転車" PromptU="Bicycle" Prompt="自転車"/>
+    <Elem NameU="Sailing Boat" Name="帆船" PromptU="Sailing Boat" Prompt="帆船"/>
+    <Elem NameU="Excavator" Name="掘削機" PromptU="Excavator" Prompt="掘削機"/>
+    <Elem NameU="Truck" Name="トラック" PromptU="Truck" Prompt="トラック"/>
+    <Elem NameU="Cement Truck" Name="トラックミキサ" PromptU="Cement Truck" Prompt="トラックミキサ"/>
+    <Elem NameU="Tank Truck" Name="タンク車" PromptU="Tank Truck" Prompt="タンク車"/>
+    <Elem NameU="Man" Name="男性" PromptU="Man" Prompt="男性"/>
+    <Elem NameU="Woman" Name="女性" PromptU="Woman" Prompt="女性"/>
+    <Elem NameU="Pedestrian 1" Name="歩行者 1" PromptU="Pedestrian 1" Prompt="歩行者 1"/>
+    <Elem NameU="Pedestrian 2" Name="歩行者 2" PromptU="Pedestrian 2" Prompt="歩行者 2"/>
+    <Elem NameU="Zebra crossing" Name="横断歩道" PromptU="Zebra crossing" Prompt="横断歩道"/>
+    <Elem NameU="Traffic Light 1" Name="信号機 1" PromptU="Traffic Light 1" Prompt="信号機 1"/>
+    <Elem NameU="Traffic Light 2" Name="信号機 2" PromptU="Traffic Light 2" Prompt="信号機 2"/>
+    <Elem NameU="Speed Camera" Name="スピードカメラ" PromptU="Speed Camera" Prompt="スピードカメラ"/>
+    <Elem NameU="Road Sign" Name="道路標識" PromptU="Road Sign" Prompt="道路標識"/>
+    <Elem NameU="Footway" Name="歩道" PromptU="Footway" Prompt="歩道"/>
+    <Elem NameU="No Smoking" Name="タバコ禁止" PromptU="No Smoking" Prompt="タバコ禁止"/>
+    <Elem NameU="Do Not Enter Sign" Name="車両進入禁止" PromptU="Do Not Enter Sign" Prompt="車両進入禁止"/>
+    <Elem NameU="Stop Sign" Name="停車可" PromptU="Stop Sign" Prompt="停車可"/>
+    <Elem NameU="No Fire" Name="直火禁止" PromptU="No Fire" Prompt="直火禁止"/>
+    <Elem NameU="Road Sign" Name="道路標識" PromptU="Road Sign" Prompt="道路標識"/>
+    <Elem NameU="No Horn" Name="警笛禁止" PromptU="No Horn" Prompt="警笛禁止"/>
+    <Elem NameU="Bus Sign" Name="バス標識" PromptU="Bus Sign" Prompt="バス標識"/>
+    <Elem NameU="Stop Sign" Name="停車可" PromptU="Stop Sign" Prompt="停車可"/>
+    <Elem NameU="Parking 1" Name="パーキング 1" PromptU="Parking 1" Prompt="パーキング 1"/>
+    <Elem NameU="Parking 2" Name="パーキング 2" PromptU="Parking 2" Prompt="パーキング 2"/>
+    <Elem NameU="No parking" Name="駐車禁止" PromptU="No parking" Prompt="駐車禁止"/>
+    <Elem NameU="Circular Intersection" Name="円形交差点" PromptU="Circular Intersection" Prompt="円形交差点"/>
+    <Elem NameU="No Taxi" Name="タクシー通行止め" PromptU="No Taxi" Prompt="タクシー通行止め"/>
+    <Elem NameU="No Straight Nor Right Turn" Name="指定方向進行禁止 1" PromptU="No Straight Nor Right Turn" Prompt="指定方向進行禁止 1"/>
+    <Elem NameU="No Straight Nor Left Turn" Name="指定方向進行禁止 2" PromptU="No Straight Nor Left Turn" Prompt="指定方向進行禁止 2"/>
+    <Elem NameU="No U-Turn" Name="転回禁止" PromptU="No U-Turn" Prompt="転回禁止"/>
+    <Elem NameU="No Left Turn" Name="車両横断禁止 1" PromptU="No Left Turn" Prompt="車両横断禁止 1"/>
+    <Elem NameU="No Right Turn" Name="車両横断禁止 2" PromptU="No Right Turn" Prompt="車両横断禁止 2"/>
+    <Elem NameU="No Pedestrians" Name="歩行者の通行止め" PromptU="No Pedestrians" Prompt="歩行者の通行止め"/>
+    <Elem NameU="No Overtaking" Name="追い越し禁止" PromptU="No Overtaking" Prompt="追い越し禁止"/>
+    <Elem NameU="No Entry" Name="車両進入禁止" PromptU="No Entry" Prompt="車両進入禁止"/>
+    <Elem NameU="No Left Nor Right Turn" Name="右折と左折禁止" PromptU="No Left Nor Right Turn" Prompt="右折と左折禁止"/>
+    <Elem NameU="No Bicycles" Name="自転車通行止め" PromptU="No Bicycles" Prompt="自転車通行止め"/>
+    <Elem NameU="No Cars" Name="二輪の自動車以外の自動車通行止め" PromptU="No Cars" Prompt="二輪の自動車以外の自動車通行止め"/>
+    <Elem NameU="No Trucks" Name="大型貨物自動車等通行止め" PromptU="No Trucks" Prompt="大型貨物自動車等通行止め"/>
+    <Elem NameU="Two-Way Traffic" Name="二方向交通" PromptU="Two-Way Traffic" Prompt="二方向交通"/>
+    <Elem NameU="Crossroad Ahead" Name="道路交差点有り" PromptU="Crossroad Ahead" Prompt="道路交差点有り"/>
+    <Elem NameU="Side Road (Right)" Name="道路交差点有り" PromptU="Side Road (Right)" Prompt="道路交差点有り（右）"/>
+    <Elem NameU="Side Road (Left)" Name="道路交差点有り" PromptU="Side Road (Left)" Prompt="道路交差点有り（左）"/>
+    <Elem NameU="Traffic Signal Ahead" Name="信号機あり" PromptU="Traffic Signal Ahead" Prompt="信号機あり"/>
+    <Elem NameU="Overhead Electric Cable" Name="電線あり" PromptU="Overhead Electric Cable" Prompt="電線あり"/>
+    <Elem NameU="T Intersection Ahead" Name="道路交差点有り" PromptU="T Intersection Ahead" Prompt="T型交差点あり"/>
+    <Elem NameU="Y Intersection Ahead" Name="道路交差点有り" PromptU="Y Intersection Ahead" Prompt="Y型交差点あり"/>
+    <Elem NameU="Hump Bridge Ahead" Name="路面凹凸あり" PromptU="Hump Bridge Ahead" Prompt="路面凹凸あり"/>
+    <Elem NameU="Dangerous" Name="その他の危険" PromptU="Dangerous" Prompt="その他の危険"/>
+    <Elem NameU="Caution Drop Down" Name="墜落恐れあり" PromptU="Caution Drop Down" Prompt="墜落恐れあり"/>
+    <Elem NameU="Caution No Motor Vehicle" Name="自転車注意" PromptU="Caution No Motor Vehicle" Prompt="自転車注意"/>
+    <Elem NameU="Barricade 1" Name="バリケード 1" PromptU="Barricade 1" Prompt="バリケード 1"/>
+    <Elem NameU="Barricade 2" Name="バリケード 2" PromptU="Barricade 2" Prompt="バリケード 2"/>
+    <Elem NameU="Floor Stand Sign" Name="チェーンスタンド看板" PromptU="Floor Stand Sign" Prompt="チェーンスタンド看板"/>
+    <Elem NameU="Red Pylon" Name="ロードコーン" PromptU="Red Pylon" Prompt="ロードコーン"/>
+    <Elem NameU="Yellow Warning Stipe" Name="警告ストライプ（黄色）" PromptU="Yellow Warning Stipe" Prompt="警告ストライプ（黄色）"/>
+    <Elem NameU="OSHA tape (red-white striped)" Name="OSHA テープ(紅白ストライプ)" PromptU="OSHA tape (red-white striped)" Prompt="OSHA テープ(紅白ストライプ)"/>
+    <Elem NameU="OSHA tape (yellow-black checked)" Name="OSHA テープ(黄黒チェック)" PromptU="OSHA tape (yellow-black checked)" Prompt="OSHA テープ(黄黒チェック)"/>
+    <Elem NameU="OSHA tape (yellow-black striped)" Name="OSHA テープ(黄黒ストライプ)" PromptU="OSHA tape (yellow-black striped)" Prompt="OSHA テープ(黄黒ストライプ)"/>
+    <Elem NameU="Green Light 1" Name="青色の灯火 1" PromptU="Green Light 1" Prompt="青色の灯火 1"/>
+    <Elem NameU="Red Light 1" Name="赤色の灯火 1" PromptU="Red Light 1" Prompt="赤色の灯火 1"/>
+    <Elem NameU="Yellow Light 1" Name="黄色の灯火 1" PromptU="Yellow Light 1" Prompt="黄色の灯火 1"/>
+    <Elem NameU="Green Light 2" Name="青色の灯火 2" PromptU="Green Light 2" Prompt="青色の灯火 2"/>
+    <Elem NameU="Red Light 2" Name="赤色の灯火 2" PromptU="Red Light 2" Prompt="赤色の灯火 2"/>
+    <Elem NameU="Yellow Light 2" Name="黄色の灯火 2" PromptU="Yellow Light 2" Prompt="黄色の灯火 2"/>
+    <Elem NameU="Green Light 3" Name="青色の灯火 3" PromptU="Green Light 3" Prompt="青色の灯火 3"/>
+    <Elem NameU="Red Light 3" Name="赤色の灯火 3" PromptU="Red Light 3" Prompt="赤色の灯火 3"/>
+    <Elem NameU="Yellow Light 3" Name="黄色の灯火 3" PromptU="Yellow Light 3" Prompt="黄色の灯火 3"/>
+    <Elem NameU="Red Light 4" Name="赤色の灯火 4" PromptU="Red Light 4" Prompt="赤色の灯火 4"/>
+    <Elem NameU="Gas-station" Name="ガソリンスタンド" PromptU="Gas-station" Prompt="ガソリンスタンド"/>
+    <Elem NameU="Street lamp 1" Name="街灯 1" PromptU="Street lamp 1" Prompt="街灯 1"/>
+    <Elem NameU="Street lamp 2" Name="街灯 2" PromptU="Street lamp 2" Prompt="街灯 2"/>
+    <Elem NameU="Instrument" Name="器械" PromptU="Instrument" Prompt="器械"/>
+    <Elem NameU="Steering Wheel 1" Name="ハンドル 1" PromptU="Steering Wheel 1" Prompt="ハンドル 1"/>
+    <Elem NameU="Steering Wheel 2" Name="ハンドル 2" PromptU="Steering Wheel 2" Prompt="ハンドル 2"/>
+    <Elem NameU="Direction 1" Name="方向 1" PromptU="Direction 1" Prompt="方向 1"/>
+    <Elem NameU="Direction 2" Name="方向 2" PromptU="Direction 2" Prompt="方向 2"/>
+    <Elem NameU="Direction 3" Name="方向 3" PromptU="Direction 3" Prompt="方向 3"/>
+    <Elem NameU="Trumpet" Name="警笛" PromptU="Trumpet" Prompt="警笛"/>
+    <Elem NameU="Ban on the horn" Name="警笛禁止" PromptU="Ban on the horn" Prompt="警笛禁止"/>
+    <Elem NameU="Mansion" Name="マンション" PromptU="Mansion" Prompt="マンション"/>
+    <Elem NameU="School" Name="学校" PromptU="School" Prompt="学校"/>
+    <Elem NameU="Shop" Name="店" PromptU="Shop" Prompt="店"/>
+    <Elem NameU="Tree 1" Name="ツリー 1" PromptU="Tree 1" Prompt="ツリー 1"/>
+    <Elem NameU="Tree 2" Name="ツリー 2" PromptU="Tree 2" Prompt="ツリー 2"/>
+</Lib>

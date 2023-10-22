@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bread">
+    <Elem NameU="Cake Volume" Name="ケーキロール" PromptU="Cake Volume" Prompt="ケーキロール"/>
+    <Elem NameU="Pineapple Bread" Name="パイナップルパン" PromptU="Pineapple Bread" Prompt="パイナップルパン"/>
+    <Elem NameU="Toast" Name="食パン" PromptU="Toast" Prompt="食パン"/>
+    <Elem NameU="Cream Bun 1" Name="クリームパン 1" PromptU="Cream Bun 1" Prompt="クリームパン 1"/>
+    <Elem NameU="Cream Bun 2" Name="クリームパン 2" PromptU="Cream Bun 2" Prompt="クリームパン 2"/>
+    <Elem NameU="Croissant" Name="クロワッサン" PromptU="Croissant" Prompt="クロワッサン"/>
+    <Elem NameU="Spring Onion Bread" Name="パン" PromptU="Spring Onion Bread" Prompt="パン"/>
+    <Elem NameU="Hotdog 1" Name="ホットドッグ 1" PromptU="Hotdog 1" Prompt="ホットドッグ 1"/>
+    <Elem NameU="Hotdog 2" Name="ホットドッグ 2" PromptU="Hotdog 2" Prompt="ホットドッグ 2"/>
+    <Elem NameU="Hot Dog Bun" Name="ホットドッグ 3" PromptU="Hot Dog Bun" Prompt="ホットドッグ 3"/>
+    <Elem NameU="Waffle" Name="ワッフル" PromptU="Waffle" Prompt="ワッフル"/>
+    <Elem NameU="French Bread" Name="かぼちゃのパン" PromptU="French Bread" Prompt="かぼちゃのパン"/>
+    <Elem NameU="Doughnut" Name="ドーナツ" PromptU="Doughnut" Prompt="ドーナツ"/>
+    <Elem NameU="Cupcake 1" Name="カップケーキ 1" PromptU="Cupcake 1" Prompt="カップケーキ 1"/>
+    <Elem NameU="Cupcake 2" Name="カップケーキ 2" PromptU="Cupcake2" Prompt="カップケーキ 2"/>
+    <Elem NameU="Egg Tart" Name="エッグタルト" PromptU="Egg Tart" Prompt="エッグタルト"/>
+    <Elem NameU="Triangle Cake" Name="ショートケーキ" PromptU="Triangle Cake" Prompt="ショートケーキ"/>
+    <Elem NameU="Cake" Name="ケーキ" PromptU="Cake" Prompt="ケーキ"/>
+    <Elem NameU="Chocolate Cake" Name="チョコレートケーキ" PromptU="Chocolate Cake" Prompt="チョコレートケーキ"/>
+    <Elem NameU="Macaron 1" Name="マカロン 1" PromptU="Macaron 1" Prompt="マカロン 1"/>
+    <Elem NameU="Macaron 2" Name="マカロン 2" PromptU="Macaron 2" Prompt="マカロン 2"/>
+    <Elem NameU="Apple Pie" Name="アップルパイ" PromptU="Apple Pie" Prompt="アップルパイ"/>
+    <Elem NameU="Baguette 1" Name="バゲット 1" PromptU="Baguette 1" Prompt="バゲット 1"/>
+    <Elem NameU="Baguette 2" Name="バゲット 2" PromptU="Baguette 2" Prompt="バゲット 2"/>
+    <Elem NameU="Red Bean Bread" Name="赤豆のパン" PromptU="Red Bean Bread" Prompt="赤豆のパン"/>
+    <Elem NameU="Bread" Name="ツォップ" PromptU="Bread" Prompt="ツォップ"/>
+    <Elem NameU="Swirl Bread 1" Name="うずまきパン 1" PromptU="Swirl Bread 1" Prompt="うずまきパン 1"/>
+    <Elem NameU="Swirl Bread 2" Name="うずまきパン 2" PromptU="Swirl Bread 2" Prompt="うずまきパン 2"/>
+    <Elem NameU="French Bread 1" Name="フランスパン 1" PromptU="French Bread 1" Prompt="フランスパン  1"/>
+    <Elem NameU="French Bread 2" Name="ヴァイツェンブロート" PromptU="French Bread 2" Prompt="ヴァイツェンブロート"/>
+    <Elem NameU="Kalach Bread" Name="パン" PromptU="Kalach Bread" Prompt="パン"/>
+    <Elem NameU="Meat Floss Buns" Name="コロッケパン" PromptU="Meat Floss Buns" Prompt="コロッケパン"/>
+    <Elem NameU="Lechem" Name="プレッツェル" PromptU="Lechem" Prompt="プレッツェル"/>
+	<Elem NameU="Fried Bread" Name="揚げパン" PromptU="Fried Bread" Prompt="揚げパン"/>
+	<Elem NameU="Muffin" Name="マフィン" PromptU="Muffin" Prompt="マフィン"/>
+	<Elem NameU="Fruit  Dessert Tray 1" Name="フルーツデザート" PromptU="Fruit  Dessert Tray 1" Prompt="フルーツデザート"/>
+	<Elem NameU="Fruit  Dessert Tray 2" Name="フルーツデザート" PromptU="Fruit  Dessert Tray 2" Prompt="フルーツデザート"/>
+	<Elem NameU="Chocolate Cake in Triangle Shape" Name="チョコレートショートケーキ" PromptU="Chocolate Cake in Triangle Shape" Prompt="チョコレートショートケーキ"/>
+	<Elem NameU="Black Forest Cake" Name="黒い森のケーキ" PromptU="Wedding Cake" Prompt="黒い森のケーキ"/>
+	<Elem NameU="Wedding Cake" Name="ウエディングケーキ" PromptU="Wedding Cake" Prompt="ウエディングケーキ"/>
+	<Elem NameU="Birthday Cake" Name="誕生日ケーキ" PromptU="Birthday Cake" Prompt="誕生日ケーキ"/>
+	<Elem NameU="Strawberry Cupcakes" Name="イチゴカップケーキ" PromptU="Strawberry Cupcakes" Prompt="イチゴカップケーキ"/>
+	<Elem NameU="Yule log" Name="ユールログ" PromptU="Yule log" Prompt="ユールログ"/>
+	<Elem NameU="Swiss Roll" Name="スイスロール" PromptU="Swiss Roll" Prompt="スイスロール"/>
+	<Elem NameU="Cupcake 3" Name="カップケーキ 3" PromptU="Cupcake 3" Prompt="カップケーキ 3"/>
+	<Elem NameU="Cupcake 4" Name="カップケーキ 4" PromptU="Cupcake 4" Prompt="カップケーキ 4"/>
+	<Elem NameU="Cupcake 5" Name="カップケーキ 5" PromptU="Cupcake 5" Prompt="カップケーキ 5"/>
+	<Elem NameU="Cupcake 6" Name="カップケーキ 6" PromptU="Cupcake 6" Prompt="カップケーキ 6"/>
+	<Elem NameU="Cupcake 7" Name="カップケーキ 7" PromptU="Cupcake 7" Prompt="カップケーキ 7"/>
+	<Elem NameU="Cupcake 8" Name="カップケーキ 8" PromptU="Cupcake 8" Prompt="カップケーキ 8"/>
+	<Elem NameU="Mooncake 1" Name="月餅" PromptU="Mooncake 1" Prompt="月餅"/>
+	<Elem NameU="mooncake 2" Name="月餅" PromptU="mooncake 2" Prompt="月餅"/>
+</Lib>

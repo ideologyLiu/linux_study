@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="School">
+    <Elem NameU="Book" Name="Buch" PromptU="Book" Prompt="Buch"/>
+    <Elem NameU="Books 1" Name="Bücher 1" PromptU="Books 1" Prompt="Bücher 1"/>
+    <Elem NameU="Books 2" Name="Bücher 2" PromptU="Books" Prompt="Bücher 2"/>
+    <Elem NameU="Bookrest" Name="Lesepult" PromptU="Bookrest" Prompt="Lesepult"/>
+    <Elem NameU="Knowledge" Name="Kenntnis" PromptU="Knowledge" Prompt="Kenntnis"/>
+    <Elem NameU="Opened Book" Name="Geöffnetes Buch" PromptU="Opened Book" Prompt="Geöffnetes Buch"/>
+    <Elem NameU="Reading" Name="Lesen" PromptU="Reading" Prompt="Lesen"/>
+    <Elem NameU="Notepad" Name="Notepad" PromptU="Notepad" Prompt="Notepad"/>
+    <Elem NameU="Graduation" Name="Abschluss" PromptU="You can change its color." Prompt="Sie können ihre Farbe ändern."/>
+    <Elem NameU="Hat" Name="Hut" PromptU="You can change its color." Prompt="Sie können ihre Farbe ändern."/>
+    <Elem NameU="Blackboard" Name="Schreibtafel" PromptU="Blackboard" Prompt="Schreibtafel"/>
+    <Elem NameU="Palette" Name="Palette" PromptU="Palette" Prompt="Palette"/>
+    <Elem NameU="Lamp" Name="Lampe" PromptU="Lamp" Prompt="Lampe"/>
+    <Elem NameU="Magnifier" Name="Lupe" PromptU="Magnifier" Prompt="Lupe"/>
+    <Elem NameU="Calculator" Name="Rechner" PromptU="Calculator" Prompt="Rechner"/>
+    <Elem NameU="Clock" Name="Uhr" PromptU="Clock" Prompt="Uhr"/>
+    <Elem NameU="Alarm Clock" Name="Wecker" PromptU="Alarm Clock" Prompt="Wecker"/>
+    <Elem NameU="Stopwatch" Name="Stoppuhr" PromptU="Stopwatch" Prompt="Stoppuhr"/>
+    <Elem NameU="Basketball" Name="Basketball" PromptU="Basketball" Prompt="Basketball"/>
+    <Elem NameU="Football" Name="Fußball" PromptU="Football" Prompt="Fußball"/>
+    <Elem NameU="Rugby" Name="Rugby" PromptU="Rugby" Prompt="Rugby"/>
+    <Elem NameU="Speaker" Name="Lautsprecher" PromptU="Speaker" Prompt="Lautsprecher"/>
+    <Elem NameU="Achievement" Name="Erreichung" PromptU="Achievement" Prompt="Erreichung"/>
+    <Elem NameU="Bag" Name="Tasche" PromptU="Bag" Prompt="Tasche"/>
+    <Elem NameU="Award" Name="Auszeichnung" PromptU="Award" Prompt="Auszeichnung"/>
+    <Elem NameU="School" Name="Schule" PromptU="School" Prompt="Schule"/>
+    <Elem NameU="Campus" Name="Campus" PromptU="Campus" Prompt="Campus"/>
+</Lib>

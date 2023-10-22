@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Sports">
+     <Elem NameU="Dribbling"	Name="Dribbling"	PromptU="Dribbling"	Prompt="Dribbling"/>
+     <Elem NameU="Layup"	Name="Auflegen"	PromptU="Layup"	Prompt="Auflegen"/>
+     <Elem NameU="Shooting BasketBall"	Name="BasketBall Dunken"	PromptU="Shooting BasketBall"	Prompt="BasketBall Dunken"/>
+     <Elem NameU="Shooting Football"	Name="Fußball schießen"	PromptU="Shooting Football"	Prompt="Fußball schießen"/>
+     <Elem NameU="Tackling"	Name="Tackling"	PromptU="Tackling"	Prompt="Tackling"/>
+     <Elem NameU="Playing Football 3"	Name="Fußball spielen 3"	PromptU="Playing Football 3"	Prompt="Fußball spielen 3"/>
+     <Elem NameU="Table Tennis 1"	Name="Tischtennis 1"	PromptU="Table Tennis 1"	Prompt="Tischtennis 1"/>
+     <Elem NameU="Table Tennis 2"	Name="Tischtennis 2"	PromptU="Table Tennis 2"	Prompt="Tischtennis 2"/>
+     <Elem NameU="Table Tennis 3"	Name="Tischtennis 3"	PromptU="Table Tennis 3"	Prompt="Tischtennis 3"/>
+     <Elem NameU="Badminton 1"	Name="Badminton 1"	PromptU="Badminton 1"	Prompt="Badminton 1"/>
+     <Elem NameU="Badminton 2"	Name="Badminton 2"	PromptU="Badminton 2"	Prompt="Badminton 2"/>
+     <Elem NameU="Volleyball 1"	Name="Volleyball 1"	PromptU="Volleyball 1"	Prompt="Volleyball 1"/>
+     <Elem NameU="Volleyball 2"	Name="Volleyball 2"	PromptU="Volleyball 2"	Prompt="Volleyball 2"/>
+     <Elem NameU="Volleyball 3"	Name="Volleyball 3"	PromptU="Volleyball 3"	Prompt="Volleyball 3"/>
+     <Elem NameU="Volleyball 4"	Name="Volleyball 4"	PromptU="Volleyball 4"	Prompt="Volleyball 4"/>
+     <Elem NameU="Volleyball 5"	Name="Volleyball 5"	PromptU="Volleyball 5"	Prompt="Volleyball 5"/>
+     <Elem NameU="Rugby 1"	Name="Rugby 1"	PromptU="Rugby 1"	Prompt="Rugby 1"/>
+     <Elem NameU="Rugby 2"	Name="Rugby 2"	PromptU="Rugby 2"	Prompt="Rugby 2"/>
+     <Elem NameU="Rugby 3"	Name="Rugby 3"	PromptU="Rugby 3"	Prompt="Rugby 3"/>
+     <Elem NameU="Baseball 1"	Name="Baseball 1"	PromptU="Baseball 1"	Prompt="Baseball 1"/>
+     <Elem NameU="Baseball 2"	Name="Baseball 2"	PromptU="Baseball 2"	Prompt="Baseball 2"/>
+     <Elem NameU="Baseball 3"	Name="Baseball 3"	PromptU="Baseball 3"	Prompt="Baseball 3"/>
+     <Elem NameU="Hockey 1"	Name="Eishockey 1"	PromptU="Hockey 1"	Prompt="Eishockey 1"/>
+     <Elem NameU="Hockey 2"	Name="Eishockey 2"	PromptU="Hockey 2"	Prompt="Eishockey 2"/>
+     <Elem NameU="Hockey 3"	Name="Eishockey 3"	PromptU="Hockey 3"	Prompt="Eishockey 3"/>
+     <Elem NameU="Bowling 1"	Name="Bowling 1"	PromptU="Bowling 1"	Prompt="Bowling 1"/>
+     <Elem NameU="Bowling 2"	Name="Bowling 2"	PromptU="Bowling 2"	Prompt="Bowling 2"/>
+     <Elem NameU="Skating 1"	Name="Schlittschuhlaufen 1"	PromptU="Skating 1"	Prompt="Schlittschuhlaufen 1"/>
+     <Elem NameU="Skating 2"	Name="Schlittschuhlaufen 2"	PromptU="Skating 2"	Prompt="Schlittschuhlaufen 2"/>
+     <Elem NameU="Skating 3"	Name="Schlittschuhlaufen 3"	PromptU="Skating 3"	Prompt="Schlittschuhlaufen 3"/>
+     <Elem NameU="Skiing 1"	Name="Skifahren 1"	PromptU="Skiing 1"	Prompt="Skifahren 1"/>
+     <Elem NameU="Skiing 2"	Name="Skifahren 2"	PromptU="Skiing 2"	Prompt="Skifahren 2"/>
+     <Elem NameU="Skiing 3"	Name="Skifahren 3"	PromptU="Skiing 3"	Prompt="Skifahren 3"/>
+     <Elem NameU="Jogging 1"	Name="Jogging 1"	PromptU="Jogging 1"	Prompt="Jogging 1"/>
+     <Elem NameU="Jogging 2"	Name="Jogging 2"	PromptU="Jogging 2"	Prompt="Jogging 2"/>
+     <Elem NameU="Running on Treadmill 1"	Name="Lauf auf Laufband 1"	PromptU="Running on Treadmill 1"	Prompt="Lauf auf Laufband 1"/>
+     <Elem NameU="Swimming"	Name="Schwimmen"	PromptU="Swimming"	Prompt="Schwimmen"/>
+     <Elem NameU="Running on Treadmill 2"	Name="Lauf auf Laufband 2"	PromptU="Running on Treadmill 2"	Prompt="Lauf auf Laufband 2"/>
+     <Elem NameU="Climbing"	Name="Klettern"	PromptU="Climbing"	Prompt="Klettern"/>
+     <Elem NameU="Yoga 1"	Name="Yoga 1"	PromptU="Yoga 1"	Prompt="Yoga 1"/>
+     <Elem NameU="Cycling"	Name="Radfahren"	PromptU="Cycling"	Prompt="Radfahren"/>
+     <Elem NameU="Yoga 2"	Name="Yoga 2"	PromptU="Yoga 2"	Prompt="Yoga 2"/>
+     <Elem NameU="Yoga 3"	Name="Yoga 3"	PromptU="Yoga 3"	Prompt="Yoga 3"/>
+     <Elem NameU="Yoga 4"	Name="Yoga 4"	PromptU="Yoga 4"	Prompt="Yoga 4"/>
+     <Elem NameU="Pole Vaulting"	Name="Pole Vaulting"	PromptU="Pole Vaulting"	Prompt="Pole Vaulting"/>
+     <Elem NameU="High Jump"	Name="Hochsprung"	PromptU="High Jump"	Prompt="Hochsprung"/>
+     <Elem NameU="Long Jump 1"	Name="Lange Sprung 1"	PromptU="Long Jump 1"	Prompt="Lange Sprung 1"/>
+     <Elem NameU="Long Jump 2"	Name="Lange Sprung 2"	PromptU="Long Jump 2"	Prompt="Lange Sprung 2"/>
+     <Elem NameU="Taekwondo 1"	Name="Taekwondo 1"	PromptU="Taekwondo 1"	Prompt="Taekwondo 1"/>
+     <Elem NameU="Taekwondo 2"	Name="Taekwondo 2"	PromptU="Taekwondo 2"	Prompt="Taekwondo 2"/>
+     <Elem NameU="Fencing"	Name="Fechten"	PromptU="Fencing"	Prompt="Fechten"/>
+     <Elem NameU="Pommel Horse 2"	Name="Pommel Pferd 2"	PromptU="Pommel Horse 2"	Prompt="Pommel Pferd 2"/>
+     <Elem NameU="Pommel Horse 1"	Name="Pommel Pferd 1"	PromptU="Pommel Horse 1"	Prompt="Pommel Pferd 1"/>
+     <Elem NameU="Vaulting Horse"	Name="Vaulting Pferd"	PromptU="Vaulting Horse"	Prompt="Vaulting Pferd"/>
+     <Elem NameU="Drinking Water"	Name="Trinkwasser"	PromptU="Drinking Water"	Prompt="Trinkwasser"/>
+
+</Lib>

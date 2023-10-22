@@ -1,0 +1,28 @@
+﻿<Gallery NameU= "Mind Map" Name= "Mind Map" Version= "1.0" Help= "create-mind-map.php" Description= "Create mind maps (graphical representations of thought processes) for brainstorming, problem solving, rational analysis, and decision marking.">
+    <Template NameU= "Radial Map" Name= "Radial Map" Layout= "8" Theme= "1" DarkTheme= "9" Icon= "./radial_map.bmp" Description= "Create mind maps to represent ideas and concepts.">
+    </Template>
+
+    <Template NameU= "Right Map" Name= "Right Map" Layout= "6" Theme= "1" DarkTheme= "9" Icon= "./right_map.bmp" Description= "Create mind maps with right hierarchical layout.">
+    </Template>
+
+    <Template NameU= "Tree Map" Name= "Tree Map" Layout= "3" Theme= "1" DarkTheme= "9" Icon= "./tree_map.bmp" Description= "Tree map is ideal for displaying large amounts of hierarchically structured information.">
+    </Template>
+
+    <Template NameU= "Org-Chart Map" Name= "Org-Chart Map" Layout= "2" Theme= "202" DarkTheme= "203" Icon= "./org_map.bmp" Description= "Organizational chart shows the structure of an organization and the relationships and relative ranks of its parts and positions.">
+    </Template>
+
+    <Template NameU= "Fish Bone Right" Name= "Fish Bone Right" Layout= "24" Theme= "1" DarkTheme= "3" Icon= "./right_fishbone.bmp" Description= "Create fishbone diagram with right layout.">
+    </Template>
+
+    <Template NameU= "Fish Bone Left" Name= "Fish Bone Left" Layout= "23" Theme= "1" DarkTheme= "3" Icon= "./left_fishbone.bmp" Description= "Create fishbone diagram with left layout.">
+    </Template>
+
+    <Template NameU= "Horizontal Timeline" Name= "Horizontal Timeline" Layout= "17" Theme= "1" DarkTheme= "9" Icon= "./line_horizontal.bmp" Description= "Create horizontal timeline.">
+    </Template>
+
+    <Template NameU= "Winding Timeline" Name= "Winding Timeline" Layout= "18" Theme= "1" DarkTheme= "9" Icon= "./line_turn.bmp" Description= "Create S type timeline.">
+    </Template>
+
+    <Template NameU= "Vertical Timeline" Name= "Vertical Timeline" Layout= "19" Theme= "1" DarkTheme= "9" Icon= "./line_vertical.bmp" Description= "Create vertical timeline.">
+    </Template>
+</Gallery>

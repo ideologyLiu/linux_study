@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Terricole">
+     <Elem NameU="Dog"	Name= "Hund"	PromptU="Dog"	Prompt= "Hund"/>
+     <Elem NameU="Rabbit"	Name= "Kaninchen"	PromptU="Rabbit"	Prompt= "Kaninchen"/>
+     <Elem NameU="Cat"	Name= "Katze"	PromptU="Cat"	Prompt= "Katze"/>
+     <Elem NameU="Red-crowned Crane"	Name= "Rot-gekrönter Kran"	PromptU="Red-crowned Crane"	Prompt= "Rot-gekrönter Kran"/>
+     <Elem NameU="Giraffe 1"	Name= "Giraffe 1"	PromptU="Giraffe 1"	Prompt= "Giraffe 1"/>
+     <Elem NameU="Giraffe 2"	Name= "Giraffe 2"	PromptU="Giraffe 2"	Prompt= "Giraffe 2"/>
+     <Elem NameU="Cock"	Name= "Hahn"	PromptU="Cock"	Prompt= "Hahn"/>
+     <Elem NameU="Sheep"	Name= "Schaf"	PromptU="Sheep"	Prompt= "Schaf"/>
+     <Elem NameU="Cow"	Name= "Kuh"	PromptU="Cow"	Prompt= "Kuh"/>
+     <Elem NameU="Squirrel"	Name= "Eichhörnchen"	PromptU="Squirrel"	Prompt= "Eichhörnchen"/>
+     <Elem NameU="Tortoise"	Name= "Schildkröte"	PromptU="Tortoise"	Prompt= "Schildkröte"/>
+     <Elem NameU="Mouse"	Name= "Maus"	PromptU="Mouse"	Prompt= "Maus"/>
+     <Elem NameU="Duck"	Name= "Ente"	PromptU="Duck"	Prompt= "Ente"/>
+     <Elem NameU="Pigeon"	Name= "Taube"	PromptU="Pigeon"	Prompt= "Taube"/>
+     <Elem NameU="Peace Dove"	Name= "Friedenstaube"	PromptU="Peace Dove"	Prompt= "Friedenstaube"/>
+     <Elem NameU="Panda"	Name= "Panda"	PromptU="Panda"	Prompt= "Panda"/>
+     <Elem NameU="Snake"	Name= "Schlange"	PromptU="Snake"	Prompt= "Schlange"/>
+     <Elem NameU="Elephant"	Name= "Elefant"	PromptU="Elephant"	Prompt= "Elefant"/>
+     <Elem NameU="Koala"	Name= "Koala"	PromptU="Koala"	Prompt= "Koala"/>
+     <Elem NameU="Horse"	Name= "Pferd"	PromptU="Horse"	Prompt= "Pferd"/>
+     <Elem NameU="Camel"	Name= "Kamel"	PromptU="Camel"	Prompt= "Kamel"/>
+     <Elem NameU="Pig"	Name= "Schwein"	PromptU="Pig"	Prompt= "Schwein"/>
+     <Elem NameU="Sika Deer"	Name= "Sika Hirsch"	PromptU="Sika Deer"	Prompt= "Sika Hirsch"/>
+     <Elem NameU="Snail"	Name= "Schnecke"	PromptU="Snail"	Prompt= "Schnecke"/>
+     <Elem NameU="Gecko"	Name= "Gecko"	PromptU="Gecko"	Prompt= "Gecko"/>
+     <Elem NameU="Frog"	Name= "Frosch"	PromptU="Frog"	Prompt= "Frosch"/>
+     <Elem NameU="Toad"	Name= "Kröte"	PromptU="Toad"	Prompt= "Kröte"/>
+     <Elem NameU="Parrot"	Name= "Papagei"	PromptU="Parrot"	Prompt= "Papagei"/>
+     <Elem NameU="Rhinoceros"	Name= "Nashorn"	PromptU="Rhinoceros"	Prompt= "Nashorn"/>
+     <Elem NameU="Bat"	Name= "Fledermaus"	PromptU="Bat"	Prompt= "Fledermaus"/>
+     <Elem NameU="Lizard"	Name= "Eidechse"	PromptU="Lizard"	Prompt= "Eidechse"/>
+     <Elem NameU="Leopard"	Name= "Leopard"	PromptU="Leopard"	Prompt= "Leopard"/>
+     <Elem NameU="Female Rhinocero 1"	Name= "Weiblicher Rhinocero 1"	PromptU="Female Rhinocero 1"	Prompt= "Weiblicher Rhinocero 1"/>
+     <Elem NameU="Female Rhinocero 2"	Name= "Weiblicher Rhinocero 2"	PromptU="Female Rhinocero 2"	Prompt= "Weiblicher Rhinocero 2"/>
+     <Elem NameU="Polar bear 1"	Name= "Eisbär 1"	PromptU="Polar bear 1"	Prompt= "Eisbär 1"/>
+     <Elem NameU="Polar bear 2"	Name= "Eisbär 2"	PromptU="Polar bear 2"	Prompt= "Eisbär 2"/>
+     <Elem NameU="Polar bear 3"	Name= "Eisbär 3"	PromptU="Polar bear 3"	Prompt= "Eisbär 3"/>
+     <Elem NameU="Elephant 1"	Name= "Elefant 1"	PromptU="Elephant 1"	Prompt= "Elefant 1"/>
+     <Elem NameU="Elephant 2"	Name= "Elefant 2"	PromptU="Elephant 2"	Prompt= "Elefant 2"/>
+     <Elem NameU="Crocodile 1"	Name= "Krokodil 1"	PromptU="Crocodile 1"	Prompt= "Krokodil 1"/>
+     <Elem NameU="Crocodile 2"	Name= "Krokodil 2"	PromptU="Crocodile 2"	Prompt= "Krokodil 2"/>
+     <Elem NameU="Tyrannosaurus"	Name= "Tyrannosaurus"	PromptU="Tyrannosaurus"	Prompt= "Tyrannosaurus"/>
+     <Elem NameU="Stegosaurus"	Name= "Stegosaurus"	PromptU="Stegosaurus"	Prompt= "Stegosaurus"/>
+
+</Lib>

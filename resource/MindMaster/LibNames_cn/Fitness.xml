@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bedroom">
+    <Elem NameU="Running on Treadmill 1" PromptU="Running on Treadmill 1" Prompt="在跑步机上跑步1" Name="在跑步机上跑步1"/>
+	<Elem NameU="Running on Treadmill 2" PromptU="Running on Treadmill 2" Prompt="在跑步机上跑步2" Name="在跑步机上跑步2"/>
+    <Elem NameU="Fitness Man" PromptU="Fitness Man" Prompt="健身的人" Name="健身的人"/>
+	<Elem NameU="Yoga 1" PromptU="Yoga 1" Prompt="瑜伽1" Name="瑜伽1"/>
+	<Elem NameU="Yoga 2" PromptU="Yoga 2" Prompt="瑜伽2" Name="瑜伽2"/>
+	<Elem NameU="Yoga 3" PromptU="Yoga 3" Prompt="瑜伽3" Name="瑜伽3"/>
+	<Elem NameU="Yoga 4" PromptU="Yoga 4" Prompt="瑜伽4" Name="瑜伽4"/>
+	<Elem NameU="Exercise Bike" PromptU="Exercise Bike" Prompt="室内健身自行车" Name="室内健身自行车"/>
+	<Elem NameU="Outdoor Fitness Equipment" PromptU="Outdoor Fitness Equipment" Prompt="户外健身设备" Name="户外健身设备"/>
+	<Elem NameU="Outdoor Rings" PromptU="Outdoor Rings" Prompt="户外吊环" Name="户外吊环"/>
+	<Elem NameU="Gym Bag 1" PromptU="Gym Bag 1" Prompt="健身包1" Name="健身包1"/>
+	<Elem NameU="Gym Bag 2" PromptU="Gym Bag 2" Prompt="健身包2" Name="健身包2"/>
+	<Elem NameU="Fitness With Short Sleeves" PromptU="Fitness With Short Sleeves" Prompt="短袖健身衣" Name="短袖健身衣"/>
+	<Elem NameU="Gym Shorts" PromptU="Gym Shorts" Prompt="健身短裤" Name="健身短裤"/>
+	<Elem NameU="Fitness Coat" PromptU="Fitness Coat" Prompt="健身外套" Name="健身外套"/>
+	<Elem NameU="Fitness Vest" PromptU="Fitness Vest" Prompt="健身背心" Name="健身背心"/>
+	<Elem NameU="Fitness Short Skirt" PromptU="Fitness Short Skirt" Prompt="健身短裙" Name="健身短裙"/>
+	<Elem NameU="Fitness Hat" PromptU="Fitness Hat" Prompt="健身帽" Name="健身帽"/>
+	<Elem NameU="Dumbbell" PromptU="Dumbbell" Prompt="哑铃" Name="哑铃"/>
+	<Elem NameU="Dumbbell" PromptU="Dumbbell" Prompt="哑铃" Name="哑铃"/>
+	<Elem NameU="Small Dumbbell" PromptU="Small Dumbbell" Prompt="小哑铃" Name="小哑铃"/>
+	<Elem NameU="Bathroom Scale" PromptU="Bathroom Scale" Prompt="体重磅秤" Name="体重磅秤"/>
+	<Elem NameU="Fitness Schedule" PromptU="Fitness Schedule" Prompt="健身计划" Name="健身计划"/>
+	<Elem NameU="Tape Measure" PromptU="Tape Measure" Prompt="皮尺" Name="皮尺"/>
+	<Elem NameU="Stopwatch" PromptU="Stopwatch" Prompt="秒表" Name="秒表"/>
+	<Elem NameU="Sports Shoes" PromptU="Sports Shoes" Prompt="运动鞋" Name="运动鞋"/>
+	<Elem NameU="Towel" PromptU="Towel" Prompt="毛巾" Name="毛巾"/>
+	<Elem NameU="Fitness Gloves" PromptU="Fitness Gloves" Prompt="健身手套" Name="健身手套"/>
+	<Elem NameU="Fitness Kettle" PromptU="Fitness Kettle" Prompt="运动水壶" Name="运动水壶"/>
+	<Elem NameU="Health Drink" PromptU="Health Drink" Prompt="保健饮料" Name="保健饮料"/>
+	<Elem NameU="Care Of Soda" PromptU="Care Of Soda" Prompt="保健汽水" Name="保健汽水"/>
+	<Elem NameU="Fitball" PromptU="Fitball" Prompt="健身球" Name="健身球"/>
+	<Elem NameU="Tubing" PromptU="Tubing" Prompt="拉力器" Name="拉力器"/>
+	<Elem NameU="Hula Hoop" PromptU="Hula Hoop" Prompt="呼啦圈" Name="呼啦圈"/>
+	<Elem NameU="Skipping Rope" PromptU="Skipping Rope" Prompt="跳绳" Name="跳绳"/>
+	<Elem NameU="Yoga Mat" PromptU="Yoga Mat" Prompt="瑜伽垫" Name="瑜伽垫"/>	
+</Lib>

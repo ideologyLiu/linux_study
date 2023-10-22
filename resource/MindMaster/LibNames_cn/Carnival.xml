@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Carnival">
+    <Elem NameU="Masquerade Mask 1" Name="化妆舞会面具 1" PromptU="Masquerade Mask 1" Prompt="化妆舞会面具 1"/>
+    <Elem NameU="Masquerade Mask 2" Name="化妆舞会面具 2" PromptU="Masquerade Mask 2" Prompt="化妆舞会面具 2"/>
+    <Elem NameU="Masquerade Mask 3" Name="化妆舞会面具 3" PromptU="Masquerade Mask 3" Prompt="化妆舞会面具 3"/>
+    <Elem NameU="Masquerade Mask 4" Name="化妆舞会面具 4" PromptU="Masquerade Mask 4" Prompt="化妆舞会面具 4"/>
+    <Elem NameU="Masquerade Mask 5" Name="化妆舞会面具 5" PromptU="Masquerade Mask 5" Prompt="化妆舞会面具 5"/>
+    <Elem NameU="Masquerade Mask 6" Name="化妆舞会面具 6" PromptU="Masquerade Mask 6" Prompt="化妆舞会面具 6"/>
+    <Elem NameU="Mask 1" Name="面具 1" PromptU="Mask 1" Prompt="面具 1"/>
+    <Elem NameU="Mask 2" Name="面具 2" PromptU="Mask 2" Prompt="面具 2"/>
+    <Elem NameU="Mask 3" Name="面具 3" PromptU="Mask 3" Prompt="面具 3"/>
+    <Elem NameU="Mask 4" Name="面具 4" PromptU="Mask 4" Prompt="面具 4"/>
+    <Elem NameU="Mask 5" Name="面具 5" PromptU="Mask 5" Prompt="面具 5"/>
+    <Elem NameU="Mask 6" Name="面具 6" PromptU="Mask 6" Prompt="面具 6"/>
+    <Elem NameU="Mask 7" Name="面具 7" PromptU="Mask 7" Prompt="面具 7"/>
+    <Elem NameU="People in Costume 1" Name="服饰潮人 1" PromptU="People in Costume 1" Prompt="服饰潮人 1"/>
+    <Elem NameU="People in Costume 2" Name="服饰潮人 2" PromptU="People in Costume 2" Prompt="服饰潮人 2"/>
+    <Elem NameU="People in Costume 3" Name="服饰潮人 3" PromptU="People in Costume 3" Prompt="服饰潮人 3"/>
+    <Elem NameU="Parade Float 1" Name="游行花车 1" PromptU="Parade Float 1" Prompt="游行花车 1"/>
+    <Elem NameU="Parade Float 2" Name="游行花车 2" PromptU="Parade Float 2" Prompt="游行花车 2"/>
+    <Elem NameU="Parade Float 3" Name="游行花车 3" PromptU="Parade Float 3" Prompt="游行花车 3"/>
+</Lib>

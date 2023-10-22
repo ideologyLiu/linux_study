@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Sport Elements">
+    <Elem NameU="Tennis racket" PromptU="Tennis racket" Name="网球拍" Prompt="网球拍"/>
+	<Elem NameU="Badminton racket" PromptU="Badminton racket" Name="羽毛球拍" Prompt="羽毛球拍"/>
+	<Elem NameU="Table tennis bat" PromptU="Table tennis bat" Name="乒乓球拍" Prompt="乒乓球拍"/>
+	<Elem NameU="Racquet-ball Racket" PromptU="Racquet-ball Racket" Name="壁球球拍" Prompt="壁球球拍"/>
+	<Elem NameU="Hockey stick" PromptU="Hockey stick" Name="曲棍球棒" Prompt="曲棍球棒"/>
+	<Elem NameU="Curling broom" PromptU="Curling broom" Name="冰壶杆" Prompt="冰壶杆"/>
+	<Elem NameU="Curling broom" PromptU="Curling broom" Name="冰壶杆" Prompt="冰壶杆"/>
+	<Elem NameU="Golf clubs 1" PromptU="Golf clubs 1" Name="高尔夫球杆1" Prompt="高尔夫球杆1"/>
+	<Elem NameU="Golf clubs 2" PromptU="Golf clubs 2" Name="高尔夫球杆2" Prompt="高尔夫球杆2"/>
+	<Elem NameU="Schon cue" PromptU="Schon cue" Name="杆台球杆" Prompt="杆台球杆"/>
+	<Elem NameU="Baseball bat 1" PromptU="Baseball bat 1" Name="棒球棒1" Prompt="棒球棒1"/>
+	<Elem NameU="Baseball bat 2" PromptU="Baseball bat 2" Name="棒球棒2" Prompt="棒球棒2"/>
+	<Elem NameU="Fencing" PromptU="Fencing" Name="击剑" Prompt="击剑"/>
+	<Elem NameU="Cricket bat" PromptU="Cricket bat" Name="板球棒" Prompt="板球棒"/>
+	<Elem NameU="Cricket" PromptU="Cricket" Name="板球" Prompt="板球"/>
+	<Elem NameU="Tennis" PromptU="Tennis" Name="网球" Prompt="网球"/>
+	<Elem NameU="Baseball" PromptU="Baseball" Name="棒球" Prompt="棒球"/>
+	<Elem NameU="Squash 1" PromptU="Squash 1" Name="壁球1" Prompt="壁球1"/>
+	<Elem NameU="Squash 2" PromptU="Squash 2" Name="壁球2" Prompt="壁球2"/>
+	<Elem NameU="Hockey ball" PromptU="Hockey ball" Name="曲棍球" Prompt="曲棍球"/>
+	<Elem NameU="Baseball" PromptU="Baseball" Name="棒球" Prompt="棒球"/>
+	<Elem NameU="Badminton" PromptU="Badminton" Name="羽毛球" Prompt="羽毛球"/>
+	<Elem NameU="Football" PromptU="Football" Name="足球" Prompt="足球"/>
+	<Elem NameU="Basketball" PromptU="Basketball" Name="篮球" Prompt="篮球"/>
+	<Elem NameU="Volleyball" PromptU="Volleyball" Name="排球" Prompt="排球"/>
+	<Elem NameU="Rugby 1" PromptU="Rugby 1" Name="橄榄球1" Prompt="橄榄球1"/>
+	<Elem NameU="Rugby 2" PromptU="Rugby 2" Name="橄榄球2" Prompt="橄榄球2"/>
+	<Elem NameU="Curling" PromptU="Curling" Name="冰壶" Prompt="冰壶"/>
+	<Elem NameU="Bowling pin" PromptU="Bowling pin" Name="保龄瓶" Prompt="保龄瓶"/>
+	<Elem NameU="Bowling" PromptU="Bowling" Name="保龄" Prompt="保龄"/>
+	<Elem NameU="Billiard Balls 1" PromptU="Billiard Balls 1" Name="普尔1" Prompt="普尔1"/>
+	<Elem NameU="Billiard Balls 2" PromptU="Billiard Balls 2" Name="普尔2" Prompt="普尔2"/>
+	<Elem NameU="Cue Sports 1" PromptU="Cue Sports 1" Name="撞球1" Prompt="撞球1"/>
+	<Elem NameU="Cue Sports 2" PromptU="Cue Sports 2" Name="撞球2" Prompt="撞球2"/>
+	<Elem NameU="Shuttlecock" PromptU="Shuttlecock" Name="毽子" Prompt="毽子"/>
+	<Elem NameU="Helmet" PromptU="Helmet" Name="头盔" Prompt="头盔"/>
+	<Elem NameU="Skating shoes" PromptU="Skating shoes" Name="滑冰鞋" Prompt="滑冰鞋"/>
+	<Elem NameU="Skis stick" PromptU="Skis stick" Name="滑雪杖" Prompt="滑雪杖"/>
+	<Elem NameU="Skis board" PromptU="Skis board" Name="滑雪板" Prompt="滑雪板"/>
+	<Elem NameU="Boxing glove" PromptU="Boxing glove" Name="拳击手套" Prompt="拳击手套"/>
+	<Elem NameU="Goal" PromptU="Goal" Name="球门" Prompt="球门"/>
+	<Elem NameU="Whistle" PromptU="Whistle" Name="口哨" Prompt="口哨"/>
+	<Elem NameU="Small Flags" PromptU="Small Flags" Name="小旗帜" Prompt="小旗帜"/>
+	<Elem NameU="Trumpet" PromptU="Trimpet" Name="喇叭" Prompt="喇叭"/>
+	<Elem NameU="Bow And Arrow" PromptU="Bow And Arrow" Name="弓箭" Prompt="弓箭"/>
+	<Elem NameU="Medals" PromptU="Medals" Name="奖牌" Prompt="奖牌"/>
+	<Elem NameU="Trophies 1" PromptU="Trophies 1" Name="奖杯1" Prompt="奖杯1"/>
+	<Elem NameU="Trophies 2" PromptU="Trophies 2" Name="奖杯2" Prompt="奖杯2"/>
+	<Elem NameU="Life Buoy" PromptU="Life Buoy" Name="救生圈" Prompt="救生圈"/>
+	<Elem NameU="Submersible" PromptU="Submersible" Name="潜水器" Prompt="潜水器"/>
+	<Elem NameU="Fins" PromptU="Fins" Name="脚蹼" Prompt="脚蹼"/>
+	<Elem NameU="Swimming Glasses" PromptU="Swimming Glasses" Name="游泳镜" Prompt="游泳镜"/>
+	<Elem NameU="Backboard 1" PromptU="Backboard 1" Name="篮板1" Prompt="篮板1"/>
+	<Elem NameU="Backboard 2" PromptU="Backboard 2" Name="篮板1" Prompt="篮板2"/>
+</Lib>

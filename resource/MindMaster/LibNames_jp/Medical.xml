@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Medical">
+    <Elem Prompt="女性" Name="女性" PromptU="Woman" NameU="Woman"/>
+    <Elem Prompt="男性" Name="男性" PromptU="Man" NameU="Man"/>
+    <Elem Prompt="分子モデル図" Name="分子モデル図" PromptU="Molecular Structure" NameU="Molecular Structure"/>
+    <Elem Prompt="大脳" Name="大脳" PromptU="Cerebrum" NameU="Cerebrum"/>
+    <Elem Prompt="心臓" Name="心臓" PromptU="Heart" NameU="Heart"/>
+    <Elem Prompt="DNA" Name="DNA" PromptU="DNA" NameU="DNA"/>
+    <Elem Prompt="心電図" Name="心電図" PromptU="Electrocardiogram" NameU="Electrocardiogram"/>
+    <Elem Prompt="胎児" Name="胎児" PromptU="Baby" NameU="Baby"/>
+    <Elem Prompt="家族" Name="家族" PromptU="Family" NameU="Family"/>
+    <Elem Prompt="分析" Name="分析" PromptU="Analysis" NameU="Analysis"/>
+    <Elem Prompt="報告書" Name="報告書" PromptU="Report" NameU="Report"/>
+    <Elem Prompt="救急車" Name="救急車" PromptU="Ambulance" NameU="Ambulance"/>
+    <Elem Prompt="救急箱" Name="救急箱" PromptU="Medical box" NameU="Medical box"/>
+    <Elem Prompt="人工呼吸器" Name="人工呼吸器" PromptU="Respirator" NameU="Respirator"/>
+    <Elem Prompt="聴診器" Name="聴診器" PromptU="Stethoscope" NameU="Stethoscope"/>
+    <Elem Prompt="赤十字心" Name="赤十字心" PromptU="Heart with Cross" NameU="Heart with Cross"/>
+    <Elem Prompt="ピル" Name="ピル" PromptU="Pill" NameU="Pill"/>
+    <Elem Prompt="カプセル" Name="カプセル" PromptU="Capsule" NameU="Capsule"/>
+    <Elem Prompt="病院" Name="病院" PromptU="Hospital" NameU="Hospital"/>
+    <Elem Prompt="顕微鏡" Name="顕微鏡" PromptU="Microscope" NameU="Microscope"/>
+    <Elem Prompt="体温計" Name="体温計" PromptU="Thermometer" NameU="Thermometer"/>
+    <Elem Prompt="試験" Name="試験" PromptU="Test" NameU="Test"/>
+    <Elem Prompt="試験 2" Name="試験 2" PromptU="Test 2" NameU="Test 2"/>
+    <Elem Prompt="リハビリ設備" Name="リハビリ設備" PromptU="Rehabilitation Equipment" NameU="Rehabilitation Equipment"/>
+    <Elem Prompt="杖 1" Name="杖　1" PromptU="Walking Stick" NameU="Walking Stick"/>
+    <Elem Prompt="杖 2" Name="杖 2" PromptU="Walking Stick 2" NameU="Walking Stick 2"/>
+    <Elem Prompt="車椅子" Name="車椅子" PromptU="Wheelchair" NameU="Wheelchair"/>
+    <Elem Prompt="リハビリ設備" Name="リハビリ設備" PromptU="Rehab Equipment" NameU="Rehab Equipment"/>
+    <Elem Prompt="リハビリ機器 1" Name="リハビリ機器 1" PromptU="Rehab Equipment 1" NameU="Rehab Equipment 1"/>
+    <Elem Prompt="リハビリ機器 2" Name="リハビリ機器 2" PromptU="Rehab Equipment 2" NameU="Rehab Equipment 2"/>
+    <Elem Prompt="リハビリ機器 3" Name="リハビリ機器 3" PromptU="Rehab Equipment 3" NameU="Rehab Equipment 3"/>
+    <Elem Prompt="リハビリ機器 4" Name="リハビリ機器 4" PromptU="Rehab Equipment 4" NameU="Rehab Equipment 4"/>
+    <Elem Prompt="病床 1" Name="病床 1" PromptU="Hospital Bed 1" NameU="Hospital Bed 1"/>
+    <Elem Prompt="病床 2" Name="病床 2" PromptU="Hospital Bed 2" NameU="Hospital Bed 2"/>
+    <Elem Prompt="病床 3" Name="病床 3" PromptU="Hospital Bed 3" NameU="Hospital Bed 3"/>
+    <Elem Prompt="手術台" Name="手術台" PromptU="Operating table" NameU="Operating table"/>
+    <Elem Prompt="体重計" Name="体重計" PromptU="Scale" NameU="Scale"/>
+    <Elem Prompt="危険物質" Name="危険物質" PromptU="Hazard Warning Sign" NameU="Hazard Warning Sign"/>
+    <Elem Prompt="ハンディキャップ標識" Name="ハンディキャップ標識" PromptU="Handicap Sign" NameU="Handicap Sign"/>
+    <Elem Prompt="プラスチック製輸液バッグ" Name="プラスチック製輸液バッグ" PromptU="Plastic Infusion Bag" NameU="Plastic Infusion Bag"/>
+    <Elem Prompt="ナースキャップ" Name="ナースキャップ" PromptU="Nurse Cap" NameU="Nurse Cap"/>
+    <Elem Prompt="注射器" Name="注射器" PromptU="Injector" NameU="Injector"/>
+    <Elem Prompt="歯" Name="歯" PromptU="Tooth" NameU="Tooth"/>
+    <Elem Prompt="肝" Name="肝" PromptU="Liver" NameU="Liver"/>
+    <Elem Prompt="肺" Name="肺" PromptU="Lung" NameU="Lung"/>
+    <Elem Prompt="胃" Name="胃" PromptU="Stomach" NameU="Stomach"/>
+    <Elem Prompt="脾臓" Name="脾臓" PromptU="Spleen" NameU="Spleen"/>
+    <Elem Prompt="耳" Name="耳" PromptU="Ear" NameU="Ear"/>
+    <Elem Prompt="腸" Name="腸" PromptU="Intestines" NameU="Intestines"/>
+    <Elem Prompt="X線フィルム 1" Name="X線フィルム　1" PromptU="X-ray Film" NameU="X-ray Film"/>
+    <Elem Prompt="X線フィルム 2" Name="X線フィルム 2" PromptU="X-ray Film (Broken Bone)" NameU="X-ray Film (Broken Bone)"/>
+    <Elem Prompt="医者" Name="医者" PromptU="Doctor" NameU="Doctor"/>
+    <Elem Prompt="看護師" Name="看護師" PromptU="Nurse" NameU="Nurse"/>
+    <Elem Prompt="ピル" Name="ピル" PromptU="Pills" NameU="Pills"/>
+    <Elem Prompt="薬瓶" Name="薬瓶" PromptU="Medicine Bottle" NameU="Medicine Bottle"/>
+    <Elem Prompt="ウイルス 1" Name="ウイルス 1" PromptU="Virus 1" NameU="Virus 1"/>
+    <Elem Prompt="ウイルス 2" Name="ウイルス 2" PromptU="Virus 2" NameU="Virus 2"/>
+    <Elem Prompt="ハート型心電図 (ecg)" Name="ハート型心電図 (ecg)" PromptU="Heart-shaped electrocardiogram (ecg)" NameU="Heart-shaped electrocardiogram (ecg)"/>
+    <Elem Prompt="飲酒" Name="飲酒" PromptU="Drinking" NameU="Drinking"/>
+</Lib>

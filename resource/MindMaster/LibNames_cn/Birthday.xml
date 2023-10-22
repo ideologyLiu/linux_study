@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Birthday">
+    <Elem NameU="Lollipop 1" Name="棒棒糖 1" PromptU="Lollipop 1" Prompt="棒棒糖 1"/>
+    <Elem NameU="Lollipop 2" Name="棒棒糖 2" PromptU="Lollipop 2" Prompt="棒棒糖 2"/>
+    <Elem NameU="Lollipop 3" Name="棒棒糖 3" PromptU="Lollipop 3" Prompt="棒棒糖 3"/>
+    <Elem NameU="Balloon 1" Name="气球 1" PromptU="Balloon 1" Prompt="气球 1"/>
+    <Elem NameU="Balloon 2" Name="气球 2" PromptU="Balloon 2" Prompt="气球 2"/>
+    <Elem NameU="Balloon 3" Name="气球 3" PromptU="Balloon 3" Prompt="气球 3"/>
+    <Elem NameU="Star balloons 1" Name="星形气球 1" PromptU="Star balloons 1" Prompt="星形气球 1"/>
+    <Elem NameU="Star balloons 2" Name="星形气球 2" PromptU="Star balloons 2" Prompt="星形气球 2"/>
+    <Elem NameU="Star balloons 3" Name="星形气球 3" PromptU="Star balloons 3" Prompt="星形气球 3"/>
+    <Elem NameU="Birthday hat 1" Name="生日帽 1" PromptU="Birthday hat 1" Prompt="生日帽  1"/>
+    <Elem NameU="Birthday hat 2" Name="生日帽 2" PromptU="Birthday hat 2" Prompt="生日帽  2"/>
+    <Elem NameU="Birthday hat 3" Name="生日帽 3" PromptU="Birthday hat 3" Prompt="生日帽  3"/>
+    <Elem NameU="Birthday hat 4" Name="生日帽 4" PromptU="Birthday hat 4" Prompt="生日帽  4"/>
+    <Elem NameU="Glasses frame 1" Name="哈利波特眼镜 1" PromptU="Glasses frame 1" Prompt="哈利波特眼镜 1"/>
+    <Elem NameU="Glasses frame 2" Name="哈利波特眼镜 2" PromptU="Glasses frame 2" Prompt="哈利波特眼镜 2"/>
+    <Elem NameU="Candle" Name="蜡烛" PromptU="Candle" Prompt="蜡烛"/>
+    <Elem NameU="Magic wand" Name="魔杖" PromptU="Magic wand" Prompt="魔杖"/>
+    <Elem NameU="Beard" Name="胡须" PromptU="Beard" Prompt="胡须"/>
+    <Elem NameU="Gift box 1" Name="礼物盒 1" PromptU="Gift box 1" Prompt="礼物盒 1"/>
+    <Elem NameU="Gift box 2" Name="礼物盒 2" PromptU="Gift box 2" Prompt="礼物盒 2"/>
+    <Elem NameU="Cake 1" Name="蛋糕 1" PromptU="Cake 1" Prompt="蛋糕 1"/>
+    <Elem NameU="Cake 2" Name="蛋糕 2" PromptU="Cake 2" Prompt="蛋糕 2"/>
+    <Elem NameU="Cake 3" Name="蛋糕 3" PromptU="Cake 3" Prompt="蛋糕 3"/>
+    <Elem NameU="Cake 5" Name="蛋糕 5" PromptU="Cake 5" Prompt="蛋糕 5"/>
+    <Elem NameU="Candy" Name="糖果" PromptU="Candy" Prompt="糖果"/>
+    <Elem NameU="Peach" Name="寿桃" PromptU="Peach" Prompt="寿桃"/>
+    <Elem NameU="Banner 1" Name="装饰条幅 1" PromptU="Banner 1" Prompt="装饰条幅 1"/>
+    <Elem NameU="Happy Birthday" Name="生日快乐" PromptU="Happy Birthday" Prompt="生日快乐"/>
+    <Elem NameU="Banner 2" Name="装饰条幅 2" PromptU="Banner 2" Prompt="装饰条幅 2"/>
+</Lib>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Discount Labels">
+    <Elem NameU="Price Sticker 1" Name="価格ステッカー 1" PromptU="Price Sticker 1" Prompt="価格ステッカー 1"/>
+    <Elem NameU="Price Sticker 2" Name="価格ステッカー 2" PromptU="Price Sticker 2" Prompt="価格ステッカー 2"/>
+    <Elem NameU="Price Sticker 3" Name="価格ステッカー 3" PromptU="Price Sticker 3" Prompt="価格ステッカー 3"/>
+    <Elem NameU="Price Sticker 4" Name="価格ステッカー 4" PromptU="Price Sticker 4" Prompt="価格ステッカー 4"/>
+    <Elem NameU="Price Sticker 5" Name="価格ステッカー 5" PromptU="Price Sticker 5" Prompt="価格ステッカー 5"/>
+    <Elem NameU="Price Sticker 6" Name="価格ステッカー 6" PromptU="Price Sticker 6" Prompt="価格ステッカー 6"/>
+    <Elem NameU="Price Sticker 7" Name="価格ステッカー 7" PromptU="Price Sticker 7" Prompt="価格ステッカー 7"/>
+    <Elem NameU="Price Sticker 8" Name="価格ステッカー 8" PromptU="Price Sticker 8" Prompt="価格ステッカー 8"/>
+    <Elem NameU="Price Tag 1" Name="値札 1" PromptU="Price Tag 1" Prompt="値札 1"/>
+    <Elem NameU="Price Tag 2" Name="値札 2" PromptU="Price Tag 2" Prompt="値札 2"/>
+    <Elem NameU="Price Tag 3" Name="値札 3" PromptU="Price Tag 3" Prompt="値札 3"/>
+    <Elem NameU="Price Sticker 9" Name="価格ステッカー 9" PromptU="Price Sticker 9" Prompt="価格ステッカー 9"/>
+    <Elem NameU="Price Sticker 10" Name="価格ステッカー 10" PromptU="Price Sticker 10" Prompt="価格ステッカー 10"/>
+    <Elem NameU="Price Sticker 11" Name="価格ステッカー 11" PromptU="Price Sticker 11" Prompt="価格ステッカー 11"/>
+    <Elem NameU="Price Sticker 12" Name="価格ステッカー 12" PromptU="Price Sticker 12" Prompt="価格ステッカー 12"/>
+    <Elem NameU="Best Price" Name="ベスト価格" PromptU="Best Price" Prompt="ベスト価格"/>
+    <Elem NameU="Price Sticker 13" Name="価格ステッカー 13" PromptU="Price Sticker 13" Prompt="価格ステッカー 13"/>
+    <Elem NameU="Price Sticker 14" Name="価格ステッカー 14" PromptU="Price Sticker 14" Prompt="価格ステッカー 14"/>
+    <Elem NameU="Price Sticker 15" Name="価格ステッカー 15" PromptU="Price Sticker 15" Prompt="価格ステッカー 15"/>
+    <Elem NameU="Price Sticker 16" Name="価格ステッカー 16" PromptU="Price Sticker 16" Prompt="価格ステッカー 16"/>
+    <Elem NameU="Price Sticker 17" Name="価格ステッカー 17" PromptU="Price Sticker 17" Prompt="価格ステッカー 17"/>
+    <Elem NameU="Special Offer" Name="特価" PromptU="Special Offer" Prompt="特価"/>
+    <Elem NameU="Price Sticker 18" Name="価格ステッカー 18" PromptU="Price Sticker 18" Prompt="価格ステッカー 18"/>
+    <Elem NameU="FREE" Name="無料" PromptU="FREE" Prompt="無料"/>
+    <Elem NameU="Price Sticker 19" Name="価格ステッカー 19" PromptU="Price Sticker 19" Prompt="価格ステッカー 19"/>
+    <Elem NameU="Gift 1" Name="ギフト 1" PromptU="Gift 1" Prompt="ギフト 1"/>
+    <Elem NameU="Gift 2" Name="ギフト 2" PromptU="Gift 2" Prompt="ギフト 2"/>
+    <Elem NameU="Thank You Tag" Name="感謝タグ" PromptU="Thank You Tag" Prompt="感謝タグ"/>
+    <Elem NameU="Price Up" Name="値上がり" PromptU="Price Up" Prompt="値上がり"/>
+    <Elem NameU="Price Down" Name="値下げ" PromptU="Price Down" Prompt="値下げ"/>
+    <Elem NameU="Sale Tag 1" Name="販売タグ 1" PromptU="Sale Tag 1" Prompt="販売タグ 1"/>
+    <Elem NameU="Sale Tag 2" Name="販売タグ 2" PromptU="Sale Tag 2" Prompt="販売タグ 2"/>
+    <Elem NameU="Sale Banner" Name="セールスバナー" PromptU="Sale Banner" Prompt="セールスバナー"/>
+    <Elem NameU="Ribbons 1" Name="リボン 1" PromptU="Ribbons 1" Prompt="リボン 1"/>
+    <Elem NameU="Ribbons 2" Name="リボン 2" PromptU="Ribbons 2" Prompt="リボン 2"/>
+    <Elem NameU="Ribbons 3" Name="リボン 3" PromptU="Ribbons 3" Prompt="リボン 3"/>
+    <Elem NameU="Ribbons 4" Name="リボン 4" PromptU="Ribbons 4" Prompt="リボン 4"/>
+    <Elem NameU="Ribbons 5" Name="リボン 5" PromptU="Ribbons 5" Prompt="リボン 5"/>
+    <Elem NameU="Ribbons 6" Name="リボン 6" PromptU="Ribbons 6" Prompt="リボン 6"/>
+    <Elem NameU="Coupons 1" Name="クーポン 1" PromptU="Coupons 1" Prompt="クーポン 1"/>
+    <Elem NameU="Coupons 2" Name="クーポン 2" PromptU="Coupons 2" Prompt="クーポン 2"/>
+</Lib>

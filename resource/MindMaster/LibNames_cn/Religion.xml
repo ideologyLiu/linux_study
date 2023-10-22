@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Religion">
+    <Elem Prompt="教堂" Name="教堂" PromptU="Church" NameU="Church"/>
+    <Elem Prompt="抱着耶稣的圣母玛利亚" Name="抱着小耶稣的圣母玛利亚" PromptU="The virgin holding" NameU="The virgin holding"/>
+    <Elem Prompt="十字架和橄榄枝" Name="十字架和橄榄枝" PromptU="The cross and the olive branch" NameU="The cross and the olive branch"/>
+    <Elem Prompt="十字架" Name="十字架" PromptU="Cross" NameU="Cross"/>
+    <Elem Prompt="十字架及和平鸽" Name="十字架及和平鸽" PromptU="The cross and the dove" NameU="The cross and the dove"/>
+    <Elem Prompt="十字架项链" Name="十字架项链" PromptU="Cross necklace" NameU="Cross necklace"/>
+    <Elem Prompt="十字架和圣经" Name="十字架和圣经" PromptU="A cross and bible" NameU="A cross and bible"/>
+    <Elem Prompt="圣经" Name="圣经" PromptU="Bible" NameU="Bible"/>
+    <Elem Prompt="天使之翼" Name="天使之翼" PromptU="Angel wing" NameU="Angel wing"/>
+    <Elem Prompt="上帝的羔羊" Name="上帝的羔羊" PromptU="Lamb of god" NameU="Lamb of god"/>
+    <Elem Prompt="在十字架上的耶稣" Name="在十字架上的耶稣" PromptU="Jesus on the cross" NameU="Jesus on the cross"/>
+    <Elem Prompt="牧师" Name="牧师" PromptU="Pastor" NameU="Pastor"/>
+    <Elem Prompt="耶稣抱着羔羊" Name="耶稣抱着羔羊" PromptU="Jesus with a lamb" NameU="Jesus with a lamb"/>
+    <Elem Prompt="十字吊坠" Name="十字吊坠" PromptU="Cross pendant" NameU="Cross pendant"/>
+    <Elem Prompt="穿红色长袍的耶稣" Name="穿红色长袍的耶稣" PromptU="Jesus in red robe" NameU="Jesus in red robe"/>
+    <Elem Prompt="耶稣雕像" Name="耶稣雕像" PromptU="Jesus statue" NameU="Jesus statue"/>
+    <Elem Prompt="穿白色长袍的耶稣" Name="穿白色长袍的耶稣" PromptU="Jesus in white robe" NameU="Jesus in white robe"/>
+</Lib>

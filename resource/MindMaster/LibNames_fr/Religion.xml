@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Religion">
+    <Elem Prompt="Église" Name="Église" PromptU="Church" NameU="Church"/>
+    <Elem Prompt="Sainte vierge" Name="Sainte vierge" PromptU="The virgin holding" NameU="The virgin holding"/>
+    <Elem Prompt="Croix et Rameau d'olivier" Name="Croix et Rameau d'olivier" PromptU="The cross and the olive branch" NameU="The cross and the olive branch"/>
+    <Elem Prompt="Croix" Name="Croix" PromptU="Cross" NameU="Cross"/>
+    <Elem Prompt="Croix et Colombe" Name="Croix et Colombe" PromptU="The cross and the dove" NameU="The cross and the dove"/>
+    <Elem Prompt="Croix de collier" Name="Croix de collier" PromptU="Cross necklace" NameU="Cross necklace"/>
+    <Elem Prompt="Croix et Bible" Name="Croix et Bible" PromptU="A cross and bible" NameU="A cross and bible"/>
+    <Elem Prompt="Bible" Name="Bible" PromptU="Bible" NameU="Bible"/>
+    <Elem Prompt="Aile d'ange" Name="Aile d'ange" PromptU="Angel wing" NameU="Angel wing"/>
+    <Elem Prompt="Agneau de Dieu" Name="Agneau de Dieu" PromptU="Lamb of god" NameU="Lamb of god"/>
+    <Elem Prompt="Jésus sur la croix" Name="Jésus sur la croix" PromptU="Jesus on the cross" NameU="Jesus on the cross"/>
+    <Elem Prompt="Pasteur" Name="Pasteur" PromptU="Pastor" NameU="Pastor"/>
+    <Elem Prompt="Jésus avec un agneau" Name="Jésus avec un agneau" PromptU="Jesus with a lamb" NameU="Jesus with a lamb"/>
+    <Elem Prompt="Croix pendentif" Name="Croix pendentif" PromptU="Cross pendant" NameU="Cross pendant"/>
+    <Elem Prompt="Jésus en robe rouge" Name="Jésus en robe rouge" PromptU="Jesus in red robe" NameU="Jesus in red robe"/>
+    <Elem Prompt="Statue de Jésus" Name="Statue de Jésus" PromptU="Jesus statue" NameU="Jesus statue"/>
+    <Elem Prompt="Jésus en robe blanche" Name="Jésus en robe blanche" PromptU="Jesus in white robe" NameU="Jesus in white robe"/>
+</Lib>

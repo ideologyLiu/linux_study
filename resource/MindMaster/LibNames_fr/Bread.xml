@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bread">
+    <Elem NameU="Cake Volume" Name="Bûche" PromptU="Cake Volume" Prompt="Bûche"/>
+    <Elem NameU="Pineapple Bread" Name="Brioche-ananas" PromptU="Pineapple Bread" Prompt="Brioche-ananas"/>
+    <Elem NameU="Toast" Name="Toast" PromptU="Toast" Prompt="Toast"/>
+    <Elem NameU="Cream Bun 1" Name="Pain à la crème 1" PromptU="Cream Bun 1" Prompt="Pain à la crème 1"/>
+    <Elem NameU="Cream Bun 2" Name="Pain à la crème 2" PromptU="Cream Bun 2" Prompt="Pain à la crème 2"/>
+    <Elem NameU="Croissant" Name="Croissant" PromptU="Croissant" Prompt="Croissant"/>
+    <Elem NameU="Spring Onion Bread" Name="Pain à l'oignon de printemps" PromptU="Spring Onion Bread" Prompt="Pain à l'oignon de printemps"/>
+    <Elem NameU="Hotdog 1" Name="Hot-dog 1" PromptU="Hotdog 1" Prompt="Hot-dog 1"/>
+    <Elem NameU="Hotdog 2" Name="Hot-dog 2" PromptU="Hotdog 2" Prompt="Hot-dog 2"/>
+    <Elem NameU="Hot Dog Bun" Name="Hot-dog" PromptU="Hot Dog Bun" Prompt="Hot-dog"/>
+    <Elem NameU="Waffle" Name="Gaufre" PromptU="Waffle" Prompt="Gaufre"/>
+    <Elem NameU="French Bread" Name="Pain français" PromptU="French Bread" Prompt="Pain français"/>
+    <Elem NameU="Doughnut" Name="Doughnuts" PromptU="Doughnut" Prompt="Doughnuts"/>
+    <Elem NameU="Egg Tart" Name="Tarte portugaise d'oeufs" PromptU="Egg Tart" Prompt="Tarte portugaise d'oeufs"/>
+    <Elem NameU="Triangle Cake" Name="Gâteau" PromptU="Triangle Cake" Prompt="Gâteau"/>
+    <Elem NameU="Cake" Name="Gâteau" PromptU="Cake" Prompt="Gâteau"/>
+    <Elem NameU="Chocolate Cake" Name="Gateau au chocolat" PromptU="Chocolate Cake" Prompt="Gateau au chocolat"/>
+    <Elem NameU="Macaron 1" Name="Macaron 1" PromptU="Macaron 1" Prompt="Macaron 1"/>
+    <Elem NameU="Macaron 2" Name="Macaron 2" PromptU="Macaron 2" Prompt="Macaron 2"/>
+    <Elem NameU="Apple Pie" Name="Tarte aux pommes" PromptU="Apple Pie" Prompt="Tarte aux pommes"/>
+    <Elem NameU="Baguette 1" Name="Baguette 1" PromptU="Baguette 1" Prompt="Baguette 1"/>
+    <Elem NameU="Baguette 2" Name="Baguette 2" PromptU="Baguette 2" Prompt="Baguette 2"/>
+    <Elem NameU="Red Bean Bread" Name="Pain au haricot rouge" PromptU="Red Bean Bread" Prompt="Pain au haricot rouge"/>
+    <Elem NameU="Bread" Name="Pain" PromptU="Bread" Prompt="Pain"/>
+    <Elem NameU="Swirl Bread 1" Name="Pain tourbillon 1" PromptU="Swirl Bread 1" Prompt="Pain tourbillon 1"/>
+    <Elem NameU="Swirl Bread 2" Name="Pain tourbillon 2" PromptU="Swirl Bread 2" Prompt="Pain tourbillon 2"/>
+    <Elem NameU="French Bread 1" Name="Pain français 1" PromptU="French Bread 1" Prompt="Pain français 1"/>
+    <Elem NameU="French Bread 2" Name="Pain français 2" PromptU="French Bread 2" Prompt="Pain français 2"/>
+    <Elem NameU="Kalach Bread" Name="Pain Kalach" PromptU="Kalach Bread" Prompt="Pain Kalach"/>
+    <Elem NameU="Meat Floss Buns" Name="Pains à la farine de viande" PromptU="Meat Floss Buns" Prompt="Pains à la farine de viande"/>
+    <Elem NameU="Lechem" Name="Pain" PromptU="Lechem" Prompt="Pain"/>
+	<Elem NameU="Fried Bread" Name="Pain frit" PromptU="Fried Bread" Prompt="Pain frit"/>
+	<Elem NameU="Muffin" Name="Muffin" PromptU="Muffin" Prompt="Muffin"/>
+	<Elem NameU="Fruit  Dessert Tray 1" Name="Plateau à dessert aux fruits" PromptU="Fruit  Dessert Tray 1" Prompt="Plateau à dessert aux fruits"/>
+	<Elem NameU="Fruit  Dessert Tray 2" Name="Plateau à dessert aux fruits" PromptU="Fruit  Dessert Tray 2" Prompt="Plateau à dessert aux fruits"/>
+	<Elem NameU="Chocolate Cake in Triangle Shape" Name="Gâteau au chocolat en forme de triangle" PromptU="Chocolate Cake in Triangle Shape" Prompt="Gâteau au chocolat en forme de triangle"/>
+	<Elem NameU="Black Forest Cake" Name="Forêt noire" PromptU="Wedding Cake" Prompt="Forêt noire"/>
+	<Elem NameU="Wedding Cake" Name="Gâteau de mariage" PromptU="Wedding Cake" Prompt="Gâteau de mariage"/>
+	<Elem NameU="Birthday Cake" Name="Gâteau d'anniversaire" PromptU="Birthday Cake" Prompt="Gâteau d'anniversaire"/>
+	<Elem NameU="Strawberry Cupcakes" Name="Cupcakes aux fraises" PromptU="Strawberry Cupcakes" Prompt="Cupcakes aux fraises"/>
+	<Elem NameU="Yule log" Name="Journal de Noël" PromptU="Yule log" Prompt="Journal de Noël"/>
+	<Elem NameU="Swiss Roll" Name="Rouleau suisse" PromptU="Swiss Roll" Prompt="Rouleau suisse"/>
+	<Elem NameU="Cupcake 1" Name="Cupcake 1" PromptU="Cupcake 1" Prompt="Cupcake 1"/>
+    <Elem NameU="Cupcake 2" Name="Cupcake 2" PromptU="Cupcake 2" Prompt="Cupcake 2"/>
+	<Elem NameU="Cupcake 3" Name="Cupcake 3" PromptU="Cupcake 3" Prompt="Cupcake 3"/>
+	<Elem NameU="Cupcake 4" Name="Cupcake 4" PromptU="Cupcake 4" Prompt="Cupcake 4"/>
+	<Elem NameU="Cupcake 5" Name="Cupcake 5" PromptU="Cupcake 5" Prompt="Cupcake 5"/>
+	<Elem NameU="Cupcake 6" Name="Cupcake 6" PromptU="Cupcake 6" Prompt="Cupcake 6"/>
+	<Elem NameU="Cupcake 7" Name="Cupcake 7" PromptU="Cupcake 7" Prompt="Cupcake 7"/>
+	<Elem NameU="Cupcake 8" Name="Cupcake 8" PromptU="Cupcake 8" Prompt="Cupcake 8"/>
+	<Elem NameU="Mooncake 1" Name="Gâteau de lune" PromptU="Mooncake 1" Prompt="Gâteau de lune"/>
+	<Elem NameU="mooncake 2" Name="Gâteau de lune" PromptU="mooncake 2" Prompt="Gâteau de lune"/>
+</Lib>
+</Lib>

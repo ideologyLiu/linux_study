@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Music">
+    <Elem NameU="Drums" Name="Tambours" PromptU="Drums" Prompt="Tambours"/>
+    <Elem NameU="Piano 1" Name="Piano 1" PromptU="Piano 1" Prompt="Piano 1"/>
+    <Elem NameU="Piano 2" Name="Piano 2" PromptU="Piano 2" Prompt="Piano 2"/>
+    <Elem NameU="Zither 1" Name="Cithare 1" PromptU="Zither 1" Prompt="Cithare 1"/>
+    <Elem NameU="Zither 2" Name="Cithare 2" PromptU="Zither 2" Prompt="Cithare 2"/>
+    <Elem NameU="Rock 1" Name="Roche 1" PromptU="Rock 1" Prompt="Roche 1"/>
+    <Elem NameU="Rock 2" Name="Roche 2" PromptU="Rock 2" Prompt="Roche 2"/>
+    <Elem NameU="Cello 1" Name="Violoncelle 1" PromptU="Cello 1" Prompt="Violoncelle 1"/>
+    <Elem NameU="Cello 2" Name="Violoncelle 2" PromptU="Cello 2" Prompt="Violoncelle 2"/>
+    <Elem NameU="Organist 1" Name="Organiste 1" PromptU="Organist 1" Prompt="Organiste 1"/>
+    <Elem NameU="Organist 2" Name="Organiste 2" PromptU="Organist 2" Prompt="Organiste 2"/>
+    <Elem NameU="Woman Playing Violin" Name="Femme jouant du Violon" PromptU="Woman Playing Violin" Prompt="Femme jouant du Violon"/>
+    <Elem NameU="Man Playing Violin" Name="Homme jouant du Violon" PromptU="Man Playing Violin" Prompt="Homme jouant du Violon"/>
+    <Elem NameU="Flute woman" Name="Flûte" PromptU="Flute woman" Prompt="Flûte"/>
+    <Elem NameU="Woman Singer" Name="Chanteuse" PromptU="Woman Singer" Prompt="Chanteuse"/>
+    <Elem NameU="Man Singer 1" Name="Chanteur 1" PromptU="Man Singer 1" Prompt="Chanteur 1"/>
+    <Elem NameU="Man Singer 2" Name="Chanteur 2" PromptU="Man Singer 2" Prompt="Chanteur 2"/>
+    <Elem NameU="Saxophone man" Name="Jouer du saxophone" PromptU="Saxophone man" Prompt="Jouer du saxophone"/>
+    <Elem NameU="Ballet" Name="Ballet" PromptU="Ballet" Prompt="Ballet"/>
+    <Elem NameU="Listen to music" Name="Écouter de la musique" PromptU="Listen to music" Prompt="Écouter de la musique"/>
+    <Elem NameU="Mobile Music" Name="Musique mobile" PromptU="Mobile Music" Prompt="Musique mobile"/>
+    <Elem NameU="Accordion" Name="Accordéon" PromptU="Accordion" Prompt="Accordéon"/>
+    <Elem NameU="Saxophone" Name="Saxophone" PromptU="Saxophone" Prompt="Saxophone"/>
+    <Elem NameU="Keyboard 1" Name="Clavier 1" PromptU="Keyboard 1" Prompt="Clavier 1"/>
+    <Elem NameU="Horn" Name="Corne" PromptU="Horn" Prompt="Corne"/>
+    <Elem NameU="Flute 1" Name="Flûte 1" PromptU="Flute 1" Prompt="Flûte 1"/>
+    <Elem NameU="Cello 3" Name="Violoncelle 3" PromptU="Cello 3" Prompt="Violoncelle 3"/>
+    <Elem NameU="Flute 2" Name="Flûte 2" PromptU="Flute 2" Prompt="Flûte 2"/>
+    <Elem NameU="Bass 1" Name="Basse 1" PromptU="Bass 1" Prompt="Basse 1"/>
+    <Elem NameU="Bass 2" Name="Basse 2" PromptU="Bass 2" Prompt="Basse 2"/>
+    <Elem NameU="Guitar" Name="Guitare" PromptU="Guitar" Prompt="Guitare"/>
+    <Elem NameU="Chinese Instrument" Name="Instrument chinois" PromptU="Chinese Instrument" Prompt="Instrument chinois"/>
+    <Elem NameU="Huqin" Name="Huqin" PromptU="Huqin" Prompt="Huqin"/>
+    <Elem NameU="Trump" Name="Trompette" PromptU="Trump" Prompt="Trompette"/>
+    <Elem NameU="Chinese lute" Name="Lute chinois" PromptU="Chinese lute" Prompt="Lute chinois"/>
+    <Elem NameU="Erhu" Name="Erhu" PromptU="Erhu" Prompt="Erhu"/>
+    <Elem NameU="Tambourine" Name="Tambourine" PromptU="Tambourine" Prompt="Tambourine"/>
+    <Elem NameU="Maraca" Name="Maraca" PromptU="Maraca" Prompt="Maraca"/>
+    <Elem NameU="Piano 3" Name="Piano 3" PromptU="Piano 3" Prompt="Piano 3"/>
+    <Elem NameU="Snare Drum" Name="Caisse claire" PromptU="Snare Drum" Prompt="Caisse claire"/>
+    <Elem NameU="Drum" Name="Tambour" PromptU="Drum" Prompt="Tambour"/>
+    <Elem NameU="Trombone" Name="Trombone" PromptU="Trombone" Prompt="Trombone"/>
+    <Elem NameU="Cheng" Name="Cheng" PromptU="Cheng" Prompt="Cheng"/>
+    <Elem NameU="CD 1" Name="CD 1" PromptU="CD 1" Prompt="CD 1"/>
+    <Elem NameU="CD 2" Name="CD 2" PromptU="CD 2" Prompt="CD 2"/>
+    <Elem NameU="BeatEd" Name="Projecteur de vinyle" PromptU="BeatEd" Prompt="Projecteur de vinyle"/>
+    <Elem NameU="Tape" Name="Ruban" PromptU="Tape" Prompt="Ruban"/>
+    <Elem NameU="Headset" Name="Casque" PromptU="Headset" Prompt="Casque"/>
+    <Elem NameU="Microphone" Name="Microphone" PromptU="Microphone" Prompt="Microphone"/>
+    <Elem NameU="MP3" Name="MP3" PromptU="MP3" Prompt="MP3"/>
+    <Elem NameU="Radio" Name="Radio" PromptU="Radio" Prompt="Radio"/>
+    <Elem NameU="Keyboard 2" Name="Clavier 2" PromptU="Keyboard 2" Prompt="Clavier 2"/>
+    <Elem NameU="Acoustics" Name="Acoustique" PromptU="Acoustics" Prompt="Acoustique"/>
+    <Elem NameU="Triangle" Name="Triangle" PromptU="Triangle" Prompt="Triangle"/>
+    <Elem NameU="Triangolo" Name="Triangolo" PromptU="Triangolo" Prompt="Triangolo"/>
+    <Elem NameU="Volume" Name="Volume" PromptU="Volume" Prompt="Volume"/>
+    <Elem NameU="Volume Control" Name="Contrôle du volume" PromptU="Volume Control" Prompt="Contrôle du volume"/>
+    <Elem NameU="Sonogram" Name="Sonogramme" PromptU="Sonogram" Prompt="Sonogramme"/>
+    <Elem NameU="Cable" Name="Câble" PromptU="Cable" Prompt="Câble"/>
+    <Elem NameU="G Clef" Name="Clef G" PromptU="G Clef" Prompt="Clef G"/>
+    <Elem NameU="Whole Note" Name="Note ronde" PromptU="Whole Note" Prompt="Note ronde"/>
+    <Elem NameU="Dotted Half" Name="Blanche pointée" PromptU="Dotted Half" Prompt="Blanche pointée"/>
+    <Elem NameU="Half Note" Name="Blanche" PromptU="Half Note" Prompt="Blanche"/>
+    <Elem NameU="Quarter Note" Name="Noire" PromptU="Quarter Note" Prompt="Noire"/>
+    <Elem NameU="Eighth Note" Name="Croche" PromptU="Eighth Note" Prompt="Croche"/>
+    <Elem NameU="Sixteenth Note" Name="Double croche" PromptU="Sixteenth Note" Prompt="Double croche"/>
+    <Elem NameU="Demisemiquaver" Name="Triple croche" PromptU="Demisemiquaver" Prompt="Triple croche"/>
+    <Elem NameU="Beam Notes" Name="Crochet avec lien" PromptU="Beam Notes" Prompt="Crochet avec lien"/>
+    <Elem NameU="Note" Name="Note" PromptU="Note" Prompt="Note"/>
+    <Elem NameU="Musical Notes with Curved Line" Name="Notes de musique avec ligne courbe" PromptU="Musical Notes with Curved Line" Prompt="Notes de musique avec ligne courbe"/>
+    <Elem NameU="Straight Musical Note" Name="Note de musique droite" PromptU="Straight Musical Note" Prompt="Note de musique droite"/>
+    <Elem NameU="Colored Musical Note" Name="Note de musique colorée" PromptU="Colored Musical Note" Prompt="Note de musique colorée"/>
+	<Elem NameU="Play" Name="Commencer" PromptU="Play" Prompt="Commencer"/>
+    <Elem NameU="Stop" Name="Arrêter" PromptU="Stop" Prompt="Arrêter"/>
+    <Elem NameU="Next song" Name="Prochaine chanson" PromptU="Next song" Prompt="Prochaine chanson"/>
+    <Elem NameU="Previous song" Name="Chanson précédente" PromptU="Previous song" Prompt="Chanson précédente"/>
+    <Elem NameU="Pause" Name="En pause" PromptU="Pause" Prompt="En pause"/>
+    <Elem NameU="Eject" Name="Éjecter" PromptU="Eject" Prompt="Éjecter"/>
+</Lib>

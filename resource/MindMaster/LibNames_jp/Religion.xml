@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Religion">
+    <Elem Prompt="教堂" Name="教堂" PromptU="Church" NameU="Church"/>
+    <Elem Prompt="聖母マリアに抱きしめられているイエス" Name="聖母マリアに抱きしめられているイエス" PromptU="The virgin holding" NameU="The virgin holding"/>
+    <Elem Prompt="十字架とオリーブの枝" Name="十字架とオリーブの枝" PromptU="The cross and the olive branch" NameU="The cross and the olive branch"/>
+    <Elem Prompt="十字架" Name="十字架" PromptU="Cross" NameU="Cross"/>
+    <Elem Prompt="十字架と鴿" Name="十字架と鴿" PromptU="The cross and the dove" NameU="The cross and the dove"/>
+    <Elem Prompt="十字架のネクレス" Name="十字架のネクレス" PromptU="Cross necklace" NameU="Cross necklace"/>
+    <Elem Prompt="十字架とバイブル" Name="十字架とバイブル" PromptU="A cross and bible" NameU="A cross and bible"/>
+    <Elem Prompt="バイブル" Name="バイブル" PromptU="Bible" NameU="Bible"/>
+    <Elem Prompt="天使の翼" Name="天使の翼" PromptU="Angel wing" NameU="Angel wing"/>
+    <Elem Prompt="神様のラム" Name="神様のラム" PromptU="Lamb of god" NameU="Lamb of god"/>
+    <Elem Prompt="イエスの受難" Name="イエスの受難" PromptU="Jesus on the cross" NameU="Jesus on the cross"/>
+    <Elem Prompt="牧師" Name="牧師" PromptU="Pastor" NameU="Pastor"/>
+    <Elem Prompt="ラムを連れているイエス" Name="ラムを連れているイエス" PromptU="Jesus with a lamb" NameU="Jesus with a lamb"/>
+    <Elem Prompt="十字架ペンダント" Name="十字架ペンダント" PromptU="Cross pendant" NameU="Cross pendant"/>
+    <Elem Prompt="赤いバラを身につけているイエス" Name="赤いバラを身につけているイエス" PromptU="Jesus in red robe" NameU="Jesus in red robe"/>
+    <Elem Prompt="イエスの彫像" Name="イエスの彫像" PromptU="Jesus statue" NameU="Jesus statue"/>
+    <Elem Prompt="白いバラを身につけているイエス" Name="白いバラを身につけているイエス" PromptU="Jesus in white robe" NameU="Jesus in white robe"/>
+</Lib>

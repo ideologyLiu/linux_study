@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Carnival">
+    <Elem NameU="Masquerade Mask 1" Name="Mascarade masque 1" PromptU="Masquerade Mask 1" Prompt="Mascarade masque 1"/>
+    <Elem NameU="Masquerade Mask 2" Name="Mascarade masque 2" PromptU="Masquerade Mask 2" Prompt="Mascarade masque 2"/>
+    <Elem NameU="Masquerade Mask 3" Name="Mascarade masque 3" PromptU="Masquerade Mask 3" Prompt="Mascarade masque 3"/>
+    <Elem NameU="Masquerade Mask 4" Name="Mascarade masque 4" PromptU="Masquerade Mask 4" Prompt="Mascarade masque 4"/>
+    <Elem NameU="Masquerade Mask 5" Name="Mascarade masque 5" PromptU="Masquerade Mask 5" Prompt="Mascarade masque 5"/>
+    <Elem NameU="Masquerade Mask 6" Name="Mascarade masque 6" PromptU="Masquerade Mask 6" Prompt="Mascarade masque 6"/>
+    <Elem NameU="Mask 1" Name="Masque 1" PromptU="Mask 1" Prompt="Masque 1"/>
+    <Elem NameU="Mask 2" Name="Masque 2" PromptU="Mask 2" Prompt="Masque 2"/>
+    <Elem NameU="Mask 3" Name="Masque 3" PromptU="Mask 3" Prompt="Masque 3"/>
+    <Elem NameU="Mask 4" Name="Masque 4" PromptU="Mask 4" Prompt="Masque 4"/>
+    <Elem NameU="Mask 5" Name="Masque 5" PromptU="Mask 5" Prompt="Masque 5"/>
+    <Elem NameU="Mask 6" Name="Masque 6" PromptU="Mask 6" Prompt="Masque 6"/>
+    <Elem NameU="Mask 7" Name="Masque 7" PromptU="Mask 7" Prompt="Masque 7"/>
+    <Elem NameU="People in Costume 1" Name="Les gens en costume 1" PromptU="People in Costume 1" Prompt="Les gens en costume 1"/>
+    <Elem NameU="People in Costume 2" Name="Les gens en costume 2" PromptU="People in Costume 2" Prompt="Les gens en costume 2"/>
+    <Elem NameU="People in Costume 3" Name="Les gens en costume 3" PromptU="People in Costume 3" Prompt="Les gens en costume 3"/>
+    <Elem NameU="Parade Float 1" Name="Char allégorique 1" PromptU="Parade Float 1" Prompt="Char allégorique 1"/>
+    <Elem NameU="Parade Float 2" Name="Char allégorique 2" PromptU="Parade Float 2" Prompt="Char allégorique 2"/>
+    <Elem NameU="Parade Float 3" Name="Char allégorique 3" PromptU="Parade Float 3" Prompt="Char allégorique 3"/>
+</Lib>

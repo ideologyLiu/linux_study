@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Tableware">
+    <Elem NameU="Wine Bottle" Name="ワインボトル" PromptU="Wine Bottle" Prompt="ワインボトル"/>
+    <Elem NameU="Wine Bottle 2" Name="ワインボトル 2" PromptU="Wine Bottle 2" Prompt="ワインボトル 2"/>
+    <Elem NameU="Wine Bottle 3" Name="ワインボトル 3" PromptU="Wine Bottle 3" Prompt="ワインボトル 3"/>
+    <Elem NameU="Wine Bottle 4" Name="ワインボトル 4" PromptU="Wine Bottle 4" Prompt="ワインボトル 4"/>
+    <Elem NameU="Wine Bottle 5" Name="ワインボトル 5" PromptU="Wine Bottle 5" Prompt="ワインボトル 5"/>
+    <Elem NameU="Wine Bottle 6" Name="ワインボトル 6" PromptU="Wine Bottle 6" Prompt="ワインボトル 6"/>
+    <Elem NameU="Wine Bottle 7" Name="ワインボトル 7" PromptU="Wine Bottle 7" Prompt="ワインボトル 7"/>
+    <Elem NameU="Wine Bottle 8" Name="ワインボトル 8" PromptU="Wine Bottle 8" Prompt="ワインボトル 8"/>
+    <Elem NameU="Wine Bottle 9" Name="ワインボトル 9" PromptU="Wine Bottle 9" Prompt="ワインボトル 9"/>
+    <Elem NameU="Wine Glass 1" Name="ワイングラス 1" PromptU="Wine Glass 1" Prompt="ワイングラス 1"/>
+    <Elem NameU="Wine Glass 2" Name="ワイングラス 2" PromptU="Wine Glass 2" Prompt="ワイングラス 2"/>
+    <Elem NameU="Wine Glass 3" Name="ワイングラス 3" PromptU="Wine Glass 3" Prompt="ワイングラス 3"/>
+    <Elem NameU="Wine Glass 4" Name="ワイングラス 4" PromptU="Wine Glass 4" Prompt="ワイングラス 4"/>
+    <Elem NameU="Wine Glass 5" Name="ワイングラス 5" PromptU="Wine Glass 5" Prompt="ワイングラス 5"/>
+    <Elem NameU="Wine Glass 6" Name="ワイングラス 6" PromptU="Wine Glass 6" Prompt="ワイングラス 6"/>
+    <Elem NameU="Wine Glass 7" Name="ワイングラス 7" PromptU="Wine Glass 7" Prompt="ワイングラス 7"/>
+    <Elem NameU="Wooden spoon" Name="木製スプーン" PromptU="Wooden spoon" Prompt="木製スプーン"/>
+    <Elem NameU="Wooden spoon" Name="木製スプーン" PromptU="Wooden spoon" Prompt="木製スプーン"/>
+    <Elem NameU="Large wooden spoon" Name="木製スプーン" PromptU="Large wooden spoon" Prompt="木製スプーン"/>
+    <Elem NameU="Long wooden spoon" Name="木製スプーン" PromptU="Long wooden spoon" Prompt="木製スプーン"/>
+    <Elem NameU="Spoon" Name="スプーン" PromptU="Spoon" Prompt="スプーン"/>
+    <Elem NameU="Fork" Name="フォーク" PromptU="Fork" Prompt="フォーク"/>
+    <Elem NameU="Circular plate" Name="円形プレート" PromptU="Circular plate" Prompt="円形プレート"/>
+    <Elem NameU="Oval plate" Name="長円形プレート" PromptU="Oval plate" Prompt="長円形プレート"/>
+    <Elem NameU="Bowl" Name="ボウル" PromptU="Bowl" Prompt="ボウル"/>
+    <Elem NameU="Fruit Knife" Name="フルーツナイフ" PromptU="Fruit Knife" Prompt="フルーツナイフ"/>
+    <Elem NameU="Kitchen Knife" Name="包丁" PromptU="Kitchen Knife" Prompt="包丁"/>
+    <Elem NameU="Chopping board" Name="まな板" PromptU="Chopping board" Prompt="まな板"/>
+    <Elem NameU="Teapot" Name="どびん" PromptU="Teapot" Prompt="どびん"/>
+    <Elem NameU="Bread maker" Name="パンメーカー" PromptU="Bread maker" Prompt="パンメーカー"/>
+    <Elem NameU="Induction cooker" Name="電磁調理器" PromptU="Induction cooker" Prompt="電磁調理器"/>
+    <Elem NameU="Microwave oven" Name="電子レンジ" PromptU="Microwave oven" Prompt="電子レンジ"/>
+    <Elem NameU="Pan" Name="フライパン" PromptU="Pan" Prompt="フライパン"/>
+    <Elem NameU="Chef" Name="シェフ" PromptU="Chef" Prompt="シェフ"/>
+    <Elem NameU="Canteen" Name="レストラン" PromptU="Canteen" Prompt="レストラン"/>
+</Lib>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Biotechnology">
+    <Elem NameU="Brain" Name="大脑" PromptU="Brain" Prompt="大脑"/>
+    <Elem NameU="Neuron" Name="神经元" PromptU="Neuron" Prompt="神经元"/>
+    <Elem NameU="DNA 1" Name="DNA 1" PromptU="DNA 1" Prompt="DNA 1"/>
+    <Elem NameU="DNA 2" Name="DNA 2" PromptU="DNA 2" Prompt="DNA 2"/>
+    <Elem NameU="Cells" Name="细胞" PromptU="Cells" Prompt="细胞"/>
+    <Elem NameU="Molecular Structure 1" Name="分子结构1" PromptU="Molecular Structure 1" Prompt="分子结构1"/>
+    <Elem NameU="Molecular Structure 2" Name="分子结构2" PromptU="Molecular Structure 2" Prompt="分子结构2"/>
+    <Elem NameU="Molecular Structure 3" Name="分子结构3" PromptU="Molecular Structure 3" Prompt="分子结构3"/>
+    <Elem NameU="Molecular Structure 4" Name="分子结构4" PromptU="Molecular Structure 4" Prompt="分子结构4"/>
+    <Elem NameU="Plant Cell" Name="植物细胞" PromptU="Plant Cell" Prompt="植物细胞"/>
+    <Elem NameU="Animal Cells" Name="动物细胞" PromptU="Animal Cells" Prompt="动物细胞"/>
+    <Elem NameU="Microbial Culture Medium" Name="微生物培养基" PromptU="Microbial Culture Medium" Prompt="微生物培养基"/>
+    <Elem NameU="Surgical Scissors" Name="手术剪刀" PromptU="Surgical Scissors" Prompt="手术剪刀"/>
+    <Elem NameU="Injector" Name="注射器" PromptU="Injector" Prompt="注射器"/>
+    <Elem NameU="Microscopes" Name="显微镜" PromptU="Microscopes" Prompt="显微镜"/>
+    <Elem NameU="Specimen" Name="标本" PromptU="Specimen" Prompt="标本"/>
+    <Elem NameU="Plant Specimens" Name="植物标本" PromptU="Plant Specimens" Prompt="植物标本"/>
+    <Elem NameU="Glass Pipette" Name="玻璃吸管" PromptU="Glass Pipette" Prompt="玻璃吸管"/>
+    <Elem NameU="Test Tube" Name="试管" PromptU="Test Tube" Prompt="试管"/>
+    <Elem NameU="Glassware 1" Name="玻璃器皿1" PromptU="Glassware 1" Prompt="玻璃器皿1"/>
+    <Elem NameU="Glassware 2" Name="玻璃器皿2" PromptU="Glassware 2" Prompt="玻璃器皿2"/>
+    <Elem NameU="Experiment 1" Name="实验1" PromptU="Experiment 1" Prompt="实验1"/>
+    <Elem NameU="Experiment 2" Name="实验2" PromptU="Experiment 2" Prompt="实验2"/>
+    <Elem NameU="Experimenter 1" Name="实验员1" PromptU="Experimenter 1" Prompt="实验员1"/>
+    <Elem NameU="Experimenter 2" Name="实验员2" PromptU="Experimenter 2" Prompt="实验员2"/>
+    <Elem NameU="Experimenter 3" Name="实验员3" PromptU="Experimenter 3" Prompt="实验员3"/>
+    <Elem NameU="Biology And Technology" Name="生物与技术" PromptU="Biology And Technology" Prompt="生物与技术"/>
+</Lib>

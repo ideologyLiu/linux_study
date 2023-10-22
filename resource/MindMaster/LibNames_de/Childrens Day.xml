@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Children's Day">
+     <Elem NameU="Fish 1"	Name= "Fisch 1"	PromptU="Fish 1"	Prompt= "Fisch 1"/>
+     <Elem NameU="Fish 2"	Name= "Fisch 2"	PromptU="Fish 2"	Prompt= "Fisch 2"/>
+     <Elem NameU="Lobster 1"	Name= "Hummer 1"	PromptU="Lobster 1"	Prompt= "Hummer 1"/>
+     <Elem NameU="Lobster 2"	Name= "Hummer 2"	PromptU="Lobster 2"	Prompt= "Hummer 2"/>
+     <Elem NameU="Boy"	Name= "Junge"	PromptU="Boy"	Prompt= "Junge"/>
+     <Elem NameU="Girl 1"	Name= "Mädchen 1"	PromptU="Girl 1"	Prompt= "Mädchen 1"/>
+     <Elem NameU="Girl 2"	Name= "Mädchen 2"	PromptU="Girl 2"	Prompt= "Mädchen 2"/>
+     <Elem NameU="Girl 3"	Name= "Mädchen 3"	PromptU="Girl 3"	Prompt= "Mädchen 3"/>
+     <Elem NameU="Girl 4"	Name= "Mädchen 4"	PromptU="Girl 4"	Prompt= "Mädchen 4"/>
+     <Elem NameU="Boy And Windmill"	Name= "Junge und Windmühle"	PromptU="Boy And Windmill"	Prompt= "Junge und Windmühle"/>
+     <Elem NameU="Korean Costume"	Name= "Koreanisches Kostüm"	PromptU="Korean Costume"	Prompt= "Koreanisches Kostüm"/>
+     <Elem NameU="Duck"	Name= "Ente"	PromptU="Duck"	Prompt= "Ente"/>
+     <Elem NameU="Toy Car"	Name= "Spielzeugauto"	PromptU="Toy Car"	Prompt= "Spielzeugauto"/>
+     <Elem NameU="Bucket and Shovel"	Name= "Eimer und Schaufel"	PromptU="Bucket and Shovel"	Prompt= "Eimer und Schaufel"/>
+     <Elem NameU="Spinning Top"	Name= "Spinning Top"	PromptU="Spinning Top"	Prompt= "Spinning Top"/>
+     <Elem NameU="Toy"	Name= "Spielzeug"	PromptU="Toy"	Prompt= "Spielzeug"/>
+     <Elem NameU="Carousel"	Name= "Karussell"	PromptU="Carousel"	Prompt= "Karussell"/>
+     <Elem NameU="Pony"	Name= "Pony"	PromptU="Pony"	Prompt= "Pony"/>
+     <Elem NameU="Clown 1"	Name= "Clown 1"	PromptU="Clown 1"	Prompt= "Clown 1"/>
+     <Elem NameU="Clown 2"	Name= "Clown 2"	PromptU="Clown 2"	Prompt= "Clown 2"/>
+     <Elem NameU="Toy Bear"	Name= "Spielzeug Bär"	PromptU="Toy Bear"	Prompt= "Spielzeug Bär"/>
+     <Elem NameU="Prop the ball 1"	Name= "Prop der Ball 1"	PromptU="Prop the ball 1"	Prompt= "Prop der Ball 1"/>
+     <Elem NameU="Prop the ball 2"	Name= "Prop der Ball 2"	PromptU="Prop the ball 2"	Prompt= "Prop der Ball 2"/>
+     <Elem NameU="Prop the ball 3"	Name= "Prop der Ball 3"	PromptU="Prop the ball 3"	Prompt= "Prop der Ball 3"/>
+     <Elem NameU="Prop the ball 4"	Name= "Prop der Ball 4"	PromptU="Prop the ball 4"	Prompt= "Prop der Ball 4"/>
+     <Elem NameU="Prop the ball 5"	Name= "Prop der Ball 5"	PromptU="Prop the ball 5"	Prompt= "Prop der Ball 5"/>
+     <Elem NameU="Prop the ball 6"	Name= "Prop der Ball 6"	PromptU="Prop the ball 6"	Prompt= "Prop der Ball 6"/>
+     <Elem NameU="Prop the ball 7"	Name= "Prop der Ball 7"	PromptU="Prop the ball 7"	Prompt= "Prop der Ball 7"/>
+     <Elem NameU="Clown Mask"	Name= "Clownmaske"	PromptU="Clown Mask"	Prompt= "Clownmaske"/>
+     <Elem NameU="Spiderman"	Name= "Spiderman"	PromptU="Spiderman"	Prompt= "Spiderman"/>
+     <Elem NameU="Ice Cream"	Name= "Eiscreme"	PromptU="Ice Cream"	Prompt= "Eiscreme"/>
+     <Elem NameU="lollipop"	Name= "Lutscher"	PromptU="lollipop"	Prompt= "Lutscher"/>
+     <Elem NameU="Lollipop 2"	Name= "Lollipop 2"	PromptU="Lollipop 2"	Prompt= "Lollipop 2"/>
+     <Elem NameU="Lollipop 3"	Name= "Lollipop 3"	PromptU="Lollipop 3"	Prompt= "Lollipop 3"/>
+     <Elem NameU="Lollipop 4"	Name= "Lollipop 4"	PromptU="Lollipop 4"	Prompt= "Lollipop 4"/>
+     <Elem NameU="Lollipop 5"	Name= "Lollipop 5"	PromptU="Lollipop 5"	Prompt= "Lollipop 5"/>
+     <Elem NameU="Lollipop 6"	Name= "Lollipop 6"	PromptU="Lollipop 6"	Prompt= "Lollipop 6"/>
+     <Elem NameU="Ballon"	Name= "Ballon"	PromptU="Ballon"	Prompt= "Ballon"/>
+     <Elem NameU="Ballon"	Name= "Ballon"	PromptU="Ballon"	Prompt= "Ballon"/>
+     <Elem NameU="Ballon"	Name= "Ballon"	PromptU="Ballon"	Prompt= "Ballon"/>
+     <Elem NameU="Ballon"	Name= "Ballon"	PromptU="Ballon"	Prompt= "Ballon"/>
+     <Elem NameU="Ballon"	Name= "Ballon"	PromptU="Ballon"	Prompt= "Ballon"/>
+</Lib>

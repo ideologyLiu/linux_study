@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Sea Life">
+    <Elem NameU="Goldfish" Name="Poisson rouge" PromptU="Goldfish" Prompt="Poisson rouge"/>
+    <Elem NameU="Fish" Name="Poisson" PromptU="Fish" Prompt="Poisson"/>
+    <Elem NameU="Kiss Fish 1" Name="Kissing gourami 1" PromptU="Kiss Fish 1" Prompt="Kissing gourami 1"/>
+    <Elem NameU="Kiss Fish 2" Name="Kissing gourami 2" PromptU="Kiss Fish 2" Prompt="Kissing gourami 2"/>
+    <Elem NameU="Nemo" Name="Poisson-clown" PromptU="Nemo" Prompt="Poisson-clown"/>
+    <Elem NameU="Hippocampus 1" Name="Hippocampus 1" PromptU="Hippocampus 1" Prompt="Hippocampus 1"/>
+    <Elem NameU="Hippocampus 2" Name="Hippocampus 2" PromptU="Hippocampus 2" Prompt="Hippocampus 2"/>
+    <Elem NameU="Jellyfish 1" Name="Méduse 1" PromptU="Jellyfish 1" Prompt="Méduse 1"/>
+    <Elem NameU="Jellyfish 2" Name="Méduse 2" PromptU="Jellyfish 2" Prompt="Méduse 2"/>
+    <Elem NameU="Sea lion 1" Name="Lion de mer 1" PromptU="Sea lion 1" Prompt="Lion de mer 1"/>
+    <Elem NameU="Sea lion 2" Name="Lion de mer 2" PromptU="Sea lion 2" Prompt="Lion de mer 2"/>
+    <Elem NameU="Dauphin 1" Name="Dauphin 1" PromptU="Dolphin 1" Prompt="Dolphin 1"/>
+    <Elem NameU="Dauphin 2" Name="Dauphin 2" PromptU="Dolphin 2" Prompt="Dolphin 2"/>
+    <Elem NameU="Dauphin 3" Name="Dauphin 3" PromptU="Dolphin 3" Prompt="Dolphin 3"/>
+    <Elem NameU="Penguin 1" Name="Pingouin 1" PromptU="Penguin 1" Prompt="Pingouin 1"/>
+    <Elem NameU="Penguin 2" Name="Pingouin 2" PromptU="Penguin 2" Prompt="Pingouin 2"/>
+    <Elem NameU="Octopus" Name="Poulpe" PromptU="Octopus" Prompt="Poulpe"/>
+    <Elem NameU="Starfish 1" Name="Étoile de mer 1" PromptU="Starfish 1" Prompt="Étoile de mer 1"/>
+    <Elem NameU="Starfish 2" Name="Étoile de mer 2" PromptU="Starfish 2" Prompt="Étoile de mer 2"/>
+    <Elem NameU="Starfish 3" Name="Étoile de mer 3" PromptU="Starfish 3" Prompt="Étoile de mer 3"/>
+    <Elem NameU="Shark" Name="Requin" PromptU="Shark" Prompt="Requin"/>
+    <Elem NameU="Walrus" Name="Morse" PromptU="Walrus" Prompt="Morse"/>
+    <Elem NameU="Seal 1" Name="Phoque 1" PromptU="Seal 1" Prompt="Phoque 1"/>
+    <Elem NameU="Seal 2" Name="Phoque 2" PromptU="Seal 2" Prompt="Phoque 2"/>
+    <Elem NameU="Seashell" Name="Coquille" PromptU="Seashell" Prompt="Coquille"/>
+    <Elem NameU="Spiral Shell 1" Name="Coquille en spirale 1" PromptU="Spiral Shell 1" Prompt="Coquille en spirale 1"/>
+    <Elem NameU="Spiral Shell 2" Name="Coquille en spirale 2" PromptU="Spiral Shell 2" Prompt="Coquille en spirale 2"/>
+    <Elem NameU="Spiral Shell 3" Name="Coquille en spirale 3" PromptU="Spiral Shell 3" Prompt="Coquille en spirale 3"/>
+</Lib>

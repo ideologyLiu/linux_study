@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Architecture">
+    <Elem Prompt="建築" Name="建築" PromptU="Building" NameU="Building"/>
+    <Elem Prompt="銀行" Name="銀行" PromptU="Bank" NameU="Bank"/>
+    <Elem Prompt="美容院" Name="美容院" PromptU="Beauty Salon" NameU="Beauty Salon"/>
+    <Elem Prompt="ビーチビラ" Name="ビーチビラ" PromptU="Beach Villa" NameU="Beach Villa"/>
+    <Elem Prompt="ビーチビラ" Name="ビーチビラ" PromptU="Beach Villa" NameU="Beach Villa"/>
+    <Elem Prompt="喫茶店" Name="喫茶店" PromptU="Cafeteria" NameU="Cafeteria"/>
+    <Elem Prompt="城" Name="城" PromptU="Castle" NameU="Castle"/>
+    <Elem Prompt="カテドラル" Name="カテドラル" PromptU="Cathedral" NameU="Cathedral"/>
+    <Elem Prompt="礼拝堂" Name="礼拝堂" PromptU="Church" NameU="Church"/>
+    <Elem Prompt="喫茶店" Name="喫茶店" PromptU="Coffee House" NameU="Coffee House"/>
+    <Elem Prompt="洋服店" Name="洋服店" PromptU="Clothing Store" NameU="Clothing Store"/>
+    <Elem Prompt="領事館" Name="領事館" PromptU="Consulate" NameU="Consulate"/>
+    <Elem Prompt="工場" Name="工場" PromptU="Factory" NameU="Factory"/>
+    <Elem Prompt="アパート" Name="アパート" PromptU="Family Apartment" NameU="Family Apartment"/>
+    <Elem Prompt="接待所" Name="接待所" PromptU="Guest House" NameU="Guest House"/>
+    <Elem Prompt="ジム" Name="ジム" PromptU="Gymnasium" NameU="Gymnasium"/>
+    <Elem Prompt="病院" Name="病院" PromptU="Hospital" NameU="Hospital"/>
+    <Elem Prompt="ホテル" Name="ホテル" PromptU="Hotel" NameU="Hotel"/>
+    <Elem Prompt="家 1" Name="家 1" PromptU="House 1" NameU="House 1"/>
+    <Elem Prompt="家 2" Name="家 2" PromptU="House 2" NameU="House 2"/>
+    <Elem Prompt="家 3" Name="家 3" PromptU="House 3" NameU="House 3"/>
+    <Elem Prompt="図書館" Name="図書館" PromptU="Library" NameU="Library"/>
+    <Elem Prompt="幼稚園" Name="幼稚園" PromptU="Kindergarten" NameU="Kindergarten"/>
+    <Elem Prompt="マーケット" Name="マーケット" PromptU="Market" NameU="Market"/>
+    <Elem Prompt="マンション 1" Name="マンション 1" PromptU="Mansion 1" NameU="Mansion 1"/>
+    <Elem Prompt="マンション 2" Name="マンション 2" PromptU="Mansion 2" NameU="Mansion 2"/>
+    <Elem Prompt="マンション 3" Name="マンション 3" PromptU="Mansion 3" NameU="Mansion 3"/>
+    <Elem Prompt="マンション 4" Name="マンション 4" PromptU="Mansion 4" NameU="Mansion 4"/>
+    <Elem Prompt="映画館" Name="映画館" PromptU="Movie Theater" NameU="Movie Theater"/>
+    <Elem Prompt="新聞キオスク" Name="新聞キオスク" PromptU="Newspaper Kiosk" NameU="Newspaper Kiosk"/>
+    <Elem Prompt="オフィスビル 1" Name="オフィスビル 1" PromptU="Office Building 1" NameU="Office Building 1"/>
+    <Elem Prompt="オフィスビル 2" Name="オフィスビル 2" PromptU="Office Building 2" NameU="Office Building 2"/>
+    <Elem Prompt="オフィスビル 3" Name="オフィスビル 3" PromptU="Office Building 3" NameU="Office Building 3"/>
+    <Elem Prompt="郵便局" Name="郵便局" PromptU="Post Office" NameU="Post Office"/>
+    <Elem Prompt="警察署" Name="警察署" PromptU="Police Station" NameU="Police Station"/>
+    <Elem Prompt="学校" Name="学校" PromptU="School" NameU="School"/>
+    <Elem Prompt="学校ビル" Name="学校ビル" PromptU="School Building" NameU="School Building"/>
+    <Elem Prompt="セルフサービスガソリンスタンド" Name="セルフサービスガソリンスタンド" PromptU="Self-Serve Gas Station" NameU="Self-Serve Gas Station"/>
+    <Elem Prompt="店" Name="店" PromptU="Shop" NameU="Shop"/>
+    <Elem Prompt="学生寮" Name="学生寮" PromptU="Student Dorm Building" NameU="Student Dorm Building"/>
+    <Elem Prompt="スーパーマーケット" Name="スーパーマーケット" PromptU="Supermarket" NameU="Supermarket"/>
+    <Elem Prompt="タワー" Name="タワー" PromptU="Twin Tower" NameU="Twin Tower"/>
+    <Elem Prompt="大学" Name="大学" PromptU="University" NameU="University"/>
+    <Elem Prompt="ビラ" Name="ビラ" PromptU="Villa" NameU="Villa"/>
+    <Elem Prompt="熱気球 1" Name="熱気球 1" PromptU="Hot-air balloon 1" NameU="Hot-air balloon 1"/>
+    <Elem Prompt="熱気球 2" Name="熱気球 2" PromptU="Hot-air balloon 2" NameU="Hot-air balloon 2"/>
+    <Elem Prompt="熱気球 3" Name="熱気球 3" PromptU="Hot-air balloon 3" NameU="Hot-air balloon 3"/>
+    <Elem Prompt="雲-青" Name="雲-青" PromptU="Blue Cloud" NameU="Blue Cloud"/>
+    <Elem Prompt="雲-黄" Name="雲-黄" PromptU="Yellow Cloud" NameU="Yellow Cloud"/>
+    <Elem Prompt="雲-赤" Name="雲-赤" PromptU="Red Cloud" NameU="Red Cloud"/>
+    <Elem Prompt="家庭" Name="家庭" PromptU="Family" NameU="Family"/>
+</Lib>

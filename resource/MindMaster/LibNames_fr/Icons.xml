@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Icons">
+    <Elem Prompt="Réveil" Name="Réveil" PromptU="Alarm Clock" NameU="Alarm Clock"/>
+    <Elem Prompt="Alerte" Name="Alerte" PromptU="Alert" NameU="Alert"/>
+    <Elem Prompt="Ancre" Name="Ancre" PromptU="Anchor" NameU="Anchor"/>
+    <Elem Prompt="Ouverture" Name="Ouverture" PromptU="Aperture" NameU="Aperture"/>
+    <Elem Prompt="Arobase" Name="Arobase" PromptU="At" NameU="At"/>
+    <Elem Prompt="Android" Name="Android" PromptU="Android" NameU="Android"/>
+    <Elem Prompt="Apple" Name="Apple" PromptU="Apple" NameU="Apple"/>
+    <Elem Prompt="Apps" Name="Apps" PromptU="Apps" NameU="Apps"/>
+    <Elem Prompt="Flèche" Name="Flèche" PromptU="Arrow" NameU="Arrow"/>
+    <Elem Prompt="Flèche - Circulaire" Name="Flèche - Circulaire" PromptU="Arrow - Circular" NameU="Arrow - Circular"/>
+    <Elem Prompt="Flèche - Double tête" Name="Flèche - Double tête" PromptU="Arrow - Double Head" NameU="Arrow - Double Head"/>
+    <Elem Prompt="Flèche - Bas" Name="Flèche - Bas" PromptU="Arrow - Down" NameU="Arrow - Down"/>
+    <Elem Prompt="Flèche - 4 directions" Name="Flèche - 4 directions" PromptU="Arrow - Expand" NameU="Arrow - Expand"/>
+    <Elem Prompt="Flèche graphique" Name="Flèche graphique" PromptU="Arrow Growth" NameU="Arrow Growth"/>
+    <Elem Prompt="Flèche - Retour" Name="Flèche - Retour" PromptU="Arrow - Return" NameU="Arrow - Return"/>
+    <Elem Prompt="Flèche - Rétractable" Name="Flèche - Rétractable" PromptU="Arrow - Shrink" NameU="Arrow - Shrink"/>
+    <Elem Prompt="Sac" Name="Sac" PromptU="Bag" NameU="Bag"/>
+    <Elem Prompt="Barre" Name="Barre" PromptU="Bar" NameU="Bar"/>
+    <Elem Prompt="Base-ball" Name="Base-ball" PromptU="Baseball" NameU="Baseball"/>
+    <Elem Prompt="Basketball" Name="Basketball" PromptU="Basketball" NameU="Basketball"/>
+    <Elem Prompt="Batterie en charge" Name="Batterie en charge" PromptU="Battery Charging" NameU="Battery Charging"/>
+    <Elem Prompt="Batterie vide" Name="Batterie vide" PromptU="Battery Empty" NameU="Battery Empty"/>
+    <Elem Prompt="Batterie pleine" Name="Batterie pleine" PromptU="Battery Full" NameU="Battery Full"/>
+    <Elem Prompt="Batterie en moitié" Name="Batterie en moitié" PromptU="Battery Half" NameU="Battery Half"/>
+    <Elem Prompt="Batterie faible" Name="Batterie faible" PromptU="Battery Low" NameU="Battery Low"/>
+    <Elem Prompt="Bière" Name="Bière" PromptU="Beer" NameU="Beer"/>
+    <Elem Prompt="Vélo" Name="Vélo" PromptU="Bicycle" NameU="Bicycle"/>
+    <Elem Prompt="Bitcoin" Name="Bitcoin" PromptU="Bitcoin" NameU="Bitcoin"/>
+    <Elem Prompt="Bluetooth" Name="Bluetooth" PromptU="Bluetooth" NameU="Bluetooth"/>
+    <Elem Prompt="Bateau" Name="Bateau" PromptU="Boat" NameU="Boat"/>
+    <Elem Prompt="Livre" Name="Livre" PromptU="Book" NameU="Book"/>
+    <Elem Prompt="Signet" Name="Signet" PromptU="Bookmark" NameU="Bookmark"/>
+    <Elem Prompt="Nœud papillon" Name="Nœud papillon" PromptU="Bowtie" NameU="Bowtie"/>
+    <Elem Prompt="Mallette" Name="Mallette" PromptU="Briefcase" NameU="Briefcase"/>
+    <Elem Prompt="Punaise" Name="Punaise" PromptU="Bug" NameU="Bug"/>
+    <Elem Prompt="Bulbe" Name="Bulbe" PromptU="Bulb" NameU="Bulb"/>
+    <Elem Prompt="Bulbe - Lumineux" Name="Bulbe - Lumineux" PromptU="Bulb - Luminous" NameU="Bulb - Luminous"/>
+    <Elem Prompt="Bus" Name="Bus" PromptU="Bus" NameU="Bus"/>
+    <Elem Prompt="Calculatrice" Name="Calculatrice" PromptU="Calculator" NameU="Calculator"/>
+    <Elem Prompt="Calendrier" Name="Calendrier" PromptU="Calendar" NameU="Calendar"/>
+    <Elem Prompt="Caméra" Name="Caméra" PromptU="Camera" NameU="Camera"/>
+    <Elem Prompt="Annuler" Name="Annuler" PromptU="Cancel" NameU="Cancel"/>
+    <Elem Prompt="Annuler avec cercle" Name="Annuler avec cercle" PromptU="Cancel with Circle" NameU="Cancel with Circle"/>
+    <Elem Prompt="Bougie" Name="Bougie" PromptU="Candle" NameU="Candle"/>
+    <Elem Prompt="Voiture" Name="Voiture" PromptU="Car" NameU="Car"/>
+    <Elem Prompt="Chariot" Name="Chariot" PromptU="Cart" NameU="Cart"/>
+    <Elem Prompt="Carotte" Name="Carotte" PromptU="Carrot" NameU="Carrot"/>
+    <Elem Prompt="Chaîne" Name="Chaîne" PromptU="Chain" NameU="Chain"/>
+    <Elem Prompt="Bulle de bavarder" Name="Bulle de bavarder" PromptU="Chat Bubble" NameU="Chat Bubble"/>
+    <Elem Prompt="Bulle de bavarder - 2" Name="Bulle de bavarder - 2" PromptU="Chat Bubble - 2" NameU="Chat Bubble - 2"/>
+    <Elem Prompt="Bulles de bavarder" Name="Bulles de bavarder" PromptU="Chat Bubbles" NameU="Chat Bubbles"/>
+    <Elem Prompt="Bulle de bavarder - travailler" Name="Bulle de bavarder - travailler" PromptU="Chatbubble - Working" NameU="Chatbubble - Working"/>
+    <Elem Prompt="Bulle de bavarder - Arrondie" Name="Bulle de bavarder - Arrondie" PromptU="Chat Bubble - Round" NameU="Chat Bubble - Round"/>
+    <Elem Prompt="Bulle de bavarder - travailler 2" Name="Bulle de bavarder - travailler 2" PromptU="Chatbubble - Working2" NameU="Chatbubble - Working2"/>
+    <Elem Prompt="Vérifier" Name="Vérifier" PromptU="Check" NameU="Check"/>
+    <Elem Prompt="Vérifier avec le cercle" Name="Vérifier avec le cercle" PromptU="Check with Circle" NameU="Check with Circle"/>
+    <Elem Prompt="Cercle" Name="Cercle" PromptU="Circle" NameU="Circle"/>
+    <Elem Prompt="Presse-papiers" Name="Presse-papiers" PromptU="Clipboard" NameU="Clipboard"/>
+    <Elem Prompt="Horloge" Name="Horloge" PromptU="Clock" NameU="Clock"/>
+    <Elem Prompt="Cloud - 1" Name="Cloud - 1" PromptU="Cloud - 1" NameU="Cloud - 1"/>
+    <Elem Prompt="Cloud - 2" Name="Cloud - 2" PromptU="Cloud - 2" NameU="Cloud - 2"/>
+    <Elem Prompt="Cloud - Charger" Name="Cloud - Charger" PromptU="Cloud - Upload" NameU="Cloud - Upload"/>
+    <Elem Prompt="Cloud - Charger2" Name="Cloud - Charger2" PromptU="Cloud - Upload2" NameU="Cloud - Upload2"/>
+    <Elem Prompt="Cloud - Télécharger" Name="Cloud - Télécharger" PromptU="Cloud - Download" NameU="Cloud - Download"/>
+    <Elem Prompt="Cloud - Télécharger2" Name="Cloud - Télécharger2" PromptU="Cloud - Download2" NameU="Cloud - Download2"/>
+    <Elem Prompt="Cloud - Terminé" Name="Cloud - Terminé" PromptU="Cloud - Done" NameU="Cloud - Done"/>
+    <Elem Prompt="Cocktail" Name="Cocktail" PromptU="Cocktail" NameU="Cocktail"/>
+    <Elem Prompt="Café" Name="Café" PromptU="Coffee" NameU="Coffee"/>
+    <Elem Prompt="Filtre couleur" Name="Filtre couleur" PromptU="Color Filter" NameU="Color Filter"/>
+    <Elem Prompt="Boussole" Name="Boussole" PromptU="Compass" NameU="Compass"/>
+    <Elem Prompt="Composer" Name="Composer" PromptU="Compose" NameU="Compose"/>
+    <Elem Prompt="Contrat" Name="Contrat" PromptU="Contract" NameU="Contract"/>
+    <Elem Prompt="Surgir" Name="Surgir" PromptU="Crop" NameU="Crop"/>
+    <Elem Prompt="Cube" Name="Cube" PromptU="Cube" NameU="Cube"/>
+    <Elem Prompt="Cycle" Name="Cycle" PromptU="Cycle" NameU="Cycle"/>
+    <Elem Prompt="Diamand" Name="Diamand" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="Document" Name="Document" PromptU="Document" NameU="Document"/>
+    <Elem Prompt="Documents" Name="Documents" PromptU="Documents" NameU="Documents"/>
+    <Elem Prompt="Terminé" Name="Terminé" PromptU="Done" NameU="Done"/>
+    <Elem Prompt="Télécharger" Name="Télécharger" PromptU="Download" NameU="Download"/>
+    <Elem Prompt="Écouteur" Name="Écouteur" PromptU="Earphone" NameU="Earphone"/>
+    <Elem Prompt="Éducation" Name="Éducation" PromptU="Education" NameU="Education"/>
+    <Elem Prompt="Email" Name="Email" PromptU="Email" NameU="Email"/>
+    <Elem Prompt="Email - Ouvert" Name="Email - Ouvert" PromptU="Email - Open" NameU="Email - Open"/>
+    <Elem Prompt="Expand" Name="Expand" PromptU="Expand" NameU="Expand"/>
+    <Elem Prompt="Euro" Name="Euro" PromptU="Euro" NameU="Euro"/>
+    <Elem Prompt="Œil" Name="Œil" PromptU="Eye" NameU="Eye"/>
+    <Elem Prompt="Facebook" Name="Facebook" PromptU="Facebook" NameU="Facebook"/>
+    <Elem Prompt="Femelle" Name="Femelle" PromptU="Female" NameU="Female"/>
+    <Elem Prompt="Film" Name="Film" PromptU="Film" NameU="Film"/>
+    <Elem Prompt="Feu" Name="Feu" PromptU="Fire" NameU="Fire"/>
+    <Elem Prompt="Drapeau" Name="Drapeau" PromptU="Flag" NameU="Flag"/>
+    <Elem Prompt="Flamme" Name="Flamme" PromptU="Flame" NameU="Flame"/>
+    <Elem Prompt="Flash" Name="Flash" PromptU="Flash" NameU="Flash"/>
+    <Elem Prompt="Flash - 2" Name="Flash - 2" PromptU="Flash - 2" NameU="Flash - 2"/>
+    <Elem Prompt="Flash désactivé" Name="Flash désactivé" PromptU="Flash Off" NameU="Flash Off"/>
+    <Elem Prompt="Ballon" Name="Ballon" PromptU="Flask" NameU="Flask"/>
+    <Elem Prompt="Fleur" Name="Fleur" PromptU="Flower" NameU="Flower"/>
+    <Elem Prompt="Dossier" Name="Dossier" PromptU="Folder" NameU="Folder"/>
+    <Elem Prompt="Football" Name="Football" PromptU="Football" NameU="Football"/>
+    <Elem Prompt="Entonnoir" Name="Entonnoir" PromptU="Funnel" NameU="Funnel"/>
+    <Elem Prompt="Manette" Name="Manette" PromptU="Game Controller" NameU="Game Controller"/>
+    <Elem Prompt="Des lunettes" Name="Des lunettes" PromptU="Glasses" NameU="Glasses"/>
+    <Elem Prompt="Engrenage" Name="Engrenage" PromptU="Gear" NameU="Gear"/>
+    <Elem Prompt="Engrenage - 2" Name="Engrenage - 2" PromptU="Gear - 2" NameU="Gear - 2"/>
+    <Elem Prompt="Engrenage - 3" Name="Engrenage - 3" PromptU="Gear - 3" NameU="Gear - 3"/>
+    <Elem Prompt="Globe" Name="Globe" PromptU="Globe" NameU="Globe"/>
+    <Elem Prompt="Google" Name="Google" PromptU="Google" NameU="Google"/>
+    <Elem Prompt="Google Plus" Name="Google Plus" PromptU="Google Plus" NameU="Google Plus"/>
+    <Elem Prompt="Marteau" Name="Marteau" PromptU="Hammer" NameU="Hammer"/>
+    <Elem Prompt="Main" Name="Main" PromptU="Hand" NameU="Hand"/>
+    <Elem Prompt="Content" Name="Content" PromptU="Happy" NameU="Happy"/>
+    <Elem Prompt="Coeur" Name="Coeur" PromptU="Heart" NameU="Heart"/>
+    <Elem Prompt="Maison" Name="Maison" PromptU="Home" NameU="Home"/>
+    <Elem Prompt="Crème glacée" Name="Crème glacée" PromptU="Icecream" NameU="Icecream"/>
+    <Elem Prompt="Image" Name="Image" PromptU="Image" NameU="Image"/>
+    <Elem Prompt="Images" Name="Images" PromptU="Images" NameU="Images"/>
+    <Elem Prompt="Dans" Name="Dans" PromptU="In" NameU="In"/>
+    <Elem Prompt="Infini" Name="Infini" PromptU="Infinite" NameU="Infinite"/>
+    <Elem Prompt="Information" Name="Information" PromptU="Information" NameU="Information"/>
+    <Elem Prompt="Instagram" Name="Instagram" PromptU="Instagram" NameU="Instagram"/>
+    <Elem Prompt="iPad" Name="iPad" PromptU="iPad" NameU="iPad"/>
+    <Elem Prompt="iPhone" Name="iPhone" PromptU="iPhone" NameU="iPhone"/>
+    <Elem Prompt="iPod" Name="iPod" PromptU="iPod" NameU="iPod"/>
+    <Elem Prompt="Clé" Name="Clé" PromptU="Key" NameU="Key"/>
+    <Elem Prompt="Clavier" Name="Clavier" PromptU="Key Board" NameU="Key Board"/>
+    <Elem Prompt="Linkedin" Name="Linkedin" PromptU="Linkedin" NameU="Linkedin"/>
+    <Elem Prompt="Liste" Name="Liste" PromptU="List" NameU="List"/>
+    <Elem Prompt="Chargement - 1" Name="Chargement - 1" PromptU="Load - 1" NameU="Load - 1"/>
+    <Elem Prompt="Chargement - 2" Name="Chargement - 2" PromptU="Load - 2" NameU="Load - 2"/>
+    <Elem Prompt="Chargement - 3" Name="Chargement - 3" PromptU="Load - 3" NameU="Load - 3"/>
+    <Elem Prompt="Location" Name="Location" PromptU="location" NameU="location"/>
+    <Elem Prompt="Location - 2" Name="Location - 2" PromptU="Location - 2" NameU="Location - 2"/>
+    <Elem Prompt="Fermé à clef" Name="Fermé à clef" PromptU="Locked" NameU="Locked"/>
+    <Elem Prompt="Verrouiller - Déverrouiller" Name="Verrouiller - Déverrouiller" PromptU="Lock - Unlocked" NameU="Lock - Unlocked"/>
+    <Elem Prompt="Haut-parleur" Name="Haut-parleur" PromptU="Loudspeaker" NameU="Loudspeaker"/>
+    <Elem Prompt="Portable" Name="Portable" PromptU="Laptop" NameU="Laptop"/>
+    <Elem Prompt="Loupe" Name="Loupe" PromptU="Magnifier" NameU="Magnifier"/>
+    <Elem Prompt="Mâle" Name="Mâle" PromptU="Male" NameU="Male"/>
+    <Elem Prompt="Homme" Name="Homme" PromptU="Man" NameU="Man"/>
+    <Elem Prompt="Carte" Name="Carte" PromptU="Map" NameU="Map"/>
+    <Elem Prompt="Médaille - 1" Name="Médaille - 1" PromptU="Medal - 1" NameU="Medal - 1"/>
+    <Elem Prompt="Médaille - 2" Name="Médaille - 2" PromptU="Medal - 2" NameU="Medal - 2"/>
+    <Elem Prompt="Kit Medical" Name="Kit Medical" PromptU="Medical Kit" NameU="Medical Kit"/>
+    <Elem Prompt="Fusionner" Name="Fusionner" PromptU="Merge" NameU="Merge"/>
+    <Elem Prompt="Microphone - 1" Name="Microphone - 1" PromptU="Microphone - 1" NameU="Microphone - 1"/>
+    <Elem Prompt="Microphone - 2" Name="Microphone - 2" PromptU="Microphone - 2" NameU="Microphone - 2"/>
+    <Elem Prompt="Microphone - 3" Name="Microphone - 3" PromptU="Microphone - 3" NameU="Microphone - 3"/>
+    <Elem Prompt="Microphone - 4" Name="Microphone - 4" PromptU="Microphone - 4" NameU="Microphone - 4"/>
+    <Elem Prompt="Microphone - Off" Name="Microphone - Off" PromptU="Microphone - Off" NameU="Microphone - Off"/>
+    <Elem Prompt="Moins" Name="Moins" PromptU="Minus" NameU="Minus"/>
+    <Elem Prompt="Moins avec cercle" Name="Moins avec cercle" PromptU="Minus with Circle" NameU="Minus with Circle"/>
+    <Elem Prompt="Moniteur" Name="Moniteur" PromptU="Monitor" NameU="Monitor"/>
+    <Elem Prompt="Lune" Name="Lune" PromptU="Moon" NameU="Moon"/>
+    <Elem Prompt="Lune et Nuage" Name="Lune et Nuage" PromptU="Moon and Cloud" NameU="Moon and Cloud"/>
+    <Elem Prompt="Musique" Name="Musique" PromptU="Music" NameU="Music"/>
+    <Elem Prompt="Muet" Name="Muet" PromptU="Mute" NameU="Mute"/>
+    <Elem Prompt="Naviguer" Name="Naviguer" PromptU="Navigate" NameU="Navigate"/>
+    <Elem Prompt="Naviguer - 2" Name="Naviguer - 2" PromptU="Navigate - 2" NameU="Navigate - 2"/>
+    <Elem Prompt="Interdiction de fumer" Name="Interdiction de fumer" PromptU="No Smoking" NameU="No Smoking"/>
+    <Elem Prompt="Notification" Name="Notification" PromptU="Notification" NameU="Notification"/>
+    <Elem Prompt="Notification Off" Name="Notification Off" PromptU="Notification Off" NameU="Notification Off"/>
+    <Elem Prompt="Ouvrir" Name="Ouvrir" PromptU="Open" NameU="Open"/>
+    <Elem Prompt="Options" Name="Options" PromptU="Options" NameU="Options"/>
+    <Elem Prompt="En dehors" Name="En dehors" PromptU="Out" NameU="Out"/>
+    <Elem Prompt="Sortie" Name="Sortie" PromptU="Outlet" NameU="Outlet"/>
+    <Elem Prompt="Pinceau" Name="Pinceau" PromptU="Paint Brush" NameU="Paint Brush"/>
+    <Elem Prompt="Palette" Name="Palette" PromptU="Palette" NameU="Palette"/>
+    <Elem Prompt="Papier" Name="Papier" PromptU="Paper" NameU="Paper"/>
+    <Elem Prompt="Avion en papier" Name="Avion en papier" PromptU="Paper Airplane" NameU="Paper Airplane"/>
+    <Elem Prompt="Trombone" Name="Trombone" PromptU="Paperclip" NameU="Paperclip"/>
+    <Elem Prompt="Patte" Name="Patte" PromptU="Paw" NameU="Paw"/>
+    <Elem Prompt="Crayon" Name="Crayon" PromptU="Pencil" NameU="Pencil"/>
+    <Elem Prompt="Personne" Name="Personne" PromptU="People" NameU="People"/>
+    <Elem Prompt="Personne" Name="Personne" PromptU="Person" NameU="Person"/>
+    <Elem Prompt="Personne - 2" Name="Personne - 2" PromptU="Person - 2" NameU="Person - 2"/>
+    <Elem Prompt="Personne dans cercle" Name="Personne dans cercle" PromptU="Person in Circle" NameU="Person in Circle"/>
+    <Elem Prompt="Personne ajoutée" Name="Personne ajoutée" PromptU="Person Add" NameU="Person Add"/>
+    <Elem Prompt="Phone" Name="Phone" PromptU="Phone" NameU="Phone"/>
+    <Elem Prompt="Phone - 2" Name="Phone - 2" PromptU="Phone - 2" NameU="Phone - 2"/>
+    <Elem Prompt="Photos" Name="Photos" PromptU="Photos" NameU="Photos"/>
+    <Elem Prompt="Secteur" Name="Secteur" PromptU="Pie" NameU="Pie"/>
+    <Elem Prompt="Secteur - 2" Name="Secteur - 2" PromptU="Pie - 2" NameU="Pie - 2"/>
+    <Elem Prompt="Épingle" Name="Épingle" PromptU="Pin" NameU="Pin"/>
+    <Elem Prompt="Pointe d'aiguille" Name="Pointe d'aiguille" PromptU="Pinpoint" NameU="Pinpoint"/>
+    <Elem Prompt="Pinterest" Name="Pinterest" PromptU="Pinterest" NameU="Pinterest"/>
+    <Elem Prompt="Avion" Name="Avion" PromptU="Plane" NameU="Plane"/>
+    <Elem Prompt="Planète" Name="Planète" PromptU="Planet" NameU="Planet"/>
+    <Elem Prompt="Plus" Name="Plus" PromptU="Plus" NameU="Plus"/>
+    <Elem Prompt="Plus avec cercle" Name="Plus avec cercle" PromptU="Plus with Circle" NameU="Plus with Circle"/>
+    <Elem Prompt="Podium" Name="Podium" PromptU="Podium" NameU="Podium"/>
+    <Elem Prompt="Puissance" Name="Puissance" PromptU="Power" NameU="Power"/>
+    <Elem Prompt="Étiquette de prix" Name="Étiquette de prix" PromptU="Price Tag" NameU="Price Tag"/>
+    <Elem Prompt="Étiquette de prix" Name="Étiquette de prix" PromptU="Price Tags" NameU="Price Tags"/>
+    <Elem Prompt="Imprimante" Name="Imprimante" PromptU="Printer" NameU="Printer"/>
+    <Elem Prompt="Impulsion" Name="Impulsion" PromptU="Pulse" NameU="Pulse"/>
+    <Elem Prompt="Point d'interrogation" Name="Point d'interrogation" PromptU="Question Mark" NameU="Question Mark"/>
+    <Elem Prompt="Point d'interrogation - 2" Name="Point d'interrogation - 2" PromptU="Question Mark - 2" NameU="Question Mark - 2"/>
+    <Elem Prompt="Citation" Name="Citation" PromptU="Quote" NameU="Quote"/>
+    <Elem Prompt="Onde radio" Name="Onde radio" PromptU="Radio Wave" NameU="Radio Wave"/>
+    <Elem Prompt="Pluvieux" Name="Pluvieux" PromptU="Rainy" NameU="Rainy"/>
+    <Elem Prompt="Refaire" Name="Refaire" PromptU="Redo" NameU="Redo"/>
+    <Elem Prompt="Restaurant" Name="Restaurant" PromptU="Restaurant" NameU="Restaurant"/>
+    <Elem Prompt="Ruban" Name="Ruban" PromptU="Ribbon" NameU="Ribbon"/>
+    <Elem Prompt="R-Marques" Name="R-Marques" PromptU="R-Trademark" NameU="R-Trademark"/>
+    <Elem Prompt="Triste" Name="Triste" PromptU="Sad" NameU="Sad"/>
+    <Elem Prompt="Sablier" Name="Sablier" PromptU="Sand Timer" NameU="Sand Timer"/>
+    <Elem Prompt="Échelle" Name="Échelle" PromptU="Scale" NameU="Scale"/>
+    <Elem Prompt="Scanner" Name="Scanner" PromptU="Scanner" NameU="Scanner"/>
+    <Elem Prompt="Ciseaux" Name="Ciseaux" PromptU="Scissors" NameU="Scissors"/>
+    <Elem Prompt="Réglage" Name="Réglage" PromptU="Setting" NameU="Setting"/>
+    <Elem Prompt="Partager" Name="Partager" PromptU="Share" NameU="Share"/>
+    <Elem Prompt="Achats" Name="Achats" PromptU="Shopping" NameU="Shopping"/>
+    <Elem Prompt="Battage" Name="Battage" PromptU="Shuffle" NameU="Shuffle"/>
+    <Elem Prompt="Skype" Name="Skype" PromptU="Skype" NameU="Skype"/>
+    <Elem Prompt="Flocon de neige" Name="Flocon de neige" PromptU="Snowflake" NameU="Snowflake"/>
+    <Elem Prompt="Compteur de vitesse" Name="Compteur de vitesse" PromptU="Speed Meter" NameU="Speed Meter"/>
+    <Elem Prompt="Étoille" Name="Étoille" PromptU="Star" NameU="Star"/>
+    <Elem Prompt="Soleil" Name="Soleil" PromptU="Sun" NameU="Sun"/>
+    <Elem Prompt="Soleil avec des nuages" Name="Soleil avec des nuages" PromptU="Sun with Cloud" NameU="Sun with Cloud"/>
+    <Elem Prompt="Cible" Name="Cible" PromptU="Target" NameU="Target"/>
+    <Elem Prompt="Tumblr" Name="Tumblr" PromptU="Temblr" NameU="Temblr"/>
+    <Elem Prompt="Balle de tennis" Name="Balle de tennis" PromptU="Tennis Ball" NameU="Tennis Ball"/>
+    <Elem Prompt="Pouce en l'air" Name="Pouce en l'air" PromptU="Thumb Up" NameU="Thumb Up"/>
+    <Elem Prompt="Pouce vers le bas" Name="Pouce vers le bas" PromptU="Thumb Down" NameU="Thumb Down"/>
+    <Elem Prompt="Orage" Name="Orage" PromptU="Thunderstorm" NameU="Thunderstorm"/>
+    <Elem Prompt="Temps" Name="Temps" PromptU="Time" NameU="Time"/>
+    <Elem Prompt="Minuteur" Name="Minuteur" PromptU="Timer" NameU="Timer"/>
+    <Elem Prompt="Basculer" Name="Basculer" PromptU="Toggle" NameU="Toggle"/>
+    <Elem Prompt="Train" Name="Train" PromptU="Train" NameU="Train"/>
+    <Elem Prompt="Transgenre" Name="Transgenre" PromptU="Transgender" NameU="Transgender"/>
+    <Elem Prompt="Poubelle" Name="Poubelle" PromptU="Trash Bin" NameU="Trash Bin"/>
+    <Elem Prompt="Trophée" Name="Trophée" PromptU="Trophy" NameU="Trophy"/>
+    <Elem Prompt="T-Shirt" Name="T-Shirt" PromptU="T-Shirt" NameU="T-Shirt"/>
+    <Elem Prompt="Twitter" Name="Twitter" PromptU="Twitter" NameU="Twitter"/>
+    <Elem Prompt="Parapluie" Name="Parapluie" PromptU="Umbrella" NameU="Umbrella"/>
+    <Elem Prompt="Annuler" Name="Annuler" PromptU="Undo" NameU="Undo"/>
+    <Elem Prompt="Charger" Name="Charger" PromptU="Upload" NameU="Upload"/>
+    <Elem Prompt="USB" Name="USB" PromptU="USB" NameU="USB"/>
+    <Elem Prompt="USD" Name="USD" PromptU="USD" NameU="USD"/>
+    <Elem Prompt="Vidéo Cam" Name="Vidéo Cam" PromptU="Video Cam" NameU="Video Cam"/>
+    <Elem Prompt="Volume - Faible" Name="Volume - Faible" PromptU="Volume - Low" NameU="Volume - Low"/>
+    <Elem Prompt="Volume - Moyen" Name="Volume - Moyen" PromptU="Volume - Medium" NameU="Volume - Medium"/>
+    <Elem Prompt="Volume - Haut" Name="Volume - Haut" PromptU="Volume - High" NameU="Volume - High"/>
+    <Elem Prompt="Volume - Muet" Name="Volume - Muet" PromptU="Volume - Mute" NameU="Volume - Mute"/>
+    <Elem Prompt="Marche" Name="Marche" PromptU="Walk" NameU="Walk"/>
+    <Elem Prompt="Baguette magique" Name="Baguette magique" PromptU="Wand" NameU="Wand"/>
+    <Elem Prompt="Montre" Name="Montre" PromptU="Watch" NameU="Watch"/>
+    <Elem Prompt="Whatsapp" Name="Whatsapp" PromptU="Whatsapp" NameU="Whatsapp"/>
+    <Elem Prompt="Wifi" Name="Wifi" PromptU="Wifi" NameU="Wifi"/>
+    <Elem Prompt="Windows" Name="Windows" PromptU="Windows" NameU="Windows"/>
+    <Elem Prompt="Verre de vin" Name="Verre de vin" PromptU="Wineglass" NameU="Wineglass"/>
+    <Elem Prompt="Femme" Name="Femme" PromptU="Woman" NameU="Woman"/>
+    <Elem Prompt="Wordpress" Name="Wordpress" PromptU="Wordpress" NameU="Wordpress"/>
+    <Elem Prompt="Le monde" Name="Le monde" PromptU="World" NameU="World"/>
+    <Elem Prompt="Clef à molette" Name="Clef à molette" PromptU="Wrench" NameU="Wrench"/>
+    <Elem Prompt="Yen" Name="Yen" PromptU="Yen" NameU="Yen"/>
+    <Elem Prompt="Yin Yang" Name="Yin Yang" PromptU="Yin Yang" NameU="Yin Yang"/>
+    <Elem Prompt="Youtube" Name="Youtube" PromptU="Youtube" NameU="Youtube"/>
+	<Elem Prompt="Carnet d'adresses" Name="Carnet d'adresses" PromptU="Address - Book" NameU="Address - Book"/>
+    <Elem Prompt="Adresse - Carte" Name="Adresse - Carte" PromptU="Address - Card" NameU="Address - Card"/>
+    <Elem Prompt="Baignoire" Name="Baignoire" PromptU="Bath" NameU="Bath"/>
+    <Elem Prompt="Binoculaire" Name="Binoculaire" PromptU="Binocular" NameU="Binocular"/>
+    <Elem Prompt="Anniversaire" Name="Anniversaire" PromptU="Birthday" NameU="Birthday"/>
+    <Elem Prompt="Aveugle" Name="Aveugle" PromptU="Blind" NameU="Blind"/>
+    <Elem Prompt="Bombe" Name="Bombe" PromptU="Bomb" NameU="Bomb"/>
+    <Elem Prompt="Livre 1" Name="Livre 1" PromptU="Book 1" NameU="Book 1"/>
+    <Elem Prompt="Livre 2" Name="Livre 2" PromptU="Book 2" NameU="Book 2"/>
+    <Elem Prompt="Calendrier-vérification" Name="Calendrier-vérification" PromptU="Calendar-Check" NameU="Calendar-Check"/>
+    <Elem Prompt="Calendrier-Temps" Name="Calendrier-Temps" PromptU="Calendar-Times" NameU="Calendar-Times"/>
+    <Elem Prompt="Cocher" Name="Cocher" PromptU="Check-Square-O" NameU="Check-Square-O"/>
+    <Elem Prompt="Enfant" Name="Enfant" PromptU="Child" NameU="Child"/>
+    <Elem Prompt="Presse-papiers 1" Name="Presse-papiers 1" PromptU="Clipboard 1" NameU="Clipboard 1"/>
+	<Elem Prompt="Presse-papiers 2" Name="Presse-papiers 2" PromptU="Clipboard 2" NameU="Clipboard 2"/>
+	<Elem Prompt="Horloge 1" Name="Horloge 1" PromptU="Clock - 1" NameU="Clock - 1"/>
+	<Elem Prompt="Cloner" Name="Cloner" PromptU="Clone" NameU="Clone"/>
+	<Elem Prompt="Engrenage" Name="Engrenage" PromptU="Cogs" NameU="Cogs"/>
+	<Elem Prompt="Serrer la main" Name="Serrer la main" PromptU="Handshake" NameU="Handshake"/>
+	<Elem Prompt="Taxi" Name="Taxi" PromptU="Taxi" NameU="Taxi"/>
+	<Elem Prompt="Thermomètre" Name="Thermomètre" PromptU="Thermometer" NameU="Thermometer"/>
+	<Elem Prompt="Utilisateur - Cercle" Name="Utilisateur - Cercle" PromptU="User - Circle" NameU="User - Circle"/>
+	<Elem Prompt="Mallette" Name="Mallette" PromptU="Briefcase 1" NameU="Briefcase 1"/>
+	<Elem Prompt="Mallette" Name="Mallette" PromptU="Briefcase 2" NameU="Briefcase 2"/>
+	<Elem Prompt="Mallette" Name="Mallette" PromptU="Briefcase 3" NameU="Briefcase 3"/>
+	<Elem Prompt="Bâtiment" Name="Bâtiment" PromptU="Building" NameU="Building"/>
+	
+	
+</Lib>

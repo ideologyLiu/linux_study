@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Drinks">
+     <Elem NameU="Cocktail 1"	Name= "Cocktail 1"	PromptU="Cocktail 1"	Prompt= "Cocktail 1"/>
+     <Elem NameU="Cocktail 2"	Name= "Cocktail 2"	PromptU="Cocktail 2"	Prompt= "Cocktail 2"/>
+     <Elem NameU="Champagne"	Name= "Champagner"	PromptU="Champagne"	Prompt= "Champagner"/>
+     <Elem NameU="Juice"	Name= "Saft"	PromptU="Juice"	Prompt= "Saft"/>
+     <Elem NameU="Orange Juice"	Name= "Orangensaft"	PromptU="Orange Juice"	Prompt= "Orangensaft"/>
+     <Elem NameU="Milk Tea"	Name= "Milchtee"	PromptU="Milk Tea"	Prompt= "Milchtee"/>
+     <Elem NameU="Slush"	Name= "Slush"	PromptU="Slush"	Prompt= "Slush"/>
+     <Elem NameU="Lemon Mint Beverage"	Name= "Lemon Mint Beverage"	PromptU="Lemon Mint Beverage"	Prompt= "Lemon Mint Beverage"/>
+     <Elem NameU="Margaritas"	Name= "Margaritas"	PromptU="Margaritas"	Prompt= "Margaritas"/>
+     <Elem NameU="Cola 1"	Name= "Cola 1"	PromptU="Cola 1"	Prompt= "Cola 1"/>
+     <Elem NameU="Cola 2"	Name= "Cola 2"	PromptU="Cola 2"	Prompt= "Cola 2"/>
+     <Elem NameU="Coffee 1"	Name= "Kaffee 1"	PromptU="Coffee 1"	Prompt= "Kaffee 1"/>
+	 <Elem NameU="Coffee 2"	Name= "Kaffee 2"	PromptU="Coffee 2"	Prompt= "Kaffee 2"/>
+     <Elem NameU="Coffee cup"	Name= "Kaffeetasse"	PromptU="Coffee cup"	Prompt= "Kaffeetasse"/>
+     <Elem NameU="Tea 1"	Name= "Tee 1"	PromptU="Tea 1"	Prompt= "Tee 1"/>
+     <Elem NameU="Tea"	Name= "Tee"	PromptU="Tea"	Prompt= "Tee"/>
+     <Elem NameU="Beer 1"	Name= "Bier 1"	PromptU="Beer 1"	Prompt= "Bier 1"/>
+     <Elem NameU="Beer 2"	Name= "Bier 2"	PromptU="Beer 2"	Prompt= "Bier 2"/>
+     <Elem NameU="Coconut Drink"	Name= "Kokosgetränk"	PromptU="Coconut Drink"	Prompt= "Kokosgetränk"/>
+     <Elem NameU="Wine"	Name= "Wein"	PromptU="Wine"	Prompt= "Wein"/>
+	 <Elem NameU="Red Wine"	Name= "Rotwein"	PromptU="Red Wine"	Prompt= "Rotwein"/>
+     <Elem NameU="Champagne"	Name= "Champagner"	PromptU="Champagne"	Prompt= "Champagner"/>
+     <Elem NameU="Soda 1"	Name= "Soda 1"	PromptU="Soda 1"	Prompt= "Soda 1"/>
+     <Elem NameU="Soda 2"	Name= "Soda 2"	PromptU="Soda 2"	Prompt= "Soda 2"/>
+     <Elem NameU="Liqueur"	Name= "Likör"	PromptU="Liqueur"	Prompt= "Likör"/>
+     <Elem NameU="Beer"	Name= "Bier"	PromptU="Beer"	Prompt= "Bier"/>
+</Lib>

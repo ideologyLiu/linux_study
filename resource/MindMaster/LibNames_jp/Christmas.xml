@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Christmas">
+    <Elem NameU="Christmas Tree 1" Name="クリスマスツリー 1" PromptU="Christmas Tree 1" Prompt="クリスマスツリー 1"/>
+    <Elem NameU="Christmas Tree 2" Name="クリスマスツリー 2" PromptU="Christmas Tree 2" Prompt="クリスマスツリー 2"/>
+    <Elem NameU="Christmas Tree 3" Name="クリスマスツリー 3" PromptU="Christmas Tree 3" Prompt="クリスマスツリー 3"/>
+    <Elem NameU="Christmas Tree 4" Name="クリスマスツリー 4" PromptU="Christmas Tree 4" Prompt="クリスマスツリー 4"/>
+    <Elem NameU="Christmas Tree 5" Name="クリスマスツリー 5" PromptU="Christmas Tree 5" Prompt="クリスマスツリー 5"/>
+    <Elem NameU="Christmas Tree 6" Name="クリスマスツリー 6" PromptU="Christmas Tree 6" Prompt="クリスマスツリー 6"/>
+    <Elem NameU="Santa Claus 1" Name="サンタクロース 1" PromptU="Santa Claus 1" Prompt="サンタクロース 1"/>
+    <Elem NameU="Santa Claus 2" Name="サンタクロース 2" PromptU="Santa Claus 2" Prompt="サンタクロース 2"/>
+    <Elem NameU="Snowman 1" Name="雪だるま 1" PromptU="Snowman 1" Prompt="雪だるま 1"/>
+    <Elem NameU="Snowman 2" Name="雪だるま 2" PromptU="Snowman 2" Prompt="雪だるま 2"/>
+    <Elem NameU="House" Name="家" PromptU="House" Prompt="家"/>
+    <Elem NameU="Reindeer" Name="トナカイ" PromptU="Reindeer" Prompt="トナカイ"/>
+    <Elem NameU="Elk 1" Name="トナカイとそり 1" PromptU="Elk 1" Prompt="トナカイとそり 1"/>
+    <Elem NameU="Elk 2" Name="トナカイとそり 2" PromptU="Elk 2" Prompt="トナカイとそり 2"/>
+    <Elem NameU="Reindeer 1" Name="トナカイ 1" PromptU="Reindeer 1" Prompt="トナカイ 1"/>
+    <Elem NameU="Reindeer 2" Name="トナカイ 2" PromptU="Reindeer 2" Prompt="トナカイ 2"/>
+    <Elem NameU="Bells 1" Name="ベル 1" PromptU="Bells 1" Prompt="ベル "/>
+    <Elem NameU="Bells 2" Name="ベル 2" PromptU="Bells 2" Prompt="ベル 2"/>
+    <Elem NameU="Christmas Wreath" Name="クリスマスリース" PromptU="Christmas Wreath" Prompt="クリスマスリース"/>
+    <Elem NameU="Gift" Name="贈り物" PromptU="Gift" Prompt="贈り物"/>
+    <Elem NameU="Gift" Name="贈り物" PromptU="Gift" Prompt="贈り物"/>
+    <Elem NameU="Gift" Name="贈り物" PromptU="Gift" Prompt="贈り物"/>
+    <Elem NameU="Gift" Name="贈り物" PromptU="Gift" Prompt="贈り物"/>
+    <Elem NameU="Gift" Name="贈り物" PromptU="Gift" Prompt="贈り物"/>
+    <Elem NameU="Gift" Name="贈り物" PromptU="Gift" Prompt="贈り物"/>
+    <Elem NameU="Gift" Name="贈り物" PromptU="Gift" Prompt="贈り物"/>
+    <Elem NameU="Gift" Name="贈り物" PromptU="Gift" Prompt="贈り物"/>
+    <Elem NameU="Gift" Name="贈り物" PromptU="Gift" Prompt="贈り物"/>
+    <Elem NameU="Gift" Name="贈り物" PromptU="Gift" Prompt="贈り物"/>
+    <Elem NameU="Gift" Name="贈り物" PromptU="Gift" Prompt="贈り物"/>
+    <Elem NameU="Gift" Name="贈り物" PromptU="Gift" Prompt="贈り物"/>
+    <Elem NameU="Candy cane" Name="キャンディー・キャン" PromptU="Candy cane" Prompt="キャンディー・キャン"/>
+    <Elem NameU="Candy cane" Name="キャンディー・キャン" PromptU="Candy cane" Prompt="キャンディー・キャン"/>
+    <Elem NameU="Candy cane" Name="キャンディー・キャン" PromptU="Candy cane" Prompt="キャンディー・キャン"/>
+    <Elem NameU="Christmas Ginger Bread" Name="クリスマスジンジャーパン" PromptU="Christmas Ginger Bread" Prompt="クリスマスジンジャーパン"/>
+    <Elem NameU="Christmas Ginger Bread" Name="クリスマスジンジャーパン" PromptU="Christmas Ginger Bread" Prompt="クリスマスジンジャーパン"/>
+    <Elem NameU="Hat" Name="帽子" PromptU="Hat" Prompt="帽子"/>
+    <Elem NameU="Hat" Name="帽子" PromptU="Hat" Prompt="帽子"/>
+    <Elem NameU="Christmas Stockings" Name="クリスマス靴下" PromptU="Christmas Stockings" Prompt="クリスマス靴下"/>
+    <Elem NameU="Christmas Stockings" Name="クリスマス靴下" PromptU="Christmas Stockings" Prompt="クリスマス靴下"/>
+    <Elem NameU="Christmas Stockings" Name="クリスマス靴下" PromptU="Christmas Stockings" Prompt="クリスマス靴下"/>
+    <Elem NameU="Gloves" Name="手袋" PromptU="Gloves" Prompt="手袋"/>
+    <Elem NameU="Gloves" Name="手袋" PromptU="Gloves" Prompt="手袋"/>
+    <Elem NameU="ScarvesGloves" Name="スカーフと手袋" PromptU="ScarvesGloves" Prompt="スカーフと手袋"/>
+    <Elem NameU="Reindeer ears" Name="トナカイの耳" PromptU="Reindeer ears" Prompt="トナカイの耳"/>
+    <Elem NameU="Reindeer ears" Name="トナカイの耳" PromptU="Reindeer ears" Prompt="トナカイの耳"/>
+    <Elem NameU="Star" Name="スター" PromptU="Star" Prompt="スター"/>
+    <Elem NameU="Star" Name="スター" PromptU="Star" Prompt="スター"/>
+    <Elem NameU="Snowflake" Name="雪片" PromptU="Snowflake" Prompt="雪片"/>
+    <Elem NameU="Snowflake" Name="雪片" PromptU="Snowflake" Prompt="雪片"/>
+    <Elem NameU="Snowflake" Name="雪片" PromptU="Snowflake" Prompt="雪片"/>
+    <Elem NameU="Snowflake" Name="雪片" PromptU="Snowflake" Prompt="雪片"/>
+    <Elem NameU="Snowflake" Name="雪片" PromptU="Snowflake" Prompt="雪片"/>
+    <Elem NameU="Snowflake" Name="雪片" PromptU="Snowflake" Prompt="雪片"/>
+    <Elem NameU="Snowflake" Name="雪片" PromptU="Snowflake" Prompt="雪片"/>
+    <Elem NameU="Snowflake" Name="雪片" PromptU="Snowflake" Prompt="雪片"/>
+    <Elem NameU="Snowflake" Name="雪片" PromptU="Snowflake" Prompt="雪片"/>
+    <Elem NameU="Snowflake" Name="雪片" PromptU="Snowflake" Prompt="雪片"/>
+    <Elem NameU="Snowflake" Name="雪片" PromptU="Snowflake" Prompt="雪片"/>
+    <Elem NameU="Snowflake" Name="雪片" PromptU="Snowflake" Prompt="雪片"/>
+    <Elem NameU="Snowflake" Name="雪片" PromptU="Snowflake" Prompt="雪片"/>
+    <Elem NameU="Snowflake" Name="雪片" PromptU="Snowflake" Prompt="雪片"/>
+    <Elem NameU="Snowflake" Name="雪片" PromptU="Snowflake" Prompt="雪片"/>
+    <Elem NameU="Candy" Name="キャンディー" PromptU="Candy" Prompt="キャンディー"/>
+    <Elem NameU="Candy" Name="キャンディー" PromptU="Candy" Prompt="キャンディー"/>
+    <Elem NameU="Candy" Name="キャンディー" PromptU="Candy" Prompt="キャンディー"/>
+    <Elem NameU="Candy" Name="キャンディー" PromptU="Candy" Prompt="キャンディー"/>
+    <Elem NameU="Candy" Name="キャンディー" PromptU="Candy" Prompt="キャンディー"/>
+    <Elem NameU="Candy" Name="キャンディー" PromptU="Candy" Prompt="キャンディー"/>
+    <Elem NameU="Candy" Name="キャンディー" PromptU="Candy" Prompt="キャンディー"/>
+    <Elem NameU="Candle" Name="ろうそく" PromptU="Candle" Prompt="ろうそく"/>
+    <Elem NameU="Ball" Name="ボール" PromptU="Ball" Prompt="ボール"/>
+    <Elem NameU="Ball" Name="ボール" PromptU="Ball" Prompt="ボール"/>
+    <Elem NameU="Ball" Name="ボール" PromptU="Ball" Prompt="ボール"/>
+    <Elem NameU="Christmas decorations" Name="クリスマス飾り" PromptU="Christmas decorations" Prompt="クリスマス飾り"/>
+    <Elem NameU="Christmas decorations" Name="クリスマス飾り" PromptU="Christmas decorations" Prompt="クリスマス飾り"/>
+    <Elem NameU="Christmas decorations" Name="クリスマス飾り" PromptU="Christmas decorations" Prompt="クリスマス飾り"/>
+    <Elem NameU="Christmas decorations" Name="クリスマス飾り" PromptU="Christmas decorations" Prompt="クリスマス飾り"/>
+    <Elem NameU="Christmas decorations" Name="クリスマス飾り" PromptU="Christmas decorations" Prompt="クリスマス飾り"/>
+    <Elem NameU="Christmas decorations" Name="クリスマス飾り" PromptU="Christmas decorations" Prompt="クリスマス飾り"/>
+    <Elem NameU="Christmas decorations" Name="クリスマス飾り" PromptU="Christmas decorations" Prompt="クリスマス飾り"/>
+    <Elem NameU="Balloon" Name="風船" PromptU="Balloon" Prompt="風船"/>
+    <Elem NameU="Leaf of chinese ilex" Name="葉" PromptU="Leaf of chinese ilex" Prompt="葉"/>
+    <Elem NameU="Leaf of chinese ilex" Name="葉" PromptU="Leaf of chinese ilex" Prompt="葉"/>
+    <Elem NameU="Flower vine" Name="葉" PromptU="Flower vine" Prompt="葉"/>
+    <Elem NameU="Flags" Name="カラフルフラグ" PromptU="Flags" Prompt="カラフルフラグ"/>
+    <Elem NameU="Flags" Name="カラフルフラグ" PromptU="Flags" Prompt="カラフルフラグ"/>
+    <Elem NameU="Flags" Name="カラフルフラグ" PromptU="Flags" Prompt="カラフルフラグ"/>
+    <Elem NameU="Flags" Name="カラフルフラグ" PromptU="Flags" Prompt="カラフルフラグ"/>
+    <Elem NameU="Flags" Name="カラフルフラグ" PromptU="Flags" Prompt="カラフルフラグ"/>
+    <Elem NameU="Leaf" Name="葉" PromptU="Leaf" Prompt="葉"/>
+    <Elem NameU="Leaf" Name="葉" PromptU="Leaf" Prompt="葉"/>
+    <Elem NameU="Leaf" Name="葉" PromptU="Leaf" Prompt="葉"/>
+    <Elem NameU="Merry Christmas" Name="メリークリスマス" PromptU="Merry Christmas" Prompt="メリークリスマス"/>
+    <Elem NameU="Merry Christmas" Name="メリークリスマス" PromptU="Merry Christmas" Prompt="メリークリスマス"/>
+    <Elem NameU="Merry Christmas" Name="メリークリスマス" PromptU="Merry Christmas" Prompt="メリークリスマス"/>
+</Lib>

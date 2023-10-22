@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fashion Models">
+    <Elem NameU="Model 1" Name="模特 1" PromptU="Model 1" Prompt="模特 1"/>
+    <Elem NameU="Model 2" Name="模特 2" PromptU="Model 2" Prompt="模特 2"/>
+    <Elem NameU="Model 3" Name="模特 3" PromptU="Model 3" Prompt="模特 3"/>
+    <Elem NameU="Model 4" Name="模特 4" PromptU="Model 4" Prompt="模特 4"/>
+    <Elem NameU="Model 5" Name="模特 5" PromptU="Model 5" Prompt="模特 5"/>
+    <Elem NameU="Model 6" Name="模特 6" PromptU="Model 6" Prompt="模特 6"/>
+    <Elem NameU="Model 7" Name="模特 7" PromptU="Model 7" Prompt="模特 7"/>
+    <Elem NameU="Model 8" Name="模特 8" PromptU="Model 8" Prompt="模特 8"/>
+    <Elem NameU="Model 9" Name="模特 9" PromptU="Model 9" Prompt="模特 9"/>
+    <Elem NameU="Model 10" Name="模特 10" PromptU="Model 10" Prompt="模特 10"/>
+    <Elem NameU="Model 11" Name="模特 11" PromptU="Model 11" Prompt="模特 11"/>
+    <Elem NameU="Model 12" Name="模特 12" PromptU="Model 12" Prompt="模特 12"/>
+    <Elem NameU="Model 13" Name="模特 13" PromptU="Model 13" Prompt="模特 13"/>
+    <Elem NameU="Model 14" Name="模特 14" PromptU="Model 14" Prompt="模特 14"/>
+    <Elem NameU="Model 15" Name="模特 15" PromptU="Model 15" Prompt="模特 15"/>
+    <Elem NameU="Model 16" Name="模特 16" PromptU="Model 16" Prompt="模特 16"/>
+    <Elem NameU="Model 17" Name="模特 17" PromptU="Model 17" Prompt="模特 17"/>
+    <Elem NameU="Model 18" Name="模特 18" PromptU="Model 18" Prompt="模特 18"/>
+    <Elem NameU="Model 19" Name="模特 19" PromptU="Model 19" Prompt="模特 19"/>
+    <Elem NameU="Model 20" Name="模特 20" PromptU="Model 20" Prompt="模特 20"/>
+    <Elem NameU="Model 21" Name="模特 21" PromptU="Model 21" Prompt="模特 21"/>
+</Lib>

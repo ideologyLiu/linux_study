@@ -1,0 +1,52 @@
+﻿<Lib NameU="Business People" Name="商业人物 - 扁平">
+	<Elem NameU="Meeting" Name="会议" PromptU="Meeting" Prompt="会议" Del="FALSE"/>
+	<Elem NameU="International Cooperation" Name="国际合作" PromptU="International Cooperation" Prompt="国际合作" Del="FALSE"/>
+	<Elem NameU="High level talks" Name="高层会谈" PromptU="High level talks" Prompt="高层会谈" Del="FALSE"/>
+	<Elem NameU="Manager's daily work" Name="经理的日常工作" PromptU="Manager's daily work" Prompt="经理的日常工作" Del="FALSE"/>
+	<Elem NameU="Late for work" Name="迟到" PromptU="Late for work" Prompt="迟到" Del="FALSE"/>
+	<Elem NameU="International call" Name="国际电话" PromptU="International call" Prompt="国际电话" Del="FALSE"/>
+	<Elem NameU="A business travel" Name="出差" PromptU="A business travel" Prompt="出差" Del="FALSE"/>
+	<Elem NameU="Creative work" Name="工作创意" PromptU="Creative work" Prompt="工作创意" Del="FALSE"/>
+	<Elem NameU="Wifi" Name="Wifi" PromptU="Wifi" Prompt="Wifi" Del="FALSE"/>
+	<Elem NameU="Speech" Name="演讲" PromptU="Speech" Prompt="演讲" Del="FALSE"/>
+	<Elem NameU="Fax" Name="传真" PromptU="Fax" Prompt="传真" Del="FALSE"/>
+	<Elem NameU="Answer the phone" Name="接电话" PromptU="Answer the phone" Prompt="接电话" Del="FALSE"/>
+	<Elem NameU="Rainy days off work" Name="雨天下班回家" PromptU="Rainy days off work" Prompt="雨天下班回家" Del="FALSE"/>
+	<Elem NameU="Take a taxi home" Name="打车回家" PromptU="Take a taxi home" Prompt="打车回家" Del="FALSE"/>
+	<Elem NameU="Cross the road" Name="过马路" PromptU="Cross the road" Prompt="过马路" Del="FALSE"/>
+	<Elem NameU="The rest of the time" Name="其余时间" PromptU="The rest of the time" Prompt="其余时间" Del="FALSE"/>
+	<Elem NameU="Performance competition" Name="优秀员工" PromptU="Performance competition" Prompt="优秀员工" Del="FALSE"/>
+	<Elem NameU="To solve the economic crisis" Name="解决经济危机" PromptU="To solve the economic crisis" Prompt="解决经济危机" Del="FALSE"/>
+	<Elem NameU="Global partners" Name="全球合作伙伴" PromptU="Global partners" Prompt="全球合作伙伴" Del="FALSE"/>
+	<Elem NameU="Pleasant cooperation" Name="愉快的合作" PromptU="Pleasant cooperation" Prompt="愉快的合作" Del="FALSE"/>
+	<Elem NameU="Work exchange" Name="工作交流" PromptU="Work exchange" Prompt="工作交流" Del="FALSE"/>
+	<Elem NameU="Collation of data" Name="整理资料" PromptU="Collation of data" Prompt="整理资料" Del="FALSE"/>
+	<Elem NameU="The transportation of products" Name="产品的运输" PromptU="The transportation of products" Prompt="产品的运输" Del="FALSE"/>
+	<Elem NameU="Resignation" Name="注册" PromptU="Resignation" Prompt="注册" Del="FALSE"/>
+	<Elem NameU="How to get promoted" Name="如何获得晋升" PromptU="How to get promoted" Prompt="如何获得晋升" Del="FALSE"/>
+	<Elem NameU="Confused" Name="困惑" PromptU="Confused" Prompt="困惑" Del="FALSE"/>
+	<Elem NameU="Receive mail" Name="收到邮件" PromptU="Receive mail" Prompt="收到邮件" Del="FALSE"/>
+	<Elem NameU="Data analysis" Name="数据分析" PromptU="Data analysis" Prompt="数据分析" Del="FALSE"/>
+	<Elem NameU="Data processing" Name="数据处理" PromptU="Data processing" Prompt="数据处理" Del="FALSE"/>
+	<Elem NameU="Quality certification" Name="质量认证" PromptU="Quality certification" Prompt="质量认证" Del="FALSE"/>
+	<Elem NameU="To promote economic" Name="促进经济" PromptU="To promote economic" Prompt="促进经济" Del="FALSE"/>
+	<Elem NameU="The concept of time" Name="时间观念" PromptU="The concept of time" Prompt="时间观念" Del="FALSE"/>
+	<Elem NameU="Announcer" Name="宣布者" PromptU="Announcer" Prompt="宣布者" Del="FALSE"/>
+	<Elem NameU="Analysis of the pie chart" Name="分析图表" PromptU="Analysis of the pie chart" Prompt="分析图表" Del="FALSE"/>
+	<Elem NameU="Idea" Name="想法" PromptU="Idea" Prompt="想法" Del="FALSE"/>
+	<Elem NameU="Economic mind" Name="经济思想" PromptU="Economic mind" Prompt="经济思想" Del="FALSE"/>
+	<Elem NameU="Search" Name="查找" PromptU="Search" Prompt="查找" Del="FALSE"/>
+	<Elem NameU="Dialogue" Name="对话" PromptU="Dialogue" Prompt="对话" Del="FALSE"/>
+	<Elem NameU="Bulletin board" Name="公告栏" PromptU="Bulletin board" Prompt="公告栏" Del="FALSE"/>
+	<Elem NameU="The economic crisis" Name="经济危机" PromptU="The economic crisis" Prompt="经济危机" Del="FALSE"/>
+	<Elem NameU="Praise" Name="表扬" PromptU="Praise" Prompt="表扬" Del="FALSE"/>
+	<Elem NameU="Flag" Name="旗帜" PromptU="Flag" Prompt="旗帜" Del="FALSE"/>
+	<Elem NameU="Propaganda" Name="宣传" PromptU="Propaganda" Prompt="宣传" Del="FALSE"/>
+	<Elem NameU="The announcement" Name="宣布" PromptU="The announcement" Prompt="宣布" Del="FALSE"/>
+	<Elem NameU="Throw the rubbish" Name="扔垃圾" PromptU="Throw the rubbish" Prompt="扔垃圾" Del="FALSE"/>
+	<Elem NameU="Photograph" Name="照片" PromptU="Photograph" Prompt="照片" Del="FALSE"/>
+	<Elem NameU="Location" Name="定位" PromptU="Location" Prompt="定位" Del="FALSE"/>
+	<Elem NameU="Mobile phone calls" Name="手机通话" PromptU="Mobile phone calls" Prompt="手机通话" Del="FALSE"/>
+	<Elem NameU="Elite team" Name="精英团队" PromptU="Elite team" Prompt="精英团队" Del="FALSE"/>
+</Lib>
+

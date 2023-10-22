@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Leaves">
+    <Elem NameU="Leaf 1" Name="叶子1" PromptU="Leaf 1" Prompt="叶子1"/>
+    <Elem NameU="Leaf 2" Name="叶子2" PromptU="Leaf 2" Prompt="叶子2"/>
+    <Elem NameU="Leaf 3" Name="叶子3" PromptU="Leaf 3" Prompt="叶子3"/>
+    <Elem NameU="Leaf 4" Name="叶子4" PromptU="Leaf 4" Prompt="叶子4"/>
+    <Elem NameU="Leaf 5" Name="叶子5" PromptU="Leaf 5" Prompt="叶子5"/>
+    <Elem NameU="Leaf 6" Name="叶子6" PromptU="Leaf 6" Prompt="叶子6"/>
+    <Elem NameU="Leaf 7" Name="叶子7" PromptU="Leaf 7" Prompt="叶子7"/>
+    <Elem NameU="Leaf 8" Name="叶子8" PromptU="Leaf 8" Prompt="叶子8"/>
+    <Elem NameU="Leaf 9" Name="叶子9" PromptU="Leaf 9" Prompt="叶子9"/>
+    <Elem NameU="Leaf 10" Name="叶子10" PromptU="Leaf 10" Prompt="叶子10"/>
+    <Elem NameU="Leaf 11" Name="叶子11" PromptU="Leaf 11" Prompt="叶子11"/>
+    <Elem NameU="Leaf 12" Name="叶子12" PromptU="Leaf 12" Prompt="叶子12"/>
+    <Elem NameU="Leaf 13" Name="叶子13" PromptU="Leaf 13" Prompt="叶子13"/>
+    <Elem NameU="Leaf 14" Name="叶子14" PromptU="Leaf 14" Prompt="叶子14"/>
+    <Elem NameU="Leaf 15" Name="叶子15" PromptU="Leaf 15" Prompt="叶子15"/>
+    <Elem NameU="Leaf 16" Name="叶子16" PromptU="Leaf 16" Prompt="叶子16"/>
+    <Elem NameU="Leaf 17" Name="叶子17" PromptU="Leaf 17" Prompt="叶子17"/>
+    <Elem NameU="Leaf 18" Name="叶子18" PromptU="Leaf 18" Prompt="叶子18"/>
+    <Elem NameU="Leaf 19" Name="叶子19" PromptU="Leaf 19" Prompt="叶子19"/>
+    <Elem NameU="Leaf 20" Name="叶子20" PromptU="Leaf 20" Prompt="叶子20"/>
+    <Elem NameU="Leaf 21" Name="叶子21" PromptU="Leaf 21" Prompt="叶子21"/>
+    <Elem NameU="Leaf 22" Name="叶子22" PromptU="Leaf 22" Prompt="叶子22"/>
+    <Elem NameU="Leaf 23" Name="叶子23" PromptU="Leaf 23" Prompt="叶子23"/>
+    <Elem NameU="Leaf 24" Name="叶子24" PromptU="Leaf 24" Prompt="叶子24"/>
+    <Elem NameU="Leaf 25" Name="叶子25" PromptU="Leaf 25" Prompt="叶子25"/>
+</Lib>

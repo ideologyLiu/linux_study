@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fruit">
+    <Elem NameU="Apple 1" Name="りんご 1" PromptU="Apple 1" Prompt="りんご 1"/>
+    <Elem NameU="Apple 2" Name="りんご 2" PromptU="Apple 2" Prompt="りんご 2"/>
+    <Elem NameU="Apple 3" Name="りんご 3" PromptU="Apple 3" Prompt="りんご 3"/>
+    <Elem NameU="Avocado" Name="アボカド" PromptU="Avocado" Prompt="アボカド"/>
+    <Elem NameU="Banana 1" Name="バナナ 1" PromptU="Banana 1" Prompt="バナナ 1"/>
+    <Elem NameU="Banana 2" Name="バナナ 2" PromptU="Banana 2" Prompt="バナナ 2"/>
+    <Elem NameU="Banana 3" Name="バナナ 3" PromptU="Banana 3" Prompt="バナナ 3"/>
+    <Elem NameU="Blueberry" Name="ブルーベリー" PromptU="Blueberry" Prompt="ブルーベリー"/>
+    <Elem NameU="Cantaloupe" Name="カンタロープ" PromptU="Cantaloupe" Prompt="カンタロープ"/>
+    <Elem NameU="Carambola 1" Name="カランボラ 1" PromptU="Carambola 1" Prompt="カランボラ 1"/>
+    <Elem NameU="Carambola 2" Name="カランボラ 2" PromptU="Carambola 2" Prompt="カランボラ 2"/>
+    <Elem NameU="Cherry 1" Name="チェリー 1" PromptU="Cherry 1" Prompt="チェリー 1"/>
+    <Elem NameU="Cherry 2" Name="チェリー 2" PromptU="Cherry 2" Prompt="チェリー 2"/>
+    <Elem NameU="Coconut" Name="ココナッツ" PromptU="Coconut" Prompt="ココナッツ"/>
+    <Elem NameU="Durian" Name="ドリアン" PromptU="Durian" Prompt="ドリアン"/>
+    <Elem NameU="Guava" Name="グアバ" PromptU="Guava" Prompt="グアバ"/>
+    <Elem NameU="Grape" Name="ブドウ" PromptU="Grape" Prompt="ブドウ"/>
+    <Elem NameU="Kiwi Fruit" Name="キウイフルーツ" PromptU="Kiwi Fruit" Prompt="キウイフルーツ"/>
+    <Elem NameU="Leechee 1" Name="レイシ 1" PromptU="Leechee 1" Prompt="レイシ 1"/>
+    <Elem NameU="Leechee 2" Name="レイシ 2" PromptU="Leechee 2" Prompt="レイシ 2"/>
+    <Elem NameU="Lemon 1" Name="レモン 1" PromptU="Lemon 1" Prompt="レモン 1"/>
+    <Elem NameU="Lemon 2" Name="レモン 2" PromptU="Lemon 2" Prompt="レモン 2"/>
+    <Elem NameU="Loquat" Name="ビワ" PromptU="Loquat" Prompt="ビワ"/>
+    <Elem NameU="Mango" Name="マンゴー" PromptU="Mango" Prompt="マンゴー"/>
+    <Elem NameU="Mangosteen" Name="マンゴスチン" PromptU="Mangosteen" Prompt="マンゴスチン"/>
+    <Elem NameU="Orange" Name="みかん" PromptU="Orange" Prompt="みかん"/>
+    <Elem NameU="Pawpaw" Name="パパイヤ" PromptU="Pawpaw" Prompt="パパイヤ"/>
+    <Elem NameU="Peach 1" Name="桃 1" PromptU="Peach 1" Prompt="桃 1"/>
+    <Elem NameU="Peach 2" Name="桃 2" PromptU="Peach 2" Prompt="桃 2"/>
+    <Elem NameU="Pear" Name="梨" PromptU="Pear" Prompt="梨"/>
+    <Elem NameU="Pear 2" Name="梨" PromptU="Pear 2" Prompt="梨"/>
+    <Elem NameU="Persimmon 1" Name="柿 1" PromptU="Persimmon 1" Prompt="柿 1"/>
+     <Elem NameU="Tomato" Name="トマト" PromptU="Tomato" Prompt="トマト"/>
+    <Elem NameU="Pineapple 1" Name="パイナップル 1" PromptU="Pineapple 1" Prompt="パイナップル 1"/>
+    <Elem NameU="Pineapple 2" Name="パイナップル 2" PromptU="Pineapple 2" Prompt="パイナップル 2"/>
+    <Elem NameU="Pitaya Fruit" Name="ドラゴン・フルーツ" PromptU="Pitaya Fruit" Prompt="ドラゴン・フルーツ"/>
+    <Elem NameU="Pomegranate" Name="ザクロ" PromptU="Pomegranate" Prompt="ザクロ"/>
+    <Elem NameU="Raspberry" Name="ラズベリー" PromptU="Raspberry" Prompt="ラズベリー"/>
+    <Elem NameU="Shaddock" Name="ザボン" PromptU="Shaddock" Prompt="ザボン"/>
+    <Elem NameU="Strawberry 1" Name="イチゴ 1" PromptU="Strawberry 1" Prompt="イチゴ 1"/>
+    <Elem NameU="Strawberry 2" Name="イチゴ 2" PromptU="Strawberry 2" Prompt="イチゴ 2"/>
+    <Elem NameU="Tomato" Name="トマト" PromptU="Tomato" Prompt="トマト"/>
+    <Elem NameU="Watermelon 1" Name="スイカ 1" PromptU="Watermelon 1" Prompt="スイカ 1"/>
+    <Elem NameU="Watermelon 2" Name="スイカ 2" PromptU="Watermelon 2" Prompt="スイカ 2"/>
+    <Elem NameU="Watermelon 3" Name="スイカ 3" PromptU="Watermelon 3" Prompt="スイカ 3"/>
+</Lib>

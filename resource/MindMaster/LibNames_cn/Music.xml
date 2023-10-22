@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Music">
+    <Elem NameU="Drums" Name="架子鼓" PromptU="Drums" Prompt="架子鼓"/>
+    <Elem NameU="Piano 1" Name="钢琴 1" PromptU="Piano 1" Prompt="钢琴 1"/>
+    <Elem NameU="Piano 2" Name="钢琴 2" PromptU="Piano 2" Prompt="钢琴2"/>
+    <Elem NameU="Zither 1" Name="齐特琴 1" PromptU="Zither 1" Prompt="齐特琴 1"/>
+    <Elem NameU="Zither 2" Name="齐特琴 2" PromptU="Zither 2" Prompt="齐特琴 2"/>
+    <Elem NameU="Rock 1" Name="摇滚 1" PromptU="Rock 1" Prompt="摇滚 1"/>
+    <Elem NameU="Rock 2" Name="摇滚 2" PromptU="Rock 2" Prompt="摇滚 2"/>
+    <Elem NameU="Cello 1" Name="大提琴 1" PromptU="Cello 1" Prompt="大提琴 1"/>
+    <Elem NameU="Cello 2" Name="大提琴 2" PromptU="Cello 2" Prompt="大提琴 2"/>
+    <Elem NameU="Organist 1" Name="风琴演奏者 1" PromptU="Organist 1" Prompt="风琴演奏者 1"/>
+    <Elem NameU="Organist 2" Name="风琴演奏者 2" PromptU="Organist 2" Prompt="风琴演奏者 2"/>
+    <Elem NameU="Woman Playing Violin" Name="拉小提琴的女士" PromptU="Woman Playing Violin" Prompt="拉小提琴的女士"/>
+    <Elem NameU="Man Playing Violin" Name="拉小提琴的男士" PromptU="Man Playing Violin" Prompt="拉小提琴的男士"/>
+    <Elem NameU="Flute woman" Name="演奏长笛的女士" PromptU="Flute woman" Prompt="演奏长笛的女士"/>
+    <Elem NameU="Woman Singer" Name="女歌手" PromptU="Woman Singer" Prompt="女歌手"/>
+    <Elem NameU="Man Singer 1" Name="男歌手 1" PromptU="Man Singer 1" Prompt="男歌手 1"/>
+    <Elem NameU="Man Singer 2" Name="男歌手2" PromptU="Man Singer 2" Prompt="男歌手 2"/>
+    <Elem NameU="Saxophone man" Name="演奏萨克斯的男士" PromptU="Saxophone man" Prompt="演奏萨克斯的男士"/>
+    <Elem NameU="Ballet" Name="芭蕾舞者" PromptU="Ballet" Prompt="芭蕾舞者"/>
+    <Elem NameU="Listen to music" Name="听音乐" PromptU="Listen to music" Prompt="听音乐"/>
+    <Elem NameU="Mobile Music" Name="手机音乐" PromptU="Mobile Music" Prompt="手机音乐"/>
+    <Elem NameU="Accordion" Name="手风琴" PromptU="Accordion" Prompt="手风琴"/>
+    <Elem NameU="Saxophone" Name="萨克斯" PromptU="Saxophone" Prompt="萨克斯"/>
+    <Elem NameU="Keyboard 1" Name="电子琴 1" PromptU="Keyboard 1" Prompt="电子琴 1"/>
+    <Elem NameU="Horn" Name="喇叭" PromptU="Horn" Prompt="喇叭"/>
+    <Elem NameU="Flute 1" Name="长笛 1" PromptU="Flute 1" Prompt="长笛 1"/>
+    <Elem NameU="Cello 3" Name="大提琴 3" PromptU="Cello 3" Prompt="大提琴 3"/>
+    <Elem NameU="Flute 2" Name="长笛 2" PromptU="Flute 2" Prompt="长笛 2"/>
+    <Elem NameU="Bass 1" Name="贝斯 1" PromptU="Bass 1" Prompt="贝斯 1"/>
+    <Elem NameU="Bass 2" Name="贝斯 2" PromptU="Bass 2" Prompt="贝斯 2"/>
+    <Elem NameU="Guitar" Name="吉他" PromptU="Guitar" Prompt="吉他"/>
+    <Elem NameU="Chinese Instrument" Name="中国乐器" PromptU="Chinese Instrument" Prompt="中国乐器"/>
+    <Elem NameU="Huqin" Name="胡琴" PromptU="Huqin" Prompt="胡琴"/>
+    <Elem NameU="Trumpe" Name="喇叭" PromptU="Trumpe" Prompt="喇叭"/>
+    <Elem NameU="Chinese lute" Name="琵琶" PromptU="Chinese lute" Prompt="琵琶"/>
+    <Elem NameU="Erhu" Name="二胡" PromptU="Erhu" Prompt="二胡"/>
+    <Elem NameU="Tambourine" Name="小手鼓" PromptU="Tambourine" Prompt="小手鼓"/>
+    <Elem NameU="Maraca" Name="响葫芦" PromptU="Maraca" Prompt="响葫芦"/>
+    <Elem NameU="Piano 3" Name="钢琴3" PromptU="Piano 3" Prompt="钢琴3"/>
+    <Elem NameU="Snare Drum" Name="小军鼓" PromptU="Snare Drum" Prompt="小军鼓"/>
+    <Elem NameU="Drum" Name="架子鼓" PromptU="Drum" Prompt="架子鼓"/>
+    <Elem NameU="Trombone" Name="长号" PromptU="Trombone" Prompt="长号"/>
+    <Elem NameU="Cheng" Name="古筝" PromptU="Cheng" Prompt="古筝"/>
+    <Elem NameU="CD 1" Name="CD 1" PromptU="CD 1" Prompt="CD 1"/>
+    <Elem NameU="CD 2" Name="CD 2" PromptU="CD 2" Prompt="CD 2"/>
+    <Elem NameU="BeatEd" Name="打碟机" PromptU="BeatEd" Prompt="打碟机"/>
+    <Elem NameU="Tape" Name="胶带" PromptU="Tape" Prompt="胶带"/>
+    <Elem NameU="Headset" Name="耳机" PromptU="Headset" Prompt="耳机"/>
+    <Elem NameU="Microphone" Name="话筒" PromptU="Microphone" Prompt="话筒"/>
+    <Elem NameU="MP3" Name="MP3" PromptU="MP3" Prompt="MP3"/>
+    <Elem NameU="Radio" Name="收音机" PromptU="Radio" Prompt="收音机"/>
+    <Elem NameU="Keyboard 2" Name="电子琴2" PromptU="Keyboard 2" Prompt="电子琴2"/>
+    <Elem NameU="Acoustics" Name="音响" PromptU="Acoustics" Prompt="音响"/>
+    <Elem NameU="Triangle" Name="三角铁" PromptU="Triangle" Prompt="三角铁"/>
+    <Elem NameU="Triangolo" Name="三角铁" PromptU="Triangolo" Prompt="三角铁"/>
+    <Elem NameU="Volume" Name="音量" PromptU="Volume" Prompt="音量"/>
+    <Elem NameU="Volume Control" Name="音量调节" PromptU="Volume Control" Prompt="音量调节"/>
+    <Elem NameU="Sonogram" Name="声波图" PromptU="Sonogram" Prompt="声波图"/>
+    <Elem NameU="Cable" Name="电缆" PromptU="Cable" Prompt="电缆"/>
+    <Elem NameU="G Clef" Name="G 音谱号" PromptU="G Clef" Prompt="G 音谱号"/>
+    <Elem NameU="Whole Note" Name="全音符" PromptU="Whole Note" Prompt="全音符"/>
+    <Elem NameU="Dotted Half" Name="附点二分音符" PromptU="Dotted Half" Prompt="附点二分音符"/>
+    <Elem NameU="Half Note" Name="二分音符" PromptU="Half Note" Prompt="二分音符"/>
+    <Elem NameU="Quarter Note" Name="四分音符" PromptU="Quarter Note" Prompt="四分音符"/>
+    <Elem NameU="Eighth Note" Name="八分音符" PromptU="Eighth Note" Prompt="八分音符"/>
+    <Elem NameU="Sixteenth Note" Name="十六分音符" PromptU="Sixteenth Note" Prompt="十六分音符"/>
+    <Elem NameU="Demisemiquaver" Name="三十二分音符" PromptU="Demisemiquaver" Prompt="三十二分音符"/>
+    <Elem NameU="Beam Notes" Name="音符" PromptU="Beam Notes" Prompt="音符"/>
+    <Elem NameU="Note" Name="音符" PromptU="Note" Prompt="音符"/>
+    <Elem NameU="Musical Notes with Curved Line" Name="有波浪线的音符" PromptU="Musical Notes with Curved Line" Prompt="有波浪线的音符"/>
+    <Elem NameU="Straight Musical Note" Name="直线音符" PromptU="Straight Musical Note" Prompt="直线音符"/>
+    <Elem NameU="Colored Musical Note" Name="彩色音符" PromptU="Colored Musical Note" Prompt="彩色音符"/>
+	<Elem NameU="Play" Name="播放" PromptU="Play" Prompt="播放"/>
+    <Elem NameU="Stop" Name="播放" PromptU="Stop" Prompt="播放"/>
+    <Elem NameU="Next song" Name="下一首" PromptU="Next song" Prompt="下一首"/>
+    <Elem NameU="Previous song" Name="上一首" PromptU="Previous song" Prompt="上一首"/>
+    <Elem NameU="Pause" Name="暂停" PromptU="Pause" Prompt="暂停"/>
+    <Elem NameU="Eject" Name="弹出" PromptU="Eject" Prompt="弹出"/>
+</Lib>

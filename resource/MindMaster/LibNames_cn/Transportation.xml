@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Transportation">
+    <Elem NameU="Road 1" Name="道路1" PromptU="Road 1" Prompt="道路1"/>
+    <Elem NameU="Road 2" Name="道路2" PromptU="Road 2" Prompt="道路2"/>
+    <Elem NameU="Road 3" Name="道路3" PromptU="Road 3" Prompt="道路3"/>
+    <Elem NameU="Road 4" Name="道路4" PromptU="Road 4" Prompt="道路4"/>
+    <Elem NameU="Police Car" Name="警车" PromptU="Police Car" Prompt="警车"/>
+    <Elem NameU="Police" Name="警察" PromptU="Police" Prompt="警察"/>
+    <Elem NameU="Traffic Police" Name="交警" PromptU="Traffic Police" Prompt="交警"/>
+    <Elem NameU="Bus" Name="公车" PromptU="Bus" Prompt="公车"/>
+    <Elem NameU="Car 1" Name="轿车1" PromptU="Car 1" Prompt="轿车1"/>
+    <Elem NameU="Car 2" Name="轿车2" PromptU="Car 2" Prompt="轿车2"/>
+    <Elem NameU="Taxi" Name="的士" PromptU="Taxi" Prompt="的士"/>
+    <Elem NameU="Motorcycle" Name="摩托车" PromptU="Motorcycle" Prompt="摩托车"/>
+    <Elem NameU="Train" Name="火车" PromptU="Train" Prompt="火车"/>
+    <Elem NameU="Ship Rudder" Name="方向舵" PromptU="Ship Rudder" Prompt="方向舵"/>
+    <Elem NameU="Bicycle" Name="自行车" PromptU="Bicycle" Prompt="自行车"/>
+    <Elem NameU="Sailing Boat" Name="帆船" PromptU="Sailing Boat" Prompt="帆船"/>
+    <Elem NameU="Excavator" Name="挖掘机" PromptU="Excavator" Prompt="挖掘机"/>
+    <Elem NameU="Truck" Name="卡车" PromptU="Truck" Prompt="卡车"/>
+    <Elem NameU="Cement Truck" Name="水泥卡车" PromptU="Cement Truck" Prompt="水泥卡车"/>
+    <Elem NameU="Tank Truck" Name="油罐车" PromptU="Tank Truck" Prompt="油罐车"/>
+    <Elem NameU="Man" Name="男人" PromptU="Man" Prompt="男人"/>
+    <Elem NameU="Woman" Name="女人" PromptU="Woman" Prompt="女人"/>
+    <Elem NameU="Pedestrian 1" Name="行人1" PromptU="Pedestrian 1" Prompt="行人1"/>
+    <Elem NameU="Pedestrian 2" Name="行人2" PromptU="Pedestrian 2" Prompt="行人2"/>
+    <Elem NameU="Zebra crossing" Name="斑马线" PromptU="Zebra crossing" Prompt="斑马线"/>
+    <Elem NameU="Traffic Light 1" Name="红绿灯1" PromptU="Traffic Light 1" Prompt="红绿灯1"/>
+    <Elem NameU="Traffic Light 2" Name="红绿灯2" PromptU="Traffic Light 2" Prompt="红绿灯2"/>
+    <Elem NameU="Speed Camera" Name="超速摄像头" PromptU="Speed Camera" Prompt="超速摄像头"/>
+    <Elem NameU="Road Sign" Name="路标" PromptU="Road Sign" Prompt="路标"/>
+    <Elem NameU="Footway" Name="人行道" PromptU="Footway" Prompt="人行道"/>
+    <Elem NameU="No Smoking" Name="禁止吸烟" PromptU="No Smoking" Prompt="禁止吸烟"/>
+    <Elem NameU="Do Not Enter Sign" Name="禁止驶入" PromptU="Do Not Enter Sign" Prompt="禁止驶入"/>
+    <Elem NameU="Stop Sign" Name="停车标志" PromptU="Stop Sign" Prompt="停车标志"/>
+    <Elem NameU="No Fire" Name="严禁明火" PromptU="No Fire" Prompt="严禁明火"/>
+    <Elem NameU="Road Sign" Name="路标" PromptU="Road Sign" Prompt="路标"/>
+    <Elem NameU="No Horn" Name="禁止鸣笛" PromptU="No Horn" Prompt="禁止鸣笛"/>
+    <Elem NameU="Bus Sign" Name="公车标志" PromptU="Bus Sign" Prompt="公车标志"/>
+    <Elem NameU="Stop Sign" Name="停车标志" PromptU="Stop Sign" Prompt="停车标志"/>
+    <Elem NameU="Parking 1" Name="泊车标志1" PromptU="Parking 1" Prompt="泊车标志1"/>
+    <Elem NameU="Parking 2" Name="泊车标志2" PromptU="Parking 2" Prompt="泊车标志2"/>
+    <Elem NameU="No parking" Name="禁止停车" PromptU="No parking" Prompt="禁止停车"/>
+    <Elem NameU="Circular Intersection" Name="交通转盘" PromptU="Circular Intersection" Prompt="交通转盘"/>
+    <Elem NameU="No Taxi" Name="禁止的士通行" PromptU="No Taxi" Prompt="禁止的士通行"/>
+    <Elem NameU="No Straight Nor Right Turn" Name="禁止直行和向右转弯" PromptU="No Straight Nor Right Turn" Prompt="禁止直行和向右转弯"/>
+    <Elem NameU="No Straight Nor Left Turn" Name="禁止直行和向左转弯" PromptU="No Straight Nor Left Turn" Prompt="禁止直行和向左转弯"/>
+    <Elem NameU="No U-Turn" Name="禁止掉头" PromptU="No U-Turn" Prompt="禁止掉头"/>
+    <Elem NameU="No Left Turn" Name="禁止向左转弯" PromptU="No Left Turn" Prompt="禁止向左转弯"/>
+    <Elem NameU="No Right Turn" Name="禁止向右转弯" PromptU="No Right Turn" Prompt="禁止向右转弯"/>
+    <Elem NameU="No Pedestrians" Name="禁止行人通行" PromptU="No Pedestrians" Prompt="禁止行人通行"/>
+    <Elem NameU="No Overtaking" Name="禁止超车" PromptU="No Overtaking" Prompt="禁止超车"/>
+    <Elem NameU="No Entry" Name="禁止驶入" PromptU="No Entry" Prompt="禁止驶入"/>
+    <Elem NameU="No Left Nor Right Turn" Name="禁止向左和向右转弯" PromptU="No Left Nor Right Turn" Prompt="禁止向左和向右转弯"/>
+    <Elem NameU="No Bicycles" Name="禁止自行车通行" PromptU="No Bicycles" Prompt="禁止自行车通行"/>
+    <Elem NameU="No Cars" Name="禁止机动车通行" PromptU="No Cars" Prompt="禁止机动车通行"/>
+    <Elem NameU="No Trucks" Name="禁止卡车通行" PromptU="No Trucks" Prompt="禁止卡车通行"/>
+    <Elem NameU="Two-Way Traffic" Name="双向交通" PromptU="Two-Way Traffic" Prompt="双向交通"/>
+    <Elem NameU="Crossroad Ahead" Name="前方十字路口" PromptU="Crossroad Ahead" Prompt="前方十字路口"/>
+    <Elem NameU="Side Road (Right)" Name="右辅路" PromptU="Side Road (Right)" Prompt="右辅路"/>
+    <Elem NameU="Side Road (Left)" Name="左辅路" PromptU="Side Road (Left)" Prompt="左辅路"/>
+    <Elem NameU="Traffic Signal Ahead" Name="交通信号灯" PromptU="Traffic Signal Ahead" Prompt="交通信号灯"/>
+    <Elem NameU="Overhead Electric Cable" Name="头顶有电线" PromptU="Overhead Electric Cable" Prompt="头顶有电线"/>
+    <Elem NameU="T Intersection Ahead" Name="T形交叉" PromptU="T Intersection Ahead" Prompt="T形交叉"/>
+    <Elem NameU="Y Intersection Ahead" Name="Y形交叉" PromptU="Y Intersection Ahead" Prompt="Y形交叉"/>
+    <Elem NameU="Hump Bridge Ahead" Name="前方驼峰桥" PromptU="Hump Bridge Ahead" Prompt="前方驼峰桥"/>
+    <Elem NameU="Dangerous" Name="危险" PromptU="Dangerous" Prompt="危险"/>
+    <Elem NameU="Caution Drop Down" Name="当心坠落" PromptU="Caution Drop Down" Prompt="当心坠落"/>
+    <Elem NameU="Caution No Motor Vehicle" Name="注意非机动车" PromptU="Caution No Motor Vehicle" Prompt="注意非机动车"/>
+    <Elem NameU="Barricade 1" Name="路障 1" PromptU="Barricade 1" Prompt="路障 1"/>
+    <Elem NameU="Barricade 2" Name="路障 2" PromptU="Barricade 2" Prompt="路障 2"/>
+    <Elem NameU="Floor Stand Sign" Name="A字警示牌" PromptU="Floor Stand Sign" Prompt="A字警示牌"/>
+    <Elem NameU="Red Pylon" Name="红色交通路锥" PromptU="Red Pylon" Prompt="红色交通路锥"/>
+    <Elem NameU="Yellow Warning Stipe" Name="黄色警告线" PromptU="Yellow Warning Stipe" Prompt="黄色警告线"/>
+    <Elem NameU="OSHA tape (red-white striped)" Name="OSHA警示胶带(红白条纹)" PromptU="OSHA tape (red-white striped)" Prompt="OSHA警示胶带(红白条纹)"/>
+    <Elem NameU="OSHA tape (yellow-black checked)" Name="OSHA警示胶带(黄色格子)" PromptU="OSHA tape (yellow-black checked)" Prompt="OSHA警示胶带(黄色格子)"/>
+    <Elem NameU="OSHA tape (yellow-black striped)" Name="警示胶带(黑黄条纹)" PromptU="OSHA tape (yellow-black striped)" Prompt="OSHA 警示胶带(黑黄条纹)"/>
+    <Elem NameU="Green Light 1" Name="绿灯 1" PromptU="Green Light 1" Prompt="绿灯 1"/>
+    <Elem NameU="Red Light 1" Name="红灯 1" PromptU="Red Light 1" Prompt="红灯 1"/>
+    <Elem NameU="Yellow Light 1" Name="黄灯 1" PromptU="Yellow Light 1" Prompt="黄灯 1"/>
+    <Elem NameU="Green Light 2" Name="绿灯 2" PromptU="Green Light 2" Prompt="绿灯 2"/>
+    <Elem NameU="Red Light 2" Name="红灯 2" PromptU="Red Light 2" Prompt="红灯 2"/>
+    <Elem NameU="Yellow Light 2" Name="黄灯 2" PromptU="Yellow Light 2" Prompt="黄灯 2"/>
+    <Elem NameU="Green Light 3" Name="绿灯 3" PromptU="Green Light 3" Prompt="绿灯 3"/>
+    <Elem NameU="Red Light 3" Name="红灯 3" PromptU="Red Light 3" Prompt="红灯 3"/>
+    <Elem NameU="Yellow Light 3" Name="黄灯 3" PromptU="Yellow Light 3" Prompt="黄灯 3"/>
+    <Elem NameU="Red Light 4" Name="红灯 4" PromptU="Red Light 4" Prompt="红灯 4"/>
+    <Elem NameU="Gas-station" Name="加油站" PromptU="Gas-station" Prompt="加油站"/>
+    <Elem NameU="Street lamp 1" Name="路灯1" PromptU="Street lamp 1" Prompt="路灯1"/>
+    <Elem NameU="Street lamp 2" Name="路灯2" PromptU="Street lamp 2" Prompt="路灯2"/>
+    <Elem NameU="Instrument" Name="仪器" PromptU="Instrument" Prompt="仪器"/>
+    <Elem NameU="Steering Wheel 1" Name="方向盘1" PromptU="Steering Wheel 1" Prompt="方向盘1"/>
+    <Elem NameU="Steering Wheel 2" Name="方向盘2" PromptU="Steering Wheel 2" Prompt="方向盘2"/>
+    <Elem NameU="Direction 1" Name="指示方向1" PromptU="Direction 1" Prompt="指示方向1"/>
+    <Elem NameU="Direction 2" Name="指示方向2" PromptU="Direction 2" Prompt="指示方向2"/>
+    <Elem NameU="Direction 3" Name="指示方向3" PromptU="Direction 3" Prompt="指示方向3"/>
+    <Elem NameU="Trumpet" Name="喇叭" PromptU="Trumpet" Prompt="喇叭"/>
+    <Elem NameU="Ban on the horn" Name="禁止鸣笛" PromptU="Ban on the horn" Prompt="禁止鸣笛"/>
+    <Elem NameU="Mansion" Name="大厦" PromptU="Mansion" Prompt="大厦"/>
+    <Elem NameU="School" Name="学校" PromptU="School" Prompt="学校"/>
+    <Elem NameU="Shop" Name="商店" PromptU="Shop" Prompt="商店"/>
+    <Elem NameU="Tree 1" Name="树1" PromptU="Tree 1" Prompt="树1"/>
+    <Elem NameU="Tree 2" Name="树2" PromptU="Tree 2" Prompt="树2"/>
+</Lib>

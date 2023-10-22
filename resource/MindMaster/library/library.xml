@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Library version = "1.1" >
+<Templates Name = "Clip Art" version = "1.0" > 
+
+<Templates Name = "General" version = "1.0" >	
+	 <Template Path = "./Symbols/Icons.edt" Name = "Icons"></Template>
+    <Template Path = "./Symbols/Files.edt" Name = "Files"></Template>
+	<Template Path = "./Symbols/Folders.edt" Name = "Folders"></Template>	
+    <Template Path = "./Symbols/Guestures.edt" Name = "Gestures"></Template>
+	<Template Path = "./Symbols/Social Media Icons.edt" Name = "Social Media Icons"></Template>
+</Templates>
+
+<Templates Name = "Animal" version = "1.0" >
+    <Template Path = "./Symbols/Insect.edt" Name = "Insect"></Template>
+	<Template Path = "./Symbols/Sea Life.edt" Name = "Sea Life"></Template>
+	<Template Path = "./Symbols/Terricole.edt" Name = "Terricole"></Template>
+</Templates>
+
+<Templates Name = "Business" version = "1.0" >	
+	<Template Path = "./Symbols/Business.edt" Name = "Business"></Template>	
+	<Template Path = "./Symbols/Business Scene.edt" Name = "Business Scene"></Template>
+	<Template Path = "./Symbols/Discount Labels.edt" Name = "Discount Labels"></Template>			
+	<Template Path = "./Symbols/Office.edt" Name = "Office"></Template>	
+	<Template Path = "./Symbols/Marketing.edt" Name = "Marketing"></Template>
+</Templates>
+
+<Templates Name = "Education" version = "1.0" >	
+	<Template Path = "./Symbols/School.edt" Name = "School"></Template>
+	<Template Path = "./Symbols/Music.edt" Name = "Music"></Template>
+	<Template Path = "./Symbols/Education.edt" Name = "Education"></Template>
+</Templates>
+
+<Templates Name = "Fashion" version = "1.0" >	
+	<Template Path = "./Symbols/Fashion Models.edt" Name = "Fashion Models"></Template>	
+	<Template Path = "./Symbols/Fashion Items.edt" Name = "Fashion Items"></Template>
+</Templates>
+
+<Templates Name = "Festival" version = "1.0" >	
+	<Template Path = "./Symbols/Birthday.edt" Name = "Birthday"></Template>
+	<Template Path = "./Symbols/Christmas.edt" Name = "Christmas"></Template>
+	<Template Path = "./Symbols/Carnival.edt" Name = "Carnival"></Template>	
+	<Template Path = "./Symbols/Childrens Day.edt" Name = "Children's Day"></Template>	
+	<Template Path = "./Symbols/Easter.edt" Name = "Easter"></Template>	
+	<Template Path = "./Symbols/Halloween.edt" Name = "Halloween"></Template>
+	<Template Path = "./Symbols/Valentines Day.edt" Name = "Valentine's Day"></Template>	
+</Templates>
+
+<Templates Name = "Food" version = "1.0" >	
+	<Template Path = "./Symbols/Food.edt" Name = "Food"></Template>
+	<Template Path = "./Symbols/Bread.edt" Name = "Bread"></Template>
+	<Template Path = "./Symbols/Beverage.edt" Name = "Drinks"></Template>
+	<Template Path = "./Symbols/Fruit.edt" Name = "Fruit"></Template>	
+	<Template Path = "./Symbols/Tableware.edt" Name = "Tableware"></Template>
+</Templates>
+
+<Templates Name = "Nature" version = "1.0" >	
+	<Template Path = "./Symbols/Flowers.edt" Name = "Flowers"></Template>
+	<Template Path = "./Symbols/Leaves.edt" Name = "Leaves"></Template>	
+	<Template Path = "./Symbols/Landscape.edt" Name = "Landscape"></Template>	
+	<Template Path = "./Symbols/Trees.edt" Name = "Trees"></Template>	
+	<Template Path = "./Symbols/Weather.edt" Name = "Weather"></Template>	
+</Templates>
+
+
+<Templates Name = "People" version = "1.0" >		
+	<Template Path = "./Symbols/Business People.edt" Name = "Business People"></Template>	
+	<Template Path = "./Symbols/People Activity Pictogram.edt" Name = "People Activity Pictogram"></Template>	
+	<Template Path = "./Symbols/Profession Half-length.edt" Name = "Profession Half-length"></Template>		
+	<Template Path = "./Symbols/Silhouette.edt" Name = "Silhouette"></Template>
+</Templates>
+
+
+<Templates Name = "Social Life" version = "1.0" >		
+	<Template Path = "./Symbols/Architecture.edt" Name = "Architecture"></Template>
+	<Template Path = "./Symbols/Environment.edt" Name = "Environment"></Template>		
+	<Template Path = "./Symbols/Medical.edt" Name = "Medical"></Template>	
+	<Template Path = "./Symbols/News Media.edt" Name = "News Media"></Template>	
+	<Template Path = "./Symbols/Religion.edt" Name = "Religion"></Template>	
+	<Template Path = "./Symbols/Tourism.edt" Name = "Tourism"></Template>	
+</Templates>
+
+<Templates Name = "Sports" version = "1.0" >	
+	<Template Path = "./Symbols/Fitness.edt" Name = "Fitness"></Template>
+	<Template Path = "./Symbols/Sport Elements.edt" Name = "Sport Elements"></Template>	
+	<Template Path = "./Symbols/Sport Silhouette.edt" Name = "Sport Silhouette"></Template>
+</Templates>
+
+<Templates Name = "Technology" version = "1.0" >	
+	<Template Path = "./Symbols/Aerospace Technology.edt" Name = "Aerospace Technology"></Template>
+	<Template Path = "./Symbols/Artificial Intelligence.edt" Name = "Artificial Intelligence"></Template>
+    <Template Path = "./Symbols/Biotechnology.edt" Name = "Biotechnology"></Template>	
+	<Template Path = "./Symbols/Electronics.edt" Name = "Electronics"></Template>	
+</Templates>
+
+<Templates Name = "Transportation" version = "1.0" >	
+	<Template Path = "./Symbols/Transportation.edt" Name = "Transportation"></Template>
+	<Template Path = "./Symbols/Road signs.edt" Name = "Road Signs"></Template>	
+</Templates>
+
+</Templates>
+</Library>

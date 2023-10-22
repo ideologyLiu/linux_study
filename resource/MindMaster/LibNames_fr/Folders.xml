@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Folders">
+    <Elem NameU="BELL" Name="CLOCHE" PromptU="BELL" Prompt="CLOCHE"/>
+	<Elem NameU="Dialog Box" Name="Boite de dialogue" PromptU="Dialog Box" Prompt="Boite de dialogue"/>
+	<Elem NameU="Heart" Name="Cœur" PromptU="Heart" Prompt="Cœur"/>
+	<Elem NameU="Location" Name="Emplacement" PromptU="Location" Prompt="Emplacement"/>
+	<Elem NameU="Key" Name="Clé" PromptU="Key" Prompt="Clé"/>
+	<Elem NameU="Clock" Name="Horloge" PromptU="Clock" Prompt="Horloge"/>
+	<Elem NameU="Film" Name="Film" PromptU="Film" Prompt="Film"/>
+	<Elem NameU="Phone" Name="Téléphone" PromptU="Phone" Prompt="Téléphone"/>
+	<Elem NameU="Home" Name="Accueil" PromptU="Home" Prompt="Accueil"/>
+	<Elem NameU="Sun" Name="Soleil" PromptU="Sun" Prompt="Soleil"/>
+	<Elem NameU="Mail" Name="Courrier" PromptU="Mail" Prompt="Courrier"/>
+	<Elem NameU="Tag" Name="Étiquette" PromptU="Tag" Prompt="Étiquette"/>
+	<Elem NameU="Signal" Name="Signal" PromptU="Signal" Prompt="Signal"/>
+	<Elem NameU="Computer" Name="Ordinateur" PromptU="Computer" Prompt="Ordinateur"/>
+	<Elem NameU="Prohibition" Name="Interdiction" PromptU="Prohibition" Prompt="Interdiction"/>
+	<Elem NameU="Cloud" Name="Nuage" PromptU="Cloud" Prompt="Nuage"/>
+	<Elem NameU="Export" Name="Exportation" PromptU="Export" Prompt="Exportation"/>
+	<Elem NameU="Import" Name="Importation" PromptU="Import" Prompt="Importation"/>
+	<Elem NameU="Music" Name="Musique" PromptU="Music" Prompt="Musique"/>
+	<Elem NameU="Triangle" Name="Triangle" PromptU="Triangle" Prompt="Triangle"/>
+	<Elem NameU="Picture" Name="Photo" PromptU="Picture" Prompt="Photo"/>
+	<Elem NameU="Set" Name="Régler" PromptU="Set" Prompt="Régler"/> 
+	<Elem NameU="Recycle Bin" Name="Corbeille" PromptU="Recycle Bin" Prompt="Corbeille"/>
+	<Elem NameU="Magnifying Glass" Name="Loupe" PromptU="Magnifying Glass" Prompt="Loupe"/>
+	<Elem NameU="Star" Name="Étoile" PromptU="Star" Prompt="Étoile"/>
+	<Elem NameU="Deblocking" Name="Débloquer" PromptU="Deblocking" Prompt="Débloquer"/>
+	<Elem NameU="Lock" Name="Verrouiller" PromptU="Lock" Prompt="Verrouiller"/>
+	<Elem NameU="Refresh" Name="Actualiser" PromptU="Refresh" Prompt="Actualiser"/>
+	<Elem NameU="Plus Sign" Name="Plus" PromptU="Plus Sign" Prompt="Plus"/>
+	<Elem NameU="Minus" Name="Moins" PromptU="Minus" Prompt="Moins"/>
+	<Elem NameU="Mistake" Name="Erreur" PromptU="Mistake" Prompt="Erreur"/>
+	<Elem NameU="Right" Name="Oui" PromptU="Right" Prompt="Oui"/>
+	<Elem NameU="Exclamation Point" Name="Point d'exclamation" PromptU="Exclamation Point" Prompt="Point d'exclamation"/>
+	<Elem NameU="Microphone" Name="Microphone" PromptU="Microphone" Prompt="Microphone"/>
+	<Elem NameU="Calendar" Name="Calendrier" PromptU="Calendar" Prompt="Calendrier"/>
+	<Elem NameU="Switch" Name="Commutateur" PromptU="Switch" Prompt="Commutateur"/>
+	<Elem NameU="Camera" Name="Caméra" PromptU="Camera" Prompt="Caméra"/>
+	<Elem NameU="Bracket" Name="Crochets" PromptU="Bracket" Prompt="Crochets"/>
+	
+</Lib>

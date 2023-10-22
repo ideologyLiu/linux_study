@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Road Signs">
+    <Elem NameU="Roundabout" Name="ロータリーあり" PromptU="Roundabout" Prompt="ロータリーあり"/>
+    <Elem NameU="Road narrows on both sides ahead" Name="幅員減少" PromptU="Road narrows on both sides ahead" Prompt="幅員減少"/>
+    <Elem NameU="Hump Back Bridge" Name="橋" PromptU="Hump Back Bridge" Prompt="橋"/>
+    <Elem NameU="Horse Riders" Name="馬に乗る人" PromptU="Horse Riders" Prompt="馬に乗る人"/>
+    <Elem NameU="Height restriction warning" Name="高さ制限" PromptU="Height restriction warning" Prompt="高さ制限"/>
+    <Elem NameU="Falling Rocks" Name="落石のおそれあり" PromptU="Falling Rocks" Prompt="落石のおそれあり"/>
+    <Elem NameU="Slippery Road" Name="滑りやすい道" PromptU="Slippery Road" Prompt="滑りやすい道"/>
+    <Elem NameU="Children Crossing" Name="学校、幼稚園、保育所等あり" PromptU="Children Crossing" Prompt="学校、幼稚園、保育所等あり"/>
+    <Elem NameU="Sheep" Name="動物が飛び出すおそれあり 羊" PromptU="Sheep" Prompt="動物が飛び出すおそれあり 羊"/>
+    <Elem NameU="Cattle" Name="動物が飛び出すおそれあり 牛" PromptU="Cattle" Prompt="動物が飛び出すおそれあり 牛"/>
+    <Elem NameU="Cattle Grid" Name="家畜脱出防止溝" PromptU="Cattle Grid" Prompt="家畜脱出防止溝"/>
+    <Elem NameU="Steep hill downwards" Name="下り急こう配あり" PromptU="Steep hill downwards" Prompt="下り急こう配あり"/>
+    <Elem NameU="Steep hill upwards" Name="上り急こう配あり" PromptU="Steep hill upwards" Prompt="上り急こう配あり"/>
+    <Elem NameU="Danger place" Name="危険" PromptU="Danger place" Prompt="危険"/>
+    <Elem NameU="Intersection 1" Name="交差点 1" PromptU="Intersection 1" Prompt="交差点 1"/>
+    <Elem NameU="Intersection 2" Name="交差点 2" PromptU="Intersection 2" Prompt="交差点 2"/>
+    <Elem NameU="Bend" Name="曲がり" PromptU="Bend" Prompt="曲がり"/>
+    <Elem NameU="Double bend" Name="ダブル曲り" PromptU="Double bend" Prompt="ダブル曲り"/>
+    <Elem NameU="Two ways traffic" Name="二方向交通" PromptU="Two ways traffic" Prompt="二方向交通"/>
+    <Elem NameU="Mobile bridge" Name="可動橋" PromptU="Mobile bridge" Prompt="可動橋"/>
+    <Elem NameU="Traffic Lights" Name="信号灯" PromptU="Traffic Lights" Prompt="信号灯"/>
+    <Elem NameU="Pedestrian crossing" Name="注意" PromptU="Pedestrian crossing" Prompt="注意"/>
+    <Elem NameU="Road work" Name="道路工事" PromptU="Road work" Prompt="道路工事"/>
+    <Elem NameU="Back up" Name="バックアップ" PromptU="Back up" Prompt="バックアップ"/>
+    <Elem NameU="Give way" Name="減速让行" PromptU="Give way" Prompt="減速让行"/>
+    <Elem NameU="Crossing" Name="交差点3" PromptU="Crossing" Prompt="交差点3"/>
+    <Elem NameU="Stop" Name="停止" PromptU="Stop" Prompt="停止"/>
+    <Elem NameU="Roundable" Name="ロータリーあり" PromptU="Roundable" Prompt="ロータリーあり"/>
+    <Elem NameU="Cycle track" Name="自転車専用" PromptU="Cycle track" Prompt="自転車専用"/>
+    <Elem NameU="Pass this side" Name="右側通行" PromptU="Pass this side" Prompt="右側通行"/>
+    <Elem NameU="Direction to be followed" Name="曲がり" PromptU="Direction to be followed" Prompt="曲がり"/>
+    <Elem NameU="One way street" Name="一方通行" PromptU="One way street" Prompt="一方通行"/>
+    <Elem NameU="No entry" Name="車両進入禁止" PromptU="No entry" Prompt="車両進入禁止"/>
+    <Elem NameU="No entry both directions" Name="通行禁止" PromptU="No entry both directions" Prompt="通行禁止"/>
+    <Elem NameU="No pedestrians" Name="歩行者通行止め" PromptU="No pedestrians" Prompt="歩行者通行止め"/>
+    <Elem NameU="No vehicles designed to carry more than 8 passengers (excluding driver) or local buses" Name="大型乗用自動車通行止め" PromptU="No vehicles designed to carry more than 8 passengers (excluding driver) or local buses" Prompt="大型乗用自動車通行止め"/>
+    <Elem NameU="No towed caravans" Name="大型貨物自動車通行止め" PromptU="No towed caravans" Prompt="大型貨物自動車通行止め"/>
+    <Elem NameU="No goods vehicles exceeding maximum gross weight shown (in tonnes)" Name="特定の最大積載以上の貨物自動車等通行止め" PromptU="No goods vehicles exceeding maximum gross weight shown (in tonnes)" Prompt="特定の最大積載以上の貨物自動車等通行止め"/>
+    <Elem NameU="Maximum length (imperial only)" Name="最大幅と長さ" PromptU="Maximum length (imperial only)" Prompt="最大幅と長さ"/>
+    <Elem NameU="No cycling" Name="自転車通行止め" PromptU="No cycling" Prompt="自転車通行止め"/>
+    <Elem NameU="No motorcycles" Name="二輪の自動車・原動機付自転車通行止め" PromptU="No motorcycles" Prompt="二輪の自動車・原動機付自転車通行止め"/>
+    <Elem NameU="No horse-drawn vehicles" Name="馬車通行止め" PromptU="No horse-drawn vehicles" Prompt="馬車通行止め"/>
+    <Elem NameU="No motor vehicles except solo motorcycles" Name="二輪の自動車以外の自動車通行止め" PromptU="No motor vehicles except solo motorcycles" Prompt="二輪の自動車以外の自動車通行止め"/>
+    <Elem NameU="No motor vehicles" Name="車両（組合せ）通行止め" PromptU="No motor vehicles" Prompt="車両（組合せ）通行止め"/>
+    <Elem NameU="No Overtaking" Name="追い越し禁止" PromptU="No Overtaking" Prompt="追い越し禁止"/>
+    <Elem NameU="No vehicles carrying explosives" Name="危険物積載車両通行止め" PromptU="No vehicles carrying explosives" Prompt="危険物積載車両通行止め"/>
+    <Elem NameU="No U-turns" Name="転回禁止" PromptU="No U-turns" Prompt="転回禁止"/>
+    <Elem NameU="No articulated vehicles" Name="連結式車両通行止め" PromptU="No articulated vehicles" Prompt="連結式車両通行止め"/>
+    <Elem NameU="No Stopping" Name="駐停車禁止" PromptU="No Stopping" Prompt="駐停車禁止"/>
+    <Elem NameU="No left turn" Name="左折禁止" PromptU="No left turn" Prompt="左折禁止"/>
+    <Elem NameU="No right turn" Name="右折禁止" PromptU="No right turn" Prompt="右折禁止"/>
+    <Elem NameU="Maximum height (imperial only)" Name="高さ制限（インペリアル）" PromptU="Maximum height (imperial only)" Prompt="高さ制限（インペリアル）"/>
+    <Elem NameU="Maximum height (metric and imperial)" Name="高さ制限 (メトリックとインペリアル)" PromptU="Maximum height (metric and imperial)" Prompt="Maximum height (metric and imperial)"/>
+    <Elem NameU="Maximum width (imperial only)" Name="最大幅 (インペリアル)" PromptU="Maximum width (imperial only)" Prompt="最大幅 (インペリアル)"/>
+    <Elem NameU="Maximum width (metric and imperial)" Name="最大幅 (メトリックとインペリアル)" PromptU="Maximum width (metric and imperial)" Prompt="最大幅 (メトリックとインペリアル)"/>
+    <Elem NameU="Minimum speed" Name="最低速度" PromptU="Minimum speed" Prompt="最低速度"/>
+    <Elem NameU="Maximum speed" Name="最高速度" PromptU="Maximum speed" Prompt="最高速度"/>
+    <Elem NameU="National speed limit" Name="速度制限" PromptU="National speed limit" Prompt="速度制限"/>
+    <Elem NameU="Shared cycle" Name="自転車及び歩行者専用" PromptU="Shared cycle" Prompt="自転車及び歩行者専用"/>
+    <Elem NameU="Segregated cycle 1" Name="自転車と歩行者使い分け 1" PromptU="Segregated cycle 1" Prompt="自転車と歩行者使い分け 1"/>
+    <Elem NameU="Segregated cycle 2" Name="自転車と歩行者使い分け 2" PromptU="Segregated cycle 2" Prompt="自転車と歩行者使い分け 2"/>
+    <Elem NameU="Entering 20mph zone" Name="20 mphの地帯に入る" PromptU="Entering 20mph zone" Prompt="20 mphの地帯に入る"/>
+    <Elem NameU="Maximum weight" Name="重量制限" PromptU="Maximum weight" Prompt="重量制限"/>
+    <Elem NameU="Speed Camera in Operation" Name="速度測定カメラあり" PromptU="Speed Camera in Operation" Prompt="速度測定カメラあり"/>
+    <Elem NameU="Unsuitable for motor vehicles warning" Name="警告板" PromptU="Unsuitable for motor vehicles warning" Prompt="警告板"/>
+    <Elem NameU="Escape lane 1" Name="脱出レーン 1" PromptU="Escape lane 1" Prompt="脱出レーン 1"/>
+    <Elem NameU="Escape lane 2" Name="脱出レーン 2" PromptU="Escape lane 2" Prompt="脱出レーン 2"/>
+    <Elem NameU="SOS Point" Name="SOS 電話" PromptU="SOS Point" Prompt="SOS 電話"/>
+    <Elem NameU="No through road" Name="出口なし" PromptU="No through road" Prompt="出口なし"/>
+    <Elem NameU="Parking" Name="停車可" PromptU="Parking" Prompt="停車可"/>
+    <Elem NameU="No passing without stopping" Name="車両進入禁止" PromptU="No passing without stopping" Prompt="車両進入禁止"/>
+    <Elem NameU="No parking" Name="駐車禁止" PromptU="No parking" Prompt="駐車禁止"/>
+    <Elem NameU="Speed limit" Name="最高速度" PromptU="Speed limit" Prompt="最高速度"/>
+    <Elem NameU="Heigh limit" Name="高さ制限" PromptU="Heigh limit" Prompt="高さ制限"/>
+    <Elem NameU="Width limit" Name="最大幅" PromptU="Width limit" Prompt="最大幅"/>
+    <Elem NameU="Weight limit" Name="重量制限" PromptU="Weight limit" Prompt="重量制限"/>
+    <Elem NameU="Priority over oncoming traffic" Name="優先道路" PromptU="Priority over oncoming traffic" Prompt="優先道路"/>
+    <Elem NameU="Streetcar or regular buses" Name="電車" PromptU="Streetcar or regular buses" Prompt="電車"/>
+    <Elem NameU="Taxi status" Name="タクシー禁止" PromptU="Taxi status" Prompt="タクシー禁止"/>
+    <Elem NameU="Speed 30-zone" Name="最高速度30区域開始" PromptU="Speed 30-zone" Prompt="最高速度30区域開始"/>
+    <Elem NameU="End speed 30-zone" Name="最高速度30区域終了" PromptU="End speed 30-zone" Prompt="最高速度30区域終了"/>
+    <Elem NameU="Pedestrian crossing 2" Name="横断歩道" PromptU="Pedestrian crossing 2" Prompt="横断歩道"/>
+    <Elem NameU="Police" Name="警察署" PromptU="Police" Prompt="警察署"/>
+    <Elem NameU="Hotel" Name="ホテル" PromptU="Hotel" Prompt="ホテル"/>
+    <Elem NameU="Restaurant" Name="レストラン" PromptU="Restaurant" Prompt="レストラン"/>
+    <Elem NameU="Break down service" Name="メンテナンスと修理" PromptU="Break down service" Prompt="メンテナンスと修理"/>
+    <Elem NameU="P+R" Name="P+R" PromptU="P+R" Prompt="P+R"/>
+    <Elem NameU="Restroom" Name="トイレ" PromptU="Restroom" Prompt="トイレ"/>
+    <Elem NameU="Fuel" Name="ガソリンスタンド" PromptU="Fuel" Prompt="ガソリンスタンド"/>
+    <Elem NameU="Telephone" Name="電話" PromptU="Telephone" Prompt="電話"/>
+    <Elem NameU="Recommended speed" Name="推薦速度" PromptU="Recommended speed" Prompt="推薦速度"/>
+    <Elem NameU="Nodal point of motorway" Name="高速道路の結節点" PromptU="Nodal point of motorway" Prompt="高速道路の結節点"/>
+    <Elem NameU="Motorway" Name="高速道路" PromptU="Motorway" Prompt="高速道路"/>
+    <Elem NameU="End motorway" Name="高速道路の終点" PromptU="End motorway" Prompt="高速道路の終点"/>
+    <Elem NameU="Populated zone" Name="人密集地" PromptU="Populated zone" Prompt="人密集地"/>
+    <Elem NameU="End populated zone" Name="人密集地が終わる" PromptU="End populated zone" Prompt="人密集地が終わる"/>
+    <Elem NameU="Parking with clock" Name="時間制限駐車区間" PromptU="Parking with clock" Prompt="時間制限駐車区間"/>
+    <Elem NameU="Number sign" Name="ナンバーマーク" PromptU="Number sign" Prompt="ナンバーマーク"/>
+    <Elem NameU="Number sign (federal highway)" Name="ナンバーマーク (高速道路)" PromptU="Number sign (federal highway)" Prompt="ナンバーマーク (高速道路)"/>
+    <Elem NameU="Exit" Name="出口" PromptU="Exit" Prompt="出口"/>
+    <Elem NameU="Direction to place" Name="道しるべ" PromptU="Direction to place" Prompt="道しるべ"/>
+    <Elem NameU="Board of announcement of exit" Name="出口掲示板" PromptU="Board of announcement of exit" Prompt="出口掲示板"/>
+</Lib>

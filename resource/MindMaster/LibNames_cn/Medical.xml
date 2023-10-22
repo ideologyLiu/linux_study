@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Medical">
+    <Elem Prompt="女人" Name="女人" PromptU="Woman" NameU="Woman"/>
+    <Elem Prompt="男人" Name="男人" PromptU="Man" NameU="Man"/>
+    <Elem Prompt="分子结构" Name="分子结构" PromptU="Molecular Structure" NameU="Molecular Structure"/>
+    <Elem Prompt="大脑" Name="大脑" PromptU="Cerebrum" NameU="Cerebrum"/>
+    <Elem Prompt="心脏" Name="心脏" PromptU="Heart" NameU="Heart"/>
+    <Elem Prompt="DNA" Name="DNA" PromptU="DNA" NameU="DNA"/>
+    <Elem Prompt="心电图" Name="心电图" PromptU="Electrocardiogram" NameU="Electrocardiogram"/>
+    <Elem Prompt="胎儿" Name="胎儿" PromptU="Baby" NameU="Baby"/>
+    <Elem Prompt="家庭" Name="家庭" PromptU="Family" NameU="Family"/>
+    <Elem Prompt="分析" Name="分析" PromptU="Analysis" NameU="Analysis"/>
+    <Elem Prompt="报告" Name="报告" PromptU="Report" NameU="Report"/>
+    <Elem Prompt="救护车" Name="救护车" PromptU="Ambulance" NameU="Ambulance"/>
+    <Elem Prompt="医药箱" Name="医药箱" PromptU="Medical box" NameU="Medical box"/>
+    <Elem Prompt="呼吸器" Name="呼吸器" PromptU="Respirator" NameU="Respirator"/>
+    <Elem Prompt="听诊器" Name="听诊器" PromptU="Stethoscope" NameU="Stethoscope"/>
+    <Elem Prompt="发誓" Name="发誓" PromptU="Heart with Cross" NameU="Heart with Cross"/>
+    <Elem Prompt="药片" Name="药片" PromptU="Pill" NameU="Pill"/>
+    <Elem Prompt="胶囊" Name="胶囊" PromptU="Capsule" NameU="Capsule"/>
+    <Elem Prompt="医院" Name="医院" PromptU="Hospital" NameU="Hospital"/>
+    <Elem Prompt="显微镜" Name="显微镜" PromptU="Microscope" NameU="Microscope"/>
+    <Elem Prompt="体温计" Name="体温计" PromptU="Thermometer" NameU="Thermometer"/>
+    <Elem Prompt="试验" Name="试验" PromptU="Test" NameU="Test"/>
+    <Elem Prompt="试验 2" Name="试验 2" PromptU="Test 2" NameU="Test 2"/>
+    <Elem Prompt="康复设备" Name="康复设备" PromptU="Rehabilitation Equipment" NameU="Rehabilitation Equipment"/>
+    <Elem Prompt="拐杖" Name="拐杖" PromptU="Walking Stick" NameU="Walking Stick"/>
+    <Elem Prompt="拐杖 2" Name="拐杖 2" PromptU="Walking Stick 2" NameU="Walking Stick 2"/>
+    <Elem Prompt="轮椅" Name="轮椅" PromptU="Wheelchair" NameU="Wheelchair"/>
+    <Elem Prompt="康复设备" Name="康复设备" PromptU="Rehab Equipment" NameU="Rehab Equipment"/>
+    <Elem Prompt="康复设备 1" Name="康复设备 1" PromptU="Rehab Equipment 1" NameU="Rehab Equipment 1"/>
+    <Elem Prompt="康复设备 2" Name="康复设备 2" PromptU="Rehab Equipment 2" NameU="Rehab Equipment 2"/>
+    <Elem Prompt="康复设备 3" Name="康复设备 3" PromptU="Rehab Equipment 3" NameU="Rehab Equipment 3"/>
+    <Elem Prompt="康复设备 4" Name="康复设备 4" PromptU="Rehab Equipment 4" NameU="Rehab Equipment 4"/>
+    <Elem Prompt="病床 1" Name="病床 1" PromptU="Hospital Bed 1" NameU="Hospital Bed 1"/>
+    <Elem Prompt="病床 2" Name="病床 2" PromptU="Hospital Bed 2" NameU="Hospital Bed 2"/>
+    <Elem Prompt="病床 3" Name="病床 3" PromptU="Hospital Bed 3" NameU="Hospital Bed 3"/>
+    <Elem Prompt="担架床" Name="担架床" PromptU="Operating table" NameU="Operating table"/>
+    <Elem Prompt="体重秤" Name="体重秤" PromptU="Scale" NameU="Scale"/>
+    <Elem Prompt="危险警告标志" Name="危险警告标志" PromptU="Hazard Warning Sign" NameU="Hazard Warning Sign"/>
+    <Elem Prompt="障碍标志" Name="障碍标志" PromptU="Handicap Sign" NameU="Handicap Sign"/>
+    <Elem Prompt="塑料输液袋" Name="塑料输液袋" PromptU="Plastic Infusion Bag" NameU="Plastic Infusion Bag"/>
+    <Elem Prompt="护士帽" Name="护士帽" PromptU="Nurse Cap" NameU="Nurse Cap"/>
+    <Elem Prompt="注射器" Name="注射器" PromptU="Injector" NameU="Injector"/>
+    <Elem Prompt="牙齿" Name="牙齿" PromptU="Tooth" NameU="Tooth"/>
+    <Elem Prompt="肝" Name="肝" PromptU="Liver" NameU="Liver"/>
+    <Elem Prompt="肺" Name="肺" PromptU="Lung" NameU="Lung"/>
+    <Elem Prompt="胃" Name="胃" PromptU="Stomach" NameU="Stomach"/>
+    <Elem Prompt="脾" Name="脾" PromptU="Spleen" NameU="Spleen"/>
+    <Elem Prompt="耳" Name="耳" PromptU="Ear" NameU="Ear"/>
+    <Elem Prompt="肠" Name="肠" PromptU="Intestines" NameU="Intestines"/>
+    <Elem Prompt="X光" Name="X光" PromptU="X-ray Film" NameU="X-ray Film"/>
+    <Elem Prompt="骨科X光" Name="骨科X光" PromptU="X-ray Film (Broken Bone)" NameU="X-ray Film (Broken Bone)"/>
+    <Elem Prompt="医生" Name="医生" PromptU="Doctor" NameU="Doctor"/>
+    <Elem Prompt="护士" Name="护士" PromptU="Nurse" NameU="Nurse"/>
+    <Elem Prompt="药丸" Name="药丸" PromptU="Pills" NameU="Pills"/>
+    <Elem Prompt="药瓶" Name="药瓶" PromptU="Medicine Bottle" NameU="Medicine Bottle"/>
+    <Elem Prompt="病毒 1" Name="病毒 1" PromptU="Virus 1" NameU="Virus 1"/>
+    <Elem Prompt="病毒 2" Name="病毒 2" PromptU="Virus 2" NameU="Virus 2"/>
+    <Elem Prompt="心形心电图(ecg)" Name="心形心电图 (ecg)" PromptU="Heart-shaped electrocardiogram (ecg)" NameU="Heart-shaped electrocardiogram (ecg)"/>
+    <Elem Prompt="喝" Name="喝" PromptU="Drinking" NameU="Drinking"/>
+</Lib>

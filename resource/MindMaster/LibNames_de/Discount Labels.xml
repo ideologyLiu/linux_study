@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Discount Labels">
+    <Elem NameU="Price Sticker 1" Name="Rabattetiketten 1" PromptU="Price Sticker 1" Prompt="Rabattetiketten 1"/>
+    <Elem NameU="Price Sticker 2" Name="Rabattetiketten 2" PromptU="Price Sticker 2" Prompt="Rabattetiketten 2"/>
+    <Elem NameU="Price Sticker 3" Name="Rabattetiketten 3" PromptU="Price Sticker 3" Prompt="Rabattetiketten 3"/>
+    <Elem NameU="Price Sticker 4" Name="Rabattetiketten 4" PromptU="Price Sticker 4" Prompt="Rabattetiketten 4"/>
+    <Elem NameU="Price Sticker 5" Name="Rabattetiketten 5" PromptU="Price Sticker 5" Prompt="Rabattetiketten 5"/>
+    <Elem NameU="Price Sticker 6" Name="Rabattetiketten 6" PromptU="Price Sticker 6" Prompt="Rabattetiketten 6"/>
+    <Elem NameU="Price Sticker 7" Name="Rabattetiketten 7" PromptU="Price Sticker 7" Prompt="Rabattetiketten 7"/>
+    <Elem NameU="Price Sticker 8" Name="Rabattetiketten 8" PromptU="Price Sticker 8" Prompt="Rabattetiketten 8"/>
+    <Elem NameU="Price Tag 1" Name="Preise Tag 1" PromptU="Price Tag 1" Prompt="Preise Tag 1"/>
+    <Elem NameU="Price Tag 2" Name="Preise Tag 2" PromptU="Price Tag 2" Prompt="Preise Tag 2"/>
+    <Elem NameU="Price Tag 3" Name="Preise Tag 3" PromptU="Price Tag 3" Prompt="Preise Tag 3"/>
+    <Elem NameU="Price Sticker 9" Name="Rabattetiketten 9" PromptU="Price Sticker 9" Prompt="Rabattetiketten 9"/>
+    <Elem NameU="Price Sticker 10" Name="Rabattetiketten 10" PromptU="Price Sticker 10" Prompt="Rabattetiketten 10"/>
+    <Elem NameU="Price Sticker 11" Name="Rabattetiketten 11" PromptU="Price Sticker 11" Prompt="Rabattetiketten 11"/>
+    <Elem NameU="Price Sticker 12" Name="Rabattetiketten 12" PromptU="Price Sticker 12" Prompt="Rabattetiketten 12"/>
+    <Elem NameU="Best Price" Name="Beste Preise" PromptU="Best Price" Prompt="Beste Preise"/>
+    <Elem NameU="Price Sticker 13" Name="Rabattetiketten 13" PromptU="Price Sticker 13" Prompt="Rabattetiketten 13"/>
+    <Elem NameU="Price Sticker 14" Name="Rabattetiketten 14" PromptU="Price Sticker 14" Prompt="Rabattetiketten 14"/>
+    <Elem NameU="Price Sticker 15" Name="Rabattetiketten 15" PromptU="Price Sticker 15" Prompt="Rabattetiketten 15"/>
+    <Elem NameU="Price Sticker 16" Name="Rabattetiketten 16" PromptU="Price Sticker 16" Prompt="Rabattetiketten 16"/>
+    <Elem NameU="Price Sticker 17" Name="Rabattetiketten 17" PromptU="Price Sticker 17" Prompt="Rabattetiketten 17"/>
+    <Elem NameU="Special Offer" Name="Sonderangebot" PromptU="Special Offer" Prompt="Sonderangebot"/>
+    <Elem NameU="Price Sticker 18" Name="Rabattetiketten 18" PromptU="Price Sticker 18" Prompt="Rabattetiketten 18"/>
+    <Elem NameU="FREE" Name="FREE" PromptU="FREE" Prompt="FREE"/>
+    <Elem NameU="Price Sticker 19" Name="Rabattetiketten 19" PromptU="Price Sticker 19" Prompt="Rabattetiketten 19"/>
+    <Elem NameU="Gift 1" Name="Geschenk 1" PromptU="Gift 1" Prompt="Geschenk 1"/>
+    <Elem NameU="Gift 2" Name="Geschenk 2" PromptU="Gift 2" Prompt="Geschenk 2"/>
+    <Elem NameU="Thank You Tag" Name="Danke Tag" PromptU="Thank You Tag" Prompt="Danke Tag"/>
+    <Elem NameU="Price Up" Name="Preise erhöhen" PromptU="Price Up" Prompt="Preise erhöhen"/>
+    <Elem NameU="Price Down" Name="Preise niedrigen" PromptU="Price Down" Prompt="Preise niedrigen"/>
+    <Elem NameU="Sale Tag 1" Name="Verkaufs Tag 1" PromptU="Sale Tag 1" Prompt="Verkaufs Tag 1"/>
+    <Elem NameU="Sale Tag 2" Name="Verkaufs Tag 2" PromptU="Sale Tag 2" Prompt="Verkaufs Tag 2"/>
+    <Elem NameU="Sale Banner" Name="Verkaufs Banner" PromptU="Sale Banner" Prompt="Verkaufs Banner"/>
+    <Elem NameU="Ribbons 1" Name="Bänder 1" PromptU="Ribbons 1" Prompt="Bänder 1"/>
+    <Elem NameU="Ribbons 2" Name="Bänder 2" PromptU="Ribbons 2" Prompt="Bänder 2"/>
+    <Elem NameU="Ribbons 3" Name="Bänder 3" PromptU="Ribbons 3" Prompt="Bänder 3"/>
+    <Elem NameU="Ribbons 4" Name="Bänder 4" PromptU="Ribbons 4" Prompt="Bänder 4"/>
+    <Elem NameU="Ribbons 5" Name="Bänder 5" PromptU="Ribbons 5" Prompt="Bänder 5"/>
+    <Elem NameU="Ribbons 6" Name="Bänder 6" PromptU="Ribbons 6" Prompt="Bänder 6"/>
+    <Elem NameU="Coupons 1" Name="Gutscheine 1" PromptU="Coupons 1" Prompt="Gutscheine 1"/>
+    <Elem NameU="Coupons 2" Name="Gutscheine 2" PromptU="Coupons 2" Prompt="Gutscheine 2"/>
+</Lib>

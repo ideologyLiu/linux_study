@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business People">
+    <Elem NameU="Man 1" Name="Mann 1" PromptU="Man 1" Prompt="Mann 1"/>
+    <Elem NameU="Man 2" Name="Mann 2" PromptU="Man" Prompt="Mann"/>
+    <Elem NameU="Man 3" Name="Mann 3" PromptU="Man" Prompt="Mann"/>
+    <Elem NameU="Man 4" Name="Mann 4" PromptU="Man" Prompt="Mann"/>
+    <Elem NameU="Man 5" Name="Mann 5" PromptU="Man" Prompt="Mann"/>
+    <Elem NameU="Man 6" Name="Mann 6" PromptU="Man" Prompt="Mann"/>
+    <Elem NameU="Woman 1" Name="Frau 1" PromptU="Woman 1" Prompt="Frau 1"/>
+    <Elem NameU="Woman 2" Name="Frau 2" PromptU="Woman" Prompt="Frau"/>
+    <Elem NameU="Woman 3" Name="Frau 3" PromptU="Woman" Prompt="Frau"/>
+    <Elem NameU="Woman 4" Name="Frau 4" PromptU="Woman" Prompt="Frau"/>
+    <Elem NameU="Woman 5" Name="Frau 5" PromptU="Woman" Prompt="Frau"/>
+    <Elem NameU="Woman 6" Name="Frau 6" PromptU="Woman" Prompt="Frau"/>
+    <Elem NameU="Woman 7" Name="Frau 7" PromptU="Woman" Prompt="Frau"/>
+    <Elem NameU="Running man" Name="Laufender Mann" PromptU="Running man" Prompt="Laufender Mann"/>
+    <Elem NameU="Rest" Name="Sich ausruhen" PromptU="Rest man" Prompt="Sich ausruhen"/>
+    <Elem NameU="Working" Name="Arbeiten" PromptU="Working man" Prompt="Arbeiten"/>
+    <Elem NameU="Meeting" Name="Sitzung" PromptU="Meeting" Prompt="Sitzung"/>
+</Lib>

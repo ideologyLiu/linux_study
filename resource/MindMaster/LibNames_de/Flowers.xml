@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Flowers">
+    <Elem NameU="Flower 1" Name="Blume 1" PromptU="Flower 1" Prompt="Blume 1"/>
+    <Elem NameU="Flower 2" Name="Blume 2" PromptU="Flower 2" Prompt="Blume 2"/>
+    <Elem NameU="Flower 3" Name="Blume 3" PromptU="Flower 3" Prompt="Blume 3"/>
+    <Elem NameU="Flower 4" Name="Blume 4" PromptU="Flower 4" Prompt="Blume 4"/>
+    <Elem NameU="Flower 5" Name="Blume 5" PromptU="Flower 5" Prompt="Blume 5"/>
+    <Elem NameU="Flower 6" Name="Blume 6" PromptU="Flower 6" Prompt="Blume 6"/>
+    <Elem NameU="Flower 7" Name="Blume 7" PromptU="Flower 7" Prompt="Blume 7"/>
+    <Elem NameU="Flower 8" Name="Blume 8" PromptU="Flower 8" Prompt="Blume 8"/>
+    <Elem NameU="Flower 9" Name="Blume 9" PromptU="Flower 9" Prompt="Blume 9"/>
+    <Elem NameU="Flower 10" Name="Blume 10" PromptU="Flower 10" Prompt="Blume 10"/>
+    <Elem NameU="Flower 11" Name="Blume 11" PromptU="Flower 11" Prompt="Blume 11"/>
+    <Elem NameU="Flower 12" Name="Blume 12" PromptU="Flower 12" Prompt="Blume 12"/>
+    <Elem NameU="Flower 13" Name="Blume 13" PromptU="Flower 13" Prompt="Blume 13"/>
+    <Elem NameU="Flower 14" Name="Blume 14" PromptU="Flower 14" Prompt="Blume 14"/>
+    <Elem NameU="Flower 15" Name="Blume 15" PromptU="Flower 15" Prompt="Blume 15"/>
+    <Elem NameU="Flower 16" Name="Blume 16" PromptU="Flower 16" Prompt="Blume 16"/>
+    <Elem NameU="Flower 17" Name="Blume 17" PromptU="Flower 17" Prompt="Blume 17"/>
+    <Elem NameU="Flower 18" Name="Blume 18" PromptU="Flower 18" Prompt="Blume 18"/>
+    <Elem NameU="Flower 19" Name="Blume 19" PromptU="Flower 19" Prompt="Blume 19"/>
+    <Elem NameU="Flower 20" Name="Blume 20" PromptU="Flower 20" Prompt="Blume 20"/>
+    <Elem NameU="Flower 21" Name="Blume 21" PromptU="Flower 21" Prompt="Blume 21"/>
+    <Elem NameU="Flower 22" Name="Blume 22" PromptU="Flower 22" Prompt="Blume 22"/>
+    <Elem NameU="Flower 23" Name="Blume 23" PromptU="Flower 23" Prompt="Blume 23"/>
+    <Elem NameU="Flower 24" Name="Blume 24" PromptU="Flower 24" Prompt="Blume 24"/>
+    <Elem NameU="Flower 25" Name="Blume 25" PromptU="Flower 25" Prompt="Blume 25"/>
+    <Elem NameU="Flower 26" Name="Blume 26" PromptU="Flower 26" Prompt="Blume 26"/>
+    <Elem NameU="Flower 27" Name="Blume 27" PromptU="Flower 27" Prompt="Blume 27"/>
+    <Elem NameU="Flower 28" Name="Blume 28" PromptU="Flower 28" Prompt="Blume 28"/>
+    <Elem NameU="Flower 29" Name="Blume 29" PromptU="Flower 29" Prompt="Blume 29"/>
+    <Elem NameU="Flower 30" Name="Blume 30" PromptU="Flower 30" Prompt="Blume 30"/>
+    <Elem NameU="Flower 31" Name="Blume 31" PromptU="Flower 31" Prompt="Blume 31"/>
+    <Elem NameU="Flower 32" Name="Blume 32" PromptU="Flower 32" Prompt="Blume 32"/>
+    <Elem NameU="Flower 33" Name="Blume 33" PromptU="Flower 33" Prompt="Blume 33"/>
+    <Elem NameU="Flower 34" Name="Blume 34" PromptU="Flower 34" Prompt="Blume 34"/>
+    <Elem NameU="Flower 35" Name="Blume 35" PromptU="Flower 35" Prompt="Blume 35"/>
+    <Elem NameU="Flower 36" Name="Blume 36" PromptU="Flower 36" Prompt="Blume 36"/>
+    <Elem NameU="Flower 37" Name="Blume 37" PromptU="Flower 37" Prompt="Blume 37"/>
+    <Elem NameU="Flower 38" Name="Blume 38" PromptU="Flower 38" Prompt="Blume 38"/>
+    <Elem NameU="Flower 39" Name="Blume 39" PromptU="Flower 39" Prompt="Blume 39"/>
+    <Elem NameU="Flower 40" Name="Blume 40" PromptU="Flower 40" Prompt="Blume 40"/>
+    <Elem NameU="Flower 41" Name="Blume 41" PromptU="Flower 41" Prompt="Blume 41"/>
+    <Elem NameU="Flower 42" Name="Blume 42" PromptU="Flower 42" Prompt="Blume 42"/>
+    <Elem NameU="Rose" Name="Rosa" PromptU="Rose" Prompt="Rosa"/>
+    <Elem NameU="Flower 43" Name="Blume 43" PromptU="Flower 43" Prompt="Blume 43"/>
+</Lib>

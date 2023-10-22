@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Biotechnology">
+    <Elem NameU="Brain" Name="Gehirn" PromptU="Brain" Prompt="Gehirn"/>
+    <Elem NameU="Neuron" Name="Neuron" PromptU="Neuron" Prompt="Neuron"/>
+    <Elem NameU="DNA 1" Name="DNA 1" PromptU="DNA 1" Prompt="DNA 1"/>
+    <Elem NameU="DNA 2" Name="DNA 2" PromptU="DNA 2" Prompt="DNA 2"/>
+    <Elem NameU="Cells" Name="Zellen" PromptU="Cells" Prompt="Zellen"/>
+    <Elem NameU="Molecular Structure 1" Name="Molekulare Struktur 1" PromptU="Molecular Structure 1" Prompt="Molekulare Struktur 1"/>
+    <Elem NameU="Molecular Structure 2" Name="Molekulare Struktur 2" PromptU="Molecular Structure 2" Prompt="Molekulare Struktur 2"/>
+    <Elem NameU="Molecular Structure 3" Name="Molekulare Struktur 3" PromptU="Molecular Structure 3" Prompt="Molekulare Struktur 3"/>
+    <Elem NameU="Molecular Structure 4" Name="Molekulare Struktur 4" PromptU="Molecular Structure 4" Prompt="Molekulare Struktur 4"/>
+    <Elem NameU="Plant Cell" Name="Pflanze Zellen" PromptU="Plant Cell" Prompt="Pflanze Zellen"/>
+    <Elem NameU="Animal Cells" Name="Tierzellen" PromptU="Animal Cells" Prompt="Tierzellen"/>
+    <Elem NameU="Microbial Culture Medium" Name="Mikrobielle Kulturmedium" PromptU="Microbial Culture Medium" Prompt="Mikrobielle Kulturmedium"/>
+    <Elem NameU="Scalpel" Name="Skalpell" PromptU="Scalpel" Prompt="Skalpell"/>
+    <Elem NameU="Injector" Name="Injektor" PromptU="Injector" Prompt="Injektor"/>
+    <Elem NameU="Microscopes" Name="Mikroskope" PromptU="Microscopes" Prompt="Mikroskope"/>
+    <Elem NameU="Specimen" Name="Probe" PromptU="Specimen" Prompt="Probe"/>
+    <Elem NameU="Plant Specimens" Name="Pflanzenproben" PromptU="Plant Specimens" Prompt="Pflanzenproben"/>
+    <Elem NameU="Glass Pipette" Name="Glaspipette" PromptU="Glass Pipette" Prompt="Glaspipette"/>
+    <Elem NameU="Test Tube" Name="Reagenzglas" PromptU="Test Tube" Prompt="Reagenzglas"/>
+    <Elem NameU="Glassware 1" Name="Glaswaren 1" PromptU="Glassware 1" Prompt="Glaswaren 1"/>
+    <Elem NameU="Glassware 2" Name="Glaswaren 2" PromptU="Glassware 2" Prompt="Glaswaren 2"/>
+    <Elem NameU="Experiment 1" Name="Experiment 1" PromptU="Experiment 1" Prompt="Experiment 1"/>
+    <Elem NameU="Experiment 2" Name="Experiment 2" PromptU="Experiment 2" Prompt="Experiment 2"/>
+    <Elem NameU="Experimenter 1" Name="Experimenter 1" PromptU="Experimenter 1" Prompt="Experimenter 1"/>
+    <Elem NameU="Experimenter 2" Name="Experimenter 2" PromptU="Experimenter 2" Prompt="Experimenter 2"/>
+    <Elem NameU="Experimenter 3" Name="Experimenter 3" PromptU="Experimenter 3" Prompt="Experimenter 3"/>
+    <Elem NameU="Biology And Technology" Name="Biologie und Technik" PromptU="Biology And Technology" Prompt="Biologie und Technik"/>
+</Lib>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Food">
+    <Elem NameU="Hamburger" Name="ハンバーガー" PromptU="Hamburger" Prompt="ハンバーガー"/>
+    <Elem NameU="Hot Dog" Name="ホットドッグ" PromptU="Hot Dog" Prompt="ホットドッグ"/>
+    <Elem NameU="Pizza" Name="ピザ" PromptU="Pizza" Prompt="ピザ"/>
+    <Elem NameU="Pizza piece" Name="ピザピース" PromptU="Pizza piece" Prompt="ピザピース"/>
+    <Elem NameU="Pizza dinner" Name="ピザ" PromptU="Pizza dinner" Prompt="ピザ"/>
+    <Elem NameU="Spaghetti" Name="スパゲッティ" PromptU="Spaghetti" Prompt="スパゲッティ"/>
+    <Elem NameU="Sushi 1" Name="寿司 1" PromptU="Sushi 1" Prompt="寿司 1"/>
+    <Elem NameU="Sushi 2" Name="寿司 2" PromptU="Sushi 2" Prompt="寿司 2"/>
+    <Elem NameU="Sushi 3" Name="寿司 3" PromptU="Sushi 3" Prompt="寿司 3"/>
+    <Elem NameU="Sausage" Name="ソーセージ" PromptU="Sausage" Prompt="ソーセージ"/>
+    <Elem NameU="Chicken" Name="鶏肉" PromptU="Chicken" Prompt="鶏肉"/>
+    <Elem NameU="Drumstick" Name="もも肉" PromptU="Drumstick" Prompt="もも肉"/>
+    <Elem NameU="Chicken Drumstick" Name="鳥のもも肉" PromptU="Chicken Drumstick" Prompt="鳥のもも肉"/>
+    <Elem NameU="Meat" Name="肉" PromptU="Meat" Prompt="肉"/>
+    <Elem NameU="Egg" Name="たまご" PromptU="Egg" Prompt="たまご"/>
+    <Elem NameU="Crab" Name="カニ" PromptU="Crab" Prompt="カニ"/>
+    <Elem NameU="Fish" Name="魚" PromptU="Fish" Prompt="魚"/>
+    <Elem NameU="Escargots" Name="エスカルゴ" PromptU="Escargots" Prompt="エスカルゴ"/>
+    <Elem NameU="Lobster" Name="イセ海老" PromptU="Lobster" Prompt="イセ海老"/>
+    <Elem NameU="Octopus" Name="たこ" PromptU="Octopus" Prompt="たこ"/>
+    <Elem NameU="Tomato 1" Name="トマト 1" PromptU="Tomato 1" Prompt="トマト 1"/>
+    <Elem NameU="Tomato 2" Name="トマト 2" PromptU="Tomato 2" Prompt="トマト 2"/>
+    <Elem NameU="Tomato 3" Name="トマト 3" PromptU="Tomato 3" Prompt="トマト 3"/>
+    <Elem NameU="Carrot" Name="人参" PromptU="Carrot" Prompt="人参"/>
+    <Elem NameU="Chinese Cabbage" Name="白菜" PromptU="Chinese Cabbage" Prompt="白菜"/>
+    <Elem NameU="Cauliflower" Name="カリフラワー" PromptU="Cauliflower" Prompt="カリフラワー"/>
+    <Elem NameU="Radish" Name="大根" PromptU="Radish" Prompt="大根"/>
+    <Elem NameU="Red Radish" Name="レッド大根" PromptU="Red Radish" Prompt="レッド大根"/>
+    <Elem NameU="Kidney beans" Name="インゲン豆" PromptU="Kidney beans" Prompt="インゲン豆"/>
+    <Elem NameU="Onion" Name="タマネギ" PromptU="Onion" Prompt="タマネギ"/>
+    <Elem NameU="Luffa" Name="ヘチマ" PromptU="Luffa" Prompt="ヘチマ"/>
+    <Elem NameU="Pumpkin" Name="パンプキン" PromptU="Pumpkin" Prompt="パンプキン"/>
+    <Elem NameU="Eggplant" Name="ナス" PromptU="Eggplant" Prompt="ナス"/>
+    <Elem NameU="Bell Pepper" Name="ピーマン" PromptU="Bell Pepper" Prompt="ピーマン"/>
+    <Elem NameU="Mushrooms 1" Name="きのこ 1" PromptU="Mushrooms 1" Prompt="きのこ 1"/>
+    <Elem NameU="Mushrooms 2" Name="きのこ 2" PromptU="Mushrooms 2" Prompt="きのこ 2"/>
+    <Elem NameU="Myrcia" Name="月桂の葉" PromptU="Myrcia" Prompt="月桂の葉"/>
+    <Elem NameU="Peanut" Name="ピーナッツ" PromptU="Peanut" Prompt="ピーナッツ"/>
+    <Elem NameU="Corn" Name="トウモロコシ" PromptU="Corn" Prompt="トウモロコシ"/>
+    <Elem NameU="Green Onion" Name="ネギ" PromptU="Green Onion" Prompt="ネギ"/>
+    <Elem NameU="Garlic" Name="ニンニク" PromptU="Garlic" Prompt="ニンニク"/>
+    <Elem NameU="A Clove of Garlic" Name="ニンニクのクローブ" PromptU="A Clove of Garlic" Prompt="ニンニクのクローブ"/>
+    <Elem NameU="Ginger" Name="生姜" PromptU="Ginger" Prompt="生姜"/>
+    <Elem NameU="Orange" Name="オレンジ" PromptU="Orange" Prompt="オレンジ"/>
+    <Elem NameU="Strawberry" Name="イチゴ" PromptU="Strawberry" Prompt="イチゴ"/>
+    <Elem NameU="Banana" Name="バナナ" PromptU="Banana" Prompt="バナナ"/>
+    <Elem NameU="Peeled Banana" Name="皮が剥かれたバナナ" PromptU="Peeled Banana" Prompt="皮が剥かれたバナナ"/>
+    <Elem NameU="Cherry" Name="桜んぼ" PromptU="Cherry" Prompt="桜んぼ"/>
+    <Elem NameU="Grape" Name="ぶどう" PromptU="Grape" Prompt="ぶどう"/>
+    <Elem NameU="Lemon" Name="レモン" PromptU="Lemon" Prompt="レモン"/>
+    <Elem NameU="Peach" Name="桃" PromptU="Peach" Prompt="桃"/>
+    <Elem NameU="Apple" Name="リンゴ" PromptU="Apple" Prompt="リンゴ"/>
+    <Elem NameU="Star Fruit" Name="スターフルーツ" PromptU="Star Fruit" Prompt="スターフルーツ"/>
+    <Elem NameU="Watermelon" Name="西瓜" PromptU="Watermelon" Prompt="西瓜"/>
+    <Elem NameU="Watermelon Slice" Name="スイカ" PromptU="Watermelon Slice" Prompt="スイカ"/>
+    <Elem NameU="Pear" Name="梨" PromptU="Pear" Prompt="梨"/>
+    <Elem NameU="Lychee" Name="レイシ" PromptU="Lychee" Prompt="レイシ"/>
+    <Elem NameU="Papaya" Name="パパイヤ" PromptU="Papaya" Prompt="パパイヤ"/>
+    <Elem NameU="Pineapple" Name="パイナップル" PromptU="Pineapple" Prompt="パイナップル"/>
+    <Elem NameU="Ice-cream cone" Name="アイスクリームコーン" PromptU="Ice-cream cone" Prompt="アイスクリームコーン"/>
+    <Elem NameU="Lollipop" Name="ロリポップ" PromptU="Lollipop" Prompt="ロリポップ"/>
+    <Elem NameU="Macaron" Name="マカロン" PromptU="Macaron" Prompt="マカロン"/>
+    <Elem NameU="Doughnut" Name="ドーナツ" PromptU="Doughnut" Prompt="ドーナツ"/>
+    <Elem NameU="Oreo" Name="オレオ" PromptU="Oreo" Prompt="オレオ"/>
+    <Elem NameU="Chocolate" Name="チョコレート" PromptU="Chocolate" Prompt="チョコレート"/>
+    <Elem NameU="Milk" Name="ミルク" PromptU="Milk" Prompt="ミルク"/>
+    <Elem NameU="A Bow of Rice" Name="ご飯お茶碗1杯分" PromptU="A Bow of Rice" Prompt="ご飯お茶碗1杯分"/>
+    <Elem NameU="A Glass of Beer 1" Name="ビール 1" PromptU="A Glass of Beer 1" Prompt="ビール 1"/>
+    <Elem NameU="A Glass of Beer 2" Name="ビール 2" PromptU="A Glass of Beer 2" Prompt="ビール 2"/>
+</Lib>

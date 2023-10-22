@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Trees">
+    <Elem NameU="Tree 1" Name="木 1" PromptU="Tree 1" Prompt="木 1"/>
+    <Elem NameU="Tree 2" Name="木 2" PromptU="Tree 2" Prompt="木 2"/>
+    <Elem NameU="Tree 3" Name="木 3" PromptU="Tree 3" Prompt="木 3"/>
+    <Elem NameU="Tree 4" Name="木 4" PromptU="Tree 4" Prompt="木 4"/>
+    <Elem NameU="Cypress" Name="松" PromptU="Cypress" Prompt="松"/>
+    <Elem NameU="Tree 5" Name="木 5" PromptU="Tree 5" Prompt="木 5"/>
+    <Elem NameU="Tree 6" Name="木 6" PromptU="Tree 6" Prompt="木 6"/>
+    <Elem NameU="Tree 7" Name="木 7" PromptU="Tree 7" Prompt="木 7"/>
+    <Elem NameU="Tree 8" Name="木 8" PromptU="Tree 8" Prompt="木 8"/>
+    <Elem NameU="Tree 9" Name="木 9" PromptU="Tree 9" Prompt="木 9"/>
+    <Elem NameU="Coconut Tree 1" Name="ココナッツの木 1" PromptU="Coconut Tree 1" Prompt="ココナッツの木 1"/>
+    <Elem NameU="Tree 10" Name="木 10" PromptU="Tree 10" Prompt="木 10"/>
+    <Elem NameU="Tree 11" Name="木 11" PromptU="Tree 11" Prompt="木 11"/>
+    <Elem NameU="Tree 12" Name="木 12" PromptU="Tree 12" Prompt="木 12"/>
+    <Elem NameU="Tree 13" Name="木 13" PromptU="Tree 13" Prompt="木 13"/>
+    <Elem NameU="Tree 14" Name="木 14" PromptU="Tree 14" Prompt="木 14"/>
+    <Elem NameU="Tree 15" Name="木 15" PromptU="Tree 15" Prompt="木 15"/>
+    <Elem NameU="Tree 16" Name="木 16" PromptU="Tree 16" Prompt="木 16"/>
+    <Elem NameU="Tree 17" Name="木 17" PromptU="Tree 17" Prompt="木 17"/>
+    <Elem NameU="Tree 18" Name="木 18" PromptU="Tree 18" Prompt="木 18"/>
+    <Elem NameU="Tree 19" Name="木 19" PromptU="Tree 19" Prompt="木 19"/>
+    <Elem NameU="Tree 20" Name="木 20" PromptU="Tree 20" Prompt="木 20"/>
+    <Elem NameU="Chrismas Tree" Name="クリスマスツリー" PromptU="Chrismas Tree" Prompt="クリスマスツリー"/>
+    <Elem NameU="Tree 21" Name="木 21" PromptU="Tree 21" Prompt="木 21"/>
+    <Elem NameU="Tree 22" Name="木 22" PromptU="Tree 22" Prompt="木 22"/>
+    <Elem NameU="Tree Group 1" Name="森 1" PromptU="Tree Group 1" Prompt="森 1"/>
+    <Elem NameU="Tree 23" Name="木 23" PromptU="Tree 23" Prompt="木 23"/>
+    <Elem NameU="Tree 24" Name="木 24" PromptU="Tree 24" Prompt="木 24"/>
+    <Elem NameU="Tree 25" Name="木 25" PromptU="Tree 25" Prompt="木 25"/>
+    <Elem NameU="Tree 26" Name="木 26" PromptU="Tree 26" Prompt="木 26"/>
+    <Elem NameU="Tree 27" Name="木 27" PromptU="Tree 27" Prompt="木 27"/>
+    <Elem NameU="Tree 28" Name="木 28" PromptU="Tree 28" Prompt="木 28"/>
+    <Elem NameU="Tree Group 2" Name="森 2" PromptU="Tree Group 2" Prompt="森 2"/>
+    <Elem NameU="Tree 29" Name="木 29" PromptU="Tree 29" Prompt="木 29"/>
+    <Elem NameU="Coconut Tree 2" Name="ココナッツの木 2" PromptU="Coconut Tree 2" Prompt="ココナッツの木 2"/>
+    <Elem NameU="Tree 30" Name="木 30" PromptU="Tree 30" Prompt="木 30"/>
+    <Elem NameU="Tree 31" Name="木 31" PromptU="Tree 31" Prompt="木 31"/>
+    <Elem NameU="Tree 32" Name="木 32" PromptU="Tree 32" Prompt="木 32"/>
+    <Elem NameU="Tree 33" Name="木 33" PromptU="Tree 33" Prompt="木 33"/>
+    <Elem NameU="Tree 34" Name="木 34" PromptU="Tree 34" Prompt="木 34"/>
+    <Elem NameU="Tree 35" Name="木 35" PromptU="Tree 35" Prompt="木 35"/>
+    <Elem NameU="Tree 36" Name="木 36" PromptU="Tree 36" Prompt="木 36"/>
+</Lib>

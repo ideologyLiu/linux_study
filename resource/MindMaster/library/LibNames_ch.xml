@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LibNames Version="8.0">    
+    <Library NameU="Animals" Name="動物"/>
+    <Library NameU="Appliances" Name="家電"/>
+    <Library NameU="Architecture" Name="建築"/>
+    <Library NameU="Arrow Connectors" Name="可連接箭頭"/>
+    <Library NameU="Arrow Shapes" Name="箭頭形狀"/>
+    <Library NameU="Asia" Name="亞洲"/>
+	<Library NameU="Basic Shapes" Name="基本繪圖形狀"/>
+    <Library NameU="Astronomy" Name="天文學"/>
+    <Library NameU="Athletic Ground" Name="運動場"/>
+    <Library NameU="Australia" Name="澳洲"/>
+    <Library NameU="Backgrounds" Name="背景"/>
+    <Library NameU="Ball and Stick Model" Name="球棍模型"/>
+    <Library NameU="Bar" Name="橫條圖"/>
+    <Library NameU="Bathroom" Name="浴室"/>
+    <Library NameU="Bedroom" Name="臥室"/>
+    <Library NameU="Birthday" Name="生日"/>
+    <Library NameU="Borders" Name="邊框和標題"/>
+    <Library NameU="Brainstorming" Name="頭腦風暴"/>
+    <Library NameU="Bubble Shapes" Name="氣泡圖"/>
+    <Library NameU="Building Core" Name="建築物核心"/>
+    <Library NameU="Business" Name="商業"/>
+    <Library NameU="Business-Flat" Name="商業-扁平"/>
+    <Library NameU="Business Scene" Name="商業場景"/>
+    <Library NameU="CCTV Equipment" Name="安控設備"/>
+    <Library NameU="Cabinets and Bookcases" Name="櫥櫃和書櫃"/>
+    <Library NameU="Calendar" Name="日曆"/>
+    <Library NameU="Callouts" Name="標注"/>
+    <Library NameU="Canada" Name="加拿大"/>
+    <Library NameU="Carnival" Name="狂歡節"/>
+    <Library NameU="Carpet" Name="地毯"/>
+    <Library NameU="Cause and Effect Diagram" Name="因果圖形狀"/>
+    <Library NameU="Certificate" Name="證書"/>
+    <Library NameU="Chemical Equation" Name="化學方程式"/>
+    <Library NameU="Chen ERD" Name="Chen ERD"/>
+    <Library NameU="Child Dress" Name="兒童服裝"/>
+    <Library NameU="Children's Day" Name="兒童節"/>
+    <Library NameU="Christmas" Name="耶誕節"/>
+    <Library NameU="Circular Charting Shapes" Name="圓形圖表形狀"/>
+    <Library NameU="Column" Name="直條圖"/>
+    <Library NameU="Common Shapes" Name="常用形狀"/>
+    <Library NameU="Comparison Chart" Name="比較圖"/>
+    <Library NameU="Computers and Monitors" Name="電腦和顯示器"/>
+    <Library NameU="Concept Map" Name="概念圖符號"/>
+    <Library NameU="Connectors" Name="連接子"/>
+    <Library NameU="Digital Products" Name="數碼產品"/>
+    <Library NameU="Easter" Name="復活節"/>
+    <Library NameU="Education" Name="教育"/>
+    <Library NameU="Environment" Name="環境"/>
+    <Library NameU="Europe" Name="歐洲"/>
+    <Library NameU="Family Tree" Name="家庭樹"/>
+    <Library NameU="Finance" Name="金融"/>
+    <Library NameU="Fire and Emergency" Name="消防疏散圖"/>
+    <Library NameU="Five Forces Shapes" Name="五力圖形狀"/>
+    <Library NameU="Flags" Name="國旗"/>
+    <Library NameU="Food" Name="食品"/>
+    <Library NameU="Forms" Name="表格"/>
+    <Library NameU="Fruit" Name="水果"/>
+    <Library NameU="Gantt" Name="甘特圖"/>
+    <Library NameU="Garden" Name="花園"/>
+    <Library NameU="Gauges" Name="儀錶圖"/>
+    <Library NameU="Gift Voucher" Name="禮券"/>  
+    <Library NameU="Greek Letter" Name="希臘字母"/>
+    <Library NameU="Guestures" Name="手勢"/>
+    <Library NameU="Half-length" Name="人-半身"/>
+    <Library NameU="Halloween" Name="萬聖節"/>
+    <Library NameU="Highlight Shapes" Name="高光圖形"/>
+    <Library NameU="Human Organs" Name="人體器官"/>
+    <Library NameU="Icons" Name="圖示"/>
+    <Library NameU="Infographic Charts" Name="資訊圖表"/>
+    <Library NameU="Laboratory Equipment" Name="實驗器皿"/>
+    <Library NameU="Lighting" Name="照明設備"/>
+    <Library NameU="Line and Area" Name="線形圖和面積圖"/>
+    <Library NameU="List Shapes" Name="列表形狀"/>
+    <Library NameU="Maintenance Symbol" Name="維護符號"/>
+    <Library NameU="Man Suit" Name="男士套裝"/>
+    <Library NameU="Map Vehicles" Name="交通工具"/>
+    <Library NameU="Maps and Charts" Name="圖和表"/>
+    <Library NameU="Marketing Diagrams" Name="行銷圖表"/>
+    <Library NameU="Marketing Shapes" Name="行銷形狀"/>
+    <Library NameU="Mathematical Symbol" Name="數學符號"/>
+    <Library NameU="Matrix" Name="矩陣"/>
+    <Library NameU="Mechanics" Name="力學"/>
+    <Library NameU="Medical" Name="醫學"/>
+    <Library NameU="Models" Name="模特"/>
+    <Library NameU="Molecular Model" Name="分子模型"/>
+    <Library NameU="Money" Name="貨幣"/>
+    <Library NameU="Music" Name="音樂"/>
+    <Library NameU="New Year" Name="新年"/>
+    <Library NameU="News" Name="新聞"/>
+    <Library NameU="Office" Name="辦公用品"/>
+    <Library NameU="Optics" Name="光學"/>
+    <Library NameU="People" Name="人物"/>
+    <Library NameU="People-Flat" Name="人物-扁平"/>
+    <Library NameU="People Outline" Name="人物輪廓"/>
+    <Library NameU="Plant Cell" Name="植物細胞"/>
+    <Library NameU="Plants" Name="植物"/>
+    <Library NameU="Plumbing" Name="水管設施"/>
+    <Library NameU="Presentation Symbols" Name="演示符號"/>
+    <Library NameU="Process Shapes" Name="流程形狀"/>
+    <Library NameU="Professions" Name="職業"/>
+    <Library NameU="Program Flowchart" Name="程式流程圖"/>
+    <Library NameU="Pyramid Shapes" Name="金字塔圖"/>
+    <Library NameU="Qualifying Symbols" Name="限定詞號"/>
+    <Library NameU="ROOM" Name="ROOM"/>
+    <Library NameU="Rack Equipment" Name="機架圖"/>
+    <Library NameU="Relationship" Name="關係"/>
+    <Library NameU="Religion" Name="宗教"/>
+    <Library NameU="Road Signs" Name="路標"/>
+    <Library NameU="School" Name="學校"/>
+    <Library NameU="Servers" Name="伺服器"/>
+    <Library NameU="Sofas" Name="沙發"/>
+    <Library NameU="Subway" Name="地鐵"/>
+    <Library NameU="Symbols" Name="符號"/>
+    <Library NameU="Tables and Chairs" Name="桌子和椅子"/>
+    <Library NameU="Technology" Name="技術"/>
+    <Library NameU="Text Box" Name="文字方塊"/>
+    <Library NameU="Timeline" Name="時間線"/>
+    <Library NameU="Titles" Name="標題"/>
+    <Library NameU="Touch Gesture" Name="觸摸手勢"/>
+    <Library NameU="Tourism" Name="旅遊"/>
+    <Library NameU="Transportation" Name="交通"/>
+    <Library NameU="USA" Name="美國"/>
+    <Library NameU="Vector Icons" Name="向量圖示"/>
+    <Library NameU="Vehicles" Name="交通工具"/>
+    <Library NameU="Weather" Name="天氣"/>
+    <Library NameU="Work Flow Department" Name="工作流部門"/>
+    <Library NameU="Work Flow Objects" Name="工作流物件"/>
+    <Library NameU="Work Flow Steps" Name="工作流步驟"/>
+	<Library NameU="Map Pointers" Name="地圖標記點"/>
+	<Library NameU="World Map" Name="世界地圖"/>
+	<Library NameU="Lines" Name="線條"/>
+	<Library NameU="Fashion" Name="時裝"/>
+	<Library NameU="Basic Charts" Name="基本圖表"/>
+	<Library NameU="Insect" Name="昆蟲"/>
+	<Library NameU="Animal" Name="動物"/>
+	<Library NameU="Terricole" Name="陸地動物"/>
+	<Library NameU="Sea Life" Name="海洋動物"/>
+	<Library NameU="Business Flat" Name="商業-扁平"/>
+	<Library NameU="Business Scene 1" Name="商業場景1"/>
+	<Library NameU="Business Scene 2" Name="商業場景2"/>
+	<Library NameU="Office Flat" Name="辦公用品-扁平"/>
+	<Library NameU="Marketing" Name="行銷"/>
+	<Library NameU="Shopping" Name="購物"/>
+	<Library NameU="Discount Labels" Name="折扣標籤"/>
+	<Library NameU="Business Scene 1" Name="商業場景1"/>
+	<Library NameU="Design Elements" Name="設計項目"/>
+	<Library NameU="Bow" Name="蝴蝶結"/>
+	<Library NameU="Heart" Name="心形"/>
+	<Library NameU="Ornament" Name="裝飾物"/>
+	<Library NameU="Social Media Icons" Name="社交媒體圖示"/>
+	<Library NameU="Gestures" Name="手勢"/>
+	<Library NameU="Education Flat" Name="教學用品-扁平"/>
+	<Library NameU="Fashion Models" Name="時裝模特"/>
+	<Library NameU="Fashion Clothes" Name="時裝"/>
+	<Library NameU="Fashion Items" Name="時尚單品"/>
+	<Library NameU="Festival" Name="節日"/>
+	<Library NameU="Bread" Name="麵包"/>
+	<Library NameU="Beverage" Name="飲料"/>
+	<Library NameU="Tableware" Name="餐具"/>
+	<Library NameU="Nature" Name="自然"/>
+	<Library NameU="Flowers" Name="花"/>
+	<Library NameU="Leaves" Name="葉"/>
+	<Library NameU="Trees" Name="樹"/>
+	<Library NameU="Landscape" Name="風景"/>
+	<Library NameU="Silhouette" Name="剪影"/>
+	<Library NameU="Business People" Name="商務人士"/>
+	<Library NameU="Profession" Name="職業"/>
+	<Library NameU="Profession Half-length" Name="職業-半身圖"/>
+	<Library NameU="People Activity Pictogram" Name="人物-象形圖"/>
+	<Library NameU="3D People Pictogram" Name="3D人物象形圖"/>
+	<Library NameU="Aerospace and Military" Name="航空軍事"/>
+	<Library NameU="Aerospace Technology" Name="航空軍事"/>
+	<Library NameU="Social Life" Name="社會生活"/>
+	<Library NameU="News Media" Name="新聞媒體"/>
+	<Library NameU="Buildings" Name="建築物"/>
+	<Library NameU="Sports" Name="體育運動"/>
+	<Library NameU="Sport Silhouette" Name="體育運動剪影"/>
+	<Library NameU="Sport Elements" Name="體育器材"/>
+	<Library NameU="Fitness" Name="健身"/>
+	<Library NameU="Electronics" Name="電子設備"/>
+	<Library NameU="Artificial Intelligence" Name="人工智慧"/>
+	<Library NameU="Biotechnology" Name="生物科技"/>
+	<Library NameU="Aerospace Technology" Name="航空航太科技"/>
+	<Library NameU="Silhouette" Name="剪影"/>
+	<Library NameU="Finance" Name="財務"/>
+	<Library NameU="Marketing" Name="市場"/>
+	<Library NameU="Graphic Organizer" Name="圖形組織"/>
+	<Library NameU="China" Name="中國"/>
+	<Library NameU="Drinks" Name="飲料"/>
+	<Library NameU="User" Name="用戶"/>
+	<Library NameU="General" Name="常用"/>
+	<Library NameU="Files" Name="文件"/>
+	<Library NameU="Folders" Name="目錄"/>
+	<Library NameU="Valentine's Day" Name="情人節"/>
+</LibNames>

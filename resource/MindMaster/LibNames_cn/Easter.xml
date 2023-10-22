@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Easter">
+    <Elem NameU="Easter egg 1" Name="复活节彩蛋 1" PromptU="Easter egg 1" Prompt="复活节彩蛋 1"/>
+    <Elem NameU="Easter egg 2" Name="复活节彩蛋 2" PromptU="Easter egg 2" Prompt="复活节彩蛋 2"/>
+    <Elem NameU="Easter egg 3" Name="复活节彩蛋 3" PromptU="Easter egg 3" Prompt="复活节彩蛋 3"/>
+    <Elem NameU="Easter egg 4" Name="复活节彩蛋 4" PromptU="Easter egg 4" Prompt="复活节彩蛋 4"/>
+    <Elem NameU="Easter egg 5" Name="复活节彩蛋 5" PromptU="Easter egg 5" Prompt="复活节彩蛋 5"/>
+    <Elem NameU="Easter egg 6" Name="复活节彩蛋 6" PromptU="Easter egg 6" Prompt="复活节彩蛋 6"/>
+    <Elem NameU="Easter egg 6" Name="复活节彩蛋 6" PromptU="Easter egg 6" Prompt="复活节彩蛋 6"/>
+    <Elem NameU="Easter egg 8" Name="复活节彩蛋 8" PromptU="Easter egg 8" Prompt="复活节彩蛋 8"/>
+    <Elem NameU="Easter egg 9" Name="复活节彩蛋 9" PromptU="Easter egg 9" Prompt="复活节彩蛋 9"/>
+    <Elem NameU="Easter egg 10" Name="复活节彩蛋 10" PromptU="Easter egg 10" Prompt="复活节彩蛋 10"/>
+    <Elem NameU="Easter egg 11" Name="复活节彩蛋 11" PromptU="Easter egg 11" Prompt="复活节彩蛋 11"/>
+    <Elem NameU="Easter egg 12" Name="复活节彩蛋 12" PromptU="Easter egg 12" Prompt="复活节彩蛋 12"/>
+    <Elem NameU="Rabbit with easter egg" Name="兔子和复活节彩蛋" PromptU="Rabbit with easter egg" Prompt="兔子和复活节彩蛋"/>
+    <Elem NameU="Rabbit 1" Name="兔子 1" PromptU="Rabbit 1" Prompt="兔子 1"/>
+    <Elem NameU="Rabbit 2" Name="兔子 2" PromptU="Rabbit 2" Prompt="兔子 2"/>
+    <Elem NameU="Chicken" Name="小鸡" PromptU="Chicken" Prompt="小鸡"/>
+    <Elem NameU="Meat" Name="肉" PromptU="Meat" Prompt="肉"/>
+    <Elem NameU="Chicken Leg 1" Name="鸡腿 1" PromptU="Chicken Leg 1" Prompt="鸡腿 1"/>
+    <Elem NameU="Chicken Leg 2" Name="鸡腿 2" PromptU="Chicken Leg 2" Prompt="鸡腿 2"/>
+    <Elem NameU="Book 1" Name="书本 1" PromptU="Book 1" Prompt="书本 1"/>
+    <Elem NameU="Book 2" Name="书本 2" PromptU="Book 2" Prompt="书本 2"/>
+    <Elem NameU="Cross" Name="十字架" PromptU="Cross" Prompt="十字架"/>
+    <Elem NameU="Jesus" Name="耶稣" PromptU="Jesus" Prompt="耶稣"/>
+    <Elem NameU="Cake" Name="蛋糕" PromptU="Cake" Prompt="蛋糕"/>
+    <Elem NameU="Candle 1" Name="蜡烛 1" PromptU="Candle 1" Prompt="蜡烛 1"/>
+    <Elem NameU="Candle 2" Name="蜡烛 2" PromptU="Candle 2" Prompt="蜡烛 2"/>
+    <Elem NameU="Red Wine Glass" Name="红酒杯" PromptU="Red Wine Glass" Prompt="红酒杯"/>
+    <Elem NameU="Red Wine" Name="红酒" PromptU="Red Wine" Prompt="红酒"/>
+    <Elem NameU="Basket" Name="篮子" PromptU="Basket" Prompt="篮子"/>
+    <Elem NameU="Flower" Name="花" PromptU="Flower" Prompt="花"/>
+</Lib>

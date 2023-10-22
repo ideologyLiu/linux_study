@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Icons">
+ 
+    <Elem Prompt="目覚まし時計" Name="目覚まし時計" PromptU="Alarm Clock" NameU="Alarm Clock"/>
+    <Elem Prompt="警告" Name="警告" PromptU="Alert" NameU="Alert"/>
+    <Elem Prompt="アンカー" Name="アンカー" PromptU="Anchor" NameU="Anchor"/>
+    <Elem Prompt="絞り" Name="絞り" PromptU="Aperture" NameU="Aperture"/>
+    <Elem Prompt="At" Name="At" PromptU="At" NameU="At"/>
+    <Elem Prompt="Android" Name="Android" PromptU="Android" NameU="Android"/>
+    <Elem Prompt="Apple" Name="Apple" PromptU="Apple" NameU="Apple"/>
+    <Elem Prompt="アプリ" Name="アプリ" PromptU="Apps" NameU="Apps"/>
+    <Elem Prompt="矢印" Name="矢印" PromptU="Arrow" NameU="Arrow"/>
+    <Elem Prompt="矢印 - 円形" Name="矢印 - 円形" PromptU="Arrow - Circular" NameU="Arrow - Circular"/>
+    <Elem Prompt="矢印 - 双方向" Name="矢印 - 双方向" PromptU="Arrow - Double Head" NameU="Arrow - Double Head"/>
+    <Elem Prompt="トレンド矢印-下げる" Name="トレンド矢印-下げる" PromptU="Arrow - Down" NameU="Arrow - Down"/>
+    <Elem Prompt="矢印 - 拡大" Name="矢印 - 拡大" PromptU="Arrow - Expand" NameU="Arrow - Expand"/>
+    <Elem Prompt="トレンド矢印-成長" Name="トレンド矢印-成長" PromptU="Arrow Growth" NameU="Arrow Growth"/>
+    <Elem Prompt="矢印 - 戻る" Name="矢印 - 戻る" PromptU="Arrow - Return" NameU="Arrow - Return"/>
+    <Elem Prompt="矢印 - 縮む" Name="矢印 - 縮む" PromptU="Arrow - Shrink" NameU="Arrow - Shrink"/>
+    <Elem Prompt="袋" Name="袋" PromptU="Bag" NameU="Bag"/>
+    <Elem Prompt="縦棒グラフ" Name="縦棒グラフ" PromptU="Bar" NameU="Bar"/>
+    <Elem Prompt="野球" Name="野球" PromptU="Baseball" NameU="Baseball"/>
+    <Elem Prompt="バスケットボール" Name="バスケットボール" PromptU="Basketball" NameU="Basketball"/>
+    <Elem Prompt="充電中" Name="充電中" PromptU="Battery Charging" NameU="Battery Charging"/>
+    <Elem Prompt="完全に放電した" Name="完全に放電した" PromptU="Battery Empty" NameU="Battery Empty"/>
+    <Elem Prompt="100%" Name="100%" PromptU="Battery Full" NameU="Battery Full"/>
+    <Elem Prompt="50%" Name="50%" PromptU="Battery Half" NameU="Battery Half"/>
+    <Elem Prompt="電力不足" Name="電力不足" PromptU="Battery Low" NameU="Battery Low"/>
+    <Elem Prompt="ビール" Name="ビール" PromptU="Beer" NameU="Beer"/>
+    <Elem Prompt="自転車" Name="自転車" PromptU="Bicycle" NameU="Bicycle"/>
+    <Elem Prompt="ビットコイン" Name="ビットコイン" PromptU="Bitcoin" NameU="Bitcoin"/>
+    <Elem Prompt="ブルートゥース" Name="ブルートゥース" PromptU="Bluetooth" NameU="Bluetooth"/>
+	<Elem Prompt="盲人" Name="盲人" PromptU="Blind" NameU="Blind"/>
+    <Elem Prompt="船" Name="船" PromptU="Boat" NameU="Boat"/>
+    <Elem Prompt="本" Name="本" PromptU="Book" NameU="Book"/>
+    <Elem Prompt="しおり" Name="しおり" PromptU="Bookmark" NameU="Bookmark"/>
+    <Elem Prompt="蝶ネクタイ" Name="蝶ネクタイ" PromptU="Bowtie" NameU="Bowtie"/>
+    
+    <Elem Prompt="トコジラミ" Name="トコジラミ" PromptU="Bug" NameU="Bug"/>
+    <Elem Prompt="電球" Name="電球" PromptU="Bulb" NameU="Bulb"/>
+    <Elem Prompt="電球 - ついている" Name="電球 - ついている" PromptU="Bulb - Luminous" NameU="Bulb - Luminous"/>
+    <Elem Prompt="バス" Name="バス" PromptU="Bus" NameU="Bus"/>
+    <Elem Prompt="計算器" Name="計算器" PromptU="Calculator" NameU="Calculator"/>
+    <Elem Prompt="カレンダー" Name="カレンダー" PromptU="Calendar" NameU="Calendar"/>
+    <Elem Prompt="カメラ" Name="カメラ" PromptU="Camera" NameU="Camera"/>
+    <Elem Prompt="キャンセル" Name="キャンセル" PromptU="Cancel" NameU="Cancel"/>
+    <Elem Prompt="キャンセル（円枠付き）" Name="キャンセル（円枠付き）" PromptU="Cancel with Circle" NameU="Cancel with Circle"/>
+    <Elem Prompt="キャンドル" Name="キャンドル" PromptU="Candle" NameU="Candle"/>
+    <Elem Prompt="車" Name="車" PromptU="Car" NameU="Car"/>
+    <Elem Prompt="カート" Name="カート" PromptU="Cart-Allow-Down" NameU="Cart-Allow-Down"/>
+	<Elem Prompt="カート" Name="カート" PromptU="Cart-Plus" NameU="Cart-Plus"/>
+ 　　　<Elem Prompt="カート" Name="カート" PromptU="Cart" NameU="Cart"/>
+    <Elem Prompt="人参" Name="人参" PromptU="Carrot" NameU="Carrot"/>
+    <Elem Prompt="チェーン" Name="チェーン" PromptU="Chain" NameU="Chain"/>
+    <Elem Prompt="チャットバブル" Name="チャットバブル" PromptU="Chat Bubble" NameU="Chat Bubble"/>
+    <Elem Prompt="チャットバブル - 2" Name="チャットバブル - 2" PromptU="Chat Bubble - 2" NameU="Chat Bubble - 2"/>
+    <Elem Prompt="チャットバブル（複数）" Name="チャットバブル（複数）" PromptU="Chat Bubbles" NameU="Chat Bubbles"/>
+    <Elem Prompt="チャットバブル - 話し中" Name="チャットバブル - 話し中" PromptU="Chatbubble - Working" NameU="Chatbubble - Working"/>
+    <Elem Prompt="チャットバブル - 円形" Name="チャットバブル - 円形" PromptU="Chat Bubble - Round" NameU="Chat Bubble - Round"/>
+    <Elem Prompt="チャットバブル - 話し中2" Name="チャットバブル - 話し中2" PromptU="Chatbubble - Working2" NameU="Chatbubble - Working2"/>
+    <Elem Prompt="チェック" Name="チェック" PromptU="Check" NameU="Check"/>
+    <Elem Prompt="チェック（円枠付き）" Name="チェック（円枠付き）" PromptU="Check with Circle" NameU="Check with Circle"/>
+    <Elem Prompt="円形" Name="円形" PromptU="Circle" NameU="Circle"/>
+    <Elem Prompt="クリップボード" Name="クリップボード" PromptU="Clipboard" NameU="Clipboard"/>
+    <Elem Prompt="時計" Name="時計" PromptU="Clock" NameU="Clock"/>
+    <Elem Prompt="クラウド - 1" Name="クラウド - 1" PromptU="Cloud - 1" NameU="Cloud - 1"/>
+    <Elem Prompt="クラウド - 2" Name="クラウド - 2" PromptU="Cloud - 2" NameU="Cloud - 2"/>
+    <Elem Prompt="クラウド- アップロード" Name="クラウド- アップロード" PromptU="Cloud - Upload" NameU="Cloud - Upload"/>
+    <Elem Prompt="クラウド- アップロード　2" Name="クラウド- アップロード　2" PromptU="Cloud - Upload2" NameU="Cloud - Upload2"/>
+    <Elem Prompt="クラウド- ダウンロード" Name="クラウド- ダウンロード" PromptU="Cloud - Download" NameU="Cloud - Download"/>
+    <Elem Prompt="クラウド- ダウンロード　2" Name="クラウド- ダウンロード　2" PromptU="Cloud - Download2" NameU="Cloud - Download2"/>
+    <Elem Prompt="クラウド- 完了" Name="クラウド- 完了" PromptU="Cloud - Done" NameU="Cloud - Done"/>
+    <Elem Prompt="カクテル" Name="カクテル" PromptU="Cocktail" NameU="Cocktail"/>
+    <Elem Prompt="コーヒー" Name="コーヒー" PromptU="Coffee" NameU="Coffee"/>
+    <Elem Prompt="カラーフィルター" Name="カラーフィルター" PromptU="Color Filter" NameU="Color Filter"/>
+    <Elem Prompt="コンパス" Name="コンパス" PromptU="Compass" NameU="Compass"/>
+    <Elem Prompt="作文" Name="作文" PromptU="Compose" NameU="Compose"/>
+    <Elem Prompt="契約" Name="契約" PromptU="Contract" NameU="Contract"/>
+    <Elem Prompt="トリム" Name="トリム" PromptU="Crop" NameU="Crop"/>
+    <Elem Prompt="立方体" Name="立方体" PromptU="Cube" NameU="Cube"/>
+    <Elem Prompt="循環" Name="循環" PromptU="Cycle" NameU="Cycle"/>
+    <Elem Prompt="ダイアモンド" Name="ダイアモンド" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="書類" Name="書類" PromptU="Document" NameU="Document"/>
+    <Elem Prompt="書類 2" Name="書類 2" PromptU="Documents" NameU="Documents"/>
+    <Elem Prompt="完了" Name="完了" PromptU="Done" NameU="Done"/>
+    <Elem Prompt="ダウンロード" Name="ダウンロード" PromptU="Download" NameU="Download"/>
+    <Elem Prompt="イヤホン" Name="イヤホン" PromptU="Earphone" NameU="Earphone"/>
+    <Elem Prompt="教育" Name="教育" PromptU="Education" NameU="Education"/>
+    <Elem Prompt="メール" Name="メール" PromptU="Email" NameU="Email"/>
+    <Elem Prompt="メール - 既読" Name="メール - 既読" PromptU="Email - Open" NameU="Email - Open"/>
+    <Elem Prompt="拡大" Name="拡大" PromptU="Expand" NameU="Expand"/>
+    <Elem Prompt="ユーロ" Name="ユーロ" PromptU="Euro" NameU="Euro"/>
+    <Elem Prompt="目" Name="目" PromptU="Eye" NameU="Eye"/>
+    <Elem Prompt="Facebook" Name="Facebook" PromptU="Facebook" NameU="Facebook"/>
+    <Elem Prompt="女性" Name="女性" PromptU="Female" NameU="Female"/>
+    <Elem Prompt="映画" Name="映画" PromptU="Film" NameU="Film"/>
+    <Elem Prompt="火" Name="火" PromptU="Fire" NameU="Fire"/>
+    <Elem Prompt="フラグ" Name="フラグ" PromptU="Flag" NameU="Flag"/>
+    <Elem Prompt="炎" Name="炎" PromptU="Flame" NameU="Flame"/>
+    <Elem Prompt="フラッシュ" Name="フラッシュ" PromptU="Flash" NameU="Flash"/>
+    <Elem Prompt="フラッシュ - 2" Name="フラッシュ - 2" PromptU="Flash - 2" NameU="Flash - 2"/>
+    <Elem Prompt="フラッシュ禁止" Name="フラッシュ禁止" PromptU="Flash Off" NameU="Flash Off"/>
+    <Elem Prompt="フラスコ" Name="フラスコ" PromptU="Flask" NameU="Flask"/>
+    <Elem Prompt="花" Name="花" PromptU="Flower" NameU="Flower"/>
+    <Elem Prompt="フォルダ" Name="フォルダ" PromptU="Folder" NameU="Folder"/>
+    <Elem Prompt="サッカー" Name="サッカー" PromptU="Football" NameU="Football"/>
+    <Elem Prompt="漏斗" Name="漏斗" PromptU="Funnel" NameU="Funnel"/>
+    <Elem Prompt="ゲームコントローラー" Name="ゲームコントローラー" PromptU="Game Controller" NameU="Game Controller"/>
+    <Elem Prompt="メガネ" Name="メガネ" PromptU="Glasses" NameU="Glasses"/>
+    <Elem Prompt="ギヤ" Name="ギヤ" PromptU="Gear" NameU="Gear"/>
+    <Elem Prompt="ギヤ - 2" Name="ギヤ - 2" PromptU="Gear - 2" NameU="Gear - 2"/>
+    <Elem Prompt="ギヤ - 3" Name="ギヤ - 3" PromptU="Gear - 3" NameU="Gear - 3"/>
+    <Elem Prompt="地球儀" Name="地球儀" PromptU="Globe" NameU="Globe"/>
+    <Elem Prompt="Google" Name="Google" PromptU="Google" NameU="Google"/>
+    <Elem Prompt="Google+" Name="Google+" PromptU="Google Plus" NameU="Google Plus"/>
+    <Elem Prompt="金槌" Name="金槌" PromptU="Hammer" NameU="Hammer"/>
+    <Elem Prompt="手" Name="手" PromptU="Hand" NameU="Hand"/>
+    <Elem Prompt="嬉しい" Name="嬉しい" PromptU="Happy" NameU="Happy"/>
+    <Elem Prompt="ハート" Name="ハート" PromptU="Heart" NameU="Heart"/>
+    <Elem Prompt="ホーム" Name="ホーム" PromptU="Home" NameU="Home"/>
+    <Elem Prompt="アイスクリーム" Name="アイスクリーム" PromptU="Icecream" NameU="Icecream"/>
+    <Elem Prompt="画像" Name="画像" PromptU="Image" NameU="Image"/>
+    <Elem Prompt="画像" Name="画像" PromptU="Images" NameU="Images"/>
+    <Elem Prompt="入る" Name="入る" PromptU="In" NameU="In"/>
+    <Elem Prompt="無限" Name="無限" PromptU="Infinite" NameU="Infinite"/>
+    <Elem Prompt="情報" Name="情報" PromptU="Information" NameU="Information"/>
+    <Elem Prompt="Instagram" Name="Instagram" PromptU="Instagram" NameU="Instagram"/>
+    <Elem Prompt="iPad" Name="iPad" PromptU="iPad" NameU="iPad"/>
+    <Elem Prompt="iPhone" Name="iPhone" PromptU="iPhone" NameU="iPhone"/>
+    <Elem Prompt="iPod" Name="iPod" PromptU="iPod" NameU="iPod"/>
+    <Elem Prompt="鍵" Name="鍵" PromptU="Key" NameU="Key"/>
+    <Elem Prompt="キーボード" Name="キーボード" PromptU="Key Board" NameU="Key Board"/>
+    <Elem Prompt="Linkedin" Name="Linkedin" PromptU="Linkedin" NameU="Linkedin"/>
+    <Elem Prompt="リスト" Name="リスト" PromptU="List" NameU="List"/>
+    <Elem Prompt="読み込み中 - 1" Name="読み込み中 - 1" PromptU="Load - 1" NameU="Load - 1"/>
+    <Elem Prompt="読み込み中 - 2" Name="読み込み中 - 2" PromptU="Load - 2" NameU="Load - 2"/>
+    <Elem Prompt="読み込み中 - 3" Name="読み込み中 - 3" PromptU="Load - 3" NameU="Load - 3"/>
+    <Elem Prompt="現在地" Name="現在地" PromptU="location" NameU="location"/>
+    <Elem Prompt="現在地 - 2" Name="現在地 - 2" PromptU="Location - 2" NameU="Location - 2"/>
+    <Elem Prompt="ロック" Name="ロック" PromptU="Locked" NameU="Locked"/>
+    <Elem Prompt="ロック解除" Name="ロック解除" PromptU="Lock - Unlocked" NameU="Lock - Unlocked"/>
+    <Elem Prompt="ラッパ" Name="ラッパ" PromptU="Loudspeaker" NameU="Loudspeaker"/>
+    <Elem Prompt="ノートパソコン" Name="ノートパソコン" PromptU="Laptop" NameU="Laptop"/>
+    <Elem Prompt="拡大鏡" Name="拡大鏡" PromptU="Magnifier" NameU="Magnifier"/>
+    <Elem Prompt="男性" Name="男性" PromptU="Male" NameU="Male"/>
+    <Elem Prompt="男子" Name="男子" PromptU="Man" NameU="Man"/>
+    <Elem Prompt="地図" Name="地図" PromptU="Map" NameU="Map"/>
+    <Elem Prompt="メダル - 1" Name="メダル - 1" PromptU="Medal - 1" NameU="Medal - 1"/>
+    <Elem Prompt="メダル - 2" Name="メダル - 2" PromptU="Medal - 2" NameU="Medal - 2"/>
+    <Elem Prompt="救急箱" Name="救急箱" PromptU="Medical Kit" NameU="Medical Kit"/>
+    <Elem Prompt="マージ" Name="マージ" PromptU="Merge" NameU="Merge"/>
+    <Elem Prompt="マイク - 1" Name="マイク - 1" PromptU="Microphone - 1" NameU="Microphone - 1"/>
+    <Elem Prompt="マイク - 2" Name="マイク - 2" PromptU="Microphone - 2" NameU="Microphone - 2"/>
+    <Elem Prompt="マイク - 3" Name="マイク - 3" PromptU="Microphone - 3" NameU="Microphone - 3"/>
+    <Elem Prompt="マイク - 4" Name="マイク - 4" PromptU="Microphone - 4" NameU="Microphone - 4"/>
+    <Elem Prompt="マイク - オフ" Name="マイク - オフ" PromptU="Microphone - Off" NameU="Microphone - Off"/>
+    <Elem Prompt="マイナス記号" Name="マイナス記号" PromptU="Minus" NameU="Minus"/>
+    <Elem Prompt="マイナス記号（円枠付き）" Name="マイナス記号（円枠付き）" PromptU="Minus with Circle" NameU="Minus with Circle"/>
+    <Elem Prompt="モニター" Name="モニター" PromptU="Monitor" NameU="Monitor"/>
+    <Elem Prompt="月" Name="月" PromptU="Moon" NameU="Moon"/>
+    <Elem Prompt="月と雲" Name="月と雲" PromptU="Moon and Cloud" NameU="Moon and Cloud"/>
+    <Elem Prompt="音楽" Name="音楽" PromptU="Music" NameU="Music"/>
+    <Elem Prompt="ミュート" Name="ミュート" PromptU="Mute" NameU="Mute"/>
+    <Elem Prompt="ナビゲーション" Name="ナビゲーション" PromptU="Navigate" NameU="Navigate"/>
+    <Elem Prompt="ナビゲーション - 2" Name="ナビゲーション - 2" PromptU="Navigate - 2" NameU="Navigate - 2"/>
+    <Elem Prompt="タバコ禁止" Name="タバコ禁止" PromptU="No Smoking" NameU="No Smoking"/>
+    <Elem Prompt="通知" Name="通知" PromptU="Notification" NameU="Notification"/>
+    <Elem Prompt="通知提示-オフ" Name="通知提示-オフ" PromptU="Notification Off" NameU="Notification Off"/>
+    <Elem Prompt="開く" Name="開く" PromptU="Open" NameU="Open"/>
+    <Elem Prompt="オプション" Name="オプション" PromptU="Options" NameU="Options"/>
+    <Elem Prompt="退出" Name="退出" PromptU="Out" NameU="Out"/>
+    <Elem Prompt="コンセント" Name="コンセント" PromptU="Outlet" NameU="Outlet"/>
+    <Elem Prompt="絵筆" Name="絵筆" PromptU="Paint Brush" NameU="Paint Brush"/>
+    <Elem Prompt="パレット" Name="パレット" PromptU="Palette" NameU="Palette"/>
+    <Elem Prompt="紙" Name="紙" PromptU="Paper" NameU="Paper"/>
+    <Elem Prompt="紙飛行機" Name="紙飛行機" PromptU="Paper Airplane" NameU="Paper Airplane"/>
+    <Elem Prompt="ペーパークリップ" Name="ペーパークリップ" PromptU="Paperclip" NameU="Paperclip"/>
+    <Elem Prompt="足" Name="足" PromptU="Paw" NameU="Paw"/>
+    <Elem Prompt="鉛筆" Name="鉛筆" PromptU="Pencil" NameU="Pencil"/>
+    <Elem Prompt="人（複数）" Name="人（複数）" PromptU="People" NameU="People"/>
+    <Elem Prompt="人" Name="人" PromptU="Person" NameU="Person"/>
+    <Elem Prompt="人 - 2" Name="人 - 2" PromptU="Person - 2" NameU="Person - 2"/>
+    <Elem Prompt="人の記号（円枠付き）" Name="人の記号（円枠付き）" PromptU="Person in Circle" NameU="Person in Circle"/>
+    <Elem Prompt="連絡先の追加" Name="連絡先の追加" PromptU="Person Add" NameU="Person Add"/>
+    <Elem Prompt="電話" Name="電話" PromptU="Phone" NameU="Phone"/>
+    <Elem Prompt="電話 - 2" Name="電話 - 2" PromptU="Phone - 2" NameU="Phone - 2"/>
+    <Elem Prompt="写真" Name="写真" PromptU="Photos" NameU="Photos"/>
+    <Elem Prompt="円グラフ" Name="円グラフ" PromptU="Pie" NameU="Pie"/>
+    <Elem Prompt="円グラフ - 2" Name="円グラフ - 2" PromptU="Pie - 2" NameU="Pie - 2"/>
+    <Elem Prompt="ピン" Name="ピン" PromptU="Pin" NameU="Pin"/>
+    <Elem Prompt="ピンポイント" Name="ピンポイント" PromptU="Pinpoint" NameU="Pinpoint"/>
+    <Elem Prompt="Pinterest" Name="Pinterest" PromptU="Pinterest" NameU="Pinterest"/>
+    <Elem Prompt="飛行機" Name="飛行機" PromptU="Plane" NameU="Plane"/>
+    <Elem Prompt="惑星" Name="惑星" PromptU="Planet" NameU="Planet"/>
+    <Elem Prompt="プラス記号" Name="プラス記号" PromptU="Plus" NameU="Plus"/>
+    <Elem Prompt="プラス記号（円枠付き）" Name="プラス記号（円枠付き）" PromptU="Plus with Circle" NameU="Plus with Circle"/>
+    <Elem Prompt="表彰台" Name="表彰台" PromptU="Podium" NameU="Podium"/>
+    <Elem Prompt="電力" Name="電力" PromptU="Power" NameU="Power"/>
+    <Elem Prompt="値札" Name="値札" PromptU="Price Tag" NameU="Price Tag"/>
+    <Elem Prompt="値札" Name="値札" PromptU="Price Tags" NameU="Price Tags"/>
+    <Elem Prompt="プリンタ－" Name="プリンタ－" PromptU="Printer" NameU="Printer"/>
+    <Elem Prompt="パルス" Name="パルス" PromptU="Pulse" NameU="Pulse"/>
+    <Elem Prompt="疑問符" Name="疑問符" PromptU="Question Mark" NameU="Question Mark"/>
+    <Elem Prompt="疑問符 - 2" Name="疑問符 - 2" PromptU="Question Mark - 2" NameU="Question Mark - 2"/>
+    <Elem Prompt="参照" Name="参照" PromptU="Quote" NameU="Quote"/>
+    <Elem Prompt="電波" Name="電波" PromptU="Radio Wave" NameU="Radio Wave"/>
+    <Elem Prompt="雨" Name="雨" PromptU="Rainy" NameU="Rainy"/>
+    <Elem Prompt="やり直し" Name="やり直し" PromptU="Redo" NameU="Redo"/>
+    <Elem Prompt="レストラン" Name="レストラン" PromptU="Restaurant" NameU="Restaurant"/>
+    <Elem Prompt="リボン" Name="リボン" PromptU="Ribbon" NameU="Ribbon"/>
+    <Elem Prompt="R-商標" Name="R-商標" PromptU="R-Trademark" NameU="R-Trademark"/>
+    <Elem Prompt="悲しい" Name="悲しい" PromptU="Sad" NameU="Sad"/>
+    <Elem Prompt="砂時計" Name="砂時計" PromptU="Sand Timer" NameU="Sand Timer"/>
+    <Elem Prompt="規模" Name="規模" PromptU="Scale" NameU="Scale"/>
+    <Elem Prompt="スキャナ" Name="スキャナ" PromptU="Scanner" NameU="Scanner"/>
+    <Elem Prompt="ハサミ" Name="ハサミ" PromptU="Scissors" NameU="Scissors"/>
+    <Elem Prompt="設置" Name="設置" PromptU="Setting" NameU="Setting"/>
+    <Elem Prompt="共有" Name="共有" PromptU="Share" NameU="Share"/>
+    <Elem Prompt="ショッピング" Name="ショッピング" PromptU="Shopping" NameU="Shopping"/>
+    <Elem Prompt="シャッフル" Name="シャッフル" PromptU="Shuffle" NameU="Shuffle"/>
+    <Elem Prompt="Skype" Name="Skype" PromptU="Skype" NameU="Skype"/>
+    <Elem Prompt="雪" Name="雪" PromptU="Snowflake" NameU="Snowflake"/>
+    <Elem Prompt="速度計" Name="速度計" PromptU="Speed Meter" NameU="Speed Meter"/>
+    <Elem Prompt="星" Name="星" PromptU="Star" NameU="Star"/>
+    <Elem Prompt="太陽" Name="太陽" PromptU="Sun" NameU="Sun"/>
+    <Elem Prompt="太陽と雲" Name="太陽と雲" PromptU="Sun with Cloud" NameU="Sun with Cloud"/>
+    <Elem Prompt="ターゲット" Name="ターゲット" PromptU="Target" NameU="Target"/>
+    <Elem Prompt="Temblr" Name="Temblr" PromptU="Temblr" NameU="Temblr"/>
+    <Elem Prompt="テニス" Name="テニス" PromptU="Tennis Ball" NameU="Tennis Ball"/>
+    <Elem Prompt="ナイス" Name="ナイス" PromptU="Thumb Up" NameU="Thumb Up"/>
+    <Elem Prompt="そう思わない" Name="そう思わない" PromptU="Thumb Down" NameU="Thumb Down"/>
+    <Elem Prompt="雷雨" Name="雷雨" PromptU="Thunderstorm" NameU="Thunderstorm"/>
+    <Elem Prompt="時間" Name="時間" PromptU="Time" NameU="Time"/>
+    <Elem Prompt="タイマー" Name="タイマー" PromptU="Timer" NameU="Timer"/>
+    <Elem Prompt="スイッチ" Name="スイッチ" PromptU="Toggle" NameU="Toggle"/>
+    <Elem Prompt="電車" Name="電車" PromptU="Train" NameU="Train"/>
+    <Elem Prompt="トランスジェンダー" Name="トランスジェンダー" PromptU="Transgender" NameU="Transgender"/>
+    <Elem Prompt="ゴミ箱" Name="ゴミ箱" PromptU="Trash Bin" NameU="Trash Bin"/>
+    <Elem Prompt="優勝カップ" Name="優勝カップ" PromptU="Trophy" NameU="Trophy"/>
+    <Elem Prompt="Tシャツ" Name="Tシャツ" PromptU="T-Shirt" NameU="T-Shirt"/>
+    <Elem Prompt="Twitter" Name="Twitter" PromptU="Twitter" NameU="Twitter"/>
+    <Elem Prompt="傘" Name="傘" PromptU="Umbrella" NameU="Umbrella"/>
+    <Elem Prompt="アンドゥ" Name="アンドゥ" PromptU="Undo" NameU="Undo"/>
+	<Elem Prompt="大学" Name="大学" PromptU="University" NameU="University"/>
+    <Elem Prompt="アップロード" Name="アップロード" PromptU="Upload" NameU="Upload"/>
+    <Elem Prompt="USB" Name="USB" PromptU="USB" NameU="USB"/>
+    <Elem Prompt="USD" Name="USD" PromptU="USD" NameU="USD"/>
+	<Elem Prompt="ユーザー" Name="ユーザー" PromptU="User" NameU="User"/>
+	<Elem Prompt="ユーザー-サークル" Name="ユーザー-サークル" PromptU="User-Cirle" NameU="User-Cirle"/>
+    <Elem Prompt="ビデオカメラ" Name="ビデオカメラ" PromptU="Video Cam" NameU="Video Cam"/>
+    <Elem Prompt="ボリューム - 低" Name="ボリューム - 低" PromptU="Volume - Low" NameU="Volume - Low"/>
+    <Elem Prompt="ボリューム - 中等" Name="ボリューム - 中等" PromptU="Volume - Medium" NameU="Volume - Medium"/>
+    <Elem Prompt="ボリューム - 高" Name="ボリューム - 高" PromptU="Volume - High" NameU="Volume - High"/>
+    <Elem Prompt="ボリューム - ミュート" Name="ボリューム - ミュート" PromptU="Volume - Mute" NameU="Volume - Mute"/>
+    <Elem Prompt="歩き" Name="歩き" PromptU="Walk" NameU="Walk"/>
+    <Elem Prompt="魔法の杖" Name="魔法の杖" PromptU="Wand" NameU="Wand"/>
+    <Elem Prompt="腕時計" Name="腕時計" PromptU="Watch" NameU="Watch"/>
+    <Elem Prompt="Whatsapp" Name="Whatsapp" PromptU="Whatsapp" NameU="Whatsapp"/>
+    <Elem Prompt="Wi-Fi" Name="Wi-Fi" PromptU="Wifi" NameU="Wifi"/>
+    <Elem Prompt="Windows" Name="Windows" PromptU="Windows" NameU="Windows"/>
+    <Elem Prompt="ワイングラス" Name="ワイングラス" PromptU="Wineglass" NameU="Wineglass"/>
+    <Elem Prompt="女性" Name="女性" PromptU="Woman" NameU="Woman"/>
+    <Elem Prompt="Wordpress" Name="Wordpress" PromptU="Wordpress" NameU="Wordpress"/>
+    <Elem Prompt="世界" Name="世界" PromptU="World" NameU="World"/>
+    <Elem Prompt="レンチ" Name="レンチ" PromptU="Wrench" NameU="Wrench"/>
+    <Elem Prompt="日本円" Name="日本円" PromptU="Yen" NameU="Yen"/>
+    <Elem Prompt="陰陽" Name="陰陽" PromptU="Yin Yang" NameU="Yin Yang"/>
+    <Elem Prompt="Youtube" Name="Youtube" PromptU="Youtube" NameU="Youtube"/>
+	<Elem Prompt="住所録" Name="住所録" PromptU="Address - Book" NameU="Address - Book"/>
+    <Elem Prompt="住所カード" Name="住所カード" PromptU="Address - Card" NameU="Address - Card"/>
+    <Elem Prompt="バス" Name="バス" PromptU="Bath" NameU="Bath"/>
+    <Elem Prompt="双眼鏡" Name="双眼鏡" PromptU="Binocular" NameU="Binocular"/>
+    <Elem Prompt="お誕生日" Name="お誕生日" PromptU="Birthday" NameU="Birthday"/>
+    <Elem Prompt="盲人" Name="盲人" PromptU="Blind" NameU="Blind"/>
+    <Elem Prompt="爆弾" Name="爆弾" PromptU="Bomb" NameU="Bomb"/>
+    <Elem Prompt="本 1" Name="本 1" PromptU="Book 1" NameU="Book 1"/>
+    <Elem Prompt="本 2" Name="本 2" PromptU="Book 2" NameU="Book 2"/>
+    <Elem Prompt="カレンダー チェック" Name="カレンダー チェック" PromptU="Calendar-Check" NameU="Calendar-Check"/>
+    <Elem Prompt="カレンダー ばつ印" Name="カレンダー ばつ印" PromptU="Calendar-Times" NameU="Calendar-Times"/>
+    <Elem Prompt="チェック（方形枠付き）" Name="チェック（方形枠付き）" PromptU="Check-Square-O" NameU="Check-Square-O"/>
+    <Elem Prompt="子供" Name="子供" PromptU="Child" NameU="Child"/>
+    <Elem Prompt="クリップボード 1" Name="クリップボード 1" PromptU="Clipboard 1" NameU="Clipboard 1"/>
+	<Elem Prompt="クリップボード 2" Name="クリップボード 2" PromptU="Clipboard 2" NameU="Clipboard 2"/>
+	<Elem Prompt="クロック 1" Name="クロック 1" PromptU="Clock - 1" NameU="Clock - 1"/>
+	<Elem Prompt="クローン" Name="クローン" PromptU="Clone" NameU="Clone"/>
+	<Elem Prompt="ギヤ" Name="ギヤ" PromptU="Cogs" NameU="Cogs"/>
+	<Elem Prompt="握手" Name="握手" PromptU="Handshake" NameU="Handshake"/>
+	<Elem Prompt="タクシー" Name="タクシー" PromptU="Taxi" NameU="Taxi"/>
+	<Elem Prompt="温度計" Name="温度計" PromptU="Thermometer" NameU="Thermometer"/>
+	<Elem Prompt="ユーザー 円形" Name="ユーザー 円形" PromptU="User - Circle" NameU="User - Circle"/>
+	<Elem Prompt="書類カバン" Name="書類カバン" PromptU="Briefcase 1" NameU="Briefcase 1"/>
+	<Elem Prompt="書類カバン" Name="書類カバン" PromptU="Briefcase 2" NameU="Briefcase 2"/>
+	<Elem Prompt="書類カバン" Name="書類カバン" PromptU="Briefcase 3" NameU="Briefcase 3"/>
+	<Elem Prompt="ビル" Name="ビル" PromptU="Building" NameU="Building"/>
+	
+	
+</Lib>
+
+

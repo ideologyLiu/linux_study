@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="People Activity Pictogram">
+     <Elem NameU="Cross the Road"	Name="Überqueren Sie die Straße"	PromptU="Cross the Road"	Prompt="Überqueren Sie die Straße"/>
+     <Elem NameU="Mom &amp; Son"	Name="Mama und Sohn"	PromptU="Mom &amp; Son"	Prompt="Mama und Sohn"/>
+     <Elem NameU="Ride Horse"	Name="Reitpferd"	PromptU="Ride Horse"	Prompt="Reitpferd"/>
+     <Elem NameU="Father &amp; Kid"	Name="Vater und Kind"	PromptU="Father &amp; Kid"	Prompt="Vater und Kind"/>
+     <Elem NameU="Mom &amp; Daughter"	Name="Mama und Tochter"	PromptU="Mom &amp; Daughter"	Prompt="Mama und Tochter"/>
+     <Elem NameU="Walking"	Name="Gehen"	PromptU="Walking"	Prompt="Gehen"/>
+     <Elem NameU="Carriage"	Name="Wagen"	PromptU="Carriage"	Prompt="Wagen"/>
+     <Elem NameU="Woman"	Name="Frau"	PromptU="Woman"	Prompt="Frau"/>
+     <Elem NameU="Man"	Name="Mann"	PromptU="Man"	Prompt="Mann"/>
+     <Elem NameU="Child"	Name="Kind"	PromptU="Child"	Prompt="Kind"/>
+     <Elem NameU="Couple"	Name="Paar"	PromptU="Couple"	Prompt="Paar"/>
+     <Elem NameU="Family"	Name="Familie"	PromptU="Family"	Prompt="Familie"/>
+     <Elem NameU="Worker Digging Sand"	Name="Arbeiter graben Sand"	PromptU="Worker Digging Sand"	Prompt="Arbeiter graben Sand"/>
+     <Elem NameU="Shopping"	Name="Einkaufen"	PromptU="Shopping"	Prompt="Einkaufen"/>
+     <Elem NameU="Old Man"	Name="Alter Mann"	PromptU="Old Man"	Prompt="Alter Mann"/>
+     <Elem NameU="Go up Stairs"	Name="Gehe die Treppe hinauf"	PromptU="Go up Stairs"	Prompt="Gehe die Treppe hinauf"/>
+     <Elem NameU="Littering"	Name="Littering"	PromptU="Littering"	Prompt="Littering"/>
+     <Elem NameU="Riding Bycicle"	Name="Reitfahrzeug"	PromptU="Riding Bycicle"	Prompt="Reitfahrzeug"/>
+     <Elem NameU="Running"	Name="Laufen"	PromptU="Running"	Prompt="Laufen"/>
+     <Elem NameU="Champion"	Name="Champion"	PromptU="Champion"	Prompt="Champion"/>
+     <Elem NameU="Photographer"	Name="Fotograf"	PromptU="Photographer"	Prompt="Fotograf"/>
+     <Elem NameU="Mail Man"	Name="Mail Man"	PromptU="Mail Man"	Prompt="Mail Man"/>
+     <Elem NameU="Man with Umbrella"	Name="Mann mit Regenschirm"	PromptU="Man with Umbrella"	Prompt="Mann mit Regenschirm"/>
+     <Elem NameU="Making a Phone Call"	Name="Telefonanruf tätigen"	PromptU="Making a Phone Call"	Prompt="Telefonanruf tätigen"/>
+     <Elem NameU="Answering Phone"	Name="Telefon beantworten"	PromptU="Answering Phone"	Prompt="Telefon beantworten"/>
+     <Elem NameU="Listening Music"	Name="Hörende Musik"	PromptU="Listening Music"	Prompt="Hörende Musik"/>
+     <Elem NameU="Watering Flowers"	Name="Bewässerung von Blumen"	PromptU="Watering Flowers"	Prompt="Bewässerung von Blumen"/>
+     <Elem NameU="Reading"	Name="Lesen"	PromptU="Reading"	Prompt="Lesen"/>
+     <Elem NameU="Teaching"	Name="Lehre"	PromptU="Teaching"	Prompt="Lehre"/>
+     <Elem NameU="Playing Basketball"	Name="Basketball spielen"	PromptU="Playing Basketball"	Prompt="Basketball spielen"/>
+     <Elem NameU="People with a Loudspeaker"	Name="Leute mit einem Lautsprecher"	PromptU="People with a Loudspeaker"	Prompt="Leute mit einem Lautsprecher"/>
+     <Elem NameU="Woman with a Hat"	Name="Frau mit einem Hut"	PromptU="Woman with a Hat"	Prompt="Frau mit einem Hut"/>
+     <Elem NameU="Walking the Dog"	Name="Der Hund gehen"	PromptU="Walking the Dog"	Prompt="Der Hund gehen"/>
+     <Elem NameU="Having a Date"	Name="Ein Datum haben"	PromptU="Having a Date"	Prompt="Ein Datum haben"/>
+     <Elem NameU="Making a Proposal"	Name="Ein Vorschlag machen"	PromptU="Making a Proposal"	Prompt="Ein Vorschlag machen"/>
+     <Elem NameU="Thinking"	Name="Denken"	PromptU="Thinking"	Prompt="Denken"/>
+     <Elem NameU="Working"	Name="Arbeiten"	PromptU="Working"	Prompt="Arbeiten"/>
+     <Elem NameU="Writing"	Name="Schreiben"	PromptU="Writing"	Prompt="Schreiben"/>
+     <Elem NameU="Wheelchair"	Name="Rollstuhl"	PromptU="Wheelchair"	Prompt="Rollstuhl"/>
+     <Elem NameU="Illness"	Name="Krankheit"	PromptU="Illness"	Prompt="Krankheit"/>
+</Lib>

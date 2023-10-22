@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fashion Models">
+    <Elem NameU="Model 1" Name="モデル 1" PromptU="Model 1" Prompt="モデル 1"/>
+    <Elem NameU="Model 2" Name="モデル 2" PromptU="Model 2" Prompt="モデル 2"/>
+    <Elem NameU="Model 3" Name="モデル 3" PromptU="Model 3" Prompt="モデル 3"/>
+    <Elem NameU="Model 4" Name="モデル 4" PromptU="Model 4" Prompt="モデル 4"/>
+    <Elem NameU="Model 5" Name="モデル 5" PromptU="Model 5" Prompt="モデル 5"/>
+    <Elem NameU="Model 6" Name="モデル 6" PromptU="Model 6" Prompt="モデル 6"/>
+    <Elem NameU="Model 7" Name="モデル 7" PromptU="Model 7" Prompt="モデル 7"/>
+    <Elem NameU="Model 8" Name="モデル 8" PromptU="Model 8" Prompt="モデル 8"/>
+    <Elem NameU="Model 9" Name="モデル 9" PromptU="Model 9" Prompt="モデル 9"/>
+    <Elem NameU="Model 10" Name="モデル 10" PromptU="Model 10" Prompt="モデル 10"/>
+    <Elem NameU="Model 11" Name="モデル 11" PromptU="Model 11" Prompt="モデル 11"/>
+    <Elem NameU="Model 12" Name="モデル 12" PromptU="Model 12" Prompt="モデル 12"/>
+    <Elem NameU="Model 13" Name="モデル 13" PromptU="Model 13" Prompt="モデル 13"/>
+    <Elem NameU="Model 14" Name="モデル 14" PromptU="Model 14" Prompt="モデル 14"/>
+    <Elem NameU="Model 15" Name="モデル 15" PromptU="Model 15" Prompt="モデル 15"/>
+    <Elem NameU="Model 16" Name="モデル 16" PromptU="Model 16" Prompt="モデル 16"/>
+    <Elem NameU="Model 17" Name="モデル 17" PromptU="Model 17" Prompt="モデル 17"/>
+    <Elem NameU="Model 18" Name="モデル 18" PromptU="Model 18" Prompt="モデル 18"/>
+    <Elem NameU="Model 19" Name="モデル 19" PromptU="Model 19" Prompt="モデル 19"/>
+    <Elem NameU="Model 20" Name="モデル 20" PromptU="Model 20" Prompt="モデル 20"/>
+    <Elem NameU="Model 21" Name="モデル 21" PromptU="Model 21" Prompt="モデル 21"/>
+</Lib>

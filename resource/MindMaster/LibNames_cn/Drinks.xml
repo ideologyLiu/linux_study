@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Drinks">
+    <Elem NameU="Cocktail 1" Name="鸡尾酒 1" PromptU="Cocktail 1" Prompt="鸡尾酒 1"/>
+    <Elem NameU="Cocktail 2" Name="鸡尾酒 2" PromptU="Cocktail 2" Prompt="鸡尾酒 2"/>
+    <Elem NameU="Champagne" Name="香槟" PromptU="Champagne" Prompt="香槟"/>
+    <Elem NameU="Juice" Name="果汁" PromptU="Juice" Prompt="果汁"/>
+    <Elem NameU="Orange Juice" Name="橙汁" PromptU="Orange Juice" Prompt="橙汁"/>
+    <Elem NameU="Milk Tea" Name="奶茶" PromptU="Milk Tea" Prompt="奶茶"/>
+    <Elem NameU="Slush" Name="冰沙" PromptU="Slush" Prompt="冰沙"/>
+    <Elem NameU="Lemon Mint Beverage" Name="柠檬薄荷饮料" PromptU="Lemon Mint Beverage" Prompt="柠檬薄荷饮料"/>
+    <Elem NameU="Margaritas" Name="玛格丽塔" PromptU="Margaritas" Prompt="玛格丽塔"/>
+    <Elem NameU="Cola 1" Name="可乐 1" PromptU="Cola 1" Prompt="可乐 1"/>
+    <Elem NameU="Cola 2" Name="可乐 2" PromptU="Cola 2" Prompt="可乐 2"/>
+    <Elem NameU="Coffee 1" Name="咖啡 1" PromptU="Coffee 1" Prompt="咖啡 1"/>
+    <Elem NameU="Coffee cup" Name="咖啡杯" PromptU="Coffee cup" Prompt="咖啡杯"/>
+    <Elem NameU="Tea Cup" Name="茶杯" PromptU="Tea Cup" Prompt="茶杯"/>
+    <Elem NameU="Teapot" Name="茶壶" PromptU="Teapot" Prompt="茶壶"/>
+    <Elem NameU="Beer 1" Name="啤酒 1" PromptU="Beer 1" Prompt="啤酒 1"/>
+    <Elem NameU="Beer 2" Name="啤酒 2" PromptU="Beer 2" Prompt="啤酒 2"/>
+    <Elem NameU="Coconut Drink" Name="椰子汁" PromptU="Coconut Drink" Prompt="椰子汁"/>
+    <Elem NameU="Wine" Name="葡萄酒" PromptU="Wine" Prompt="葡萄酒"/>
+    <Elem NameU="Champagne" Name="香槟" PromptU="Champagne" Prompt="香槟"/>
+    <Elem NameU="Red Wine" Name="红酒" PromptU="Red Wine" Prompt="红酒"/>
+    <Elem NameU="Soda 1" Name="苏打水 1" PromptU="Soda 1" Prompt="苏打水 1"/>
+    <Elem NameU="Soda 2" Name="苏打水 2" PromptU="Soda 2" Prompt="苏打水 2"/>
+    <Elem NameU="Liqueur" Name="白酒" PromptU="Liqueur" Prompt="白酒"/>
+</Lib>

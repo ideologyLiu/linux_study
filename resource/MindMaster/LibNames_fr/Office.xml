@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Office">
+    <Elem NameU="Pencil Vase" Name="Vase à crayon" PromptU="Pencil Vase" Prompt="Vase à crayon"/>
+    <Elem NameU="Pen" Name="Stylo" PromptU="Pen" Prompt="Stylo"/>
+    <Elem NameU="Table Lamp" Name="Lampe de table" PromptU="Table Lamp" Prompt="Lampe de table"/>
+    <Elem NameU="Globe" Name="Globe" PromptU="Globe" Prompt="Globe"/>
+    <Elem NameU="Office Chair" Name="Chaise de bureau" PromptU="Office Chair" Prompt="Chaise de bureau"/>
+    <Elem NameU="Hourglass" Name="Sablier" PromptU="Hourglass" Prompt="Sablier"/>
+    <Elem NameU="Briefcase 1" Name="Mallette 1" PromptU="Briefcase 1" Prompt="Mallette 1"/>
+    <Elem NameU="Briefcase 2" Name="Mallette 2" PromptU="Briefcase 2" Prompt="Mallette 2"/>
+    <Elem NameU="Briefcase 3" Name="Mallette 3" PromptU="Briefcase 3" Prompt="Mallette 3"/>
+    <Elem NameU="Calculator 1" Name="Calculatrice 1" PromptU="Calculator 1" Prompt="Calculatrice 1"/>
+    <Elem NameU="Calculator 2" Name="Calculatrice 2" PromptU="Calculator 2" Prompt="Calculatrice 2"/>
+    <Elem NameU="Employee's Card" Name="Carte d'employé" PromptU="Employee's Card" Prompt="Carte d'employé"/>
+    <Elem NameU="Folder" Name="Dossier" PromptU="Folder" Prompt="Dossier"/>
+    <Elem NameU="Notebook 1" Name="Carnet 1" PromptU="Notebook 1" Prompt="Carnet 1"/>
+    <Elem NameU="Notebook 2" Name="Carnet 2" PromptU="Notebook 2" Prompt="Carnet 2"/>
+    <Elem NameU="Notebook 3" Name="Carnet 3" PromptU="Notebook 3" Prompt="Carnet 3"/>
+    <Elem NameU="Notebook 4" Name="Carnet 4" PromptU="Notebook 4" Prompt="Carnet 4"/>
+    <Elem NameU="Calendar 1" Name="Calendrier 1" PromptU="Calendar 1" Prompt="Calendrier 1"/>
+    <Elem NameU="Calendar 2" Name="Calendrier 2" PromptU="Calendar 2" Prompt="Calendrier 2"/>
+    <Elem NameU="Calendar 3" Name="Calendrier 3" PromptU="Calendar 3" Prompt="Calendrier 3"/>
+    <Elem NameU="Calendar 4" Name="Calendrier 4" PromptU="Calendar 4" Prompt="Calendrier 4"/>
+	<Elem NameU="Calendar 5" Name="Calendrier 5" PromptU="Calendar 5" Prompt="Calendrier 5"/>
+    <Elem NameU="Calendar 6" Name="Calendrier 6" PromptU="Calendar 6" Prompt="Calendrier 6"/>
+    <Elem NameU="Calendar 7" Name="Calendrier 7" PromptU="Calendar 7" Prompt="Calendrier 7"/>
+    <Elem NameU="Calendar 8" Name="Calendrier 8" PromptU="Calendar 8" Prompt="Calendrier 8"/>
+	<Elem NameU="Calendar 9" Name="Calendrier 9" PromptU="Calendar 9" Prompt="Calendrier 9"/>
+    <Elem NameU="Calendar 10" Name="Calendrier 10" PromptU="Calendar 10" Prompt="Calendrier 10"/>
+    <Elem NameU="Calendar 11" Name="Calendrier 11" PromptU="Calendar 11" Prompt="Calendrier 11"/>
+    <Elem NameU="Documents Pouch" Name="Porte-documents" PromptU="Documents Pouch" Prompt="Porte-documents"/>
+    <Elem NameU="Address Book" Name="Carnet d'adresses" PromptU="Address Book" Prompt="Carnet d'adresses"/>
+    <Elem NameU="Printer" Name="Imprimante" PromptU="Printer" Prompt="Imprimante"/>
+    <Elem NameU="USB" Name="USB" PromptU="USB" Prompt="USB"/>
+    <Elem NameU="Screen" Name="Écran" PromptU="Screen" Prompt="Écran"/>
+    <Elem NameU="Router" Name="Routeur" PromptU="Router" Prompt="Routeur"/>
+    <Elem NameU="Cellphone" Name="Téléphone portable" PromptU="Cellphone" Prompt="Téléphone portable"/>
+    <Elem NameU="Phone" Name="Téléphone" PromptU="Phone" Prompt="Téléphone"/>
+    <Elem NameU="Note Board" Name="Tableau des notes" PromptU="Note Board" Prompt="Tableau des notes"/>
+    <Elem NameU="Scissors" Name="Les ciseaux" PromptU="Scissors" Prompt="Les ciseaux"/>
+    <Elem NameU="Ruler" Name="Ruler" PromptU="Ruler" Prompt="Ruler"/>
+    <Elem NameU="Pencil Sharpener" Name="Taille-crayon" PromptU="Pencil Sharpener" Prompt="Taille-crayon"/>
+    <Elem NameU="Magnifying Glass" Name="Loupe" PromptU="Magnifying Glass" Prompt="Loupe"/>
+    <Elem NameU="Envelope 1" Name="Enveloppe 1" PromptU="Envelope 1" Prompt="Enveloppe 1"/>
+    <Elem NameU="Envelope 2" Name="Enveloppe 2" PromptU="Envelope 2" Prompt="Enveloppe 2"/>
+    <Elem NameU="Seal" Name="Joint" PromptU="Seal" Prompt="Joint"/>
+    <Elem NameU="Clock 1" Name="Horloge 1" PromptU="Clock 1" Prompt="Horloge 1"/>
+    <Elem NameU="Clock 2" Name="Horloge 2" PromptU="Clock 2" Prompt="Horloge 2"/>
+    <Elem NameU="Stopwatch" Name="Chronomètre" PromptU="Stopwatch" Prompt="Chronomètre"/>
+    <Elem NameU="Bank Card" Name="Carte bancaire" PromptU="Bank Card" Prompt="Carte bancaire"/>
+    <Elem NameU="Safe Box" Name="Coffre-fort" PromptU="Safe Box" Prompt="Coffre-fort"/>
+    <Elem NameU="Folder" Name="Dossier" PromptU="Folder" Prompt="Dossier"/>
+    <Elem NameU="Coffee Cup" Name="Tasse à café" PromptU="Coffee Cup" Prompt="Tasse à café"/>
+    <Elem NameU="Coffee" Name="Café" PromptU="Coffee" Prompt="Café"/>
+    <Elem NameU="Report" Name="Rapport" PromptU="Report" Prompt="Rapport"/>
+    <Elem NameU="Information" Name="Information" PromptU="Information" Prompt="Information"/>
+    <Elem NameU="Drawing pin" Name="Punaise" PromptU="Drawing pin" Prompt="Punaise"/>
+    <Elem NameU="Headset" Name="Casque" PromptU="Headset" Prompt="Casque"/>
+    <Elem NameU="Webcam" Name="Webcam" PromptU="Webcam" Prompt="Webcam"/>
+    <Elem NameU="Newspaper" Name="Journal" PromptU="Newspaper" Prompt="Journal"/>
+    <Elem NameU="iPad" Name="iPad" PromptU="iPad" Prompt="iPad"/>
+    <Elem NameU="Laptop" Name="Ordinateur portable" PromptU="Laptop" Prompt="Ordinateur portable"/>
+    <Elem NameU="Desktop" Name="Ordinateur de bureau" PromptU="Desktop" Prompt="Ordinateur de bureau"/>
+    <Elem NameU="Pencil" Name="Crayon" PromptU="Pencil" Prompt="Crayon"/>
+    <Elem NameU="Desk" Name="Bureau" PromptU="Desk" Prompt="Bureau"/>
+    <Elem NameU="Cabinet" Name="Cabinet" PromptU="Cabinet" Prompt="Cabinet"/>
+</Lib>

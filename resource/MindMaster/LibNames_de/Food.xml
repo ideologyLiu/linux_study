@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Food">
+     <Elem NameU="Hamburger"	Name= "Hamburger"	PromptU="Hamburger"	Prompt= "Hamburger"/>
+     <Elem NameU="Hot Dog"	Name= "Hot Dog"	PromptU="Hot Dog"	Prompt= "Hot Dog"/>
+     <Elem NameU="Pizza"	Name= "Pizza"	PromptU="Pizza"	Prompt= "Pizza"/>
+     <Elem NameU="Pizza piece"	Name= "Pizza-Stück"	PromptU="Pizza piece"	Prompt= "Pizza-Stück"/>
+     <Elem NameU="Pizza dinner"	Name= "Pizza Abendessen"	PromptU="Pizza dinner"	Prompt= "Pizza Abendessen"/>
+     <Elem NameU="Spaghetti"	Name= "Spaghetti"	PromptU="Spaghetti"	Prompt= "Spaghetti"/>
+     <Elem NameU="Sushi 1"	Name= "Sushi 1"	PromptU="Sushi 1"	Prompt= "Sushi 1"/>
+     <Elem NameU="Sushi 2"	Name= "Sushi 2"	PromptU="Sushi 2"	Prompt= "Sushi 2"/>
+     <Elem NameU="Sushi 3"	Name= "Sushi 3"	PromptU="Sushi 3"	Prompt= "Sushi 3"/>
+     <Elem NameU="Sausage"	Name= "Wurst"	PromptU="Sausage"	Prompt= "Wurst"/>
+     <Elem NameU="Chicken"	Name= "Huhn"	PromptU="Chicken"	Prompt= "Huhn"/>
+     <Elem NameU="Drumstick"	Name= "Drumstick"	PromptU="Drumstick"	Prompt= "Drumstick"/>
+     <Elem NameU="Chicken Drumstick"	Name= "Hähnchen-Trommelstock"	PromptU="Chicken Drumstick"	Prompt= "Hähnchen-Trommelstock"/>
+     <Elem NameU="Meat"	Name= "Fleisch"	PromptU="Meat"	Prompt= "Fleisch"/>
+     <Elem NameU="Egg"	Name= "Ei"	PromptU="Egg"	Prompt= "Ei"/>
+     <Elem NameU="Crab"	Name= "Krabbe"	PromptU="Crab"	Prompt= "Krabbe"/>
+     <Elem NameU="Fish"	Name= "Fisch"	PromptU="Fish"	Prompt= "Fisch"/>
+     <Elem NameU="Escargots"	Name= "Escargots"	PromptU="Escargots"	Prompt= "Escargots"/>
+     <Elem NameU="Lobster"	Name= "Hummer"	PromptU="Lobster"	Prompt= "Hummer"/>
+     <Elem NameU="Octopus"	Name= "Krake"	PromptU="Octopus"	Prompt= "Krake"/>
+     <Elem NameU="Tomato 1"	Name= "Tomate 1"	PromptU="Tomato 1"	Prompt= "Tomate 1"/>
+     <Elem NameU="Tomato 2"	Name= "Tomate 2"	PromptU="Tomato 2"	Prompt= "Tomate 2"/>
+     <Elem NameU="Tomato 3"	Name= "Tomate 3"	PromptU="Tomato 3"	Prompt= "Tomate 3"/>
+     <Elem NameU="Carrot"	Name= "Karotte"	PromptU="Carrot"	Prompt= "Karotte"/>
+     <Elem NameU="Chinese Cabbage"	Name= "Chinesischer Kohl"	PromptU="Chinese Cabbage"	Prompt= "Chinesischer Kohl"/>
+     <Elem NameU="Cauliflower"	Name= "Blumenkohl"	PromptU="Cauliflower"	Prompt= "Blumenkohl"/>
+     <Elem NameU="Radish"	Name= "Rettich"	PromptU="Radish"	Prompt= "Rettich"/>
+     <Elem NameU="Red Radish"	Name= "Roter Rettich"	PromptU="Red Radish"	Prompt= "Roter Rettich"/>
+     <Elem NameU="Kidney beans"	Name= "Kidneybohnen"	PromptU="Kidney beans"	Prompt= "Kidneybohnen"/>
+     <Elem NameU="Onion"	Name= "Zwiebel"	PromptU="Onion"	Prompt= "Zwiebel"/>
+     <Elem NameU="Luffa"	Name= "Luffa"	PromptU="Luffa"	Prompt= "Luffa"/>
+     <Elem NameU="Pumpkin"	Name= "Kürbis"	PromptU="Pumpkin"	Prompt= "Kürbis"/>
+     <Elem NameU="Eggplant"	Name= "Aubergine"	PromptU="Eggplant"	Prompt= "Aubergine"/>
+     <Elem NameU="Bell Pepper"	Name= "Paprika"	PromptU="Bell Pepper"	Prompt= "Paprika"/>
+     <Elem NameU="Mushrooms 1"	Name= "Pilze 1"	PromptU="Mushrooms 1"	Prompt= "Pilze 1"/>
+     <Elem NameU="Mushrooms 2"	Name= "Pilze 2"	PromptU="Mushrooms 2"	Prompt= "Pilze 2"/>
+     <Elem NameU="Myrcia"	Name= "Myrcia"	PromptU="Myrcia"	Prompt= "Myrcia"/>
+     <Elem NameU="Peanut"	Name= "Erdnuss"	PromptU="Peanut"	Prompt= "Erdnuss"/>
+     <Elem NameU="Corn"	Name= "Mais"	PromptU="Corn"	Prompt= "Mais"/>
+     <Elem NameU="Green Onion"	Name= "Grüne Zwiebel"	PromptU="Green Onion"	Prompt= "Grüne Zwiebel"/>
+     <Elem NameU="Garlic"	Name= "Knoblauch"	PromptU="Garlic"	Prompt= "Knoblauch"/>
+     <Elem NameU="A Clove of Garlic"	Name= "Eine Knoblauchzehe"	PromptU="A Clove of Garlic"	Prompt= "Eine Knoblauchzehe"/>
+     <Elem NameU="Ginger"	Name= "Ginger"	PromptU="Ginger"	Prompt= "Ginger"/>
+     <Elem NameU="Orange"	Name= "Orange"	PromptU="Orange"	Prompt= "Orange"/>
+     <Elem NameU="Strawberry"	Name= "Erdbeere"	PromptU="Strawberry"	Prompt= "Erdbeere"/>
+     <Elem NameU="Banana"	Name= "Banane"	PromptU="Banana"	Prompt= "Banane"/>
+     <Elem NameU="Peeled Banana"	Name= "Geschälte Banane"	PromptU="Peeled Banana"	Prompt= "Geschälte Banane"/>
+     <Elem NameU="Cherry"	Name= "Kirsche"	PromptU="Cherry"	Prompt= "Kirsche"/>
+     <Elem NameU="Grape"	Name= "Traube"	PromptU="Grape"	Prompt= "Traube"/>
+     <Elem NameU="Lemon"	Name= "Zitrone"	PromptU="Lemon"	Prompt= "Zitrone"/>
+     <Elem NameU="Peach"	Name= "Pfirsich"	PromptU="Peach"	Prompt= "Pfirsich"/>
+     <Elem NameU="Apple"	Name= "Apfel"	PromptU="Apple"	Prompt= "Apfel"/>
+     <Elem NameU="Star Fruit"	Name= "Stern-Frucht"	PromptU="Star Fruit"	Prompt= "Stern-Frucht"/>
+     <Elem NameU="Watermelon"	Name= "Wassermelone"	PromptU="Watermelon"	Prompt= "Wassermelone"/>
+     <Elem NameU="Watermelon Slice"	Name= "Wassermelonenscheibe"	PromptU="Watermelon Slice"	Prompt= "Wassermelonenscheibe"/>
+     <Elem NameU="Pear"	Name= "Birne"	PromptU="Pear"	Prompt= "Birne"/>
+     <Elem NameU="Lychee"	Name= "Lychee"	PromptU="Lychee"	Prompt= "Lychee"/>
+     <Elem NameU="Papaya"	Name= "Papaya"	PromptU="Papaya"	Prompt= "Papaya"/>
+     <Elem NameU="Pineapple"	Name= "Ananas"	PromptU="Pineapple"	Prompt= "Ananas"/>
+     <Elem NameU="Ice-cream cone"	Name= "Eiskegel"	PromptU="Ice-cream cone"	Prompt= "Eiskegel"/>
+     <Elem NameU="Lollipop"	Name= "Lollipop"	PromptU="Lollipop"	Prompt= "Lollipop"/>
+     <Elem NameU="Macaron"	Name= "Macaron"	PromptU="Macaron"	Prompt= "Macaron"/>
+     <Elem NameU="Doughnut"	Name= "Donut"	PromptU="Doughnut"	Prompt= "Donut"/>
+     <Elem NameU="Oreo"	Name= "Oreo"	PromptU="Oreo"	Prompt= "Oreo"/>
+     <Elem NameU="Chocolate"	Name= "Schokolade"	PromptU="Chocolate"	Prompt= "Schokolade"/>
+     <Elem NameU="Milk"	Name= "Milch"	PromptU="Milk"	Prompt= "Milch"/>
+     <Elem NameU="A Bow of Rice"	Name= "Ein Bogen des Reises"	PromptU="A Bow of Rice"	Prompt= "Ein Bogen des Reises"/>
+     <Elem NameU="A Glass of Beer 1"	Name= "Ein Glas Bier 1"	PromptU="A Glass of Beer 1"	Prompt= "Ein Glas Bier 1"/>
+     <Elem NameU="A Glass of Beer 2"	Name= "Ein Glas Bier 2"	PromptU="A Glass of Beer 2"	Prompt= "Ein Glas Bier 2"/>
+</Lib>

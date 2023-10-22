@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Architecture">
+    <Elem Prompt="Bâtiment" Name="Bâtiment" PromptU="Building" NameU="Building"/>
+    <Elem Prompt="Banque" Name="Banque" PromptU="Bank" NameU="Bank"/>
+    <Elem Prompt="Salon de beauté" Name="Salon de beauté" PromptU="Beauty Salon" NameU="Beauty Salon"/>
+    <Elem Prompt="Villa sur la plage" Name="Villa sur la plage" PromptU="Beach Villa" NameU="Beach Villa"/>
+    <Elem Prompt="Villa sur la plage" Name="Villa sur la plage" PromptU="Beach Villa" NameU="Beach Villa"/>
+    <Elem Prompt="Cafétéria" Name="Cafétéria" PromptU="Cafeteria" NameU="Cafeteria"/>
+    <Elem Prompt="Château" Name="Château" PromptU="Castle" NameU="Castle"/>
+    <Elem Prompt="Cathédrale" Name="Cathédrale" PromptU="Cathedral" NameU="Cathedral"/>
+    <Elem Prompt="Église" Name="Église" PromptU="Church" NameU="Church"/>
+    <Elem Prompt="Café" Name="Café" PromptU="Coffee House" NameU="Coffee House"/>
+    <Elem Prompt="Magasin de vêtements" Name="Magasin de vêtements" PromptU="Clothing Store" NameU="Clothing Store"/>
+    <Elem Prompt="Consulat" Name="Consulat" PromptU="Consulate" NameU="Consulate"/>
+    <Elem Prompt="Usine" Name="Usine" PromptU="Factory" NameU="Factory"/>
+    <Elem Prompt="Appartement familial" Name="Appartement familial" PromptU="Family Apartment" NameU="Family Apartment"/>
+    <Elem Prompt="Maison des invités" Name="Maison des invités" PromptU="Guest House" NameU="Guest House"/>
+    <Elem Prompt="Stade" Name="Stade" PromptU="Gymnasium" NameU="Gymnasium"/>
+    <Elem Prompt="Hôpital" Name="Hôpital" PromptU="Hospital" NameU="Hospital"/>
+    <Elem Prompt="Hôtel" Name="Hôtel" PromptU="Hotel" NameU="Hotel"/>
+    <Elem Prompt="Maison 1" Name="Maison 1" PromptU="House 1" NameU="House 1"/>
+    <Elem Prompt="Maison 2" Name="Maison 2" PromptU="House 2" NameU="House 2"/>
+    <Elem Prompt="Maison 3" Name="Maison 3" PromptU="House 3" NameU="House 3"/>
+    <Elem Prompt="Bibliothèque" Name="Bibliothèque" PromptU="Library" NameU="Library"/>
+    <Elem Prompt="Jardin d'enfants" Name="Jardin d'enfants" PromptU="Kindergarten" NameU="Kindergarten"/>
+    <Elem Prompt="Marché" Name="Marché" PromptU="Market" NameU="Market"/>
+    <Elem Prompt="Manoir 1" Name="Manoir 1" PromptU="Mansion 1" NameU="Mansion 1"/>
+    <Elem Prompt="Manoir 2" Name="Manoir 2" PromptU="Mansion 2" NameU="Mansion 2"/>
+    <Elem Prompt="Manoir 3" Name="Manoir 3" PromptU="Mansion 3" NameU="Mansion 3"/>
+    <Elem Prompt="Manoir 4" Name="Manoir 4" PromptU="Mansion 4" NameU="Mansion 4"/>
+    <Elem Prompt="Cinéma" Name="Cinéma" PromptU="Movie Theater" NameU="Movie Theater"/>
+    <Elem Prompt="Kiosque" Name="Kiosque" PromptU="Newspaper Kiosk" NameU="Newspaper Kiosk"/>
+    <Elem Prompt="Bâtiment de bureaux 1" Name="Bâtiment de bureaux 1" PromptU="Office Building 1" NameU="Office Building 1"/>
+    <Elem Prompt="Bâtiment de bureaux 2" Name="Bâtiment de bureaux 2" PromptU="Office Building 2" NameU="Office Building 2"/>
+    <Elem Prompt="Bâtiment de bureaux 3" Name="Bâtiment de bureaux 3" PromptU="Office Building 3" NameU="Office Building 3"/>
+    <Elem Prompt="Bureau de poste" Name="Bureau de poste" PromptU="Post Office" NameU="Post Office"/>
+    <Elem Prompt="Poste de police" Name="Poste de police" PromptU="Police Station" NameU="Police Station"/>
+    <Elem Prompt="École" Name="École" PromptU="School" NameU="School"/>
+    <Elem Prompt="École" Name="École" PromptU="School Building" NameU="School Building"/>
+    <Elem Prompt="Station-service auto" Name="Station-service auto" PromptU="Self-Serve Gas Station" NameU="Self-Serve Gas Station"/>
+    <Elem Prompt="Boutique" Name="Boutique" PromptU="Shop" NameU="Shop"/>
+    <Elem Prompt="Dortoir étudiant" Name="Dortoir étudiant" PromptU="Student Dorm Building" NameU="Student Dorm Building"/>
+    <Elem Prompt="Supermarché" Name="Supermarché" PromptU="Supermarket" NameU="Supermarket"/>
+    <Elem Prompt="Tours jumelles" Name="Tours jumelles" PromptU="Twin Tower" NameU="Twin Tower"/>
+    <Elem Prompt="Université" Name="Université" PromptU="University" NameU="University"/>
+    <Elem Prompt="Villa" Name="Villa" PromptU="Villa" NameU="Villa"/>
+    <Elem Prompt="Montgolfière 1" Name="Montgolfière 1" PromptU="Hot-air balloon 1" NameU="Hot-air balloon 1"/>
+    <Elem Prompt="Montgolfière 2" Name="Montgolfière 2" PromptU="Hot-air balloon 2" NameU="Hot-air balloon 2"/>
+    <Elem Prompt="Montgolfière 3" Name="Montgolfière 3" PromptU="Hot-air balloon 3" NameU="Hot-air balloon 3"/>
+    <Elem Prompt="Cloud Bleu" Name="Cloud Bleu" PromptU="Blue Cloud" NameU="Blue Cloud"/>
+    <Elem Prompt="Cloud Jaune" Name="Cloud Jaune" PromptU="Yellow Cloud" NameU="Yellow Cloud"/>
+    <Elem Prompt="Cloud Rouge" Name="Cloud Rouge" PromptU="Red Cloud" NameU="Red Cloud"/>
+    <Elem Prompt="Famille" Name="Famille" PromptU="Family" NameU="Family"/>
+</Lib>

@@ -1,0 +1,28 @@
+﻿<Gallery NameU= "Mind Map" Name= "Carte mentale" Version= "1.0" Description= "Créer des cartes mentales (représentations graphiques des processus de pensée) pour le brainstorming, la résolution de problèmes, l'analyse rationnelle et le marquage des décisions. ">
+    <Template NameU= "Radial Map" Name= "Carte mentale" Layout= "8" Theme= "1" DarkTheme= "9" Icon= "./radial_map.bmp" Description= "Créer des cartes mentales pour représenter des idées et des concepts. ">
+    </Template>
+
+    <Template NameU= "Right Map" Name= "Carte à sens unique" Layout= "6" Theme= "1" DarkTheme= "9" Icon= "./right_map.bmp" Description= "Créez des cartes mentales avec une mise en page hiérarchique correcte. ">
+    </Template>
+
+    <Template NameU= "Tree Map" Name= "Carte mentale en arbre" Layout= "3" Theme= "1" DarkTheme= "9" Icon= "./tree_map.bmp" Description= "La carte mentale en arbre est idéale pour afficher de grandes quantités d'informations hiérarchiquement structurées. ">
+    </Template>
+
+    <Template NameU= "Org-Chart Map" Name= "Carte mentale en organigramme" Layout= "2" Theme= "202" DarkTheme= "203" Icon= "./org_map.bmp" Description= "La carte mentale en organigramme illustre la structure d'une organisation et les relations et les rangs relatifs de ses parties et positions. ">
+    </Template>
+
+    <Template NameU= "Fish Bone Right" Name= "鱼骨图(头向左)" Layout= "24" Theme= "1" DarkTheme= "3" Icon= "./right_fishbone.bmp" Description= "鱼骨图是一种发现问题“根本原因”的方法,它也可以称之为“因果图”。">
+    </Template>
+
+    <Template NameU= "Fish Bone Left" Name= "鱼骨图(头向右)" Layout= "23" Theme= "1" DarkTheme= "3" Icon= "./left_fishbone.bmp" Description= "鱼骨图是一种发现问题“根本原因”的方法,它也可以称之为“因果图”。">
+    </Template>
+
+    <Template NameU= "Horizontal Timeline" Name= "水平时间线" Layout= "17" Theme= "1" DarkTheme= "9" Icon= "./line_horizontal.bmp" Description= " 时间线是我们的大脑对过去及未来所发生的事情有一个方向上的编码。">
+    </Template>
+
+    <Template NameU= "Winding Timeline" Name= "S型时间线" Layout= "18" Theme= "1" DarkTheme= "9" Icon= "./line_turn.bmp" Description= " 时间线是我们的大脑对过去及未来所发生的事情有一个方向上的编码。">
+    </Template>
+
+    <Template NameU= "Vertical Timeline" Name= "垂直时间线" Layout= "19" Theme= "1" DarkTheme= "9" Icon= "./line_vertical.bmp" Description= " 时间线是我们的大脑对过去及未来所发生的事情有一个方向上的编码。">
+    </Template>
+</Gallery>

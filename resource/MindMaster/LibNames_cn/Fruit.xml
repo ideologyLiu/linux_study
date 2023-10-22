@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fruit">
+    <Elem NameU="Apple 1" Name="苹果 1" PromptU="Apple 1" Prompt="苹果 1"/>
+    <Elem NameU="Apple 2" Name="苹果 2" PromptU="Apple 2" Prompt="苹果 2"/>
+    <Elem NameU="Apple 3" Name="苹果 3" PromptU="Apple 3" Prompt="苹果 3"/>
+    <Elem NameU="Avocado" Name="鳄梨" PromptU="Avocado" Prompt="鳄梨"/>
+    <Elem NameU="Banana 1" Name="香蕉 1" PromptU="香蕉 1" Prompt="香蕉 1"/>
+    <Elem NameU="Banana 2" Name="香蕉 2" PromptU="香蕉 2" Prompt="香蕉 2"/>
+    <Elem NameU="Banana 3" Name="香蕉 3" PromptU="香蕉 3" Prompt="香蕉 3"/>
+    <Elem NameU="Blueberry" Name="蓝莓" PromptU="Blueberry" Prompt="蓝莓"/>
+    <Elem NameU="Cantaloupe" Name="哈密瓜" PromptU="Cantaloupe" Prompt="哈密瓜"/>
+    <Elem NameU="Carambola 1" Name="杨桃 1" PromptU="Carambola 1" Prompt="杨桃 1"/>
+    <Elem NameU="Carambola 2" Name="杨桃 2" PromptU="Carambola 2" Prompt="杨桃 2"/>
+    <Elem NameU="Cherry 1" Name="樱桃 1" PromptU="Cherry 1" Prompt="樱桃 1"/>
+    <Elem NameU="Cherry 2" Name="樱桃 2" PromptU="Cherry 2" Prompt="樱桃 2"/>
+    <Elem NameU="Coconut" Name="椰子" PromptU="Coconut" Prompt="椰子"/>
+    <Elem NameU="Durian" Name="榴莲" PromptU="Durian" Prompt="榴莲"/>
+    <Elem NameU="Guava" Name="番石榴" PromptU="Guava" Prompt="番石榴"/>
+    <Elem NameU="Grape" Name="葡萄" PromptU="Grape" Prompt="葡萄"/>
+    <Elem NameU="Kiwi Fruit" Name="猕猴桃" PromptU="Kiwi Fruit" Prompt="猕猴桃"/>
+    <Elem NameU="Leechee 1" Name="荔枝 1" PromptU="Leechee 1" Prompt="荔枝 1"/>
+    <Elem NameU="Leechee 2" Name="荔枝 2" PromptU="Leechee 2" Prompt="荔枝 2"/>
+    <Elem NameU="Lemon 1" Name="柠檬 1" PromptU="Lemon 1" Prompt="柠檬 1"/>
+    <Elem NameU="Lemon 2" Name="柠檬 2" PromptU="Lemon 2" Prompt="柠檬 2"/>
+    <Elem NameU="Loquat" Name="枇杷" PromptU="Loquat" Prompt="枇杷"/>
+    <Elem NameU="Mango" Name="芒果" PromptU="Mango" Prompt="芒果"/>
+    <Elem NameU="Mangosteen" Name="山竹" PromptU="Mangosteen" Prompt="山竹"/>
+    <Elem NameU="Orange" Name="橘子" PromptU="Orange" Prompt="橘子"/>
+    <Elem NameU="Pawpaw" Name="木瓜" PromptU="Pawpaw" Prompt="木瓜"/>
+    <Elem NameU="Peach 1" Name="桃子 1" PromptU="Peach 1" Prompt="桃子 1"/>
+    <Elem NameU="Peach 2" Name="桃子 2" PromptU="Peach 2" Prompt="桃子 2"/>
+    <Elem NameU="Pear" Name="梨" PromptU="Pear" Prompt="梨"/>
+    <Elem NameU="Pear 2" Name="梨 2" PromptU="Pear 2" Prompt="梨 2"/>
+    <Elem NameU="Persimmon 1" Name="柿子 1" PromptU="Persimmon 1" Prompt="柿子 1"/>
+    <Elem NameU="Tomato" Name="西红柿" PromptU="Tomato" Prompt="西红柿"/>
+    <Elem NameU="Pineapple 1" Name="菠萝 1" PromptU="Pineapple 1" Prompt="菠萝 1"/>
+    <Elem NameU="Pineapple 2" Name="菠萝 2" PromptU="Pineapple 2" Prompt="菠萝 2"/>
+    <Elem NameU="Pitaya Fruit" Name="火龙果" PromptU="Pitaya Fruit" Prompt="火龙果"/>
+    <Elem NameU="Pomegranate" Name="石榴" PromptU="Pomegranate" Prompt="石榴"/>
+    <Elem NameU="Raspberry" Name="树莓" PromptU="Raspberry" Prompt="树莓"/>
+    <Elem NameU="Shaddock" Name="柚子" PromptU="Shaddock" Prompt="柚子"/>
+    <Elem NameU="Strawberry 1" Name="草莓 1" PromptU="Strawberry 1" Prompt="草莓 1"/>
+    <Elem NameU="Strawberry 2" Name="草莓 2" PromptU="Strawberry 2" Prompt="草莓 2"/>
+    <Elem NameU="Tomato" Name="西红柿" PromptU="Tomato" Prompt="西红柿"/>
+    <Elem NameU="Watermelon 1" Name="西瓜 1" PromptU="Watermelon 1" Prompt="西瓜 1"/>
+    <Elem NameU="Watermelon 2" Name="西瓜 2" PromptU="Watermelon 2" Prompt="西瓜 2"/>
+    <Elem NameU="Watermelon 3" Name="西瓜 3" PromptU="Watermelon 3" Prompt="西瓜 3"/>
+</Lib>

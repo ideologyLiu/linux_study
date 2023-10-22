@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Sport Elements">
+    <Elem NameU="Tennis racket" Name="テニスラケット" PromptU="Tennis racket" Prompt="テニスラケット"/>
+    <Elem NameU="Badminton racket" Name="バドミントンラケット" PromptU="Badminton racket" Prompt="バドミントンラケット"/>
+    <Elem NameU="Table tennis bat" Name="卓球ラケット" PromptU="Table tennis bat" Prompt="卓球ラケット"/>
+    <Elem NameU="Racquet-ball Racket" Name="ラケットボールラケット" PromptU="Racquet-ball Racket" Prompt="ラケットボールラケット"/>
+    <Elem NameU="Hockey stick" Name="ホッケースティック" PromptU="Hockey stick" Prompt="ホッケースティック"/>
+    <Elem NameU="Curling broom" Name="カーリングブルーム" PromptU="Curling broom" Prompt="カーリングブルーム"/>
+    <Elem NameU="Curling broom" Name="カーリングブルーム" PromptU="Curling broom" Prompt="カーリングブルーム"/>
+    <Elem NameU="Golf clubs 1" Name="ゴルフクラブ 1" PromptU="Golf clubs 1" Prompt="ゴルフクラブ 1"/>
+    <Elem NameU="Golf clubs 2" Name="ゴルフクラブ 2" PromptU="Golf clubs 2" Prompt="ゴルフクラブ 2"/>
+    <Elem NameU="Schon cue" Name="ショーンキュー" PromptU="Schon cue" Prompt="ショーンキュー"/>
+    <Elem NameU="Baseball bat 1" Name="野球用バット 1" PromptU="Baseball bat 1" Prompt="野球用バット 1"/>
+    <Elem NameU="Baseball Bat 2" Name="野球用バット 2" PromptU="Baseball Bat 2" Prompt="野球用バット 2"/>
+    <Elem NameU="Fencing" Name="フェンシング" PromptU="Fencing" Prompt="フェンシング"/>
+    <Elem NameU="Cricket bat" Name="クリケットバット" PromptU="Cricket bat" Prompt="クリケットバット"/>
+    <Elem NameU="Cricket" Name="クリケット" PromptU="Cricket" Prompt="クリケット"/>
+    <Elem NameU="Tennis" Name="テニス" PromptU="Tennis" Prompt="テニス"/>
+    <Elem NameU="Baseball" Name="野球" PromptU="Baseball" Prompt="野球"/>
+    <Elem NameU="Squash 1" Name="スカッシュ 1" PromptU="Squash 1" Prompt="スカッシュ 1"/>
+    <Elem NameU="Squash 2" Name="スカッシュ 2" PromptU="Squash 2" Prompt="スカッシュ 2"/>
+    <Elem NameU="Hockey ball" Name="ホッケーボール" PromptU="Hockey ball" Prompt="ホッケーボール"/>
+    <Elem NameU="Baseball" Name="野球" PromptU="Baseball" Prompt="野球"/>
+    <Elem NameU="Badminton" Name="バドミントン" PromptU="Badminton" Prompt="バドミントン"/>
+    <Elem NameU="Football" Name="フットボール" PromptU="Football" Prompt="フットボール"/>
+    <Elem NameU="Basketball" Name="バスケットボール" PromptU="Basketball" Prompt="バスケットボール"/>
+    <Elem NameU="Volleyball" Name="バレーボール" PromptU="Volleyball" Prompt="バレーボール"/>
+    <Elem NameU="Rugby 1" Name="ラグビー 1" PromptU="Rugby 1" Prompt="ラグビー 1"/>
+    <Elem NameU="Rugby 2" Name="ラグビー 2" PromptU="Rugby 2" Prompt="ラグビー 2"/>
+    <Elem NameU="Curling" Name="カーリング" PromptU="Curling" Prompt="カーリング"/>
+    <Elem NameU="Bowling pin" Name="ボウリングピン" PromptU="Bowling pin" Prompt="ボウリングピン"/>
+    <Elem NameU="Bowling" Name="ボウリング" PromptU="Bowling" Prompt="ボウリング"/>
+    <Elem NameU="Billiard Balls 1" Name="ビリヤードボール 1" PromptU="Billiard Balls 1" Prompt="ビリヤードボール 1"/>
+    <Elem NameU="Billiard Balls 2" Name="ビリヤードボール 2" PromptU="Billiard Balls 2" Prompt="ビリヤードボール 2"/>
+    <Elem NameU="Cue Sports 1" Name="ビリヤードボール 3" PromptU="Cue Sports 1" Prompt="ビリヤードボール 3"/>
+    <Elem NameU="Cue Sports 2" Name="ビリヤードボール 4" PromptU="Cue Sports 2" Prompt="ビリヤードボール 4"/>
+    <Elem NameU="Shuttlecock" Name="ジェンズ" PromptU="Shuttlecock" Prompt="羽根蹴り"/>
+    <Elem NameU="Helmet" Name="ヘルメット" PromptU="Helmet" Prompt="ヘルメット"/>
+    <Elem NameU="Skating shoes" Name="スケート靴" PromptU="Skating shoes" Prompt="スケート靴"/>
+    <Elem NameU="Skis stick" Name="ストック" PromptU="Skis stick" Prompt="ストック"/>
+    <Elem NameU="Skis board" Name="スキー板" PromptU="Skis board" Prompt="スキー板"/>
+    <Elem NameU="Boxing glove" Name="ボクシンググローブ" PromptU="Boxing glove" Prompt="ボクシンググローブ"/>
+    <Elem NameU="Goal" Name="ゴール" PromptU="Goal" Prompt="ゴール"/>
+    <Elem NameU="Whistle" Name="ホイッスル" PromptU="Whistle" Prompt="ホイッスル"/>
+    <Elem NameU="Small Flags" Name="フラグ" PromptU="Small Flags" Prompt="フラグ"/>
+    <Elem NameU="Trumpet" Name="ラッパ" PromptU="Trumpet" Prompt="ラッパ"/>
+    <Elem NameU="Bow And Arrow" Name="弓と矢" PromptU="Bow And Arrow" Prompt="弓と矢"/>
+    <Elem NameU="Medals" Name="メダル" PromptU="Medals" Prompt="メダル"/>
+    <Elem NameU="Trophies 1" Name="トロフィー 1" PromptU="Trophies 1" Prompt="トロフィー 1"/>
+    <Elem NameU="Trophies 2" Name="トロフィー 2" PromptU="Trophies 2" Prompt="トロフィー 2"/>
+    <Elem NameU="Life Buoy" Name="ライフブイ" PromptU="Life Buoy" Prompt="ライフブイ"/>
+    <Elem NameU="Submersible" Name="スクーバタンクと水中メガネ" PromptU="Submersible" Prompt="スクーバタンクと水中メガネ"/>
+    <Elem NameU="Fins" Name="フィン" PromptU="Fins" Prompt="フィン"/>
+    <Elem NameU="Swimming Glasses" Name="スイミンググラス" PromptU="Swimming Glasses" Prompt="スイミンググラス"/>
+    <Elem NameU="Backboard 1" Name="バスケットボールバックボード 1" PromptU="Backboard 1" Prompt="バスケットボールバックボード 1"/>
+    <Elem NameU="Backboard 2" Name="バスケットボールバックボード 2" PromptU="Backboard 2" Prompt="バスケットボールバックボード 2"/>
+</Lib>

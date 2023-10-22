@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Aerospace and Military">
+    <Elem NameU="Astronaut 1" Name="宇宙飛行士 1" PromptU="Astronaut 1" Prompt="宇宙飛行士 1"/>
+    <Elem NameU="Astronaut 2" Name="宇宙飛行士 2" PromptU="Astronaut 2" Prompt="宇宙飛行士 2"/>
+    <Elem NameU="Astronaut 3" Name="宇宙飛行士 3" PromptU="Astronaut 3" Prompt="宇宙飛行士 3"/>
+    <Elem NameU="Astronomical Telescope 1" Name="宇宙望遠鏡 1" PromptU="Astronomical Telescope 1" Prompt="宇宙望遠鏡 1"/>
+    <Elem NameU="Astronomical Telescope 2" Name="宇宙望遠鏡 2" PromptU="Astronomical Telescope 2" Prompt="宇宙望遠鏡 2"/>
+    <Elem NameU="Rocket" Name="ロケット" PromptU="Rocket" Prompt="ロケット"/>
+    <Elem NameU="Satellite 1" Name="衛星 1" PromptU="Satellite 1" Prompt="衛星 1"/>
+    <Elem NameU="Satellite 2" Name="衛星 2" PromptU="Satellite 2" Prompt="衛星 2"/>
+    <Elem NameU="Launching Tower" Name="発射塔" PromptU="Launching Tower" Prompt="発射塔"/>
+    <Elem NameU="Plane" Name="飛行機" PromptU="Plane" Prompt="飛行機"/>
+    <Elem NameU="Earth" Name="地球" PromptU="Earth" Prompt="地球"/>
+    <Elem NameU="Fighter Aircraft" Name="戦闘機" PromptU="Fighter Aircraft" Prompt="戦闘機"/>
+    <Elem NameU="Fighter Aircraft" Name="戦闘機" PromptU="Fighter Aircraft" Prompt="戦闘機"/>
+    <Elem NameU="Fighter Aircraft" Name="戦闘機" PromptU="Fighter Aircraft" Prompt="戦闘機"/>
+    <Elem NameU="Fighter Aircraft" Name="戦闘機" PromptU="Fighter Aircraft" Prompt="戦闘機"/>
+    <Elem NameU="Fighter Aircraft" Name="戦闘機" PromptU="Fighter Aircraft" Prompt="戦闘機"/>
+    <Elem NameU="Fighter Aircraft" Name="戦闘機" PromptU="Fighter Aircraft" Prompt="戦闘機"/>
+    <Elem NameU="Fighter Aircraft" Name="戦闘機" PromptU="Fighter Aircraft" Prompt="戦闘機"/>
+    <Elem NameU="Missle 1" Name="ミスル 1" PromptU="Missle 1" Prompt="ミスル 1"/>
+    <Elem NameU="Missle 2" Name="ミスル 2" PromptU="Missle 2" Prompt="ミスル 2"/>
+    <Elem NameU="High Speed Rail" Name="高速鉄道" PromptU="High Speed Rail" Prompt="高速鉄道"/>
+    <Elem NameU="Submarine 1" Name="潜水艦 1" PromptU="Submarine 1" Prompt="潜水艦 1"/>
+    <Elem NameU="Submarine 2" Name="潜水艦 2" PromptU="Submarine 2" Prompt="潜水艦 2"/>
+    <Elem NameU="Submarine 3" Name="潜水艦 3" PromptU="Submarine 3" Prompt="潜水艦 3"/>
+    <Elem NameU="Tank" Name="タンク" PromptU="Tank" Prompt="タンク"/>
+</Lib>

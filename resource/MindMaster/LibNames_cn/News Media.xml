@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="News Media">
+    <Elem Prompt="场记板" Name="场记板" PromptU="Clapboard" NameU="Clapboard"/>
+    <Elem Prompt="电视机" Name="电视机" PromptU="TV" NameU="TV"/>
+    <Elem Prompt="收音机" Name="收音机" PromptU="Radio" NameU="Radio"/>
+    <Elem Prompt="电影" Name="电影" PromptU="Film" NameU="Film"/>
+    <Elem Prompt="监视" Name="监视" PromptU="Monitoring" NameU="Monitoring"/>
+    <Elem Prompt="麦克风" Name="麦克风" PromptU="Microphone" NameU="Microphone"/>
+    <Elem Prompt="接收器" Name="接收器" PromptU="Receiver" NameU="Receiver"/>
+    <Elem Prompt="卫星" Name="卫星" PromptU="Satellite" NameU="Satellite"/>
+    <Elem Prompt="影像播放器" Name="影像播放器" PromptU="Video player" NameU="Video player"/>
+    <Elem Prompt="广播" Name="广播" PromptU="Broadcast" NameU="Broadcast"/>
+    <Elem Prompt="麦克风 1" Name="麦克风 1" PromptU="Microphone 1" NameU="Microphone 1"/>
+    <Elem Prompt="麦克风 2" Name="麦克风 2" PromptU="Microphone 2" NameU="Microphone 2"/>
+    <Elem Prompt="耳机" Name="耳机" PromptU="Earphone" NameU="Earphone"/>
+    <Elem Prompt="热点消息" Name="热点消息" PromptU="Hot News" NameU="Hot News"/>
+    <Elem Prompt="记者证" Name="记者证" PromptU="Press Card" NameU="Press Card"/>
+    <Elem Prompt="摄影机" Name="摄影机" PromptU="Video Camera" NameU="Video Camera"/>
+    <Elem Prompt="采访车" Name="采访车" PromptU="News Truck" NameU="News Truck"/>
+    <Elem Prompt="采访车" Name="采访车" PromptU="News Van" NameU="News Van"/>
+    <Elem Prompt="采访" Name="采访" PromptU="Interview" NameU="Interview"/>
+    <Elem Prompt="影视拍摄" Name="影视拍摄" PromptU="Video Shooting" NameU="Video Shooting"/>
+    <Elem Prompt="拍照 1" Name="拍照 1" PromptU="Taking Photos 1" NameU="Taking Photos 1"/>
+    <Elem Prompt="拍照 2" Name="拍照 2" PromptU="Taking Photo 2" NameU="Taking Photo 2"/>
+    <Elem Prompt="国际" Name="国际" PromptU="Global" NameU="Global"/>
+    <Elem Prompt="记者招待会" Name="记者招待会" PromptU="Press Conference" NameU="Press Conference"/>
+    <Elem Prompt="聚焦" Name="聚焦" PromptU="Focus" NameU="Focus"/>
+    <Elem Prompt="发现" Name="发现" PromptU="Discover" NameU="Discover"/>
+    <Elem Prompt="世界地图" Name="世界地图" PromptU="World Map" NameU="World Map"/>
+    <Elem Prompt="时钟" Name="时钟" PromptU="Clock" NameU="Clock"/>
+    <Elem Prompt="记事本" Name="记事本" PromptU="Notepad" NameU="Notepad"/>
+    <Elem Prompt="数据分析" Name="数据分析" PromptU="Data Analysis" NameU="Data Analysis"/>
+    <Elem Prompt="人们" Name="人们" PromptU="People" NameU="People"/>
+    <Elem Prompt="报纸" Name="报纸" PromptU="Newspaper" NameU="Newspaper"/>
+    <Elem Prompt="投影屏幕" Name="投影屏幕" PromptU="Projection screen" NameU="Projection screen"/>
+    <Elem Prompt="电脑" Name="电脑" PromptU="Computer" NameU="Computer"/>
+    <Elem Prompt="高清 TV" Name="高清 TV" PromptU="LCD TV" NameU="LCD TV"/>
+    <Elem Prompt="手机" Name="手机" PromptU="Mobile" NameU="Mobile"/>
+</Lib>

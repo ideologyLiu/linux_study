@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Terricole">
+    <Elem NameU="Dog" Name="犬" PromptU="Dog" Prompt="犬"/>
+    <Elem NameU="Rabbit" Name="ウサギ" PromptU="Rabbit" Prompt="ウサギ"/>
+    <Elem NameU="Cat" Name="猫" PromptU="Cat" Prompt="猫"/>
+    <Elem NameU="Red-crowned Crane" Name="タンチョウヅル" PromptU="Red-crowned Crane" Prompt="タンチョウヅル"/>
+    <Elem NameU="Giraffe 1" Name="キリン" PromptU="Giraffe 1" Prompt="キリン"/>
+    <Elem NameU="Fawn" Name="鹿" PromptU="Fawn" Prompt="鹿"/>
+    <Elem NameU="Cock" Name="ニワトリ" PromptU="Cock" Prompt="ニワトリ"/>
+    <Elem NameU="Sheep" Name="羊" PromptU="Sheep" Prompt="羊"/>
+    <Elem NameU="Cow" Name="牛" PromptU="Cow" Prompt="牛"/>
+    <Elem NameU="Squirrel" Name="リス" PromptU="Squirrel" Prompt="リス"/>
+    <Elem NameU="Tortoise" Name="カメ" PromptU="Tortoise" Prompt="カメ"/>
+    <Elem NameU="Mouse" Name="ネズミ" PromptU="Mouse" Prompt="ネズミ"/>
+    <Elem NameU="Duck" Name="アヒル" PromptU="Duck" Prompt="アヒル"/>
+    <Elem NameU="Pigeon" Name="鳩" PromptU="Pigeon" Prompt="鳩"/>
+    <Elem NameU="Peace Dove" Name="平和の鳩" PromptU="Peace Dove" Prompt="平和の鳩"/>
+    <Elem NameU="Panda" Name="パンダ" PromptU="Panda" Prompt="パンダ"/>
+    <Elem NameU="Snake" Name="蛇" PromptU="Snake" Prompt="蛇"/>
+    <Elem NameU="Elephant" Name="象" PromptU="Elephant" Prompt="象"/>
+    <Elem NameU="Koala" Name="コアラ" PromptU="Koala" Prompt="コアラ"/>
+    <Elem NameU="Horse" Name="馬" PromptU="Horse" Prompt="馬"/>
+    <Elem NameU="Camel" Name="ラクダ" PromptU="Camel" Prompt="ラクダ"/>
+    <Elem NameU="Pig" Name="豚" PromptU="Pig" Prompt="豚"/>
+    <Elem NameU="Sika Deer" Name="ニホンジカ" PromptU="Sika Deer" Prompt="ニホンジカ"/>
+    <Elem NameU="Snail" Name="カタツムリ" PromptU="Snail" Prompt="カタツムリ"/>
+    <Elem NameU="Gecko" Name="トッケイヤモリ" PromptU="Gecko" Prompt="トッケイヤモリ"/>
+    <Elem NameU="Frog" Name="カエル 1" PromptU="Frog" Prompt="カエル 1"/>
+    <Elem NameU="Toad" Name="カエル 2" PromptU="Toad" Prompt="カエル 2"/>
+    <Elem NameU="Parrot" Name="オウム" PromptU="Parrot" Prompt="オウム"/>
+    <Elem NameU="Rhinoceros" Name="サイ" PromptU="Rhinoceros" Prompt="サイ"/>
+    <Elem NameU="Bat" Name="コウモリ" PromptU="Bat" Prompt="コウモリ"/>
+    <Elem NameU="Lizard" Name="トカゲ" PromptU="Lizard" Prompt="トカゲ"/>
+    <Elem NameU="Leopard" Name="ヒョウ" PromptU="Leopard" Prompt="ヒョウ"/>
+    <Elem NameU="Hippopotamus 1" Name="カバ 1" PromptU="Hippopotamus 1" Prompt="カバ 1"/>
+    <Elem NameU="Hippopotamus 2" Name="カバ 2" PromptU="Hippopotamus 2" Prompt="カバ 2"/>
+    <Elem NameU="Polar bear 1" Name="北極熊 1" PromptU="Polar bear 1" Prompt="北極熊 1"/>
+    <Elem NameU="Polar bear 2" Name="北極熊 2" PromptU="Polar bear 2" Prompt="北極熊 2"/>
+    <Elem NameU="Polar bear 3" Name="北極熊 3" PromptU="Polar bear 3" Prompt="北極熊 3"/>
+    <Elem NameU="Elephant 1" Name="象 1" PromptU="Elephant 1" Prompt="象 1"/>
+    <Elem NameU="Elephant 2" Name="象 2" PromptU="Elephant 2" Prompt="象 2"/>
+    <Elem NameU="Crocodile 1" Name="クロコダイル 1" PromptU="Crocodile 1" Prompt="クロコダイル 1"/>
+    <Elem NameU="Crocodile 2" Name="クロコダイル 2" PromptU="Crocodile 2" Prompt="クロコダイル 2"/>
+    <Elem NameU="Tyrannosaurus" Name="ティラノサウルス" PromptU="Tyrannosaurus" Prompt="ティラノサウルス"/>
+    <Elem NameU="Stegosaurus" Name="ステゴサウルス" PromptU="Stegosaurus" Prompt="ステゴサウルス"/>
+</Lib>

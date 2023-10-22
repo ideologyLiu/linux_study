@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Halloween">
+    <Elem NameU="Signs 1" Name="札 1" PromptU="Signs 1" Prompt="札 1"/>
+    <Elem NameU="Signs 2" Name="札 2" PromptU="Signs 2" Prompt="札 2"/>
+    <Elem NameU="Pumpkin" Name="カボチャ" PromptU="Pumpkin" Prompt="カボチャ"/>
+    <Elem NameU="Pumpkin1" Name="カボチャ1" PromptU="Pumpkin1" Prompt="カボチャ1"/>
+    <Elem NameU="Pumpkin2" Name="カボチャ2" PromptU="Pumpkin2" Prompt="カボチャ2"/>
+    <Elem NameU="Pumpkin3" Name="カボチャ3" PromptU="Pumpkin3" Prompt="カボチャ3"/>
+    <Elem NameU="Pumpkin4" Name="カボチャ4" PromptU="Pumpkin4" Prompt="カボチャ4"/>
+    <Elem NameU="Pumpkin5" Name="カボチャ5" PromptU="Pumpkin5" Prompt="カボチャ5"/>
+    <Elem NameU="Pumpkin6" Name="カボチャ6" PromptU="Pumpkin6" Prompt="カボチャ6"/>
+    <Elem NameU="Pumpkin7" Name="カボチャ7" PromptU="Pumpkin7" Prompt="カボチャ7"/>
+    <Elem NameU="Pumpkin8" Name="カボチャ8" PromptU="Pumpkin8" Prompt="カボチャ8"/>
+    <Elem NameU="Bats" Name="コウモリ" PromptU="Bats" Prompt="コウモリ"/>
+    <Elem NameU="Bats1" Name="コウモリ1" PromptU="Bats2" Prompt="コウモリ2"/>
+    <Elem NameU="Bats2" Name="コウモリ2" PromptU="Bats2" Prompt="コウモリ2"/>
+    <Elem NameU="Bats3" Name="コウモリ3" PromptU="Bats3" Prompt="コウモリ3"/>
+    <Elem NameU="Tree" Name="木" PromptU="Tree" Prompt="木"/>
+    <Elem NameU="Tree1" Name="木1" PromptU="Tree1" Prompt="木1"/>
+    <Elem NameU="Tree2" Name="木2" PromptU="Tree2" Prompt="木2"/>
+    <Elem NameU="Tree3" Name="木3" PromptU="Tree3" Prompt="木3"/>
+    <Elem NameU="Tree4" Name="木4" PromptU="Tree4" Prompt="木4"/>
+    <Elem NameU="Cobwebs" Name="クモの巣" PromptU="Cobwebs" Prompt="クモの巣"/>
+    <Elem NameU="Cobwebs1" Name="クモの巣1" PromptU="Cobwebs1" Prompt="クモの巣1"/>
+    <Elem NameU="Cobwebs2" Name="クモの巣2" PromptU="Cobwebs2" Prompt="クモの巣2"/>
+    <Elem NameU="Spider" Name="蜘蛛" PromptU="Spider" Prompt="蜘蛛"/>
+    <Elem NameU="Spider1" Name="蜘蛛1" PromptU="Spider1" Prompt="蜘蛛1"/>
+    <Elem NameU="Spider2" Name="蜘蛛2" PromptU="Spider2" Prompt="蜘蛛2"/>
+    <Elem NameU="Spider3" Name="蜘蛛3" PromptU="Spider3" Prompt="蜘蛛3"/>
+    <Elem NameU="Cat" Name="猫" PromptU="Cat" Prompt="猫"/>
+    <Elem NameU="Haunted House" Name="お化け屋敷" PromptU="Haunted House" Prompt="お化け屋敷"/>
+    <Elem NameU="Haunted House1" Name="お化け屋敷1" PromptU="Haunted House1" Prompt="お化け屋敷1"/>
+    <Elem NameU="Haunted House2" Name="お化け屋敷2" PromptU="Haunted House2" Prompt="お化け屋敷2"/>
+    <Elem NameU="Cross" Name="十字架" PromptU="Cross" Prompt="十字架"/>
+    <Elem NameU="Cross1" Name="十字架　2" PromptU="Cross1" Prompt="十字架　2"/>
+    <Elem NameU="Ghost" Name="お化け" PromptU="Ghost" Prompt="お化け"/>
+    <Elem NameU="Ghost1" Name="お化け　2" PromptU="Ghost1" Prompt="お化け　2"/>
+    <Elem NameU="Ghost2" Name="お化け　3" PromptU="Ghost2" Prompt="お化け　3"/>
+    <Elem NameU="Witch Hat" Name="魔女の帽子" PromptU="Witch Hat" Prompt="魔女の帽子"/>
+    <Elem NameU="Witch Hat1" Name="魔女の帽子1" PromptU="Witch Hat1" Prompt="魔女の帽子1"/>
+    <Elem NameU="Witch Hat2" Name="魔女の帽子2" PromptU="Witch Hat2" Prompt="魔女の帽子2"/>
+    <Elem NameU="Broom" Name="ほうき" PromptU="Broom" Prompt="ほうき"/>
+    <Elem NameU="Broom1" Name="ほうき　2" PromptU="Broom1" Prompt="ほうき　2"/>
+    <Elem NameU="Witch" Name="魔女" PromptU="Witch" Prompt="魔女"/>
+    <Elem NameU="Witch1" Name="魔女1" PromptU="Witch1" Prompt="魔女1"/>
+    <Elem NameU="Stockpot" Name="深鍋" PromptU="Stockpot" Prompt="深鍋"/>
+    <Elem NameU="Part Finger " Name="手の指" PromptU="Part Finger " Prompt="手の指"/>
+    <Elem NameU="Mask" Name="マスク" PromptU="Mask" Prompt="マスク"/>
+    <Elem NameU="Mask1" Name="マスク1" PromptU="Mask1" Prompt="マスク1"/>
+    <Elem NameU="Sweet" Name="ロリポップ" PromptU="Sweet" Prompt="ロリポップ"/>
+    <Elem NameU="Sweet1" Name="ロリポップ　1" PromptU="Sweet1" Prompt="ロリポップ　1"/>
+    <Elem NameU="Zombie" Name="ゾンビ" PromptU="Zombie" Prompt="ゾンビ"/>
+    <Elem NameU="No face bride" Name="顔なしの花嫁さん" PromptU="No face bride" Prompt="顔なしの花嫁さん"/>
+</Lib>

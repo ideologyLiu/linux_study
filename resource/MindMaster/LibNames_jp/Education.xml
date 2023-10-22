@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Education Flat">
+    <Elem NameU="Folder" Name="書類ファイル" PromptU="Folder" Prompt="書類ファイル"/>
+    <Elem NameU="Books" Name="本" PromptU="Books" Prompt="本"/>
+    <Elem NameU="Pen Pot" Name="筆たて" PromptU="Pen Pot" Prompt="筆たて"/>
+    <Elem NameU="Globe" Name="地球儀" PromptU="Globe" Prompt="地球儀"/>
+    <Elem NameU="Schoolbag" Name="ランドセル" PromptU="Schoolbag" Prompt="ランドセル"/>
+    <Elem NameU="Opened Book" Name="開いた本" PromptU="Opened Book" Prompt="開いた本"/>
+    <Elem NameU="Color Pens" Name="カラーペン" PromptU="Color Pens" Prompt="カラーペン"/>
+    <Elem NameU="Paint" Name="顔料" PromptU="Paint" Prompt="顔料"/>
+    <Elem NameU="Brushes" Name="ブラシ" PromptU="Brushes" Prompt="ブラシ"/>
+    <Elem NameU="Scissors" Name="はさみ" PromptU="Scissors" Prompt="はさみ"/>
+    <Elem NameU="Pen" Name="万年筆" PromptU="Pen" Prompt="万年筆"/>
+    <Elem NameU="Ballpoint Pen" Name="ボールペン" PromptU="Ballpoint Pen" Prompt="ボールペン"/>
+    <Elem NameU="Pencil 1" Name="鉛筆 1" PromptU="Pencil 1" Prompt="鉛筆 1"/>
+    <Elem NameU="Pencil 2" Name="鉛筆 2" PromptU="Pencil 2" Prompt="鉛筆 2"/>
+    <Elem NameU="Palette 1" Name="パレット 1" PromptU="Palette 1" Prompt="パレット 1"/>
+    <Elem NameU="Palette 2" Name="パレット 2" PromptU="Palette 2" Prompt="パレット 2"/>
+    <Elem NameU="Rubber" Name="消しゴム" PromptU="Rubber" Prompt="消しゴム"/>
+    <Elem NameU="Compass" Name="コンパス" PromptU="Compass" Prompt="コンパス"/>
+    <Elem NameU="Drawing Board" Name="製図板" PromptU="Drawing Board" Prompt="製図板"/>
+    <Elem NameU="Pushpin" Name="押しピン" PromptU="Pushpin" Prompt="押しピン"/>
+    <Elem NameU="Paper Clip" Name="ペーパークリップ" PromptU="Paper Clip" Prompt="ペーパークリップ"/>
+    <Elem NameU="Note Paper" Name="メモパット" PromptU="Note Paper" Prompt="メモパット"/>
+    <Elem NameU="Glasses" Name="メガネ" PromptU="Glasses" Prompt="メガネ"/>
+    <Elem NameU="Glue" Name="のり" PromptU="Glue" Prompt="のり"/>
+    <Elem NameU="Blackboard" Name="黒板" PromptU="Blackboard" Prompt="黒板"/>
+    <Elem NameU="Calculater" Name="計算器" PromptU="Calculater" Prompt="計算器"/>
+    <Elem NameU="School Bus" Name="スクールバス" PromptU="School Bus" Prompt="スクールバス"/>
+    <Elem NameU="Mortarboard" Name="モルタルボード" PromptU="Mortarboard" Prompt="モルタルボード"/>
+    <Elem NameU="Diploma" Name="卒業証書" PromptU="Diploma" Prompt="卒業証書"/>
+    <Elem NameU="Football" Name="サッカー" PromptU="Football" Prompt="Fサッカー"/>
+    <Elem NameU="Basketball" Name="バスケ" PromptU="Basketball" Prompt="バスケ"/>
+    <Elem NameU="Rugby" Name="ラグビー" PromptU="Rugby" Prompt="ラグビー"/>
+    <Elem NameU="Tennis Ball" Name="テニス" PromptU="Tennis Ball" Prompt="テニス"/>
+    <Elem NameU="Flask" Name="フラスコ" PromptU="Flask" Prompt="フラスコ"/>
+    <Elem NameU="Conical Flask" Name="三角フラスコ" PromptU="Conical Flask" Prompt="三角フラスコ"/>
+    <Elem NameU="Beaker" Name="ビーカー" PromptU="Beaker" Prompt="ビーカー"/>
+    <Elem NameU="Flask" Name="フラスコ" PromptU="Flask" Prompt="フラスコ"/>
+    <Elem NameU="Test Tube" Name="試験管" PromptU="Test Tube" Prompt="試験管"/>
+    <Elem NameU="Alcohol Burner" Name="アルコールランプ" PromptU="Alcohol Burner" Prompt="アルコールランプ"/>
+    <Elem NameU="Ruler" Name="ルーラー" PromptU="Ruler" Prompt="ルーラー"/>
+    <Elem NameU="Set Square" Name="三角定規" PromptU="Set Square" Prompt="三角定規"/>
+    <Elem NameU="Angle Ruler" Name="角度定規" PromptU="Angle Ruler" Prompt="角度定規"/>
+    <Elem NameU="Telescopes" Name="望遠鏡" PromptU="Telescopes" Prompt="望遠鏡"/>
+    <Elem NameU="Microscope" Name="顕微鏡" PromptU="Microscope" Prompt="顕微鏡"/>
+    <Elem NameU="Sand Timer" Name="サンドタイマー" PromptU="Sand Timer" Prompt="サンドタイマー"/>
+    <Elem NameU="Cell" Name="細胞" PromptU="Cell" Prompt="細胞"/>
+    <Elem NameU="Gene Map" Name="ジーンマップ" PromptU="Gene Map" Prompt="ジーンマップ"/>
+    <Elem NameU="Sun" Name="太陽" PromptU="Sun" Prompt="太陽"/>
+    <Elem NameU="Planetary motion" Name="惑星運動" PromptU="Planetary motion" Prompt="惑星運動"/>
+    <Elem NameU="Astronomical telescope" Name="天体望遠鏡" PromptU="Astronomical telescope" Prompt="天体望遠鏡"/>
+    <Elem NameU="Table lamp" Name="電気スタンド" PromptU="Table lamp" Prompt="電気スタンド"/>
+    <Elem NameU="Small bell 1" Name="ベル 1" PromptU="Small bell 1" Prompt="ベル 1"/>
+    <Elem NameU="Small bell 2" Name="ベル 2" PromptU="Small bell 2" Prompt="ベル 2"/>
+    <Elem NameU="Tree 1" Name="ツリー 1" PromptU="Tree 1" Prompt="ツリー 1"/>
+    <Elem NameU="Tree 2" Name="ツリー 2" PromptU="Tree 2" Prompt="ツリー 2"/>
+    <Elem NameU="Bass 1" Name="ベース 1" PromptU="Bass 1" Prompt="ベース 1"/>
+    <Elem NameU="Bass 2" Name="ベース 2" PromptU="Bass 2" Prompt="ベース 2"/>
+    <Elem NameU="Guitar 1" Name="ギター 1" PromptU="Guitar 1" Prompt="ギター 1"/>
+    <Elem NameU="Guitar 2" Name="ギター 2" PromptU="Guitar 2" Prompt="ギター 2"/>
+    <Elem NameU="School" Name="学校" PromptU="School" Prompt="学校"/>
+    <Elem NameU="Lecturer" Name="講師" PromptU="Lecturer" Prompt="講師"/>
+    <Elem NameU="Notebook computer" Name="ノートパソコン" PromptU="Notebook computer" Prompt="ノートパソコン"/>
+    <Elem NameU="Desktop computer" Name="デスクトップコンピューター" PromptU="Desktop computer" Prompt="デスクトップコンピューター"/>
+    <Elem NameU="Flower pot 1" Name="植木鉢 1" PromptU="Flower pot 1" Prompt="植木鉢 1"/>
+    <Elem NameU="Flower pot 2" Name="植木鉢 2" PromptU="Flower pot 2" Prompt="植木鉢 2"/>
+    <Elem NameU="Apple" Name="りんご" PromptU="Apple" Prompt="りんご"/>
+    <Elem NameU="Light bulb 1" Name="電球 1" PromptU="Light bulb 1" Prompt="電球 1"/>
+    <Elem NameU="Light bulb 2" Name="電球 2" PromptU="Light bulb 2" Prompt="電球 2"/>
+	<Elem NameU="Light bulb 3" Name="電球 3" PromptU="Light bulb 3" Prompt="電球 3"/>
+    <Elem NameU="Balloon" Name="風船" PromptU="Balloon" Prompt="風船"/>
+    <Elem NameU="Trophy" Name="賞品" PromptU="Trophy" Prompt="賞品"/>
+    <Elem NameU="Medal" Name="メダル" PromptU="Medal" Prompt="メダル"/>
+    <Elem NameU="Various certificates" Name="各種証明書" PromptU="Various certificates" Prompt="各種証明書"/>
+    <Elem NameU="Go to school 1" Name="学校に行く 1" PromptU="Go to school 1" Prompt="学校に行く 1"/>
+    <Elem NameU="Go to school 2" Name="学校に行く 2" PromptU="Go to school 2" Prompt="学校に行く 2"/>
+    <Elem NameU="Reading 1" Name="読書 1" PromptU="Reading 1" Prompt="読書 1"/>
+    <Elem NameU="Reading 2" Name="読書 2" PromptU="Reading 2" Prompt="読書 2"/>
+    <Elem NameU="School Boy" Name="男子学生" PromptU="School Boy" Prompt="男子学生"/>
+    <Elem NameU="School Girl" Name="女子学生" PromptU="School Girl" Prompt="女子学生"/>
+    <Elem NameU="Party" Name="パーティー" PromptU="Party" Prompt="パーティー"/>
+    <Elem NameU="Student with Trophy" Name="トロフィーを持つ学生" PromptU="Student with Trophy" Prompt="トロフィーを持つ学生"/>
+    <Elem NameU="Pupil girl 1" Name="女の子 1" PromptU="Pupil girl 1" Prompt="女の子 1"/>
+    <Elem NameU="Pupil boy 1" Name="男の子 1" PromptU="Pupil boy 1" Prompt="女の子 1"/>
+    <Elem NameU="Pupil girl 2" Name="女の子 2" PromptU="Pupil girl 2" Prompt="女の子 2"/>
+    <Elem NameU="Pupil boy 2" Name="男の子 2" PromptU="Pupil boy 2" Prompt="男の子 2"/>
+    <Elem NameU="Student Girl 1" Name="女子学生 1" PromptU="Student Girl 1" Prompt="女子学生 1"/>
+    <Elem NameU="Student Boy 1" Name="男子学生 1" PromptU="Student Boy 1" Prompt="男子学生 1"/>
+    <Elem NameU="Student Girl 2" Name="女子学生 2" PromptU="Student Girl 2" Prompt="女子学生 2"/>
+    <Elem NameU="Student Boy 2" Name="男子学生 2" PromptU="Student Boy 2" Prompt="男子学生 2"/>
+    <Elem NameU="Attend class" Name="授業に出る" PromptU="Attend class" Prompt="授業に出る"/>
+    <Elem NameU="The Graduate" Name="卒業生" PromptU="The Graduate" Prompt="卒業生"/>
+</Lib>

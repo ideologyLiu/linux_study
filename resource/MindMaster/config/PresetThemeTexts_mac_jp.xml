@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThemeTexts Version="6.1">
+<ThemeText ID="1" Name="MS Mincho">
+        <FontSchemeLst>
+            <FontScheme FontSize="19" Flag="0" FontName="MS Mincho"/>
+            <FontScheme FontSize="16" Flag="0" FontName="MS Mincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS Mincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS Mincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS Mincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS Mincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS Mincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS Mincho"/>
+        </FontSchemeLst>
+    </ThemeText>
+ <ThemeText ID="2" Name="MS PMincho">
+        <FontSchemeLst>
+            <FontScheme FontSize="19" Flag="0" FontName="MS PMincho"/>
+            <FontScheme FontSize="16" Flag="0" FontName="MS PMincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS PMincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS PMincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS PMincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS PMincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS PMincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS PMincho"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText ID="3" Name="MS PGothic">
+        <FontSchemeLst>
+            <FontScheme FontSize="19" Flag="0" FontName="MS PGothic"/>
+            <FontScheme FontSize="16" Flag="0" FontName="MS PGothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS PGothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS PGothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS PGothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS PGothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS PGothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS PGothic"/>
+        </FontSchemeLst>
+    </ThemeText>
+	<ThemeText ID="4" Name="MS Gothic">
+        <FontSchemeLst>
+            <FontScheme FontSize="19" Flag="0" FontName="MS Gothic"/>
+            <FontScheme FontSize="16" Flag="0" FontName="MS Gothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS Gothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS Gothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS Gothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS Gothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS Gothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS Gothic"/>
+    </ThemeText>
+    <ThemeText ID="5" Name="MS UI Gothic">
+        <FontSchemeLst>
+            <FontScheme FontSize="19" Flag="0" FontName="MS UI Gothic"/>
+            <FontScheme FontSize="16" Flag="0" FontName="MS UI Gothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS UI Gothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS UI Gothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS UI Gothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS UI Gothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS UI Gothic"/>
+            <FontScheme FontSize="13" Flag="0" FontName="MS UI Gothic"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText ID="6" Name="Mincho">
+        <FontSchemeLst>
+            <FontScheme FontSize="19" Flag="0" FontName="Mincho"/>
+            <FontScheme FontSize="16" Flag="0" FontName="Mincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="Mincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="Mincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="Mincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="Mincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="Mincho"/>
+            <FontScheme FontSize="13" Flag="0" FontName="Mincho"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText ID="7" Name="微软雅黑">
+        <FontSchemeLst>
+            <FontScheme FontSize="19" Flag="0" FontName="微软雅黑"/>
+            <FontScheme FontSize="16" Flag="0" FontName="微软雅黑"/>
+            <FontScheme FontSize="13" Flag="0" FontName="微软雅黑"/>
+            <FontScheme FontSize="13" Flag="0" FontName="微软雅黑"/>
+            <FontScheme FontSize="13" Flag="0" FontName="微软雅黑"/>
+            <FontScheme FontSize="13" Flag="0" FontName="微软雅黑"/>
+            <FontScheme FontSize="13" Flag="0" FontName="微软雅黑"/>
+            <FontScheme FontSize="13" Flag="0" FontName="微软雅黑"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText ID="8" Name="微软雅黑 (大)">
+        <FontSchemeLst>
+            <FontScheme FontSize="21" Flag="0" FontName="微软雅黑"/>
+            <FontScheme FontSize="19" Flag="0" FontName="微软雅黑"/>
+            <FontScheme FontSize="16" Flag="0" FontName="微软雅黑"/>
+            <FontScheme FontSize="16" Flag="0" FontName="微软雅黑"/>
+            <FontScheme FontSize="16" Flag="0" FontName="微软雅黑"/>
+            <FontScheme FontSize="16" Flag="0" FontName="微软雅黑"/>
+            <FontScheme FontSize="16" Flag="0" FontName="微软雅黑"/>
+            <FontScheme FontSize="16" Flag="0" FontName="微软雅黑"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText ID="9" Name="Arial">
+        <FontSchemeLst>
+            <FontScheme FontSize="19" Flag="0" FontName="Arial"/>
+            <FontScheme FontSize="16" Flag="0" FontName="Arial"/>
+            <FontScheme FontSize="13" Flag="0" FontName="Arial"/>
+            <FontScheme FontSize="13" Flag="0" FontName="Arial"/>
+            <FontScheme FontSize="13" Flag="0" FontName="Arial"/>
+            <FontScheme FontSize="13" Flag="0" FontName="Arial"/>
+            <FontScheme FontSize="13" Flag="0" FontName="Arial"/>
+            <FontScheme FontSize="13" Flag="0" FontName="Arial"/>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText ID="13" Name="Arial (大)">
+        <FontSchemeLst>
+            <FontScheme FontSize="21" Flag="0" FontName="Arial"/>
+            <FontScheme FontSize="19" Flag="0" FontName="Arial"/>
+            <FontScheme FontSize="16" Flag="0" FontName="Arial"/>
+            <FontScheme FontSize="16" Flag="0" FontName="Arial"/>
+            <FontScheme FontSize="16" Flag="0" FontName="Arial"/>
+            <FontScheme FontSize="16" Flag="0" FontName="Arial"/>
+            <FontScheme FontSize="16" Flag="0" FontName="Arial"/>
+            <FontScheme FontSize="16" Flag="0" FontName="Arial"/>
+        </FontSchemeLst>
+    </ThemeText>
+</ThemeTexts>

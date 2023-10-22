@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LibNames Version="8.7">
+    <Library Name="建築" NameU="Architecture"/>
+    <Library Name="天文学" NameU="Astronomy"/>
+    <Library Name="お誕生日" NameU="Birthday"/>
+    <Library Name="ビジネス" NameU="Business"/>
+	<Library Name="ビジネスフラット" NameU="Business Flat"/>
+    <Library Name="ビジネスシーン" NameU="Business Scene"/>
+    <Library Name="引き出し、吹き出し" NameU="Callouts"/>
+    <Library Name="カーニバル" NameU="Carnival"/>
+    <Library Name="こどもの日" NameU="Children's Day"/>
+    <Library Name="中国" NameU="China"/>
+    <Library Name="クリスマス" NameU="Christmas"/>
+	<Library Name="環境" NameU="Environment"/>
+    <Library Name="復活祭" NameU="Easter"/>
+    <Library Name="教育" NameU="Education"/>
+    <Library Name="ファッション" NameU="Fashion"/>
+    <Library Name="金融" NameU="Finance"/>
+	 <Library Name="金融-フラット" NameU="Finance Flat"/>
+    <Library Name="フラグ" NameU="Flags"/>
+    <Library Name="食べ物" NameU="Food"/>
+    <Library Name="果物" NameU="Fruit"/>
+	<Library NameU="Drinks" Name="飲み物"/>
+    <Library Name="ギフト券" NameU="Gift Voucher"/>
+    <Library Name="手振り" NameU="Guestures"/>
+    <Library Name="ハロウィン" NameU="Halloween"/>
+    <Library Name="アイコン" NameU="Icons"/>
+    <Library Name="目印" NameU="Map Pointers"/>
+    <Library Name="交通機関" NameU="Map Vehicles"/>
+    <Library Name="医療" NameU="Medical"/>
+    <Library Name="モデル" NameU="Models"/>
+    <Library Name="音楽" NameU="Music"/>
+    <Library Name="正月" NameU="New Year"/>
+    <Library Name="ニュース" NameU="News Media"/>
+    <Library Name="オフィス" NameU="Office"/>
+    <Library Name="植物" NameU="Plants"/>
+    <Library Name="職業" NameU="Professions"/>
+    <Library Name="宗教" NameU="Religion"/>
+    <Library Name="交通標識" NameU="Road Signs"/>
+    <Library Name="学校" NameU="School"/>
+	<Library NameU="Social Media Icons" Name="ソーシャルメディア"/>
+	<Library NameU="Technology" Name="テクノロジー"/>
+	<Library NameU="Technology - Flat" Name="テクノロジー-フラット"/>
+    <Library Name="観光" NameU="Tourism"/>
+    <Library Name="交通" NameU="Transportation"/>
+    <Library Name="バレンタイン・デー" NameU="Valentine's Day"/>
+    <Library Name="ベクトルのアイコン" NameU="Vector Icons"/>
+	<Library NameU="Vehicles" Name="交通機関"/>
+    <Library Name="天気" NameU="Weather"/>
+    <Library Name="世界地図" NameU="World Map"/>
+	<Library NameU="Map Pointers" Name="目印"/>
+	<Library NameU="World Map" Name="世界地図"/>
+	<Library NameU="Fashion" Name="ファッション"/>
+	<Library NameU="Insect" Name="昆虫"/>
+	<Library NameU="Animal" Name="動物"/>
+	<Library NameU="Terricole" Name="陸上動物"/>
+	<Library NameU="Sea Life" Name="水上動物"/>
+	<Library NameU="Business Scene 1" Name="ビジネスシーン1"/>
+	<Library NameU="Business Scene 2" Name="ビジネスシーン2"/>
+	<Library NameU="Office Flat" Name="オフィス用品"/>
+	<Library NameU="Marketing" Name="マーケティング"/>
+	<Library NameU="Shopping" Name="買い物"/>
+	<Library NameU="Discount Labels" Name="割引ラベル"/>
+	<Library NameU="Design Elements" Name="デザイン要素"/>
+	<Library NameU="Bow" Name="蝶結び"/>
+	<Library NameU="Heart" Name="ハート"/>
+	<Library NameU="Social Media Icons" Name="ソーシャルメディアー"/>
+	<Library NameU="Gestures" Name="手振り"/>
+	<Library NameU="Education Flat" Name="教育-フラット"/>
+	<Library NameU="Fashion Models" Name="ファッションモデル"/>
+	<Library NameU="Fashion Clothes" Name="ファッション"/>
+	<Library NameU="Fashion Items" Name="ファッションアイテム"/>
+	<Library NameU="Festival" Name="祝い日"/>
+	<Library NameU="Bread" Name="パン"/>
+	<Library NameU="Tableware" Name="食器"/>
+	<Library NameU="Nature" Name="自然"/>
+	<Library NameU="Flowers" Name="花"/>
+	<Library NameU="Leaves" Name="葉"/>
+	<Library NameU="Trees" Name="ツリー"/>
+	<Library NameU="Landscape" Name="ランドスケープ"/>
+	<Library NameU="Silhouette" Name="シルエット"/>
+	<Library NameU="Business People" Name="ビジネスマン"/>
+	<Library NameU="People" Name="人物"/>
+	<Library NameU="People Activity Pictogram" Name="人物ピクトグラム"/>
+	<Library NameU="Profession Half Length" Name="職業-半身"/>
+	<Library NameU="Profession Half-length" Name="職業-半身"/>
+	<Library NameU="Profession" Name="職業"/>
+	 <Library NameU="People Outline" Name="シルエット"/>
+	<Library NameU="3D People Pictogram" Name="3D人物ピクトグラム"/>
+	<Library NameU="Social Life" Name="社会生活"/>
+	<Library NameU="Buildings" Name="建築"/>
+	<Library NameU="Sports" Name="スポーツ"/>
+	<Library NameU="Sport Silhouette" Name="スポーツピクトグラム"/>
+	<Library NameU="Sport Elements" Name="スポーツ用品"/>
+	<Library NameU="Fitness" Name="フィットネス"/>
+	<Library NameU="Electronics" Name="電子"/>
+	<Library NameU="Artificial Intelligence" Name="AI"/>
+	<Library NameU="Biotechnology" Name="生物技術"/>
+	<Library NameU="Aerospace Technology" Name="航空と軍事"/>
+	<Library NameU="Aerospace and Military" Name="航空と軍事"/>
+	<Library NameU="User" Name="ユーザー"/>	
+	<Library NameU="General" Name="一般図形"/>
+	<Library NameU="Files" Name="ファイル"/>
+	<Library NameU="Folders" Name="フォルダ"/>
+</LibNames>

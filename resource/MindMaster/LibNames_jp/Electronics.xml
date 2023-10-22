@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Electronics">
+    <Elem NameU="PC 1" Name="PC 1" PromptU="PC 1" Prompt="PC 1"/>
+    <Elem NameU="Laptop 1" Name="ラップトップ 1" PromptU="Laptop 1" Prompt="ラップトップ 1"/>
+    <Elem NameU="PC 2" Name="PC 2" PromptU="PC 2" Prompt="PC 2"/>
+    <Elem NameU="PC 3" Name="PC 3" PromptU="PC 3" Prompt="PC 3"/>
+    <Elem NameU="Desktop 1" Name="デスクトップ 1" PromptU="Desktop 1" Prompt="デスクトップ 1"/>
+    <Elem NameU="Desktop 2" Name="デスクトップ 2" PromptU="Desktop 2" Prompt="デスクトップ 2"/>
+    <Elem NameU="Laptop 2" Name="ラップトップ 2" PromptU="Laptop 2" Prompt="ラップトップ 2"/>
+    <Elem NameU="Laptop 3" Name="ラップトップ 3" PromptU="Laptop 3" Prompt="ラップトップ 3"/>
+    <Elem NameU="LCD TV" Name="液晶テレビ" PromptU="LCD TV" Prompt="液晶テレビ"/>
+    <Elem NameU="iMAC" Name="iMAC" PromptU="iMAC" Prompt="iMAC"/>
+    <Elem NameU="iPad" Name="iPad" PromptU="iPad" Prompt="iPad"/>
+    <Elem NameU="Mobile" Name="携帯" PromptU="Mobile" Prompt="携帯"/>
+    <Elem NameU="iWatch" Name="iWatch" PromptU="iWatch" Prompt="iWatch"/>
+    <Elem NameU="Microsoft Band 1" Name="Microsoft Band 1" PromptU="Microsoft Band 1" Prompt="Microsoft Band 1"/>
+    <Elem NameU="Microsoft Band 2" Name="Microsoft Band 2" PromptU="Microsoft Band 2" Prompt="Microsoft Band 2"/>
+    <Elem NameU="Microsoft Band 3" Name="Microsoft Band 3" PromptU="Microsoft Band 3" Prompt="Microsoft Band 3"/>
+    <Elem NameU="VR Glasses 1" Name="VRメガネ 1" PromptU="VR Glasses 1" Prompt="VRメガネ 1"/>
+    <Elem NameU="VR Glasses 2" Name="VRメガネ 2" PromptU="VR Glasses 2" Prompt="VRメガネ 2"/>
+    <Elem NameU="VR Glasses 3" Name="VRメガネ 3" PromptU="VR Glasses 3" Prompt="VRメガネ 3"/>
+    <Elem NameU="Server" Name="サーバー" PromptU="Server" Prompt="サーバー"/>
+    <Elem NameU="Mainframe" Name="メインフレーム" PromptU="Mainframe" Prompt="メインフレーム"/>
+    <Elem NameU="Switch" Name="スイッチ" PromptU="Switch" Prompt="スイッチ"/>
+    <Elem NameU="Fax Machine" Name="ファクス" PromptU="Fax Machine" Prompt="ファクス"/>
+    <Elem NameU="Scanner" Name="スキャナ" PromptU="Scanner" Prompt="スキャナ"/>
+    <Elem NameU="Printer" Name="プリンター" PromptU="Printer" Prompt="プリンター"/>
+    <Elem NameU="Drone 1" Name="ドローン 1" PromptU="Drone 1" Prompt="ドローン 1"/>
+    <Elem NameU="Drone 2" Name="ドローン 2" PromptU="Drone 2" Prompt="ドローン 2"/>
+    <Elem NameU="Camera" Name="カメラ" PromptU="Camera" Prompt="カメラ"/>
+    <Elem NameU="Dome Camera" Name="ドームカメラ" PromptU="Dome Camera" Prompt="ドームカメラ"/>
+    <Elem NameU="Microphone" Name="マイクロフォン" PromptU="Microphone" Prompt="マイクロフォン"/>
+    <Elem NameU="Mouse" Name="マウス" PromptU="Mouse" Prompt="マウス"/>
+    <Elem NameU="Wireless Mouse" Name="ワイヤレスマウス" PromptU="Wireless Mouse" Prompt="ワイヤレスマウス"/>
+    <Elem NameU="Floppy" Name="フロッピー" PromptU="Floppy" Prompt="フロッピー"/>
+    <Elem NameU="Loudspeaker" Name="ラウドスピーカー" PromptU="Loudspeaker" Prompt="ラウドスピーカー"/>
+    <Elem NameU="iPod" Name="iPod" PromptU="iPod" Prompt="iPod"/>
+    <Elem NameU="Wacom" Name="Wacom" PromptU="Wacom" Prompt="Wacom"/>
+    <Elem NameU="U-disk" Name="Uディスク" PromptU="U-disk" Prompt="Uディスク"/>
+    <Elem NameU="White Board" Name="ホワイトボード" PromptU="White Board" Prompt="ホワイトボード"/>
+    <Elem NameU="Projector 1" Name="プロジェクター 1" PromptU="Projector 1" Prompt="プロジェクター 1"/>
+    <Elem NameU="Projector 2" Name="プロジェクター 2" PromptU="Projector 2" Prompt="プロジェクター 2"/>
+    <Elem NameU="Router" Name="ルーター" PromptU="Router" Prompt="ルーター"/>
+    <Elem NameU="Camera 1" Name="カメラ 1" PromptU="Camera 1" Prompt="カメラ 1"/>
+    <Elem NameU="Camera 2" Name="カメラ 2" PromptU="Camera 2" Prompt="カメラ 2"/>
+    <Elem NameU="Machine" Name="マシン" PromptU="Machine" Prompt="マシン"/>
+    <Elem NameU="Phone" Name="フォン" PromptU="Phone" Prompt="フォン"/>
+    <Elem NameU="User" Name="ユーザー" PromptU="User" Prompt="ユーザー"/>
+    <Elem NameU="Organizational chart" Name="組織図" PromptU="Organizational chart" Prompt="組織図"/>
+    <Elem NameU="Cloud 1" Name="クラウド 1" PromptU="Cloud 1" Prompt="クラウド 1"/>
+    <Elem NameU="Cloud 2" Name="クラウド 2" PromptU="Cloud 2" Prompt="クラウド 2"/>
+    <Elem NameU="Lock" Name="ロック" PromptU="Lock" Prompt="ロック"/>
+    <Elem NameU="Link" Name="リンク" PromptU="Link" Prompt="リンク"/>
+    <Elem NameU="Search" Name="調査" PromptU="Search" Prompt="調査"/>
+    <Elem NameU="Gear 1" Name="ギヤ 1" PromptU="Gear 1" Prompt="ギヤ 1"/>
+    <Elem NameU="Gear 2" Name="ギヤ 2" PromptU="Gear 2" Prompt="ギヤ 2"/>
+    <Elem NameU="Gear 3" Name="ギヤ 3" PromptU="Gear 3" Prompt="ギヤ 3"/>
+    <Elem NameU="Gear 4" Name="ギヤ 4" PromptU="Gear 4" Prompt="ギヤ 4"/>
+</Lib>

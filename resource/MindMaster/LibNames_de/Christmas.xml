@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Weihnachten">
+     <Elem NameU="Christmas Tree 1"	Name= "Weihnachtsbaum 1"	PromptU="Christmas Tree 1"	Prompt= "Weihnachtsbaum 1"/>
+     <Elem NameU="Christmas Tree 2"	Name= "Weihnachtsbaum 2"	PromptU="Christmas Tree 2"	Prompt= "Weihnachtsbaum 2"/>
+     <Elem NameU="Christmas Tree 3"	Name= "Weihnachtsbaum 3"	PromptU="Christmas Tree 3"	Prompt= "Weihnachtsbaum 3"/>
+     <Elem NameU="Christmas Tree 4"	Name= "Weihnachtsbaum 4"	PromptU="Christmas Tree 4"	Prompt= "Weihnachtsbaum 4"/>
+     <Elem NameU="Christmas Tree 5"	Name= "Weihnachtsbaum 5"	PromptU="Christmas Tree 5"	Prompt= "Weihnachtsbaum 5"/>
+     <Elem NameU="Christmas Tree 6"	Name= "Weihnachtsbaum 6"	PromptU="Christmas Tree 6"	Prompt= "Weihnachtsbaum 6"/>
+     <Elem NameU="Santa Claus 1"	Name= "Weihnachtsmann 1"	PromptU="Santa Claus 1"	Prompt= "Weihnachtsmann 1"/>
+     <Elem NameU="Santa Claus 2"	Name= "Weihnachtsmann 2"	PromptU="Santa Claus 2"	Prompt= "Weihnachtsmann 2"/>
+     <Elem NameU="Snowman 1"	Name= "Schneemann 1"	PromptU="Snowman 1"	Prompt= "Schneemann 1"/>
+     <Elem NameU="Snowman 2"	Name= "Schneemann 2"	PromptU="Snowman 2"	Prompt= "Schneemann 2"/>
+     <Elem NameU="House"	Name= "Haus"	PromptU="House"	Prompt= "Haus"/>
+     <Elem NameU="Reindeer"	Name= "Rentier"	PromptU="Reindeer"	Prompt= "Rentier"/>
+     <Elem NameU="Elk 1"	Name= "Elk 1"	PromptU="Elk 1"	Prompt= "Elk 1"/>
+     <Elem NameU="Elk 2"	Name= "Elk 2"	PromptU="Elk 2"	Prompt= "Elk 2"/>
+     <Elem NameU="Reindeer 1"	Name= "Rentier 1"	PromptU="Reindeer 1"	Prompt= "Rentier 1"/>
+     <Elem NameU="Reindeer 2"	Name= "Rentier 2"	PromptU="Reindeer 2"	Prompt= "Rentier 2"/>
+     <Elem NameU="Bells 1"	Name= "Glocken 1"	PromptU="Bells 1"	Prompt= "Glocken 1"/>
+     <Elem NameU="Bells 2"	Name= "Glocken 2"	PromptU="Bells 2"	Prompt= "Glocken 2"/>
+     <Elem NameU="Christmas Wreath"	Name= "Weihnachtskranz"	PromptU="Christmas Wreath"	Prompt= "Weihnachtskranz"/>
+     <Elem NameU="Gift"	Name= "Geschenk"	PromptU="Gift"	Prompt= "Geschenk"/>
+     <Elem NameU="Gift"	Name= "Geschenk"	PromptU="Gift"	Prompt= "Geschenk"/>
+     <Elem NameU="Gift"	Name= "Geschenk"	PromptU="Gift"	Prompt= "Geschenk"/>
+     <Elem NameU="Gift"	Name= "Geschenk"	PromptU="Gift"	Prompt= "Geschenk"/>
+     <Elem NameU="Gift"	Name= "Geschenk"	PromptU="Gift"	Prompt= "Geschenk"/>
+     <Elem NameU="Gift"	Name= "Geschenk"	PromptU="Gift"	Prompt= "Geschenk"/>
+     <Elem NameU="Gift"	Name= "Geschenk"	PromptU="Gift"	Prompt= "Geschenk"/>
+     <Elem NameU="Gift"	Name= "Geschenk"	PromptU="Gift"	Prompt= "Geschenk"/>
+     <Elem NameU="Gift"	Name= "Geschenk"	PromptU="Gift"	Prompt= "Geschenk"/>
+     <Elem NameU="Gift"	Name= "Geschenk"	PromptU="Gift"	Prompt= "Geschenk"/>
+     <Elem NameU="Gift"	Name= "Geschenk"	PromptU="Gift"	Prompt= "Geschenk"/>
+     <Elem NameU="Gift"	Name= "Geschenk"	PromptU="Gift"	Prompt= "Geschenk"/>
+     <Elem NameU="Candy cane"	Name= "Zuckerstange"	PromptU="Candy cane"	Prompt= "Zuckerstange"/>
+     <Elem NameU="Candy cane"	Name= "Zuckerstange"	PromptU="Candy cane"	Prompt= "Zuckerstange"/>
+     <Elem NameU="Candy cane"	Name= "Zuckerstange"	PromptU="Candy cane"	Prompt= "Zuckerstange"/>
+     <Elem NameU="Christmas Ginger Bread"	Name= "Weihnachts-Ingwer-Brot"	PromptU="Christmas Ginger Bread"	Prompt= "Weihnachts-Ingwer-Brot"/>
+     <Elem NameU="Christmas Ginger Bread"	Name= "Weihnachts-Ingwer-Brot"	PromptU="Christmas Ginger Bread"	Prompt= "Weihnachts-Ingwer-Brot"/>
+     <Elem NameU="Hat"	Name= "Hut"	PromptU="Hat"	Prompt= "Hut"/>
+     <Elem NameU="Hat"	Name= "Hut"	PromptU="Hat"	Prompt= "Hut"/>
+     <Elem NameU="Christmas Stockings"	Name= "Weihnachtsstrümpfe"	PromptU="Christmas Stockings"	Prompt= "Weihnachtsstrümpfe"/>
+     <Elem NameU="Christmas Stockings"	Name= "Weihnachtsstrümpfe"	PromptU="Christmas Stockings"	Prompt= "Weihnachtsstrümpfe"/>
+     <Elem NameU="Christmas Stockings"	Name= "Weihnachtsstrümpfe"	PromptU="Christmas Stockings"	Prompt= "Weihnachtsstrümpfe"/>
+     <Elem NameU="Gloves"	Name= "Handschuhe"	PromptU="Gloves"	Prompt= "Handschuhe"/>
+     <Elem NameU="Gloves"	Name= "Handschuhe"	PromptU="Gloves"	Prompt= "Handschuhe"/>
+     <Elem NameU="ScarvesGloves"	Name= "ScarvesGloves"	PromptU="ScarvesGloves"	Prompt= "ScarvesGloves"/>
+     <Elem NameU="Reindeer ears"	Name= "Rentierohren"	PromptU="Reindeer ears"	Prompt= "Rentierohren"/>
+     <Elem NameU="Reindeer ears"	Name= "Rentierohren"	PromptU="Reindeer ears"	Prompt= "Rentierohren"/>
+     <Elem NameU="Star"	Name= "Stern"	PromptU="Star"	Prompt= "Stern"/>
+     <Elem NameU="Star"	Name= "Stern"	PromptU="Star"	Prompt= "Stern"/>
+     <Elem NameU="Snowflake"	Name= "Schneeflocke"	PromptU="Snowflake"	Prompt= "Schneeflocke"/>
+     <Elem NameU="Snowflake"	Name= "Schneeflocke"	PromptU="Snowflake"	Prompt= "Schneeflocke"/>
+     <Elem NameU="Snowflake"	Name= "Schneeflocke"	PromptU="Snowflake"	Prompt= "Schneeflocke"/>
+     <Elem NameU="Snowflake"	Name= "Schneeflocke"	PromptU="Snowflake"	Prompt= "Schneeflocke"/>
+     <Elem NameU="Snowflake"	Name= "Schneeflocke"	PromptU="Snowflake"	Prompt= "Schneeflocke"/>
+     <Elem NameU="Snowflake"	Name= "Schneeflocke"	PromptU="Snowflake"	Prompt= "Schneeflocke"/>
+     <Elem NameU="Snowflake"	Name= "Schneeflocke"	PromptU="Snowflake"	Prompt= "Schneeflocke"/>
+     <Elem NameU="Snowflake"	Name= "Schneeflocke"	PromptU="Snowflake"	Prompt= "Schneeflocke"/>
+     <Elem NameU="Snowflake"	Name= "Schneeflocke"	PromptU="Snowflake"	Prompt= "Schneeflocke"/>
+     <Elem NameU="Snowflake"	Name= "Schneeflocke"	PromptU="Snowflake"	Prompt= "Schneeflocke"/>
+     <Elem NameU="Snowflake"	Name= "Schneeflocke"	PromptU="Snowflake"	Prompt= "Schneeflocke"/>
+     <Elem NameU="Snowflake"	Name= "Schneeflocke"	PromptU="Snowflake"	Prompt= "Schneeflocke"/>
+     <Elem NameU="Snowflake"	Name= "Schneeflocke"	PromptU="Snowflake"	Prompt= "Schneeflocke"/>
+     <Elem NameU="Snowflake"	Name= "Schneeflocke"	PromptU="Snowflake"	Prompt= "Schneeflocke"/>
+     <Elem NameU="Snowflake"	Name= "Schneeflocke"	PromptU="Snowflake"	Prompt= "Schneeflocke"/>
+     <Elem NameU="Candy"	Name= "Süßigkeit"	PromptU="Candy"	Prompt= "Süßigkeit"/>
+     <Elem NameU="Candy"	Name= "Süßigkeit"	PromptU="Candy"	Prompt= "Süßigkeit"/>
+     <Elem NameU="Candy"	Name= "Süßigkeit"	PromptU="Candy"	Prompt= "Süßigkeit"/>
+     <Elem NameU="Candy"	Name= "Süßigkeit"	PromptU="Candy"	Prompt= "Süßigkeit"/>
+     <Elem NameU="Candy"	Name= "Süßigkeit"	PromptU="Candy"	Prompt= "Süßigkeit"/>
+     <Elem NameU="Candy"	Name= "Süßigkeit"	PromptU="Candy"	Prompt= "Süßigkeit"/>
+     <Elem NameU="Candy"	Name= "Süßigkeit"	PromptU="Candy"	Prompt= "Süßigkeit"/>
+     <Elem NameU="Candle"	Name= "Kerze"	PromptU="Candle"	Prompt= "Kerze"/>
+     <Elem NameU="Ball"	Name= "Ball"	PromptU="Ball"	Prompt= "Ball"/>
+     <Elem NameU="Ball"	Name= "Ball"	PromptU="Ball"	Prompt= "Ball"/>
+     <Elem NameU="Ball"	Name= "Ball"	PromptU="Ball"	Prompt= "Ball"/>
+     <Elem NameU="Christmas decorations"	Name= "Weihnachtsschmuck"	PromptU="Christmas decorations"	Prompt= "Weihnachtsschmuck"/>
+     <Elem NameU="Christmas decorations"	Name= "Weihnachtsschmuck"	PromptU="Christmas decorations"	Prompt= "Weihnachtsschmuck"/>
+     <Elem NameU="Christmas decorations"	Name= "Weihnachtsschmuck"	PromptU="Christmas decorations"	Prompt= "Weihnachtsschmuck"/>
+     <Elem NameU="Christmas decorations"	Name= "Weihnachtsschmuck"	PromptU="Christmas decorations"	Prompt= "Weihnachtsschmuck"/>
+     <Elem NameU="Christmas decorations"	Name= "Weihnachtsschmuck"	PromptU="Christmas decorations"	Prompt= "Weihnachtsschmuck"/>
+     <Elem NameU="Christmas decorations"	Name= "Weihnachtsschmuck"	PromptU="Christmas decorations"	Prompt= "Weihnachtsschmuck"/>
+     <Elem NameU="Christmas decorations"	Name= "Weihnachtsschmuck"	PromptU="Christmas decorations"	Prompt= "Weihnachtsschmuck"/>
+     <Elem NameU="Balloon"	Name= "Ballon"	PromptU="Balloon"	Prompt= "Ballon"/>
+     <Elem NameU="Leaf of chinese ilex"	Name= "Blatt des chinesischen Ilex"	PromptU="Leaf of chinese ilex"	Prompt= "Blatt des chinesischen Ilex"/>
+     <Elem NameU="Leaf of chinese ilex"	Name= "Blatt des chinesischen Ilex"	PromptU="Leaf of chinese ilex"	Prompt= "Blatt des chinesischen Ilex"/>
+     <Elem NameU="Flower vine"	Name= "Blumenrebe"	PromptU="Flower vine"	Prompt= "Blumenrebe"/>
+     <Elem NameU="Flags"	Name= "Flaggen"	PromptU="Flags"	Prompt= "Flaggen"/>
+     <Elem NameU="Flags"	Name= "Flaggen"	PromptU="Flags"	Prompt= "Flaggen"/>
+     <Elem NameU="Flags"	Name= "Flaggen"	PromptU="Flags"	Prompt= "Flaggen"/>
+     <Elem NameU="Flags"	Name= "Flaggen"	PromptU="Flags"	Prompt= "Flaggen"/>
+     <Elem NameU="Flags"	Name= "Flaggen"	PromptU="Flags"	Prompt= "Flaggen"/>
+     <Elem NameU="Leaf"	Name= "Blatt"	PromptU="Leaf"	Prompt= "Blatt"/>
+     <Elem NameU="Leaf"	Name= "Blatt"	PromptU="Leaf"	Prompt= "Blatt"/>
+     <Elem NameU="Leaf"	Name= "Blatt"	PromptU="Leaf"	Prompt= "Blatt"/>
+     <Elem NameU="Merry Christmas"	Name= "Frohe Weihnachten"	PromptU="Merry Christmas"	Prompt= "Frohe Weihnachten"/>
+     <Elem NameU="Merry Christmas"	Name= "Frohe Weihnachten"	PromptU="Merry Christmas"	Prompt= "Frohe Weihnachten"/>
+     <Elem NameU="Merry Christmas"	Name= "Frohe Weihnachten"	PromptU="Merry Christmas"	Prompt= "Frohe Weihnachten"/>
+</Lib>

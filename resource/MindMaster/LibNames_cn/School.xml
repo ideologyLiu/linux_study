@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="School">
+    <Elem NameU="Book" Name="书" PromptU="Book" Prompt="书"/>
+    <Elem NameU="Books 1" Name="书本" PromptU="Books 1" Prompt="书本"/>
+    <Elem NameU="Books 2" Name="书本 2" PromptU="Books" Prompt="书本"/>
+    <Elem NameU="Bookrest" Name="书架" PromptU="Bookrest" Prompt="书架"/>
+    <Elem NameU="Knowledge" Name="学科" PromptU="Knowledge" Prompt="学科"/>
+    <Elem NameU="Opened Book" Name="打开的书" PromptU="Opened Book" Prompt="打开的书"/>
+    <Elem NameU="Reading" Name="阅读" PromptU="Reading" Prompt="阅读"/>
+    <Elem NameU="Notepad" Name="笔记本" PromptU="Notepad" Prompt="笔记本"/>
+    <Elem NameU="Graduation" Name="毕业" PromptU="You can change its color." Prompt="毕业"/>
+    <Elem NameU="Hat" Name="学位帽" PromptU="You can change its color." Prompt="毕业"/>
+    <Elem NameU="Blackboard" Name="黑板" PromptU="Blackboard" Prompt="黑板"/>
+    <Elem NameU="Palette" Name="调色板" PromptU="Palette" Prompt="调色板"/>
+    <Elem NameU="Lamp" Name="台灯" PromptU="Lamp" Prompt="台灯"/>
+    <Elem NameU="Magnifier" Name="放大镜" PromptU="Magnifier" Prompt="放大镜"/>
+    <Elem NameU="Calculator" Name="计算器" PromptU="Calculator" Prompt="计算器"/>
+    <Elem NameU="Clock" Name="时钟" PromptU="Clock" Prompt="时钟"/>
+    <Elem NameU="Alarm Clock" Name="闹钟" PromptU="Alarm Clock" Prompt="闹钟"/>
+    <Elem NameU="Stopwatch" Name="秒表" PromptU="Stopwatch" Prompt="秒表"/>
+    <Elem NameU="Basketball" Name="篮球" PromptU="Basketball" Prompt="篮球"/>
+    <Elem NameU="Football" Name="足球" PromptU="Football" Prompt="足球"/>
+    <Elem NameU="Rugby" Name="橄榄球" PromptU="Rugby" Prompt="橄榄球"/>
+    <Elem NameU="Speaker" Name="扬声器" PromptU="Speaker" Prompt="扬声器"/>
+    <Elem NameU="Achievement" Name="成绩" PromptU="Achievement" Prompt="成绩"/>
+    <Elem NameU="Bag" Name="书包" PromptU="Bag" Prompt="书包"/>
+    <Elem NameU="Award" Name="奖品" PromptU="Award" Prompt="奖品"/>
+    <Elem NameU="School" Name="学校" PromptU="School" Prompt="学校"/>
+    <Elem NameU="Campus" Name="校园" PromptU="Campus" Prompt="校园"/>
+</Lib>

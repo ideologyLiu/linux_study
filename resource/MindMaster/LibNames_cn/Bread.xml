@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bread">
+    <Elem NameU="Cake Volume" Name="蛋糕卷" PromptU="Cake Volume" Prompt="蛋糕卷"/>
+    <Elem NameU="Pineapple Bread" Name="菠萝面包" PromptU="Pineapple Bread" Prompt="菠萝面包"/>
+    <Elem NameU="Toast" Name="吐司" PromptU="Toast" Prompt="吐司"/>
+    <Elem NameU="Cream Bun 1" Name="奶油面包 1" PromptU="Cream Bun 1" Prompt="奶油面包 1"/>
+    <Elem NameU="Cream Bun 2" Name="奶油面包 2" PromptU="Cream Bun 2" Prompt="奶油面包 2"/>
+    <Elem NameU="Croissant" Name="羊角面包" PromptU="Croissant" Prompt="羊角面包"/>
+    <Elem NameU="Spring Onion Bread" Name="葱花面包" PromptU="Spring Onion Bread" Prompt="葱花面包"/>
+    <Elem NameU="Hotdog 1" Name="热狗 1" PromptU="Hotdog 1" Prompt="热狗 1"/>
+    <Elem NameU="Hotdog 2" Name="热狗 2" PromptU="Hotdog 2" Prompt="热狗 2"/>
+    <Elem NameU="Hot Dog Bun" Name="热狗面包" PromptU="Hot Dog Bun" Prompt="热狗面包"/>
+    <Elem NameU="Waffle" Name="华夫格" PromptU="Waffle" Prompt="华夫格"/>
+    <Elem NameU="French Bread" Name="法式面包" PromptU="French Bread" Prompt="法式面包"/>
+    <Elem NameU="Doughnut" Name="甜甜圈" PromptU="Doughnut" Prompt="甜甜圈"/>
+    <Elem NameU="Cupcake 1" Name="杯形蛋糕 1" PromptU="Cupcake 1" Prompt="杯形蛋糕 1"/>
+    <Elem NameU="Cupcake 2" Name="杯形蛋糕 2" PromptU="Cupcake2" Prompt="杯形蛋糕"/>
+    <Elem NameU="Egg Tart" Name="蛋挞" PromptU="Egg Tart" Prompt="蛋挞"/>
+    <Elem NameU="Triangle Cake" Name="三角蛋糕" PromptU="Triangle Cake" Prompt="三角蛋糕"/>
+    <Elem NameU="Cake" Name="蛋糕" PromptU="Cake" Prompt="蛋糕"/>
+    <Elem NameU="Chocolate Cake" Name="巧克力蛋糕" PromptU="Chocolate Cake" Prompt="巧克力蛋糕"/>
+    <Elem NameU="Macaron 1" Name="马龙饼干 1" PromptU="Macaron 1" Prompt="马龙饼干 1"/>
+    <Elem NameU="Macaron 2" Name="马龙饼干 2" PromptU="Macaron 2" Prompt="马龙饼干 2"/>
+    <Elem NameU="Apple Pie" Name="苹果派" PromptU="Apple Pie" Prompt="苹果派"/>
+    <Elem NameU="Baguette 1" Name="法式长棍面包 1" PromptU="Baguette 1" Prompt="法式长棍面包"/>
+    <Elem NameU="Baguette 2" Name="法式长棍面包 2" PromptU="Baguette 2" Prompt="法式长棍面包 2"/>
+    <Elem NameU="Red Bean Bread" Name="红豆面包" PromptU="Red Bean Bread" Prompt="红豆面包"/>
+    <Elem NameU="Bread" Name="面包" PromptU="Bread" Prompt="面包"/>
+    <Elem NameU="Swirl Bread 1" Name="手提包 1" PromptU="Swirl Bread 1" Prompt="手提包 1"/>
+    <Elem NameU="Swirl Bread 2" Name="手提包 2" PromptU="Swirl Bread 2" Prompt="手提包 2"/>
+    <Elem NameU="French Bread 1" Name="法式面包 1" PromptU="French Bread 1" Prompt="法式面包 1"/>
+    <Elem NameU="French Bread 2" Name="法式面包 2" PromptU="French Bread 2" Prompt="法式面包 2"/>
+    <Elem NameU="Kalach Bread" Name="面包" PromptU="Kalach Bread" Prompt="面包"/>
+    <Elem NameU="Meat Floss Buns" Name="肉松面包" PromptU="Meat Floss Buns" Prompt="肉松面包"/>
+    <Elem NameU="Lechem" Name="犹太面包" PromptU="Lechem" Prompt="犹太面包"/>
+</Lib>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Children's Day">
+    <Elem NameU="Fish 1" Name="魚 1" PromptU="Fish 1" Prompt="魚 1"/>
+    <Elem NameU="Fish 2" Name="魚 2" PromptU="Fish 2" Prompt="魚 2"/>
+    <Elem NameU="Lobster 1" Name="イセエビ 1" PromptU="Lobster 1" Prompt="イセエビ 1"/>
+    <Elem NameU="Lobster 2" Name="イセエビ 2" PromptU="Lobster 2" Prompt="イセエビ 2"/>
+    <Elem NameU="Boy" Name="男の子" PromptU="Boy" Prompt="男の子"/>
+    <Elem NameU="Girl 1" Name="女の子 1" PromptU="Girl 1" Prompt="女の子 1"/>
+    <Elem NameU="Girl 2" Name="女の子 2" PromptU="Girl 2" Prompt="女の子 2"/>
+    <Elem NameU="Girl 3" Name="女の子 3" PromptU="Girl 3" Prompt="女の子 3"/>
+    <Elem NameU="Girl 4" Name="女の子 4" PromptU="Girl 4" Prompt="女の子 4"/>
+    <Elem NameU="Boy And Windmill" Name="男の子と風車" PromptU="Boy And Windmill" Prompt="男の子と風車"/>
+    <Elem NameU="Korean Costume" Name="韓国服装" PromptU="Korean Costume" Prompt="韓国服装"/>
+    <Elem NameU="Duck" Name="アヒル" PromptU="Duck" Prompt="アヒル"/>
+    <Elem NameU="Toy Car" Name="おもちゃの車" PromptU="Toy Car" Prompt="おもちゃの車"/>
+    <Elem NameU="Bucket and Shovel" Name="バケツとシャベル" PromptU="Bucket and Shovel" Prompt="バケツとシャベル"/>
+    <Elem NameU="Spinning Top" Name="こま" PromptU="Spinning Top" Prompt="こま"/>
+    <Elem NameU="Toy" Name="おもちゃ" PromptU="Toy" Prompt="おもちゃ"/>
+    <Elem NameU="Carousel" Name="カルーセル" PromptU="Carousel" Prompt="カルーセル"/>
+    <Elem NameU="Pony" Name="ポニー" PromptU="Pony" Prompt="ポニー"/>
+    <Elem NameU="Clown 1" Name="ピエロ 1" PromptU="Clown 1" Prompt="ピエロ 1"/>
+    <Elem NameU="Clown 2" Name="ピエロ 2" PromptU="Clown 2" Prompt="ピエロ 2"/>
+    <Elem NameU="Toy Bear" Name="おもちゃベアー" PromptU="Toy Bear" Prompt="おもちゃベアー"/>
+    <Elem NameU="Prop the ball 1" Name="プロップボール 1" PromptU="Prop the ball 1" Prompt="プロップボール 1"/>
+    <Elem NameU="Prop the ball 2" Name="プロップボール 2" PromptU="Prop the ball 2" Prompt="プロップボール 2"/>
+    <Elem NameU="Prop the ball 3" Name="プロップボール 3" PromptU="Prop the ball 3" Prompt="プロップボール 3"/>
+    <Elem NameU="Prop the ball 4" Name="プロップボール 4" PromptU="Prop the ball 4" Prompt="プロップボール 4"/>
+    <Elem NameU="Prop the ball 5" Name="プロップボール 5" PromptU="Prop the ball 5" Prompt="プロップボール 5"/>
+    <Elem NameU="Prop the ball 6" Name="プロップボール 6" PromptU="Prop the ball 6" Prompt="プロップボール 6"/>
+    <Elem NameU="Prop the ball 7" Name="プロップボール 7" PromptU="Prop the ball 7" Prompt="プロップボール 7"/>
+    <Elem NameU="Clown Mask" Name="ピエロマスク" PromptU="Clown Mask" Prompt="ピエロマスク"/>
+    <Elem NameU="Spiderman" Name="スパイダーマン" PromptU="Spiderman" Prompt="スパイダーマン"/>
+    <Elem NameU="Ice Cream" Name="アイスクリーム" PromptU="Ice Cream" Prompt="アイスクリーム"/>
+    <Elem NameU="Lollipop" Name="ロリポップ" PromptU="Lollipop" Prompt="ロリポップ"/>
+    <Elem NameU="Lollipop 2" Name="ロリポップ 2" PromptU="Lollipop 2" Prompt="ロリポップ 2"/>
+    <Elem NameU="Lollipop 3" Name="ロリポップ 3" PromptU="Lollipop 3" Prompt="ロリポップ 3"/>
+    <Elem NameU="Lollipop 4" Name="ロリポップ 4" PromptU="Lollipop 4" Prompt="ロリポップ 4"/>
+    <Elem NameU="Lollipop 5" Name="ロリポップ 5" PromptU="Lollipop 5" Prompt="ロリポップ 5"/>
+    <Elem NameU="Lollipop 6" Name="ロリポップ 6" PromptU="Lollipop 6" Prompt="ロリポップ 6"/>
+    <Elem NameU="Ballon" Name="風船" PromptU="Ballon" Prompt="風船"/>
+    <Elem NameU="Ballon" Name="風船" PromptU="Ballon" Prompt="風船"/>
+    <Elem NameU="Ballon" Name="風船" PromptU="Ballon" Prompt="風船"/>
+    <Elem NameU="Ballon" Name="風船" PromptU="Ballon" Prompt="風船"/>
+    <Elem NameU="Ballon" Name="風船" PromptU="Ballon" Prompt="風船"/>
+</Lib>

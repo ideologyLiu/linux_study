@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Marketing">
+    <Elem NameU="Marketing mix" PromptU="Marketing mix" Name="市场营销组合" Prompt="市场营销组合"/>
+	<Elem NameU="Marketing planning" PromptU="Marketing planning" Name="营销规划" Prompt="营销规划"/>
+	<Elem NameU="Content production" PromptU="Content production" Name="内容制作" Prompt="内容制作"/>
+	<Elem NameU="Currency conversion" PromptU="Currency conversion" Name="货币兑换" Prompt="货币兑换"/>
+	<Elem NameU="Data analysis" PromptU="Data analysis" Name="数据分析" Prompt="数据分析"/>
+	<Elem NameU="The statistical figure" PromptU="The statistical figure" Name="统计图" Prompt="统计图"/>
+	<Elem NameU="Loyalty program" PromptU="Loyalty program" Name="忠诚计划" Prompt="忠诚计划"/>
+	<Elem NameU="Internet marketing" PromptU="Internet marketing" Name="互联网营销" Prompt="互联网营销"/>
+	<Elem NameU="Advertising" PromptU="Advertising" Name="广告" Prompt="广告"/>
+	<Elem NameU="Geo marketing" PromptU="Geo targeting" Name="地域定向" Prompt="地域定向"/>
+	<Elem NameU="eMail marketing" PromptU="eMail marketing" Name="邮件营销" Prompt="邮件营销"/>
+	<Elem NameU="Creative marketing" PromptU="Creative marketing" Name="创意营销" Prompt="创意营销"/>
+	<Elem NameU="Direct mail marketing" PromptU="Direct mail marketing" Name="直邮营销" Prompt="直邮营销"/>
+	<Elem NameU="eCommece marketing" PromptU="eCommece marketing" Name="电商营销" Prompt="电商营销"/>
+	<Elem NameU="Marketing automation" PromptU="Marketing automation" Name="营销自动化" Prompt="营销自动化"/>
+	<Elem NameU="Promotion" PromptU="Promotion" Name="推广" Prompt="推广"/>
+	<Elem NameU="Mobile marketing" PromptU="Mobile marketing" Name="移动营销" Prompt="移动营销"/>
+	<Elem NameU="Monitoring marketing performance" PromptU="Monitoring marketing performance" Name="监控营销绩效" Prompt="监控营销绩效"/>
+	<Elem NameU="Target audience" PromptU="Target audience" Name="目标受众" Prompt="目标受众"/>
+	<Elem NameU="Telemarketing" PromptU="Telemarketing" Name="电话营销" Prompt="电话营销"/>
+	<Elem NameU="Training" PromptU="Training" Name="培训" Prompt="培训"/>
+	<Elem NameU="Webinars" PromptU="Webinars" Name="网路营销会" Prompt="网路营销会"/>
+	<Elem NameU="Web support" PromptU="Web support" Name="网络支持" Prompt="网络支持"/>
+	<Elem NameU="Online PR" PromptU="Online PR" Name="网络公关" Prompt="网络公关"/>
+	<Elem NameU="Marketing strategy" PromptU="Marketing strategy" Name="营销策略" Prompt="营销策略"/>
+	<Elem NameU="Affliate marketing" PromptU="Affliate marketing" Name="联盟营销" Prompt="联盟营销"/>
+	<Elem NameU="Search engine optimization" PromptU="Search engine optimization" Name="搜索引擎优化" Prompt="搜索引擎优化"/>
+	<Elem NameU="Customer personal development" PromptU="Customer personal development" Name="客户人格发展" Prompt="客户人格发展"/>
+	<Elem NameU="Customer relationship management" PromptU="Customer relationship management" Name="客户关系管理" Prompt="客户关系管理"/>
+	<Elem NameU="Social media marketing" PromptU="Social media marketing" Name="社交媒体营销" Prompt="社交媒体营销"/>
+	<Elem NameU="Sales" PromptU="Sales" Name="销售" Prompt="销售"/>
+	
+	
+	
+</Lib>

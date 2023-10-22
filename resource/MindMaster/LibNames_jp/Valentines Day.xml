@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Valentine's Day">
+    <Elem NameU="Lover" Name="恋人" PromptU="Lover" Prompt="恋人"/>
+    <Elem NameU="Yellow Rose" Name="黄色いバラ" PromptU="Yellow Rose" Prompt="黄色いバラ"/>
+    <Elem NameU="Red Rose" Name="赤いバラ" PromptU="Red Rose" Prompt="赤いバラ"/>
+    <Elem NameU="Red Rose 2" Name="赤いバラ 2" PromptU="Red Rose 2" Prompt="赤いバラ 2"/>
+    <Elem NameU="Pink Rose" Name="ピンクバラ" PromptU="Pink Rose" Prompt="ピンクバラ"/>
+    <Elem NameU="Lily" Name="百合" PromptU="Lily" Prompt="百合"/>
+    <Elem NameU="Chocolate" Name="チョコレート" PromptU="Chocolate" Prompt="チョコレート"/>
+    <Elem NameU="Bear Of Love" Name="ラブベア" PromptU="Bear Of Love" Prompt="ラブベア"/>
+    <Elem NameU="Bear Of Love" Name="ラブベア" PromptU="Bear Of Love" Prompt="ラブベア"/>
+    <Elem NameU="Fruity Cherry Hair Clip" Name="ヘアクリップ" PromptU="Fruity Cherry Hair Clip" Prompt="ヘアクリップ"/>
+    <Elem NameU="Lollipop Love 1" Name="ロリポップ 1" PromptU="Lollipop Love 1" Prompt="ロリポップ 1"/>
+    <Elem NameU="Lollipop Love 2" Name="ロリポップ 2" PromptU="Lollipop Love 2" Prompt="ロリポップ 2"/>
+    <Elem NameU="Lollipop Love 3" Name="ロリポップ 3" PromptU="Lollipop Love 3" Prompt="ロリポップ 3"/>
+    <Elem NameU="Proposal" Name="プロポーズ" PromptU="Proposal" Prompt="プロポーズ"/>
+    <Elem NameU="Photo album" Name="アルバム" PromptU="Photo album" Prompt="アルバム"/>
+    <Elem NameU="Wedding ring" Name="結婚指輪" PromptU="Wedding ring" Prompt="結婚指輪"/>
+    <Elem NameU="Perfume" Name="香水" PromptU="Perfume" Prompt="香水"/>
+    <Elem NameU="Love Letter" Name="ラブレター" PromptU="Love Letter" Prompt="ラブレター"/>
+    <Elem NameU="Cupid" Name="キューピッド" PromptU="Cupid" Prompt="キューピッド"/>
+    <Elem NameU="Love letters 1" Name="ラブレター 1" PromptU="Love letters 1" Prompt="ラブレター 1"/>
+    <Elem NameU="Love letters 2" Name="ラブレター 2" PromptU="Love letters 2" Prompt="ラブレター 2"/>
+    <Elem NameU="Lover cup" Name="カップルカップ" PromptU="Lover cup" Prompt="カップルカップ"/>
+    <Elem NameU="Kissing Bird" Name="キス鳥" PromptU="Kissing Bird" Prompt="キス鳥"/>
+    <Elem NameU="Heart key" Name="ハートキー" PromptU="Heart key" Prompt="ハートキー"/>
+    <Elem NameU="Heart lock" Name="ハートロック" PromptU="Heart lock" Prompt="ハートロック"/>
+    <Elem NameU="Cupcake 1" Name="カップケーキ 1" PromptU="Cupcake 1" Prompt="カップケーキ 1"/>
+    <Elem NameU="Cupcake 2" Name="カップケーキ 2" PromptU="Cupcake 2" Prompt="カップケーキ 2"/>
+    <Elem NameU="Bowknot 1" Name="蝶結び 1" PromptU="Bowknot 1" Prompt="蝶結び 1"/>
+    <Elem NameU="Bowknot 2" Name="蝶結び 2" PromptU="Bowknot 2" Prompt="蝶結び 2"/>
+    <Elem NameU="Flash Card 1" Name="カード 1" PromptU="Flash Card 1" Prompt="カード 1"/>
+    <Elem NameU="Flash Card 2" Name="カード 2" PromptU="Flash Card 2" Prompt="カード 2"/>
+    <Elem NameU="Flash Card 3" Name="カード 3" PromptU="Flash Card 3" Prompt="カード 3"/>
+    <Elem NameU="I LOVE YOU" Name="I LOVE YOU" PromptU="I LOVE YOU" Prompt="I LOVE YOU"/>
+    <Elem NameU="Candlestick" Name="燭台" PromptU="Candlestick" Prompt="燭台"/>
+    <Elem NameU="Red Rose" Name="赤いバラ" PromptU="Red Rose" Prompt="赤いバラ"/>
+    <Elem NameU="Sunflower" Name="ひまわり" PromptU="Sunflower" Prompt="ひまわり"/>
+    <Elem NameU="Tulip" Name="チューリップ" PromptU="Tulip" Prompt="チューリップ"/>
+    <Elem NameU="Lily" Name="百合" PromptU="Lily" Prompt="百合"/>
+    <Elem NameU="Flower" Name="花" PromptU="Flower" Prompt="花"/>
+</Lib>

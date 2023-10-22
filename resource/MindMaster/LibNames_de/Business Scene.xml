@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business Scene">
+    <Elem NameU="White Collar" PromptU="White Collar" Name="Weißer Kragen" Prompt="Weißer Kragen"/>
+    <Elem NameU="Sign the contact" PromptU="Sign the contact" Name="Geschäftsabschluß" Prompt="Geschäftsabschluß"/>
+    <Elem NameU="Conference" PromptU="Conference" Name="Geschäft-Sitzung" Prompt="Geschäft-Sitzung"/>
+    <Elem NameU="Sorting files" PromptU="Sorting files" Name="Dateien sortieren" Prompt="Dateien sortieren"/>
+    <Elem NameU="Meeting 1" PromptU="Meeting 1" Name="Sitzung 1" Prompt="Sitzung 1"/>
+    <Elem NameU="Talking" PromptU="Talking" Name="Sprechen" Prompt="Sprechen"/>
+    <Elem NameU="Meeting 2" PromptU="Meeting 2" Name="Sitzung 2" Prompt="Sitzung 2"/>
+    <Elem NameU="Working" PromptU="Working" Name="Arbeiten" Prompt="Arbeiten"/>
+	<Elem NameU="Employee" PromptU="Employee" Name="Arbeitnehmer" Prompt="Arbeitnehmer"/>
+	<Elem NameU="Speech" PromptU="Speech" Name="Rede" Prompt="Rede"/>
+	<Elem NameU="Manager sign files" PromptU="Manager sign files" Name="Dateien unterschreiben" Prompt="Dateien unterschreiben"/>
+	<Elem NameU="Discuss" PromptU="Discuss" Name="Diskutieren" Prompt="Diskutieren"/>
+	<Elem NameU="Negotiation" PromptU="Negotiation" Name="Verhandlung" Prompt="Verhandlung"/>
+	<Elem NameU="Awards ceremony" PromptU="Awards ceremony" Name="Preisverleihung" Prompt="Preisverleihung"/>
+	<Elem NameU="Globalization" PromptU="Globalization" Name="Globalisierung" Prompt="Globalisierung"/>
+	<Elem NameU="Reception" PromptU="Reception" Name="Rezeption" Prompt="Rezeption"/>
+	<Elem NameU="Video conference" PromptU="Video conference" Name="Videokonferenz" Prompt="Videokonferenz"/>
+	<Elem NameU="Three people meeting" PromptU="Three people meeting" Name="Treffen mit drei Leuten" Prompt="Treffen mit drei Leuten"/>
+	<Elem NameU="Two people discuss" PromptU="Two people discuss" Name="Zwei Leute diskutieren" Prompt="Zwei Leute diskutieren"/>
+	<Elem NameU="Training" PromptU="Training" Name="Training" Prompt="Training"/>
+	<Elem NameU="Report work" PromptU="Report work" Name="Berichtsarbeit" Prompt="Berichtsarbeit"/>
+	<Elem NameU="Sign contract" PromptU="Sign contract" Name="Unterschreibe den Vertrag" Prompt="Unterschreibe den Vertrag"/>
+	<Elem NameU="Group meeting" PromptU="Group meeting" Name="Gruppentreffen" Prompt="Gruppentreffen"/>
+	<Elem NameU="Payment" PromptU="Payment" Name="Zahlung" Prompt="Zahlung"/>
+	<Elem NameU="Secretary" PromptU="Secretary" Name="Sekretariat" Prompt="Sekretariat"/>
+	<Elem NameU="Timing" PromptU="Timing" Name="Timing" Prompt="Timing"/>
+	<Elem NameU="New idea 1" PromptU="New idea 1" Name="Neue Idee 1" Prompt="Neue Idee 1"/>
+	<Elem NameU="The horn propaganda" PromptU="The horn propaganda" Name="Die Hornpropaganda" Prompt="Die Hornpropaganda"/>
+	<Elem NameU="New idea 2" PromptU="New idea 2" Name="Neue Idee 2" Prompt="Neue Idee 2"/>
+	<Elem NameU="Reporting" PromptU="Reporting" Name="Berichterstattung" Prompt="Berichterstattung"/>
+	<Elem NameU="New idea 3" PromptU="New idea 3" Name="Neue Idee 3" Prompt="Neue Idee 3"/>
+	<Elem NameU="Presentation" PromptU="Presentation" Name="Präsentation" Prompt="Präsentation"/>
+	<Elem NameU="New idea 4" PromptU="New idea 4" Name="Neue Idee 4" Prompt="Neue Idee 4"/>
+	<Elem NameU="Goal Setting" PromptU="Goal Setting" Name="Ziele setzen" Prompt="Ziele setzen"/>
+	<Elem NameU="Checking" PromptU="Checking" Name="Überprüfung" Prompt="Überprüfung"/>
+	<Elem NameU="Shopping" PromptU="Shopping" Name="Einkaufen" Prompt="Einkaufen"/>
+	<Elem NameU="Deadline" PromptU="Deadline" Name="Frist" Prompt="Frist"/>
+	<Elem NameU="Purchase" PromptU="Purchase" Name="Kaufen" Prompt="Kaufen"/>
+	<Elem NameU="Make Profit" PromptU="Make Profit" Name="Profit machen" Prompt="Profit machen"/>
+	<Elem NameU="Pathway" PromptU="Pathway" Name="Pfad" Prompt="Pfad"/>
+	<Elem NameU="Unemployment" PromptU="Unemployment" Name="Arbeitslosigkeit" Prompt="Arbeitslosigkeit"/>
+	<Elem NameU="Ride a bike" PromptU="Ride a bike" Name="Fahrrad fahren" Prompt="Fahrrad fahren"/>
+	<Elem NameU="Business Trip" PromptU="Business Trip" Name="Geschäftsreise" Prompt="Geschäftsreise"/>
+	<Elem NameU="Coffee time" PromptU="Coffee time" Name="Kaffeezeit" Prompt="Kaffeezeit"/>
+	<Elem NameU="By train" PromptU="By train" Name="Im Zug" Prompt="Im Zug"/>
+	<Elem NameU="By Bus" PromptU="By Bus" Name="Im Bus" Prompt="Im Bus"/>
+	<Elem NameU="By airplane" PromptU="By airplane" Name="Im Flugzeug" Prompt="Im Flugzeug"/>
+	<Elem NameU="Firm Framework 1" PromptU="Firm Framework 1" Name="Firma Struktur 1" Prompt="Firma Struktur 1"/>
+	<Elem NameU="Firm Framework 2" PromptU="Firm Framework 2" Name="Firma Struktur 2" Prompt="Firma Struktur 2"/>
+	<Elem NameU="Firm Framework 3" PromptU="Firm Framework 3" Name="Firma Struktur 3" Prompt="Firma Struktur 3"/>
+	<Elem NameU="Firm Framework 4" PromptU="Firm Framework 4" Name="Firma Struktur 4" Prompt="Firma Struktur 4"/>
+	<Elem NameU="Firm Framework 5" PromptU="Firm Framework 5" Name="Firma Struktur 5" Prompt="Firma Struktur 5"/>
+	<Elem NameU="Firm Framework 6" PromptU="Firm Framework 6" Name="Firma Struktur 6" Prompt="Firma Struktur 6"/>
+	<Elem NameU="Firm Framework 7" PromptU="Firm Framework 7" Name="Firma Struktur 7" Prompt="Firma Struktur 7"/>
+	<Elem NameU="Firm Framework 8" PromptU="Firm Framework 8" Name="Firma Struktur 8" Prompt="Firma Struktur 8"/>
+</Lib>

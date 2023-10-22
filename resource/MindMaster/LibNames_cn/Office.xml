@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Office">
+    <Elem NameU="Pencil Vase" Name="笔筒" PromptU="Pencil Vase" Prompt="笔筒"/>
+    <Elem NameU="Pen" Name="钢笔" PromptU="Pen" Prompt="钢笔"/>
+    <Elem NameU="Table Lamp" Name="桌上台灯" PromptU="Table Lamp" Prompt="桌上台灯"/>
+    <Elem NameU="Globe" Name="地球仪" PromptU="Globe" Prompt="地球仪"/>
+    <Elem NameU="Office Chair" Name="办公椅" PromptU="Office Chair" Prompt="办公椅"/>
+    <Elem NameU="Hourglass" Name="沙漏" PromptU="Hourglass" Prompt="沙漏"/>
+    <Elem NameU="Briefcase 1" Name="公文包1" PromptU="Briefcase 1" Prompt="公文包1"/>
+    <Elem NameU="Briefcase 2" Name="公文包2" PromptU="Briefcase 2" Prompt="公文包2"/>
+    <Elem NameU="Briefcase 3" Name="公文包1" PromptU="Briefcase 3" Prompt="公文包3"/>
+    <Elem NameU="Calculator 1" Name="计算器1" PromptU="Calculator 1" Prompt="计算器1"/>
+    <Elem NameU="Calculator 2" Name="计算器2" PromptU="Calculator 2" Prompt="计算器2"/>
+    <Elem NameU="Employee's Card" Name="员工工牌" PromptU="Employee's Card" Prompt="员工工牌"/>
+    <Elem NameU="Folder" Name="文件夹" PromptU="Folder" Prompt="文件夹"/>
+    <Elem NameU="Notebook 1" Name="笔记本1" PromptU="Notebook 1" Prompt="笔记本1"/>
+    <Elem NameU="Notebook 2" Name="笔记本2" PromptU="Notebook 2" Prompt="笔记本2"/>
+    <Elem NameU="Notebook 3" Name="笔记本3" PromptU="Notebook 3" Prompt="笔记本3"/>
+    <Elem NameU="Notebook 4" Name="笔记本4" PromptU="Notebook 4" Prompt="笔记本4"/>
+    <Elem NameU="Calendar 1" Name="日历1" PromptU="Calendar 1" Prompt="日历1"/>
+    <Elem NameU="Calendar 2" Name="日历2" PromptU="Calendar 2" Prompt="日历2"/>
+    <Elem NameU="Calendar 3" Name="日历3" PromptU="Calendar 3" Prompt="日历3"/>
+    <Elem NameU="Calendar 4" Name="日历4" PromptU="Calendar 4" Prompt="日历4"/>
+    <Elem NameU="Documents Pouch" Name="文件袋" PromptU="Documents Pouch" Prompt="文件袋"/>
+    <Elem NameU="Address Book" Name="通讯录" PromptU="Address Book" Prompt="通讯录"/>
+    <Elem NameU="Printer" Name="打印机" PromptU="Printer" Prompt="打印机"/>
+    <Elem NameU="USB" Name="U盘" PromptU="USB" Prompt="USB"/>
+    <Elem NameU="Screen" Name="屏幕" PromptU="Screen" Prompt="屏幕"/>
+    <Elem NameU="Router" Name="路由器" PromptU="Router" Prompt="路由器"/>
+    <Elem NameU="Cellphone" Name="手机" PromptU="Cellphone" Prompt="手机"/>
+    <Elem NameU="Phone" Name="电话" PromptU="Phone" Prompt="电话"/>
+    <Elem NameU="Note Board" Name="布告栏" PromptU="Note Board" Prompt="布告栏"/>
+    <Elem NameU="Scissors" Name="剪刀" PromptU="Scissors" Prompt="剪刀"/>
+    <Elem NameU="Ruler" Name="尺子" PromptU="Ruler" Prompt="尺子"/>
+    <Elem NameU="Pencil Sharpener" Name="卷笔刀" PromptU="Pencil Sharpener" Prompt="卷笔刀"/>
+    <Elem NameU="Magnifying Glass" Name="放大镜" PromptU="Magnifying Glass" Prompt="放大镜"/>
+    <Elem NameU="Envelope 1" Name="信封1" PromptU="Envelope 1" Prompt="信封1"/>
+    <Elem NameU="Envelope 2" Name="信封2" PromptU="Envelope 2" Prompt="信封2"/>
+    <Elem NameU="Seal" Name="印章" PromptU="Seal" Prompt="印章"/>
+    <Elem NameU="Clock 1" Name="时钟1" PromptU="Clock 1" Prompt="时钟1"/>
+    <Elem NameU="Clock 2" Name="时钟2" PromptU="Clock 2" Prompt="时钟2"/>
+    <Elem NameU="Stopwatch" Name="秒表" PromptU="Stopwatch" Prompt="秒表"/>
+    <Elem NameU="Bank Card" Name="银行卡" PromptU="Bank Card" Prompt="银行卡"/>
+    <Elem NameU="Safe Box" Name="保险箱" PromptU="Safe Box" Prompt="保险箱"/>
+    <Elem NameU="Folder" Name="文件夹" PromptU="Folder" Prompt="文件夹"/>
+    <Elem NameU="Coffee Cup" Name="咖啡杯" PromptU="Coffee Cup" Prompt="咖啡杯"/>
+    <Elem NameU="Coffee" Name="咖啡" PromptU="Coffee" Prompt="咖啡"/>
+    <Elem NameU="Report" Name="报告" PromptU="Report" Prompt="报告"/>
+    <Elem NameU="Information" Name="信息" PromptU="Information" Prompt="信息"/>
+    <Elem NameU="Drawing pin" Name="图钉" PromptU="Drawing pin" Prompt="图钉"/>
+    <Elem NameU="Headset" Name="头戴式耳机" PromptU="Headset" Prompt="头戴式耳机"/>
+    <Elem NameU="Webcam" Name="网络摄像机" PromptU="Webcam" Prompt="网络摄像机"/>
+    <Elem NameU="Newspaper" Name="报纸" PromptU="Newspaper" Prompt="报纸"/>
+    <Elem NameU="iPad" Name="苹果平板电脑" PromptU="iPad" Prompt="苹果平板电脑"/>
+    <Elem NameU="Laptop" Name="笔记本电脑" PromptU="Laptop" Prompt="笔记本电脑"/>
+    <Elem NameU="Desktop" Name="桌面" PromptU="Desktop" Prompt="桌面"/>
+    <Elem NameU="Pencil" Name="铅笔" PromptU="Pencil" Prompt="铅笔"/>
+    <Elem NameU="Desk" Name="桌子" PromptU="Desk" Prompt="桌子"/>
+    <Elem NameU="Cabinet" Name="储物柜" PromptU="Cabinet" Prompt="储物柜"/>
+</Lib>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Electronics">
+    <Elem NameU="PC 1" Name="PC 1" PromptU="PC 1" Prompt="PC 1"/>
+    <Elem NameU="Laptop 1" Name="Ordinateur portable 1" PromptU="Laptop 1" Prompt="Ordinateur portable 1"/>
+    <Elem NameU="PC 2" Name="PC 2" PromptU="PC 2" Prompt="PC 2"/>
+    <Elem NameU="PC 3" Name="PC 3" PromptU="PC 3" Prompt="PC 3"/>
+    <Elem NameU="Desktop 1" Name="Ordinateur de bureau 1" PromptU="Desktop 1" Prompt="Ordinateur de bureau 1"/>
+    <Elem NameU="Desktop 2" Name="Ordinateur de bureau 2" PromptU="Desktop 2" Prompt="Ordinateur de bureau 2"/>
+    <Elem NameU="Laptop 2" Name="Ordinateur portable 2" PromptU="Laptop 2" Prompt="Ordinateur portable 2"/>
+    <Elem NameU="Laptop 3" Name="Ordinateur portable 3" PromptU="Laptop 3" Prompt="Ordinateur portable 3"/>
+    <Elem NameU="LCD TV" Name="TV LCD" PromptU="LCD TV" Prompt="TV LCD"/>
+    <Elem NameU="iMAC" Name="iMAC" PromptU="iMAC" Prompt="iMAC"/>
+    <Elem NameU="iPad" Name="iPad" PromptU="iPad" Prompt="iPad"/>
+    <Elem NameU="Mobile" Name="Mobile" PromptU="Mobile" Prompt="Mobile"/>
+    <Elem NameU="iWatch" Name="iWatch" PromptU="iWatch" Prompt="iWatch"/>
+    <Elem NameU="Microsoft Band 1" Name="Microsoft Band 1" PromptU="Microsoft Band 1" Prompt="Microsoft Band 1"/>
+    <Elem NameU="Microsoft Band 2" Name="Microsoft Band 2" PromptU="Microsoft Band 2" Prompt="Microsoft Band 2"/>
+    <Elem NameU="Microsoft Band 3" Name="Microsoft Band 3" PromptU="Microsoft Band 3" Prompt="Microsoft Band 3"/>
+    <Elem NameU="VR Glasses 1" Name="Lunettes VR 1" PromptU="VR Glasses 1" Prompt="Lunettes VR 1"/>
+    <Elem NameU="VR Glasses 2" Name="Lunettes VR 2" PromptU="VR Glasses 2" Prompt="Lunettes VR 2"/>
+    <Elem NameU="VR Glasses 3" Name="Lunettes VR 3" PromptU="VR Glasses 3" Prompt="Lunettes VR 3"/>
+    <Elem NameU="Server" Name="Serveur" PromptU="Server" Prompt="Serveur"/>
+    <Elem NameU="Mainframe" Name="Unité centrale" PromptU="Mainframe" Prompt="Unité centrale"/>
+    <Elem NameU="Switch" Name="Commutateur" PromptU="Switch" Prompt="Commutateur"/>
+    <Elem NameU="Fax Machine" Name="Télécopieur" PromptU="Fax Machine" Prompt="Télécopieur"/>
+    <Elem NameU="Scanner" Name="Scanner" PromptU="Scanner" Prompt="Scanner"/>
+    <Elem NameU="Printer" Name="Imprimante" PromptU="Printer" Prompt="Imprimante"/>
+    <Elem NameU="Drone 1" Name="Drone 1" PromptU="Drone 1" Prompt="Drone 1"/>
+    <Elem NameU="Drone 2" Name="Drone 2" PromptU="Drone 2" Prompt="Drone 2"/>
+    <Elem NameU="Camera" Name="Caméra" PromptU="Camera" Prompt="Caméra"/>
+    <Elem NameU="Dome Camera" Name="Caméra dôme" PromptU="Dome Camera" Prompt="Caméra dôme"/>
+    <Elem NameU="Microphone" Name="Microphone" PromptU="Microphone" Prompt="Microphone"/>
+    <Elem NameU="Mouse" Name="Souris" PromptU="Mouse" Prompt="Souris"/>
+    <Elem NameU="Wireless Mouse" Name="Souris sans fil" PromptU="Wireless Mouse" Prompt="Souris sans fil"/>
+    <Elem NameU="Floppy" Name="Souple" PromptU="Floppy" Prompt="Souple"/>
+    <Elem NameU="Loudspeaker" Name="Haut-parleur" PromptU="Loudspeaker" Prompt="Haut-parleur"/>
+    <Elem NameU="iPod" Name="iPod" PromptU="iPod" Prompt="iPod"/>
+    <Elem NameU="Wacom" Name="Wacom" PromptU="Wacom" Prompt="Wacom"/>
+    <Elem NameU="U-disk" Name="Disque U" PromptU="U-disk" Prompt="Disque U"/>
+    <Elem NameU="White Board" Name="Tableau blanc" PromptU="White Board" Prompt="Tableau blanc"/>
+    <Elem NameU="Projector 1" Name="Projecteur 1" PromptU="Projector 1" Prompt="Projecteur 1"/>
+    <Elem NameU="Projector 2" Name="Projecteur 2" PromptU="Projector 2" Prompt="Projecteur 2"/>
+    <Elem NameU="Router" Name="Routeur" PromptU="Router" Prompt="Routeur"/>
+    <Elem NameU="Camera 1" Name="Caméra 1" PromptU="Camera 1" Prompt="Caméra 1"/>
+    <Elem NameU="Camera 2" Name="Caméra 2" PromptU="Camera 2" Prompt="Caméra 2"/>
+    <Elem NameU="Machine" Name="Machine" PromptU="Machine" Prompt="Machine"/>
+    <Elem NameU="Phone" Name="Téléphone" PromptU="Phone" Prompt="Téléphone"/>
+    <Elem NameU="User" Name="Utilisateur" PromptU="User" Prompt="Utilisateur"/>
+    <Elem NameU="Organizational chart" Name="Organigramme" PromptU="Organizational chart" Prompt="Organigramme"/>
+    <Elem NameU="Cloud 1" Name="Cloud 1" PromptU="Cloud 1" Prompt="Cloud 1"/>
+    <Elem NameU="Cloud 2" Name="Cloud 2" PromptU="Cloud 2" Prompt="Cloud 2"/>
+    <Elem NameU="Lock" Name="Verrouiller" PromptU="Lock" Prompt="Verrouiller"/>
+    <Elem NameU="Link" Name="Lien" PromptU="Link" Prompt="Lien"/>
+    <Elem NameU="Search" Name="Chercher" PromptU="Search" Prompt="Chercher"/>
+    <Elem NameU="Gear 1" Name="Engrenage 1" PromptU="Gear 1" Prompt="Engrenage 1"/>
+    <Elem NameU="Gear 2" Name="Engrenage 2" PromptU="Gear 2" Prompt="Engrenage 2"/>
+    <Elem NameU="Gear 3" Name="Engrenage 3" PromptU="Gear 3" Prompt="Engrenage 3"/>
+    <Elem NameU="Gear 4" Name="Engrenage 4" PromptU="Gear 4" Prompt="Engrenage 4"/>
+</Lib>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Insect">
+    <Elem NameU="Beetles 1" Name="Clamoiselle 1" PromptU="Beetles 1" Prompt="Clamoiselle  1"/>
+    <Elem NameU="Beetles 2" Name="Clamoiselle 2" PromptU="Beetles 2" Prompt="Clamoiselle  2"/>
+    <Elem NameU="Beetles 3" Name="Clamoiselle 3" PromptU="Beetles 3" Prompt="Clamoiselle  3"/>
+    <Elem NameU="Mantis" Name="Mante" PromptU="Mantis" Prompt="Mante"/>
+    <Elem NameU="Fly" Name="Mouche" PromptU="Fly" Prompt="Mouche"/>
+    <Elem NameU="Bees 1" Name="Abeilles 1" PromptU="Bees 1" Prompt="Abeilles 1"/>
+    <Elem NameU="Bees 2" Name="Abeilles 2" PromptU="Bees 2" Prompt="Abeilles 2"/>
+    <Elem NameU="Caterpillar" Name="Chenille" PromptU="Caterpillar" Prompt="Chenille"/>
+    <Elem NameU="Butterfly 1" Name="Papillon 1" PromptU="Butterfly 1" Prompt="Papillon 1"/>
+    <Elem NameU="Butterfly 2" Name="Papillon 2" PromptU="Butterfly 2" Prompt="Papillon 2"/>
+    <Elem NameU="Butterfly 3" Name="Papillon 3" PromptU="Butterfly 3" Prompt="Papillon 3"/>
+    <Elem NameU="Dragonfly" Name="Libellule" PromptU="Dragonfly" Prompt="Libellule"/>
+    <Elem NameU="Glowworm" Name="Ver luisant" PromptU="Glowworm" Prompt="Ver luisant"/>
+    <Elem NameU="Snail" Name="Escargot" PromptU="Snail" Prompt="Escargot"/>
+    <Elem NameU="Scorpion" Name="Scorpion" PromptU="Scorpion" Prompt="Scorpion"/>
+    <Elem NameU="Grasshopper" Name="Sauterelle" PromptU="Grasshopper" Prompt="Sauterelle"/>
+    <Elem NameU="Cicada" Name="Cigale" PromptU="Cicada" Prompt="Cigale"/>
+    <Elem NameU="Earthworm 1" Name="Ver de terre 1" PromptU="Earthworm 1" Prompt="Ver de terre 1"/>
+    <Elem NameU="Earthworm 2" Name="Ver de terre 2" PromptU="Earthworm 2" Prompt="Ver de terre 2"/>
+    <Elem NameU="Spider" Name="Araignée" PromptU="Spider" Prompt="Araignée"/>
+    <Elem NameU="Ant 2" Name="Fourmi 2" PromptU="Ant 2" Prompt="Fourmi 2"/>
+    <Elem NameU="Ant 1" Name="Fourmi 1" PromptU="Ant 1" Prompt="Fourmi 1"/>
+    <Elem NameU="Mosquito" Name="Moustique" PromptU="Mosquito" Prompt="Moustique"/>
+    <Elem NameU="Moth" Name="Hétérocères" PromptU="Moth" Prompt="Hétérocères"/>
+    <Elem NameU="Cockroach" Name="Cafard" PromptU="Cockroach" Prompt="Cafard"/>
+    <Elem NameU="Lucanidae" Name="Lucanidae" PromptU="Lucanidae" Prompt="Lucanidae"/>
+    <Elem NameU="Bright red hsu qingsong" Name="Saperde" PromptU="Bright red hsu qingsong" Prompt="Saperde"/>
+</Lib>

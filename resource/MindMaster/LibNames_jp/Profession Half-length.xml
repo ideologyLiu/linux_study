@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Profession Half-length">
+    <Elem NameU="CEO" Name="CEO" PromptU="CEO" Prompt="CEO"/>
+    <Elem NameU="Customer Service" Name="顧客サービス" PromptU="Customer Service" Prompt="顧客サービス"/>
+    <Elem NameU="Programmer" Name="プログラマー" PromptU="Programmer" Prompt="プログラマー"/>
+    <Elem NameU="Male  Employee" Name="男性従業員" PromptU="Male  Employee" Prompt="男性従業員"/>
+    <Elem NameU="Female  Employee" Name="女性従業員" PromptU="Female  Employee" Prompt="女性従業員"/>
+    <Elem NameU="Boy Student" Name="男子学生" PromptU="Boy Student" Prompt="男子学生"/>
+    <Elem NameU="Girl Student" Name="女子学生" PromptU="Girl Student" Prompt="女子学生"/>
+    <Elem NameU="Male Teacher" Name="男性教師" PromptU="Male Teacher" Prompt="男性教師"/>
+    <Elem NameU="Female Teacher" Name="女性教師" PromptU="Female Teacher" Prompt="女性教師"/>
+    <Elem NameU="Policeman" Name="警察官" PromptU="Policeman" Prompt="警察官"/>
+    <Elem NameU="Policewoman" Name="女性警察官" PromptU="Policewoman" Prompt="女性警察官"/>
+    <Elem NameU="Air Hostess" Name="スチュワーデス" PromptU="Air Hostess" Prompt="スチュワーデス"/>
+    <Elem NameU="Detective" Name="探偵" PromptU="Detective" Prompt="探偵"/>
+    <Elem NameU="Architect" Name="建築家" PromptU="Architect" Prompt="建築家"/>
+    <Elem NameU="Chef" Name="シェフ" PromptU="Chef" Prompt="シェフ"/>
+    <Elem NameU="Salesperson" Name="営業担当者" PromptU="Salesperson" Prompt="営業担当者"/>
+    <Elem NameU="Female Doctor" Name="女性医師" PromptU="Female Doctor" Prompt="女性医師"/>
+    <Elem NameU="Male Doctor" Name="男性医師" PromptU="Male Doctor" Prompt="男性医師"/>
+    <Elem NameU="Nurse 1" Name="看護士 1" PromptU="Nurse 1" Prompt="看護士 1"/>
+    <Elem NameU="Nurse 2" Name="看護士 2" PromptU="Nurse 2" Prompt="看護士 2"/>
+    <Elem NameU="Nurse 3" Name="看護士 3" PromptU="Nurse 3" Prompt="看護士 3"/>
+    <Elem NameU="Kindergarten Teacher" Name="幼稚園教師" PromptU="Kindergarten Teacher" Prompt="幼稚園教師"/>
+    <Elem NameU="Hair-style Designer" Name="ヘアスタイルデザイナー" PromptU="Hair-style Designer" Prompt="ヘアスタイルデザイナー"/>
+    <Elem NameU="Pilot" Name="パイロット" PromptU="Pilot" Prompt="パイロット"/>
+    <Elem NameU="Hip Hopper" Name="ヒップホッパー" PromptU="Hip Hopper" Prompt="ヒップホッパー"/>
+    <Elem NameU="Referee" Name="審判員" PromptU="Referee" Prompt="審判員"/>
+    <Elem NameU="Painter" Name="画家" PromptU="Painter" Prompt="画家"/>
+    <Elem NameU="Professor" Name="教授" PromptU="Professor" Prompt="教授"/>
+    <Elem NameU="Santa Claus" Name="サンタクロース" PromptU="Santa Claus" Prompt="サンタクロース"/>
+    <Elem NameU="Mother" Name="主婦" PromptU="Mother" Prompt="主婦"/>
+    <Elem NameU="Blind Person" Name="盲人" PromptU="Blind Person" Prompt="盲人"/>
+    <Elem NameU="Female Graduate" Name="女子卒業生" PromptU="Female Graduate" Prompt="女子卒業生"/>
+    <Elem NameU="Priest" Name="牧師" PromptU="Priest" Prompt="牧師"/>
+    <Elem NameU="Lawyer" Name="弁護士" PromptU="Lawyer" Prompt="弁護士"/>
+    <Elem NameU="Male Graduate" Name="男子卒業生" PromptU="Male Graduate" Prompt="男子卒業生"/>
+    <Elem NameU="Businessman 1" Name="ビジネスマン 1" PromptU="Businessman 1" Prompt="ビジネスマン 1"/>
+    <Elem NameU="Businessman 2" Name="ビジネスマン 2" PromptU="Businessman 2" Prompt="ビジネスマン 2"/>
+    <Elem NameU="Manager" Name="マネージャー" PromptU="Manager" Prompt="マネージャー"/>
+    <Elem NameU="Office woman" Name="OL" PromptU="Office woman" Prompt="OL"/>
+    <Elem NameU="Assistant" Name="アシスタント" PromptU="Assistant" Prompt="アシスタント"/>
+    <Elem NameU="Secretary" Name="秘書" PromptU="Secretary" Prompt="秘書"/>
+    <Elem NameU="Salesman" Name="セールスマン" PromptU="Salesman" Prompt="セールスマン"/>
+    <Elem NameU="Support" Name="顧客サービス" PromptU="Support" Prompt="顧客サービス"/>
+    <Elem NameU="Pupil 1" Name="生徒 1" PromptU="Pupil 1" Prompt="生徒 1"/>
+    <Elem NameU="Pupil 2" Name="生徒 2" PromptU="Pupil 2" Prompt="生徒 2"/>
+    <Elem NameU="Teacher" Name="教師" PromptU="Teacher" Prompt="教師"/>
+    <Elem NameU="Dentist" Name="歯科医" PromptU="Dentist" Prompt="歯科医"/>
+    <Elem NameU="Hairstylist" Name="ヘアスタイリスト" PromptU="Hairstylist" Prompt="ヘアスタイリスト"/>
+    <Elem NameU="Engineer" Name="エンジニア" PromptU="Engineer" Prompt="エンジニア"/>
+    <Elem NameU="Worker" Name="建築労働者" PromptU="Worker" Prompt="建築労働者"/>
+    <Elem NameU="Builder" Name="建築労働者" PromptU="Builder" Prompt="建築労働者"/>
+    <Elem NameU="Fireman" Name="消防士" PromptU="Fireman" Prompt="消防士"/>
+    <Elem NameU="Electric welding" Name="アーク溶接者" PromptU="Electric welding" Prompt="アーク溶接者"/>
+    <Elem NameU="Express" Name="速達郵便" PromptU="Express" Prompt="速達郵便"/>
+    <Elem NameU="Postman" Name="郵便配達員" PromptU="Postman" Prompt="郵便配達員"/>
+    <Elem NameU="Typist" Name="タイピスト" PromptU="Typist" Prompt="タイピスト"/>
+    <Elem NameU="Cashier" Name="キャッシャー" PromptU="Cashier" Prompt="キャッシャー"/>
+    <Elem NameU="Policewoman 2" Name="女性警察官 2" PromptU="Policewoman 2" Prompt="女性警察官 2"/>
+    <Elem NameU="Air Hostess 2" Name="スチュワーデス 2" PromptU="Air Hostess 2" Prompt="スチュワーデス 2"/>
+    <Elem NameU="Air Hostess 3" Name="スチュワーデス 3" PromptU="Air Hostess 3" Prompt="スチュワーデス 3"/>
+    <Elem NameU="Sommelier" Name="ソムリエ" PromptU="Sommelier" Prompt="ソムリエ"/>
+    <Elem NameU="Female Staff/User" Name="女性スタッフ/ユーザー" PromptU="Female Staff/User" Prompt="女性スタッフ/ユーザー"/>
+    <Elem NameU="Security personnel" Name="警備員" PromptU="Security personnel" Prompt="警備員"/>
+    <Elem NameU="Travelers" Name="旅行者" PromptU="Travelers" Prompt="旅行者"/>
+    <Elem NameU="Terrorist" Name="テロリスト" PromptU="Terrorist" Prompt="テロリスト"/>
+    <Elem NameU="Coach" Name="コーチ" PromptU="Coach" Prompt="コーチ"/>
+    <Elem NameU="Basketball player" Name="バスケットボール選手" PromptU="Basketball player" Prompt="バスケットボール選手"/>
+    <Elem NameU="Footballer" Name="フットボール選手" PromptU="Footballer" Prompt="フットボール選手"/>
+    <Elem NameU="Booter" Name="フェンサー" PromptU="Booter" Prompt="フェンサー"/>
+    <Elem NameU="Girl 1" Name="女の子 1" PromptU="Girl 1" Prompt="女の子 1"/>
+    <Elem NameU="Boy 1" Name="男の子 1" PromptU="Boy 1" Prompt="男の子 1"/>
+    <Elem NameU="Girl 2" Name="女の子 2" PromptU="Girl 2" Prompt="女の子 2"/>
+    <Elem NameU="Boy 2" Name="男の子 2" PromptU="Boy 2" Prompt="男の子 2"/>
+</Lib>
