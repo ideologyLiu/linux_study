@@ -1,0 +1,3 @@
+FILE_TWOS = $(wildcard $(FIlE_TWO)/*.c $(FIlE_TWO)/*.cpp)
+
+SOURCE += $(FILE_TWOS)

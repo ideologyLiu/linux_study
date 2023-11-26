@@ -1,0 +1,20 @@
+打包：
+	1、用源文件生成目标文件（.o文件）时需要携带-fPIC选项： gcc -shared -o libcal.so add.o sub.o
+	2、生成动态库时我们不必使用ar命令，我们只需使用gcc的-shared选项即可：gcc -shared -o libcal.so add.o sub.o
+
+
+静态库动态库使用区别：
+	动态库和静态库在使用时有区别，动态库采用静态库使用的方式生成的文件不能直接执行。
+	(gcc 编译文件 -o 生成文件 -I头文件路径 -L库路径 -l库名称(库名称省了lib)) 
+	解决方法：
+		方法一：拷贝.so文件到系统共享库路径下 (本机的共享路径时/lib目录下)
+		方法二：更改LD_LIBRARY_PATH
+			LD_LIBRARY_PATH是程序运行动态查找库时所要搜索的路径，我们只需将动态库所在的目录路径添加到LD_LIBRARY_PATH环境变量当中即可。
+			[cl@VM-0-15-centos project]$ export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/cl/BasicIO/testlib/project/mlib/lib
+
+		方法三：配置/etc/ld.so.conf.d/ （需要使用ldconfig命令将配置文件更新才能正常使用）
+			首先将库文件所在目录的路径存入一个以.conf为后缀的文件当中。
+			然后将该.conf文件拷贝到/etc/ld.so.conf.d/目录下。
+			ldconfig命令将配置文件更新一下
+其他：
+	可以使用ldd命令查看可执行程序
