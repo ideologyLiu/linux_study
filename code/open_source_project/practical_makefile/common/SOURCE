@@ -1,0 +1,2 @@
+SOURCES += $(wildcard common/*.c)
+#SOURCES += common/function.c
